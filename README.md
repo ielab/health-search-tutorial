@@ -18,7 +18,7 @@ With modern medicine increasingly reliant on information technology, the demand 
 
 The range of health information available - from electronic medical records, to medical literature, to health advice on the web - all leads to complex requirements that often require novel solutions to these different problems.
 
-The key challenge in health search is how to bridge the \emph{sematic gap}: the mismatch between the raw data and the way a human being interprets it. Although particularly prevalent in health search, the semantic gap problem is found in all domains~\cite{allan2012a}; advances in health search can thus advance the whole field. 
+The key challenge in health search is how to bridge the *sematic gap*: the mismatch between the raw data and the way a human being interprets it. Although particularly prevalent in health search, the semantic gap problem is found in all domains; advances in health search can thus advance the whole field. 
 
 Key challenges include:
 
@@ -107,7 +107,7 @@ Guido received a Ph.D. in Computing Science from the University of Glasgow in 20
 ###Bevan Koopman
 Bevan is a Research Scientist at the Australian e-Health Research Centre, part of the Commonwealth Science and Industrial Research Organisation (CSIRO), based in Brisbane, Australia. He leads projects dedicated to health search, that is the research and development of novel search engine technology to improve access, retrieval and analysis of different health data. He is working on search engines for electronic patient records and search engines for evidence-based medicine. This work is done at intersection of academic research and applied research with real customers. 
 
-He received a PhD from the Queensland University of Technology in 2014 with a thesis titled \emph{Semantic search as inference: applications in health informatics} and holds a visiting researcher position at that university. He also spent a number of years in industry and will therefore provide both an academic and commercial expertise to this tutorial.
+He received a PhD from the Queensland University of Technology in 2014 with a thesis titled *Semantic search as inference: applications in health informatics* and holds a visiting researcher position at that university. He also spent a number of years in industry and will therefore provide both an academic and commercial expertise to this tutorial.
 
 
 ## Type of support materials to be supplied to attendees
