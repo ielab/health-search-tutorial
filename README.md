@@ -31,7 +31,7 @@ Key challenges include:
 
 The main aims of HS2017 will be to:
 
-1. Summarise the basics of search in the health domain;
+* Summarise the basics of search in the health domain;
 * Present the different end user requirements for multiple user groups interested in health search, including tasks;
 * Provide an overview of the current use of IR techniques in the health domain;
 * Provide a hands-on introduction to domain-specific tools which can be exploited in health search;
@@ -114,6 +114,6 @@ He received a PhD from the Queensland University of Technology in 2014 with a th
 
 The tutorial will include:
 
-1. Slides and the corresponding hand-outs
+* Slides and the corresponding hand-outs
 * An annotated bibliography of important works in health search
 * A virtual machine distribution and/or Git repository containing software and example programs that will be demonstrated in the hands-on session.
