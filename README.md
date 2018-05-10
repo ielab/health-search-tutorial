@@ -74,7 +74,7 @@ This session will cover methods across different health search tasks, including:
 
 *Duration: 90m*
 
-###Session 3: Practical
+### Session 3: Practical
 
 #### Use of clinical NLP tools for medical IR: Hands-on session}% Hands-on session on tools for medical IR
 
@@ -85,16 +85,16 @@ This part of the tutorial presents an overview of such techniques, providing a h
 
 *Duration: 90m*
 
-###Session 4: Evaluation and future directions
+### Session 4: Evaluation and future directions
 
-####Evaluation
+#### Evaluation
 
 The tasks and challenges in evaluating health search are covered in this section. Evaluation that considers multiple dimensions of relevance (topicality, reliability, understandability, bias) is presented.  We touch on new frameworks to evaluate systems based on task completion rather than relevance. Evaluation campaigns and resources in this domain are presented, including TREC Medical Records Track, TREC Clinical Decision Support Track, CLEF eHealth (consumer health search and as of 2018 search systems for the compilation of systematic reviews), i2b2 Shared Task Challenges, ALTA Shared Task (Query-based summarisation for evidence-based medicine), clinical trial retrieval, and the use of ICD coded data as an automated relevance judgement mechanism.
 
 
 *Duration: 50m*
 
-####Open challenges for health search and conclusions (including discussion)
+#### Open challenges for health search and conclusions (including discussion)
 
 There are many open problems in health search which are fertile ground for information retrieval (IR) research. Examples include: 
 
