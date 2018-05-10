@@ -29,7 +29,7 @@ Key challenges include:
 
 ## Objectives of the Tutorial
 
-The main aims of HS2017 will be to:
+The main aims of HS2018 will be to:
 
 * Summarise the basics of search in the health domain;
 * Present the different end user requirements for multiple user groups interested in health search, including tasks;
@@ -45,8 +45,17 @@ This knowledge will allow IR researchers to identify promising ways of applying 
 
 ### Session 1: Background & Theory
 
-#### Introduction to the health domain and to the tutorialThe tutorial begins with an introduction to IR in health, giving an overview of the topics that will be covered in the tutorial and why they are important.*Duration: 15m*#### Types of health information
-Health information comes in a myriad of forms.  is section covers the characteristics of di erent types of health information sources important for health search.  ese range from patient-based information (e.g., electronic health records), knowledge-based information (e.g., scienti c papers), through to consumer-based information (e.g., patient forums on the web). Also included are sources of domain knowledge such as medical ontologies, terminologies and classi cation systems, all of which are playing an increasingly important role in state-of-the-art IR systems.*Duration: 30m*
+#### Introduction to the health domain and to the tutorial
+
+The tutorial begins with an introduction to IR in health, giving an overview of the topics that will be covered in the tutorial and why they are important.
+
+*Duration: 15m*
+
+#### Types of health information
+
+Health information comes in a myriad of forms.  is section covers the characteristics of di erent types of health information sources important for health search.  ese range from patient-based information (e.g., electronic health records), knowledge-based information (e.g., scienti c papers), through to consumer-based information (e.g., patient forums on the web). Also included are sources of domain knowledge such as medical ontologies, terminologies and classi cation systems, all of which are playing an increasingly important role in state-of-the-art IR systems.
+
+*Duration: 30m*
 
 #### End users and tasks
 An analysis of the end user (from consumer to clinician) characteristics and tasks in health search is presented. Some groups of end users are addressed, and the information needs and search tasks they undertake are described. For example, the group of ``physicians'' can be divided into groups ranging from general practitioners operating from individual practices who require practice-oriented secondary literature, through specialists in a medical domain who wish to access more specialised works in this domain, to research physicians who have an interest in the primary literature. 
@@ -80,7 +89,7 @@ This part of the tutorial presents an overview of such techniques, providing a h
 
 ####Evaluation
 
-The tasks and challenges in evaluating health search are covered in this section. Evaluation that considers multiple dimensions of relevance (topicality, reliability, understandability, bias) is presented.  We touch on new frameworks to evaluate systems based on task completion rather than relevance. Evaluation campaigns and resources in this domain are presented, including TREC Medical Records Track, TREC Clinical Decision Support Track, CLEF eHealth (consumer health search and as of 2017 search systems for the compilation of systematic reviews), i2b2 Shared Task Challenges, ALTA Shared Task (Query-based summarisation for evidence-based medicine), clinical trial retrieval, and the use of ICD coded data as an automated relevance judgement mechanism.
+The tasks and challenges in evaluating health search are covered in this section. Evaluation that considers multiple dimensions of relevance (topicality, reliability, understandability, bias) is presented.  We touch on new frameworks to evaluate systems based on task completion rather than relevance. Evaluation campaigns and resources in this domain are presented, including TREC Medical Records Track, TREC Clinical Decision Support Track, CLEF eHealth (consumer health search and as of 2018 search systems for the compilation of systematic reviews), i2b2 Shared Task Challenges, ALTA Shared Task (Query-based summarisation for evidence-based medicine), clinical trial retrieval, and the use of ICD coded data as an automated relevance judgement mechanism.
 
 
 *Duration: 50m*
@@ -97,14 +106,14 @@ There are many open problems in health search which are fertile ground for infor
 
 ## Presenters Bios
 
-###Guido Zuccon
+### Guido Zuccon
 
 Guido is a lecturer within the School of Electrical Engineering and Computing Science at the Queensland University of Technology. His research interests include formal models of search and evaluation methods, in particular applied to health search. 
 Guido has actively contributed to the areas of document ranking, search result diversification, formal models, and evaluation. Guido is the IR Task leader for the CLEF eHealth Evaluation Lab, a shared-task that aims to evaluate systems for consumer health search. He has already presented tutorials at SIGIR 2015, CIKM 2016 and ICTIR 2016 on formal models of search.
 
 Guido received a Ph.D. in Computing Science from the University of Glasgow in 2012. Before joining the Queensland University of Technology as a lecturer in 2014, he was a postdoctoral research fellow at the CSIRO, Australia, working on health search technology at intersection of academic research and applied research with real customers.
 
-###Bevan Koopman
+### Bevan Koopman
 Bevan is a Research Scientist at the Australian e-Health Research Centre, part of the Commonwealth Science and Industrial Research Organisation (CSIRO), based in Brisbane, Australia. He leads projects dedicated to health search, that is the research and development of novel search engine technology to improve access, retrieval and analysis of different health data. He is working on search engines for electronic patient records and search engines for evidence-based medicine. This work is done at intersection of academic research and applied research with real customers. 
 
 He received a PhD from the Queensland University of Technology in 2014 with a thesis titled *Semantic search as inference: applications in health informatics* and holds a visiting researcher position at that university. He also spent a number of years in industry and will therefore provide both an academic and commercial expertise to this tutorial.
