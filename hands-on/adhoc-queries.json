@@ -1,0 +1,3891 @@
+[
+    {
+        "description": "A 58-year-old African-American woman presents to the ER with episodic pressing/burning anterior chest pain that began two days earlier for the first time in her life. The pain started while she was walking, radiates to the back, and is accompanied by nausea, diaphoresis and mild dyspnea, but is not increased on inspiration. The latest episode of pain ended half an hour prior to her arrival. She is known to have hypertension and obesity. She denies smoking, diabetes, hypercholesterolemia, or a family history of heart disease. She currently takes no medications. Physical examination is normal. The EKG shows nonspecific changes.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician C"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Firstline management of new onset ACS in African-American Women",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Firstline management of new onset ACS in Women",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Firstline management of new onset ACS",
+                "order": 3,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Firstline management of new onset ACS in the obese",
+                "order": 4,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Obesity ACS",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Obesity IHD",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "ACS",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "chest pain trial",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "hypertension ACS",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Hypertension IHD",
+                "order": 6,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial Chest Pain Hypertension Obesity",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Clinical Trial Chest Pain Burning Back pain nausea sweating",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "angina beta blocker trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "angina calcium channel blocker trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "angina nitrate trial",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "stable angina beta blocker trial",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "stable angina calcium channel blocker trial",
+                "order": 6,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "stable angina nitrate trial",
+                "order": 7,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-1",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "An 8-year-old male presents in March to the ER with fever up to 39 C, dyspnea and cough for 2 days. He has just returned from a 5 day vacation in Colorado. Parents report that prior to the onset of fever and cough, he had loose stools. He denies upper respiratory tract symptoms. On examination he is in respiratory distress and has bronchial respiratory sounds on the left. A chest x-ray shows bilateral lung infiltrates.",
+        "expected": [
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "First line treatment of Colorado Tick Fever in children",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Analgesic and Antipyretic options for treatment of Colorado Tick Fever in children",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Colorado infectious disease",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Travel fever trial",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Travel diarrhoea trial",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Travel gastroenteritis",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "pnuemonia antibiotic trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "Clinical Trial Fever Cough Short of Breathe Children",
+                "order": 1,
+                "person": "Clinician C"
+            }
+        ],
+        "qId": "trec2014-2",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 58-year-old nonsmoker white female with mild exertional dyspnea and occasional cough is found to have a left lung mass on chest x-ray. She is otherwise asymptomatic. A neurologic examination is unremarkable, but a CT scan of the head shows a solitary mass in the right frontal lobe.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 25,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician C"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Metastatic brain tumours: Best Approach",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Use of surgery, radiation or chemotherapy for metastatic brain tumours",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Watchful waiting in brain tumours with unremarkable neurologic examinations",
+                "order": 3,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "frontal lobe met trial",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "lung cancer",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "undifferentiated lung mass",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "ng mass CXR",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Lung mass CXR",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "pulmonary nodule trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "solitary pulmonary nodule trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "undifferentiated lung mass trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "Clinical Trial CT Lung Mass",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Clinical Trial CT Lung Mass solitary, cough and short of breath",
+                "order": 2,
+                "person": "Clinician C"
+            }
+        ],
+        "qId": "trec2014-3",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 2-year-old boy is brought to the emergency department by his parents for 5 days of high fever and irritability. The physical exam reveals conjunctivitis, strawberry tongue, inflammation of the hands and feet, desquamation of the skin of the fingers and toes, and cervical lymphadenopathy with the smallest node at 1.5 cm. The abdominal exam demonstrates tenderness and enlarged liver. Laboratory tests report elevated alanine aminotransferase, white blood cell count of 17,580/mm, albumin 2.1 g/dL, C-reactive protein 4.5 mg, erythrocyte sedimentation rate 60 mm/h, mild normochromic, normocytic anemia, and leukocytes in urine of 20/mL with no bacteria identified. The echocardiogram shows moderate dilation of the coronary arteries with possible coronary artery aneurysm.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Scarlet Fever Child Trial",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "First-line treatment for Scarlet fever in a child",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "kawasaki disease clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "kawasaki clinical trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "kawasaki syndrome clinical trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "kawasaki IV IG clinical trial",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "Clinical Trial Child Fever conjunctivitis, Strawberry tongue, Infammed Hands Feet enlarged liver",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Clinical Trial  Fever conjunctivitis, Strawberry tongue, Infammed Hands Feet enlarged liver corpnary artery aneurysm",
+                "order": 2,
+                "person": "Clinician C"
+            }
+        ],
+        "qId": "trec2014-4",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 56-year-old female on 20th day post-left mastectomy presents to the emergency department complaining of shortness of breath and malaise. The patient says that she has remained in bed for the last two weeks. The physical examination reveals tenderness on the left upper thoracic wall and right calf. The surgical incision shows no bleeding or signs of infection. Pulmonary auscultation is significant for bilateral decreased breath sounds, especially at the right base. Laboratory tests reveal an elevated D-dimer.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "DVT trial",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Pulmonary Embolism Trial",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Post-operative VTE trial",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "DVT occurence post surgery",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "pulmonary embolus clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "post operative pulmonary embolus clinical trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "DVTPE clinical trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "pulmonary embolus heparin clinical trial",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "LMWH clinical trial",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "Clinical Trial post mastectomy Shortness of breath decreased breath sounds",
+                "order": 1,
+                "person": "Clinician C"
+            }
+        ],
+        "qId": "trec2014-5",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "64-year-old obese female with diagnosis of diabetes mellitus and persistently elevated HbA1c. She is reluctant to see a nutritionist and is not compliant with her diabetes medication or exercise. She complains of a painful skin lesion on the left lower leg. She has tried using topical lotions and creams but the lesion has increased in size and is now oozing.",
+        "expected": [
+            {
+                "expected": 100,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "type two diabetes trial",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "diabetes poor adherence trial",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "diabetes poor compliance trial",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "diabetic ulcer trial",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "diabetic ulcer clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "lower limb ulcer clinical trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "neuropathic ulcer clinical trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "ulcer dressing clinical trial",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "ulcer debridement clinical trial",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "ulcer antibiotics clinical trial",
+                "order": 6,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "hyperbaric chamber clinical trial",
+                "order": 7,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "Clinical Trial Diabetes Wound oozing not healing",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Neurogenic ulcerations in non-compliant diabetes paitents",
+                "order": 1,
+                "person": "Clinician A"
+            }
+        ],
+        "qId": "trec2014-6",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 26-year-old obese woman with a history of bipolar disorder complains that her recent struggles with her weight and eating have caused her to feel depressed. She states that she has recently had difficulty sleeping and feels excessively anxious and agitated. She also states that she has had thoughts of suicide. She often finds herself fidgety and unable to sit still for extended periods of time. Her family tells her that she is increasingly irritable. Her current medications include lithium carbonate and zolpidem.",
+        "expected": [
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 6,
+                "person": "Clinician A"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "bipolar weight gain",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "mood stabilisers weight gain",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "insomnia bipolar",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "anxiety bipolar",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "suicide bipolar",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "lithium carbonate weight gain",
+                "order": 6,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "zolpidem weight gain",
+                "order": 7,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "lithium carbonate adverse effects",
+                "order": 8,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "zolpidem adverse effects",
+                "order": 9,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "lithium carbonate anxiety",
+                "order": 10,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "zolpidem anxiety",
+                "order": 11,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "bipolar disorder trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "lithium carbonate trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "zolpidem trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "Clinical Trial Bipolar Disorder Weight agitation",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Clinical Trial Bipolar Lithium Zolpidem Agitation Depression Suicide",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Drug interactions with lithium and zolpidem",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Issues starting a new anti-depressants with lithiuim treatment",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Lithium toxicity",
+                "order": 3,
+                "person": "Clinician A"
+            }
+        ],
+        "qId": "trec2014-7",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 62-year-old man sees a neurologist for progressive memory loss and jerking movements of the lower extremities. Neurologic examination confirms severe cognitive deficits and memory dysfunction. An electroencephalogram shows generalized periodic sharp waves. Neuroimaging studies show moderately advanced cerebral atrophy. A cortical biopsy shows diffuse vacuolar changes of the gray matter with reactive astrocytosis but no inflammatory infiltration.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician C"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Creutzfeldt-Jakob disease",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "dementia memory and motor symptoms trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "atrophic dementia motor symptoms trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "lower limb spasticity dementia",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "Clinical Trial Elderly Memory Loss Jerking Movements Lower limbs cerebral atrophy",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Positive and negative prognostic factors associated with ALS",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "New technologies for treatment of ALS",
+                "order": 2,
+                "person": "Clinician A"
+            }
+        ],
+        "qId": "trec2014-8",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 43-year-old woman visits her dermatologist for lesions on her neck. On examination, multiple lesions are seen. Each lesion is small soft, and pedunculated. The largest lesion is about 4 mm in diameter. The color of different lesions varies from flesh colored to slightly hyperpigmented.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "pedunculate lesion",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "pedunculated lesion",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "skin tag clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "skin tag cryotherapy clinical trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "Clinical Trial Lesion Neck 4mm hyperpigmented multiple lesions",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Benign vs Malignant skin lesions",
+                "order": 1,
+                "person": "Clinician A"
+            }
+        ],
+        "qId": "trec2014-9",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A physician is called to see a 67-year-old woman who underwent cardiac catheterization via the right femoral artery earlier in the morning. She is now complaining of a cool right foot. Upon examination she has a pulsatile mass in her right groin with loss of distal pulses, and auscultation reveals a bruit over the point at which the right femoral artery was entered.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "femoral catheterization",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "femoral catheterisation ischemic",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial Cardiac catherisation Femoral artery cool foot",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Cinical Trial Cardiac catherisation Femoral Pulsing mass groin no pulses",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Prognositc factors for ischaemic events of the lower limb post femoral artery catheterisation",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Surgical complications associated with femroal artery catherterisation",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "arterial thrombosis clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-10",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 40-year-old woman with no past medical history presents to the ER with excruciating pain in her right arm that had started 1 hour prior to her admission. She denies trauma. On examination she is pale and in moderate discomfort, as well as tachypneic and tachycardic. Her body temperature is normal and her blood pressure is 80/60. Her right arm has no discoloration or movement limitation.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Clinical Trial Arm Pain Right",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Silent signs of myocardial infarction in women",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Signs of stress in the Emergency department",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "arm pain hemodynamic shock clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-11",
+        "queryType": "test"
+    },
+    {
+        "description": "A 25-year-old woman presents to the clinic complaining of prolonged fatigue. She denies difficulty sleeping and sleeps an average of 8 hours a night. She also notes hair loss, a change in her voice and weight gain during the previous 6 months. She complains of cold intolerance. On examination she has a prominent, soft, uniform anterior cervical mass at the midline.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Hashimoto's thyroiditis",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial Fatigue Difficult Sleep hair loss voice change weight gain",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "First line treatment for hypothyrodisim",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Genetic counselling for patients with Hashimoto's thyroiditis",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "hypothyroidism clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "hashimoto's thyroiditis clinical trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "thyroxine clinical trial",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-12",
+        "queryType": "test"
+    },
+    {
+        "description": "A 30-year-old generally healthy woman presents with shortness of breath that had started 2 hours before admission. She has had no health problems in the past besides 2 natural abortions. She had given birth to a healthy child 3 weeks before. On examination, she is apprehensive, tachypneic and tachycardic, her blood pressure is 110/70 and her oxygen saturation 92%. Otherwise, physical examination is unremarkable. Her chest x-ray and CBC are normal.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 15,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Postpartum shortness of breath",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "postpartum VTEe",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial Shortness of breath Low oxygen saturation",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "post-pregnancy shock in new mothers",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "postpartum VTE",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "postpartum embolus",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "postpartum pulmonary embolus",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-13",
+        "queryType": "test"
+    },
+    {
+        "description": "An 85-year-old man is brought to the ER because of gradual decrease in his level of consciousness. In the last 3 days he stopped walking and eating by himself. He has had no fever, cough, rash or diarrhea. His daughter recalls that he had been involved in a car accident 3 weeks prior to his admission and had a normal head CT at that time.",
+        "expected": [
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 15,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Subdural haemorrhage",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Elderly trauma",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial Elderly Decreased cognition decreased functioning",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Post traumatic imaging in the elderly",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Follow up post trauma for elderly patients suspected of having subdural haematomas",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "delirium clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "delirium in elderly patient clinical trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "hypoactive delirium",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-14",
+        "queryType": "test"
+    },
+    {
+        "description": "A 36-year-old woman presents to the emergency department with 12 weeks of amenorrhea, vaginal spotting that has increased since yesterday, lower abdominal tenderness, nausea and vomiting. The physical exam reveals overall tender abdomen, 18-week sized uterus, and cervical dilation of 2 cm. The complete blood count and biochemical profile are normal. Point of care pregnancy test with cut-off sensitivity of 25 mIU/ml Beta-HCG is negative. The ultrasound reports enlarged uterus (12 cm x 9 cm x 7 cms) with multiple cystic areas in the interior. The differential diagnosis includes vesicular mole vs fibroid degeneration.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "vesicular mole",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "uterine fibroids",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial Amenorrhea spotting cysts Nausea vomiting vesicular mole",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Clinical Trial Amenorrhea spotting cysts Nausea vomiting fibroid",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Beneftis of D&C of vesicular moles",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Side effects of total hysterectomy due to mole growth or degeneratin of fibroids",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "molar pregnancy clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "vesicular mole trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "hydatidiform mole trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "uterine fibroid degeneration trial",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "fibroid degeneration trial",
+                "order": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-15",
+        "queryType": "test"
+    },
+    {
+        "description": "A 28-year-old female with neck and shoulder pain and left hand and arm paresthesias three weeks after returning from a trip to California where she attended a stray animal recovery campaign. Her physical exam was unremarkable except for slight tremors and almost imperceptible spasticity. She was prescribed NSAIDS and a topical muscle relaxant. She was brought in to the ER three days later with spastic arm movements, sweating, increasing agitation and anxiety, malaise, difficultly swallowing and marked hydrophobia, and was immediately hospitalized.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 15,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "rabies",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial Parathesis arm stray animal tremors",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Clinical Trial increasing paralysis swallowing, malaise spastic arm movements",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Rabies vaccination for travellers and workers in endemic countries",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "First line treatment for rabies virus",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Prognostic factors for unindentified rabies virus",
+                "order": 3,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "rabies trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-16",
+        "queryType": "test"
+    },
+    {
+        "description": "A 48-year-old white male with history of common variable immunodeficiency (CVID) with acute abdominal pain, fever, dehydration, HR of 132 bpm, BP 80/40. The physical examination is remarkable for tenderness and positive Murphy sign. Abdominal ultrasound shows hepatomegaly and abundant free intraperitoneal fluid. Exploratory laparotomy reveals a ruptured liver abscess, which is then surgically drained. After surgery, the patient is taken to the ICU.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "ruptured liver abscess",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "CVID",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial  CVID abdo pain fever Tenderness enlarged liver",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Prognostic factors after abundant free fluid in the peritoneum",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Hydatid cyst in the liver",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "liver abcscess in CVID trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-17",
+        "queryType": "test"
+    },
+    {
+        "description": "A 6-month-old male infant has a urine output of less than 0.2 mL/kg/hr shortly after undergoing major surgery. On examination, he has generalized edema. His blood pressure is 115/80 mm Hg, his pulse is 141/min, and his respirations are 18/min. His blood urea nitrogen is 33 mg/dL, and his serum creatinine is 1.3 mg/dL. Initial urinalysis shows specific gravity of 1.017. Microscopic examination of the urine sample reveals 1 WBC per high-power field (HPF), 18 RBCs per HPF, and 5 granular casts per HPF. His fractional excretion of sodium is 3.3%.",
+        "expected": [
+            {
+                "expected": 1,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Nephritic  syndrome infant",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "postoperative haematuria infant",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "postoperative reduced urine output infant",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial infant low urine output",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "oliguric renal failure post surgery in an infant",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "post op acute kidney injury",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "acute kidney injury after pediatric surgery",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "acute kidney injury in infants",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-18",
+        "queryType": "test"
+    },
+    {
+        "description": "A 52-year-old African American man with a history of heavy smoking and drinking, describes progressive dysphagia that began several months ago. He first noticed difficulty swallowing meat. His trouble swallowing then progressed to include other solid foods, soft foods, and then liquids. He is able to locate the point where food is obstructed at the lower end of his sternum. He has lost a total of 25 pounds.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "smoking malignancy",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "smoking throat cancer",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "alcoholism throat cancer",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "progressive dysphagia",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial  Dysphagia Smoker difficulty smoking weight loss",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Clinical Trial Dysphagia Smoker difficulty smoking weight loss cancer",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "adenocarcinoma of the throat",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "first line treatment of oesophageal adenocarcinomas",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "esophageal cancer trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "esophageal cancer radiotherapy trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "esophageal cancer chemotherapy trial",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-19",
+        "queryType": "test"
+    },
+    {
+        "description": "A 32-year-old woman is admitted to the ER following a car accident. She has sustained multiple injuries including upper and lower extremity fractures. She is fully awake and alert, and she reports that she was not wearing a seat belt. Her blood pressure is 134/74 mm Hg, and her pulse is 87/min. Physical examination reveals a tender abdomen with guarding and rebound in all four quadrants. She has no bowel sounds.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 15,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "car accident",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "motor vehicle accident",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "multiple traumatic fractures",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "tender abdomen car accident",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "tender abdomen absent bowel sounds",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial Post Car accident tender abdomen without seatbelt",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Incidence of Internal haemorrhage post-vehicular collisions.",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Benefits of wearing a seat belt in MVA",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "traumatic acute abdomen trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "ischemic abdomen post trauma trial",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-20",
+        "queryType": "test"
+    },
+    {
+        "description": "A 21-year-old female is evaluated for progressive arthralgias and malaise. On examination she is found to have alopecia, a rash mainly distributed on the bridge of her nose and her cheeks, a delicate non-palpable purpura on her calves, and swelling and tenderness of her wrists and ankles. Her lab shows normocytic anemia, thrombocytopenia, a 4/4 positive ANA and anti-dsDNA. Her urine is positive for protein and RBC casts.",
+        "expected": [
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 15,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "lupus",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "SLE",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial arthritis fatigue loss of hair face rash swelling",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Clinical Trial arthritis fatigue loss of hair face rash swelling Female",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "First line treatment for SLE",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Life long side effects of ftreatment for SLE",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "SLE clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "systemic lupus erythematosus trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "SLE hydroxychloroquine trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "SLE corticosteroids trial",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "SLE NSAIDs trial",
+                "order": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-21",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 15-year-old girl presents to the ER with abdominal pain. The pain appeared gradually and was periumbilical at first, localizing to the right lower quadrant over hours. She has had no appetite since yesterday but denies diarrhea. She has had no sexual partners and her menses are regular. On examination, she has localized rebound tenderness over the right lower quadrant. On an abdominal ultrasound, a markedly edematous appendix is seen.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "appendicitis",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "appendicitis adolescent",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Appendicitis medical imaging - What's good?",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Appendicitis vs mesentric adenitis",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "appendicitis trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "appendicectomy trial",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-22",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 63-year-old man presents with cough and shortness of breath. His past medical history is notable for heavy smoking, spinal stenosis, diabetes, hypothyroidism and mild psoriasis. He also has a family history of early onset dementia. His symptoms began about a week prior to his admission, with productive cough, purulent sputum and difficulty breathing, requiring him to use his home oxygen for the past 24 hours. He denies fever. On examination he is cyanotic, tachypneic, with a barrel shaped chest and diffuse rales over his lungs. A chest x-ray is notable for hyperinflation with no consolidation.",
+        "expected": [
+            {
+                "expected": 40,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "acute exacerbation of COPD",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "COPD smoking",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial Cough Smoker Diabetes X-ray hyperinflation",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Viral infective exacerbation of COPD",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Treating multiple diseases at once in the setting of an infective exacerbation",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "COPD exacerbation trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "COPD infective exacerbation trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "COPD antibiotics trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "COPD corticosteroids trial",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-23",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 33-year-old male athlete presented to the ER with acute abdominal pain. Family member says the patient fell off his bike a week earlier and suffered blunt trauma to the left hemi-abdomen, and he has had mild abdominal pain since that day. The patient's history is negative for smoking, drugs, and alcohol. BP: 60/30 mmHg, HR: 140/min. The patient is pale, the physical examination of the abdomen revealed muscle contraction and resistance. Emergency ultrasound and CT scan of the abdomen reveal extended intraperitoneal hemorrhage due to spleen rupture.",
+        "expected": [
+            {
+                "expected": 15,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "acute abdomen delayed diagnosis",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "blunt trauma delayed diagnosis",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "intraperitoneal haemorrhage",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial Abdo Pain left side nonsmoker",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Clinical Trial 7 day Post injury Spleen Rupture Abdo Pain",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Prognostic factors associated with prolonged exposure to internal haemorrhage",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Ongoing medical treatment required post splenectomy",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "splenic injury trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "ruptured spleen trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "traumatic spleen rupture trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "splenic rupture surgery trial",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-24",
+        "queryType": "treatment"
+    },
+    {
+        "description": "An 8-year-old boy fell from his bike striking his left temple on the pavement. There was no immediate loss of consciousness, and a brief examination at the scene noted his pupils were symmetrical, reactive to the light, and he was moving all four limbs. Half an hour after the fall the child became drowsy, pale, and vomited. He was transferred to the emergency department. Upon arrival the heart rate was 52/min, blood pressure of 155/98. The Glasgow Coma Scale (GCS) was 6/15, the pupils were asymmetrical and movement of the right upper and lower extremities was impaired. The neurosurgical team advised deferring the CT scan in favor of initiating immediate treatment.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "paediatric head injury",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "paediatric head trauma",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "TBI in children",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Clinical Trial Injury to head drowsy vomitting asymettrical pupils",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "subdural hematoma trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "subdural hematoma surgery trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "subdural hemorrhage trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-25",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A group of 14 humanitarian service workers is preparing a trip to the Amazon Rainforest region in Brazil. All the members of the group have traveled on multiple occasions and have up-to-date vaccine certificates. Malaria Chemoprophylaxis is indicated but three of the women are in different stages of pregnancy.",
+        "expected": [
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Malaria Chemoprophylaxis pregnancy",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "New chemoprophylaxis treatment and pregnancy score ramifications",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Clinical Trial Pregnancy Malaria Prophylaxis Amazon Rainforest",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Clinical Trial Pregnancy Malaria Prophylaxis",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "chloroquine pregnancy trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-26",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 21-year-old college student undergoes colonoscopy due to family history of multiple polyps in his older siblings. His brother underwent total proctocolectomy at age 22, and his sister underwent a total proctocolectomy at age 28, after both were found to have hundreds of colonic adenomas on colonoscopy. Both siblings are currently well without any findings of neoplasms. The patient undergoes sigmoidoscopy and is found to have dozens of small colonic polyps within rectosigmoid. Several of these are biopsied and are all benign adenomas.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "FAP",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Clinical Trial Family Colonic Adenomas",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "familial adenomatous polyposis trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "FAP syndrome trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "familial adenomatous polyposis proctocolectomy trial",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-27",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 31-year-old woman is seen in clinic with amenorrhea. She had menarche at age 14 and has had normal periods since then. However, her last menstrual period was 7 months ago. She also complains of an occasional milky nipple discharge. She is currently taking no mediations and would like to become pregnant soon. Examination shows a whitish nipple discharge bilaterally, but the rest of the examination is normal. Urine human chorionic gonadotropin (hCG) is negative, thyroid stimulating hormone (TSH) is normal, but prolactin is elevated.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "amenorrhea middle-age",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "hyperprolactinemia",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Prolactin-secreting tumor",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Prevalence of Prolactinomas",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Benefits of different modalities involved in the pituitary adenoma removal",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Clinical Trial  Amenorrhea Milky Nipple discharge bilateral",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "hyperprolactinemia trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "secondary amenorrhea trial",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-28",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 51-year-old woman is seen in clinic for advice on osteoporosis. She has a past medical history of significant hypertension and diet-controlled diabetes mellitus. She currently smokes 1 pack of cigarettes per day. She was documented by previous LH and FSH levels to be in menopause within the last year. She is concerned about breaking her hip as she gets older and is seeking advice on osteoporosis prevention.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "osteoporosis diabetes",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "osteoporosis hypertension",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "osteoporosis menopause",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "osteoporosis smoking",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "osteoporosis 50 female",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Bone densitiy after treatment of different forms of osteoporosis treatment",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Osteoporosis Women",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Osteoporosis Women  Hypertension Diabetes  Smoker",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "osteoporosis in menopausal women",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "osteoporosis prevention trial",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-29",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 72-year-old man complains of increasing calf pain when walking uphill. The symptoms have gradually increased over the past 3 months. The patient had an uncomplicated myocardial infarction 2 years earlier and a transient ischemic attack 6 months ago. Over the past month, his blood pressure has worsened despite previous control with diltiazem, hydrochlorothiazide, and propranolol. His is currently taking isosorbide dinitrate, hydrochlorothiazide, and aspirin. On physical examination, his blood pressure is 151/91 mm Hg, and his pulse is 67/min. There is a right carotid bruit. His lower extremities are slightly cool to the touch and have diminished pulses at the dorsalis pedis.",
+        "expected": [
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "peripheral arterial disease",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "cardiovascular disease",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Peripheral vascular disease and possible therapies to prevent ischaemic limb",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Calf Pain Excercise History of Myocardial infarct Hypertension polypharmacy",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "peripheral vascular disease trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "lower limb claudication trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "peripheral arterial disease trial",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-30",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 44 yo male is brought to the emergency room after multiple bouts of vomiting that has a \"coffee ground\" appearance. His heart rate is 135 bpm and blood pressure is 70/40 mmHg. Physical exam findings include decreased mental status and cool extremities. He receives a rapid infusion of crystalloid solution followed by packed red blood cell transfusion and is admitted to the ICU for further care.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "haematemesis treatment",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "peptic ulcer treatment",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "peptic ulcer male actue treatment",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "PPI usage and the prevntion of further Peptic ulcer haemorrhage",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "First line treatment of peptic ulcer haemorrhage",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Vomiting Coffe Ground",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Vomiting Blood",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "peptic ulcer bleed trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "perforated peptic ulcer trial",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-1",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 62 yo male presents with four days of non-productive cough and one day of fever. He is on immunosuppressive medications, including prednisone. He is admitted to the hospital, and his work-up includes bronchoscopy with bronchoalveolar lavage (BAL). BAL fluid examination reveals owl's eye inclusion bodies in the nuclei of infection cells.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "CMV",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "CMV treatment",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Cough Fever Immunosupression Therapy",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Cough Fever Immunosupression Therapy Reed-stenberg Cell",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "CMV pneumonia trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "CMV infection in immunosuppressed patient",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "CMV infection in immunocompromised patient",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "CMV pneumonia antiviral therapy trial",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "cytomegalovirus pneumonia trial",
+                "order": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-2",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 65 yo male with no significant history of cardiovascular disease presents to the emergency room with acute onset of shortness of breath, tachypnea, and left-sided chest pain that worsens with inspiration. Of note, he underwent a right total hip replacement two weeks prior to presentation and  was unable to begin physical therapy and rehabilitation for several days following the surgery due to poor pain management. Relevant physical exam findings include a respiratory rate of 35 and right calf pain.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "post orthopaedic surgery chest pain",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "postoperative chest pain",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "postoperative hip replacement chest pain",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Emergency treatment of pulmonary embolisms",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Acute Shortness of breathe Left-sided chest pain Inspiration post op",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Acute Shortness of breathe Left-sided chest pain Inspiration post op calf pain",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "pulmonary embolus trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "VTE trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "DVTPE trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "pulmonary thromboembolus trial",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "PE anticoagulation therapy trial",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "PE low molecular weight heparin trial",
+                "order": 6,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "PE LMWH trial",
+                "order": 7,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-3",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "An 82-year-old woman comes to the emergency department because of chest pain and shortness of breath after being awakened in the morning by stabbing substernal chest pain radiating to the left shoulder and jaw. The patient had hypertension, renal-artery stenosis with chronic renal insufficiency, hypercholesterolemia, osteoporosis and dementia. Blood pressure was 199/108 mm Hg, respiratory rate 18 bpm, oxygen saturation 98% on ambient air. The heart sounds were rapid and with no murmurs. CK-MB was 10.9 ng/ml, CK was 89 U/l, CK index was 12.2% and Troponin T was 0.40 ng/ml. An EKG showed sinus regular tachycardia of 119 bpm, with ST-segment elevations up to 3 mm in V1, V2, and V3. A chest radiograph showed low lung volumes and right basilar subsegmental atelectasis. Coronary angiography showed no stenosis or clinically significant disease. Left ventriculography revealed akinesis of the anterior wall, hypokinesis of the apical and distal inferior walls, and compensatory hyperkinesis of the basal anterior and basal inferior walls. A transthoracic echocardiogram showed severe segmental left ventricular dysfunction involving the septum, anteroseptal territory, and apex. The overall left ventricular systolic function was mildly impaired and there was mild mitral regurgitation.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "renal artery stenosis STEMI",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "renal-artery stenosis",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "hypercholesterolemia",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "osteoporosis elderly woman",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "dementia elderly woman",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "renal artery stenosis MI",
+                "order": 6,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Type 2 MI",
+                "order": 7,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Rehabilition modalities for severe IHD",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Chest Pain SOB Hypertension renal insuffeciency",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "anterior MI trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-4",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 31-year-old woman with no previous medical problems comes to the emergency room with a history of 2 weeks of joint pain and fatigue. Initially she had right ankle swelling and difficulty standing up and walking, all of which resolved after a few days. For the past several days she has had pain, swelling and stiffness in her knees, hips and right elbow. She also reports intermittent fevers ranging from 38.2 to 39.4 degrees Celsius and chest pain.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "polyarthritis",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "polymyalgia treatment in the setting of viral infection",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Joint Pain Fatigue Fever Stiffness",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "migratory arthritis trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "migratory polyarthritis trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "acute polyarthritis trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "rheumatic fever trial",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-5",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 46-year-old woman presents  with a 9 month history of weight loss (20 lb), sweating, insomnia and diarrhea. She reports to have been eating more than normal and that her heart sometimes races for no reason. On physical examination her hands are warm and sweaty, her pulse is irregular at 110bpm and there is hyperreflexia and mild exophthalmia.",
+        "expected": [
+            {
+                "expected": 15,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Hyperthyroidism",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "hyperthyroidism middle aged female",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "First line treatment of thyrotoxicosis",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "reversablity of graves exophthalmus",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Weight loss Sweating insomnia diarrhoe long term increased appetite",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "hyperthyroidism trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "graves disease trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "radioiodine therapy trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "radioactive iodine therapy trial",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "graves disease thyroidectomy trial",
+                "order": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-6",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 20 yo female college student with no significant past medical history presents with a chief complaint of fatigue. She reports increased sleep and appetite over the past few months as well as difficulty concentrating on her schoolwork. She no longer enjoys spending time with her friends and feels guilty for not spending more time with her family. Her physical exam and laboratory tests, including hemoglobin, hematocrit and thyroid stimulating hormone, are within normal limits.",
+        "expected": [
+            {
+                "expected": 25,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 6,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Major depression young female",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Major depression female",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Major depression student",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Atypical depression treatment modalities",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Fatigue increased sleep appetite",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "College student Depression",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "depressive disorder trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "depression clinical trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "MDD trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "antidepressant therapy trial",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "SSRI clinical trial",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "depression CBT clinical trial",
+                "order": 6,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-7",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 10 yo boy with nighttime snoring, pauses in breathing, and restlessness with nighttime awakenings. No history of headache or night terrors. The boy's teacher recently contacted his parents because she was concerned about his declining grades, lack of attention, and excessive sleepiness during class.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Sleep cycle disorder child",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Sleep apnoea in the young",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Children Snoring Apnoeoa",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "sleep apnea clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-8",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 10 year old child is brought to the emergency room complaining of myalgia, cough, and shortness of breath.  Two weeks ago the patient was seen by his pediatrician for low-grade fever, abdominal pain, and diarrhea, diagnosed with a viral illness, and prescribed OTC medications. Three weeks ago the family returned home after a stay with relatives on a farm that raises domestic pigs for consumption. Vital signs: T: 39.5 C, BP: 90/60 HR: 120/min RR: 40/min. Physical exam findings include cyanosis,  slight stiffness of the neck,  and  marked periorbital edema. Lab results include WBC 25,000, with 25% Eosinophils, and an unremarkable urinalysis.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 0,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Trichinosis",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Trichinosis child",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "First line treatment of leptospirosis",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Common zoonotic pathogens from pigs and prevention",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Children Myalgia cough fever farm pig exposure",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "trichinosis trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "trichinosis antiparasiticis trial",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-9",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 38 year old woman complains of severe premenstrual and menstrual pelvic pain, heavy, irregular periods and occasional spotting between periods. Past medical history remarkable for  two years of infertility treatment and an ectopic pregnancy at age 26.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 8,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Endometriosis middle aged female",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Early onset menopause",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Premenstrual menstrual pelvic pain",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Menstration severe pain irregular spotting",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "fibroids clinicial trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-10",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 56-year old Caucasian female complains of being markedly more sensitive to the cold than most people. She also gets tired easily, has decreased appetite, and has recently tried home remedies for her constipation. Physical examination reveals hyporeflexia with delayed relaxation of knee and ankle reflexes, and very dry skin. She moves and talks slowly.",
+        "expected": [
+            {
+                "expected": 15,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Hypothyroidism",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Hypothyroidism elderly",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Hypothyroidism female",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Experimental treatment for Guillian-Barre Syndrome",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "infection modalities for GBS",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "cold sesitivity fatigue decreased appetite constipation moves slowly",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "hypothyroidism clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "thyroxine trial",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-11",
+        "queryType": "test"
+    },
+    {
+        "description": "A 44-year-old man was recently in an automobile accident where he sustained a skull fracture. In the emergency room, he noted clear fluid dripping from his nose. The following day he started complaining of severe headache and fever. Nuchal rigidity was found on physical examination.",
+        "expected": [
+            {
+                "expected": 3,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "CSF rhinorrhea",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "CSF rhinorrhea trauma",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "CSF rhinorrhea trauma acute",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "CSF leak trauma acute",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Emergency treatment Infective encephalitis from base of skull fracture",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Skull Injury CSF Leaking Headache Fever",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "posttraumatic meningitis trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "bacterial meningitis trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "meningitis in head trauma trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "posttraumatic meningitis antibiotics trial",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-12",
+        "queryType": "test"
+    },
+    {
+        "description": "A 5-year-old boy presents to the emergency department with complaints of progressively worsening dysphagia, drooling, fever and vocal changes. He is toxic-appearing, and leans forward while sitting on his mother's lap. He is drooling and speaks with a muffled \"hot potato\" voice. The parents deny the possibility of foreign body ingestion or trauma, and they report that they are delaying some of his vaccines.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Haemophilus influenzae",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Haemophilus influenzae Child epiglottis",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "First line treatment of peritonsillar abscesses",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Children Dysphagia Drooling vocal changes",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Children Dysphagia Drooling vocal changes  hot potato voice",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "epiglottitis clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "epiglottitis antibiotic trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "epiglottitis in unvaccinated children",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-13",
+        "queryType": "test"
+    },
+    {
+        "description": "A 27-year-old woman at 11 weeks gestation in her second pregnancy is found to have a hemoglobin (Hb) of 9.0 g/dL, white blood cell count 6.3 x 109/L, platelet count 119 x 109/L, mean corpuscular volume 109 fL. Further investigations reveal mild iron deficiency. She already receives iron supplementation. The obstetrician repeats the complete blood cell count 2 weeks later. The Hb is 8.9 g/dL, WBC count 7.1 x 109/L, and platelets 108 x 109/L. She describes difficulty swallowing. A reticulocyte count is performed and found elevated at 180 x 109/L. The obstetrician requests a hematology consult. The following additional results were found: Negative DAT, normal clotting screen, elevated LDH (2000 IU/L), normal urea and electrolytes, normal alanine aminotransferase (ALT), anisocytosis, poikilocytosis, no fragments, no agglutination, polychromasia and presence of hemosiderin in the urine.",
+        "expected": [
+            {
+                "expected": 0,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Autoimmune haemolytic anaemia in pregnancy",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Pregnancy Iron defeciency",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Pregnancy Iron defeciency  resistant to iron supplementation",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "hemolytic anemia in pregnancy trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-14",
+        "queryType": "test"
+    },
+    {
+        "description": "Karen is a 72-year-old woman with hypertension and type 2 diabetes, who was hospitalized for cryptogenic stroke two weeks ago. At the time, computed tomography was negative for brain hemorrhage and she was given thrombolytic therapy with resolution of her symptoms. Transesophageal echocardiogram and magnetic resonance angiogram of brain and great vessels found no evidence of abnormalities. She presents currently with a blood pressure of 120/70 mm Hg, normal glucose, and normal sinus rhythm on a 12-lead electrocardiogram. She reports history of occasional palpitations, shortness of breath and chest pain lasting for a few minutes and then stopping on their own.",
+        "expected": [
+            {
+                "expected": 4,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "cryptogenic stroke elderly woman",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "hypertension stroke elderly woman",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "type two diabetes elderly woman",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "cryptogenic stroke thrombolytic therapy",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Angina in patients with previous history of CVA",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Stroke Hypertension Diabetes Thrombolytic",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Stroke Hypertension Diabetes",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "atrial fibrillation trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "AF in cryptogenic stroke trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "AF stroke trial",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-15",
+        "queryType": "test"
+    },
+    {
+        "description": "A 4 year old boy presents to the emergency room with wheezing. He has had a history of allergic rhinitis, but no history of wheezing. His mother reports that 5 hours ago patient was playing in the backyard sandbox when she heard him suddenly start coughing. The coughing lasted only moments, but he has been audibly wheezing since. Mother was concerned, because his breathing has not returned to normal, so she brought him to the ED. On exam, the child is playful and well appearing. Wheezing is heard in the mid-right chest area. O2 sats are 100% on room air.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "child asthma",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "allergic rhinitis asthma",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Medical imaging for children with possible foreign body inhalation",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Children Wheeze allergic rhinitis",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "asthma clinical trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "mild asthma clinical trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "salbutamol trial",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-16",
+        "queryType": "test"
+    },
+    {
+        "description": "A 32 year old female with no previous medical history presents to clinic to discuss lab results from her most recent pap smear. She reports no complaints and is in general good health. The results of her PAP were cytology negative, HPV positive.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "human papillomavirus",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Risks of future cervical cancer with patients who are HPV positive",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Papsmear HPV positive",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "HPV infection trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "hpv positive pap smear trial",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-17",
+        "queryType": "test"
+    },
+    {
+        "description": "A 65 yo African-American male with shortness of breath related to exertion that has been worsening over the past three weeks. He also has difficulty breathing when lying flat and has started using two to three extra pillows at night. Significant physical exam findings include bibasilar lung crackles, pitting ankle edema and jugular venous distension.",
+        "expected": [
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "congestive heart failure African-American",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "congestive heart failure elderly male",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "new diagnosis congestive heart failure",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "First line treatment for right sided heart failure in African-Americans",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Shortness of breath on exertion sleep apnoea lung crackles pitting oedema",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "elderly Male Chronic heart failure",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "CHF trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "CCF trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "heart failure trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "diuretics heart failure trial",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "ACEi heart failure trial",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "ARBs heart failure trial",
+                "order": 6,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "beta blockers heart failure trial",
+                "order": 7,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-18",
+        "queryType": "test"
+    },
+    {
+        "description": "A 66yo female with significant smoking history and chronic cough for the past two years presents with recent, progressive shortness of breath. She is in moderate respiratory distress after walking from the waiting room to the examination room. Physical exam reveals mildly distended neck veins, a barrel-shaped chest, and moderate inspiratory and expiratory wheezes. She has smoked 1 to 2 packs per days for the past 47 years.",
+        "expected": [
+            {
+                "expected": 15,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 6,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "COPD",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Acute Exacerbation of COPD",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Smoking COPD",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Treatment for moderate to severe COPD",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Shortness of breath Smoker Chronic Cough Wheeze",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "cor pulmonale trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "COPD trial",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-19",
+        "queryType": "test"
+    },
+    {
+        "description": "An 89-year-old man was brought to the emergency department by his wife and son after six months of progressive changes in cognition and personality. He began to have poor memory, difficulty expressing himself, and exhibited unusual behaviors, such as pouring milk onto the table and undressing immediately after getting dressed. He is unable to dress, bathe, use the toilet, or walk independently. On examination the patient's temperature was 36.5\u00b0C (97.7\u00b0F), the heart rate 61 bpm in an irregular rhythm, the blood pressure 144/78 mm Hg, and the respiratory rate 18 bpm. The patient was alert and oriented to self and city but not year. He frequently interrupted the examiner. He repeatedly reached out to grab things in front of him, including the examiner's tie and face. He could not spell the word \"world\" backward, could not follow commands involving multiple steps and was unable to perform simple calculations. His speech was fluent, but he often used similar-sounding word substitutions. He could immediately recall three out of three words but recalled none of them after 5 minutes. Examination of the cranial nerves revealed clinically significant paratonic rigidity. Myoclonic jerks were seen in the arms, with symmetrically brisk reflexes. The reflexes in the legs were normal.",
+        "expected": [
+            {
+                "expected": 50,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "dementia trial",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Palliative care for end-stage Dementia",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Experimental pharmacological treatment for Alzheimers",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Geriatric Change in cognition Personality Poor memory",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "dementia trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-20",
+        "queryType": "test"
+    },
+    {
+        "description": "A 32-year-old male presents to your office complaining of diarrhea, abdominal cramping and flatulence. Stools are greasy and foul-smelling. He also has loss of appetite and malaise. He recently returned home from a hiking trip in the mountains where he drank water from natural sources.  An iodine-stained stool smear revealed ellipsoidal cysts with smooth, well-defined walls and 2+ nuclei.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Hydatid disease",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Hydatid disease travel",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Giardia prophylaxis",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Giardia treatment",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Usage of fenbendazole in humans for the treeatment of Giardia",
+                "order": 3,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Diarrhea abdominal Crampign Flatulence Greasy stool loss of appetite",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "Gastrointestinal untreated water",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "giardiasis trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "giardia trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "metronidazole trial",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-21",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 65-year-old male with a history of tuberculosis has started to complain of productive cough with tinges of blood. Chest X-ray reveals a round opaque mass within a cavity in his left upper lobe. The spherical mass moved in the cavity during supine and prone CT imaging. Culture of the sputum revealed an organism with septated, low-angle branching hyphae that had straight, parallel walls.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 80,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Aspergillus trial",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "First line anti-fungals in the treatment of Aspergillosis",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Tuberculosis X-ray Opaque mass",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "aspergillosis trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "aspergillus lung infection triak",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "aspergillosis tb patient trial",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-22",
+        "queryType": "treatment"
+    },
+    {
+        "description": "An 18-year-old male returning from a recent vacation in Asia presents to the ER with a sudden onset of high fever, chills, facial flushing, epistaxis and severe headache and joint pain. His complete blood count reveals leukopenia, increased hematocrit concentration and thrombocytopenia.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Leptorpirosis",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Leptorpirosis adolescent",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Treatment in dengue fever of travellers",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Travel Fever Chills epistaxis Joint pain Asia",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "dengue fever trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-23",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 31 yo male with no significant past medical history presents with productive cough and chest pain. He reports developing cold symptoms one week ago that were improving until two days ago, when he developed a new fever, chills, and worsening cough. He has right-sided chest pain that is aggravated by coughing. His wife also had cold symptoms a week ago but is now feeling well. Vitals signs include temperature 103.4, pulse 105, blood pressure 120/80, and respiratory rate 15. Lung exam reveals expiratory wheezing, decreased breath sounds, and egophany in the left lower lung field.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Lung Consolidation Diagnosis",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Lobar Pneumonia Middle Aged Male Trial",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "New antimicrobial treatment of pneumonias",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Cough Chest pain on coughing Post viral",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "pneumonia trial",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "secondary bacterial pneumonia trial",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "community acquired pneumonia trial",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "pneumonia antibiotics trial",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-24",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 10-year-old boy comes to the emergency department for evaluation of right knee pain. The child's guardians stated that he had been complaining of knee pain for the past 4 days and it had been getting progressively worse. There was no history of trauma. The day before the visit the boy developed a fever, and over the past day he has become increasingly lethargic. On physical examination blood pressure was 117/75 mm Hg,  HR 138 bpm, temperature 38.1 C (100.5 F), respiration 28 bpm, oxygen saturation 97%. There was edema and tenderness of the right thigh and knee, as well as effusion and extremely limited range of motion. Sensation and motor tone were normal. Plain radiography and CT showed an osteolytic lesion.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "osteomyeloma knee child",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Osteosarcoma treatment modalities in the young",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Osteosarcoma vaccination in humans",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Childran Knee Pain atraumatic Fever Lethargy",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "septic arthritis trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-25",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 28 yo female G1P0A0 is admitted to the Ob/Gyn service for non-ruptured ectopic pregnancy. Past medical history is remarkable for obesity, a non-complicated appendectomy at age 8, infertility treatment for the past 3 years, and pelvic laparoscopy during which minor right Fallopian tube adhesions were cauterized. Her LMP was 8 weeks prior to admission. Beta HCG is 100 mIU. The attending physician usually treats unruptured ecoptic pregnancies laparoscopically but is concerned about the patient's obesity and history of adhesions.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 80,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "non-ruptured ectopic pregnancy intervention",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "non-ruptured ectopic pregnancy adhesions",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "non-ruptured ectopic pregnancy infertility",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Surgical alternatives for obese patietns requiring laparoscopic investigations and procedures",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Ectopic Pregnancy management Laproscopic Obesity Adhesions",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "ectopic pregnancy nonsurgical management",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "ectopic pregnancy noninvasive management",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-26",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 15 yo girl accompanied by her mother is referred for evaluation by the school. The girl has more than expected absences in the last three month, appears to be constantly tired and sleepy in class. Her mother assures the girl is well fed, and getting the proper sleep at night but admits the girls tires easily when they go out on weekend hikes. Physical examination: BP: 90/60. HR 130/min the only remarkable findings are extremely pale skin and mucosae. Grade 3/6 systolic murmur. Lab tests report Hb: 4.2 g/dL, MCV 61.8 fL, serum iron < 1.8 umol/L and ferritin of 2 ng/mL. Fecal occult blood is negative.",
+        "expected": [
+            {
+                "expected": 3,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "anemia adolescent",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Haemic murmurs - How low is too low?",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Severe anaemia in children - First line treatment",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Teenage Female Fatigue Pale skin",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "hemolytic anemia trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-27",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A previously healthy 8-year-old boy presents with a complaint of right lower extremity pain and fever. He reports limping for the past two days. The parents report no previous trauma, but do remember a tick bite during a summer visit to Maryland several months ago. They do not remember observing erythema migrans. On examination, the right knee is tender and swollen. Peripheral WBC count and SRP are slightly elevated.",
+        "expected": [
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Is lyme disease real is Australia?",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Limb Pain Tick Bite",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "lyme disease trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-28",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 4-year-old girl presents with persistent fever for the past week. The parents report a spike at 104\u00b0F. The parents brought the child to the emergency room when they noticed erythematous rash on the girl's trunk. Physical examination reveals strawberry red tongue, red and cracked lips, and swollen red hands. The whites of both eyes are red with no discharge.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "Streptococcus pyogenes",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Scarlet fever treatment in the very young",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "vaccination trials for scarlet fever",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Persistent Fever strawberry tongue red lips",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "scarlet fever trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-29",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 47 year old male who fell on his outstretched left arm presents with pain and bruising on the inside and outside of the elbow, swelling, and inability to bend the arm. On the x-ray, the ulna has dislocated posteriorly from the trochlea of the humerus. The radius has dislocated from the capitulum of the humerus.",
+        "expected": [
+            {
+                "expected": 3,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "traumatic proximal ulna and radial dislocation",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "Relocation efficacy of elbow dislocation",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Arthritic changes after time post-dislocations",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "Trauma Upper limb Ulna Radius dislocation",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "elbow dislocation FOOSH trial",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-30",
+        "queryType": "treatment"
+    }
+]

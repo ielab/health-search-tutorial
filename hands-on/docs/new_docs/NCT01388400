@@ -1,0 +1,248 @@
+TITLE:
+      Enriched Environments for Upper Limb Stroke Rehabilitation
+SUMMARY:
+      Stroke contributes significantly to the incidence of disabilities, with upper limb (UL)
+      motor impairment being especially prevalent. Animal studies suggest that post-stroke motor
+      recovery is largely attributable to adaptive plasticity in brain motor areas. While some
+      environmental training factors contributing to plastic mechanisms have been identified in
+      animals, translation of this knowledge to the clinical setting is insufficient. Optimal
+      recovery may be related to both external (e.g., feedback type) and internal factors (e.g.,
+      cognitive ability, motivation). Clinically feasible methods for training are needed. Use of
+      enriched virtual environments (VEs) may provide a way to address these needs. Outcome
+      measures that best reflect recovery need to be identified since this is an essential step to
+      evaluate the effect of novel training programs for UL motor recovery in stroke.
+
+      The research question is which clinical and kinematic outcome measures best reflect motor
+      performance recovery after a targeted upper limb treatment intervention. Aim 1 is to compare
+      changes in outcome measures recorded before and after an upper limb intervention in stroke
+      subjects to motor performance in healthy subjects. Aim 2 is to determine motor performance
+      between-group differences sample size is based on knowledge of expected outcome measure mean
+      score differences between groups. Hypothesis. 1: Specific clinical and kinematic outcome
+      measures will be sensitive to within-group (pre-post intervention training) changes.
+      Hypothesis. 2: Specific clinical and kinematic outcome measures will be sensitive to
+      between-group (healthy vs. patients in enriched vs. conventional intervention groups.
+      Sixteen chronic stroke survivors and 8 age- and sex-matched healthy controls will
+      participate. Patients will be matched on cognitive and motor impairment levels and divided
+      into two groups. Using an single subject (A-B-A) research design, kinematics during two
+      pre-tests, 3 weeks apart, will be recorded for test-retest reliability. Stroke groups will
+      practice varied upper limb reaching movements (15 45-minute sessions in 3 weeks) in
+      environments providing different motivation/feedback levels. Pre- and post motor performance
+      evaluations will be done with clinical tests and a Test Task with specific motor performance
+      requirements. A Transfer Task will also be recorded. By comparing data analysis methods
+      (3-Dimensional (3D) analysis of different markers or placements), the investigators will
+      identify which kinematic outcome measures best reflect motor improvement in post-test and
+      follow-up sessions (retention).
+
+      The expected results are identification of two primary and two secondary outcome measures
+      that reflect upper limb motor recovery and can distinguish between motor recovery and
+      compensation. The results will be used to design a randomized control trial to determine the
+      efficacy of VE-based treatment on arm motor recovery. The goal is to determine how extrinsic
+      (environmental) and intrinsic (personal) motivational factors affect motor learning in
+      stroke survivors with cognitive and physical impairment. Knowledge gained can also be used
+      for rehabilitation of other neurological and orthopedic pathologies.
+DETAILED DESCRIPTION:
+      A. Scientific Background
+
+      Stroke is the third leading cause of death in Western countries and upper limb (UL)
+      sensorimotor dysfunction contributes significantly to the incidence of physical disabilities
+      and handicaps (Olsen 1990). One explanation for poor arm recovery is the focus on task
+      accomplishment rather than performance quality. This may reinforce alterative (compensatory)
+      movement strategies instead of encouraging the reappearance of pre-morbid movement patterns
+      (recovery). Although the rehabilitative goal is recovery of function, whether this is
+      achieved through true motor recovery or compensation is still under debate. Indeed, for some
+      patients with severe impairment, compensation should be encouraged to maximize functional
+      ability. Alternatively, for those with good prognosis, motor recovery is emphasized for
+      several reasons. First, given appropriate training, recovery can continue well into the
+      chronic stage of stroke (e.g., Michaelsen & Levin 2004). Second, while compensation may
+      assist immediate performance, it may lead to longer-term problems such as pain and
+      contracture (Ada et al. 1994; Levin 1997). Third, permitting compensations could encourage
+      learned nonuse limiting the capacity for subsequent motor gains (Allred et al. 2005). While
+      performance gains have been documented after repetitive training of isolated movements
+      (e.g., Whitall et al. 2000), few studies have addressed whether patients can use explicit
+      information to optimize motor skill acquisition and whether true behavioural recovery
+      occurs. Points to consider in developing optimal training programs is that learning occurs
+      when participants are motivated, practice a variety of related tasks and are given relevant
+      feedback (Nudo & Friel 1999; Winstein et al. 1999). In addition, patients may not benefit
+      from variable practice until missing motor elements are recovered (Carr & Shepherd 1987) and
+      motor relearning is related to physical and cognitive impairment level (Cirstea et al.
+      2006).
+
+      To date, most studies have used only clinical measures to evaluate functional change (e.g.,
+      Jang et al. 2003) without considering how movement is performed. This study will focus on
+      the ability to distinguish between whether functional improvement results from an increase
+      in compensation or from true motor recovery. This can only be done by correlating functional
+      improvement (clinical measures) with changes in arm motor patterns through detailed movement
+      analysis (kinematics). Since there are a large number of possible kinematic indicators of
+      improvement, the investigators need to identify which measures are most indicative of
+      change. This is a first step in the determination of clinically meaningful outcome measures
+      to be used in randomized control trials of the effectiveness of interventions. Clinical
+      salience is essential to translate knowledge from research studies to evidence-based
+      practice (van Peppen et al. 2007).
+
+      B. Study Design: 1. Detailed Plan of the Study
+
+      Two groups of 8 stroke subjects will participate in an A-B-A design in which data from
+      post-intervention (within one week of the completion of the intervention) and follow-up (one
+      month after the completion of the intervention)tests will be compared to data from two
+      pre-tests (held at beginning and end of the first week of the study just prior to the start
+      of the intervention). Multiple clinical and kinematic motor performance outcomes will be
+      measured to determine which ones best describe arm motor recovery. This will be done by
+      comparing changes in outcomes before and after training to mean scores of 8 age- and
+      gender-matched healthy volunteers (recorded in a single session). Stroke survivors will
+      practice movement in two different training environments providing different levels of
+      motivation and feedback: Training Environment 1 will be created in a 2D video-based VR
+      environment that will provide high motivation, Knowledge of Results (KR) about motor outcome
+      (i.e., speed, precision) and non-specific Knowledge of Performance (KP) feedback about trunk
+      movement. Environment 2 will be created in a physical environment that provides only KP
+      feedback but no KR or additional motivation.
+
+      Training Protocol: After baseline evaluations (physical & cognitive), stroke groups will
+      practice pointing to 6 standardized targets placed just beyond reach (12 trials per target)
+      during an acquisition phase of 15 sessions spaced over three weeks (3 sessions/wk, 72
+      trials/session). This practice regimen incorporates elements necessary for optimal motor
+      learning: 1) Varied practice: Although the movements are not new motor tasks, they should be
+      re-acquired during stroke recovery. Our aim is not teach subjects a novel task but to
+      identify how a movement performed sub-optimally may be improved with practice. 2) Intensive
+      practice: The number of repetitions per session was chosen according to studies by Cirstea
+      and Levin (2000). Thus, 72 trials per session (3 blocks of 24 trials, 5 min rest between
+      blocks) are considered as 'intensive' practice, which is a necessary element for a
+      successful training program. Following the acquisition phase, evaluations which will be
+      repeated after 3mos to evaluate retention and transfer of motor skills.
+
+      2. Methods: Subjects Eight stroke subjects per group will be recruited. They will be matched
+      for age and for initial arm motor severity (± 5 pts on the Fugl-Meyer Arm Assessment). Eight
+      age- and sex-matched healthy subjects will be recruited as a control group.
+
+      Subject Recruitment: Patients will be recruited from Haim Sheba Hospital discharge lists
+      using a procedure in place since 2005. Screening will be done by clinical research
+      associates. Potential participants meeting inclusion criteria 1-3 and exclusion criteria
+      will be sent an explanatory letter inviting them to contact study investigators. Informed
+      consent will be obtained from each participant. Control subjects will be recruited from the
+      community.
+
+      Training Environments: Motivation and Feedback: Training will be done in the Dept. of
+      Occupational Therapy located at the Sheba Medical Center. Training environments will allow
+      us to evaluate the effect of combining different degrees of motivation and feedback on motor
+      outcome. Environment 1 is highly motivating (novel and fun) since training is presented as a
+      game in which the learner tries to beat his own score in subsequent sessions. Targets are
+      presented as balls in a video-based VR system (Gesture Xtreme). The patient sits in front of
+      a 36 inch display of the 6 target scene. The patient's image is captured by a video camera
+      and inserted into the scene displayed on the monitor. The task is to point to each of the
+      targets which appear in a random sequence. Feedback will provide pertinent information for
+      motor learning (KR, KP, game score). Environment 2 incorporates the same number and
+      disposition of targets as Env. 1 but they will be presented in a physical environment on a
+      wooden frame in front of the subject. KR and KP feedback will be provided as verbal cues by
+      the experimenter as is done usually in the clinic. However, they will be no additional
+      motivational information (game score).
+
+      Preliminary Outcome Measures: Clinical Before and after training in both stroke groups,
+      blinded evaluators will measure clinical scores of arm motor impairment and function
+      (Fugl-Meyer Arm Score, Reaching Performance Scale, Box and Blocks test, Wolf Motor Function
+      Test, Motor Activity Log) as well as cognitive function. All tests are valid and reliable
+      and are regularly used in clinical practice.
+
+      Kinematic testing: Test Task and Transfer Task:
+
+      The investigators will also record kinematic outcome measures characterizing arm and trunk
+      movements during reaching (elbow extension, shoulder horizontal adduction, shoulder flexion,
+      scapular movements, trunk displacement).
+
+      Our aim is to focus on segmental and joint kinematics during a Test and a Transfer Task
+      consisting of reaching movements. Test Task will be recorded. The Test target will be placed
+      in line with the patient's sternum at a distance just beyond the subject's arm length. The
+      Test Task is similar to movements made to one of the practiced targets. To assess motor
+      learning, the investigators will determine if elements learned in one task transfer to other
+      similar tasks. Thus, the investigators will also assess movements made in a Transfer Task,
+      to a target placed in front of the ipsilateral shoulder 5 centimeters (cm) higher than the
+      topmost row of trained targets. The Transfer Task is therefore a new movement, not practiced
+      during the training. Rigid body segmental kinematics will be recorded from sets of 4 passive
+      reflective markers (0.5 cm diameter spheres) attached to the trunk, upper arm and forearm
+      segments. This will enable the computation of three translational and three rotational
+      degrees of freedom per segment. Joint kinematics will be collected from markers fixed on the
+      sternum, acromion, elbow and wrist via exo-skeletal frames. Marker motion will be recorded
+      with a calibrated 3 camera opto-electronic motion-capture system (ProReflex MCU-240,
+      Qualisys) on suitable computer software (Qualisys, Göteborg, Swe). Data collection (100
+      Hertz, 2-5 seconds) will be triggered by movement of the hand from a central position by
+      release of a mechanical switch. The accuracy of the measurements of each marker is within an
+      error of <0.2 cm.
+
+      As a first step, the investigators will determine movement times, accuracy, smoothness,
+      segment and joint rotations and the main components of multi-joint coordination. Cartesian
+      coordinates (x,y,z) for each segment will be obtained from the segmental marker sets. Raw
+      data from at least three markers per segment will be used after interpolation of missing
+      markers (5th-order polynomial). For each trial, movement times and peak velocities will be
+      determined from endpoint tangential velocity traces. Movement time is the time between the
+      point at which the tangential velocity exceeds and remains above 5% of its maximum and then
+      returns to and remains below this level. Movement accuracy in terms of constant extent
+      errors will be computed as the mean distance (d) between the final endpoint position (x, y,
+      z) and the position of the target (x0, y0, z0). Constant and variable (SD) directional
+      errors will also be defined. Movement smoothness will be computed from the tangential
+      velocity trace using the index of curvature (ratio of endpoint path length to length of a
+      straight line joining the initial and final positions) and the number of peaks in the
+      trajectory path. For segment and joint rotations, vectors will be calculated within
+      reference coordinate systems for the upper and forearm segments.
+
+      From the resulting segment centroid motion and segment rotation data different outcome
+      variables will be calculated. The most relevant ones will define changes in performance with
+      respect to the endpoint motion and with respect to the whole-arm posture, particularly, the
+      evolution of the movement over time (time derivatives) and the fragmentation of the
+      segmental path and posture of the arm while moving towards the different targets. Additional
+      aspects of movement will be explored in order to find the most appropriate descriptors of
+      arm motor performance and changes after the proposed clinical interventions.
+
+      Change scores will be calculated for each subject to determine an Index of Improvement (IP)
+      and an Index of Learning (IL). The IP is defined as the change in each variable as a ratio
+      of post- to pre-test values. An IP of 1 indicates no change whereas negative and positive
+      values indicate that the value decreased or increased respectively. For some variables,
+      positive ratios will indicate improvement (endpoint velocity, endpoint smoothness, angle
+      measures, phase amplitudes) while for others, improvement will be demonstrated by negative
+      ratios (movement time, movement precision). The IL, used to determine if subjects retain
+      improvements after training for each follow-up epoch, is defined as the change in the
+      variable at retention- compared to post-test. IL values of 1 indicate that the improvement
+      is maintained (no change), of negative value that the parameter decreased and of positive
+      value that the parameter increased.
+
+      Statistical analysis: For our first aim, changes in outcome measures will be determined by
+      comparing movement outcomes before and after the acquisition and retention phases by
+      two-repeated measures mixed design ANOVA (MANOVA) and comparing raw means (Time 1, Time 2,
+      Time 3, Time 4) and change scores (IP, IL) between groups. The investigators will determine
+      which kinematic measures undergo the most change and thus may be most indicative of motor
+      recovery (e.g., increase in elbow and/or shoulder movement, decrease in trunk movement) by
+      investigating which measures are the most different between training groups. The
+      investigators expect changes in the group training in Environment I to be greater than those
+      in from the group training in Environment 2.
+ELIGIBILITY CRITERIA:
+      Inclusion Criteria for patients wth stroke:
+
+          1. Age 40-80 years
+
+          2. sustained a single stroke between 3-24 months prio t study leading to upper limb
+             paresis
+
+          3. have at least Stage 3/7 arm control (mild to moderate motor deficits) on the
+             Chedoke-McMaster Scale.
+
+          4. <81 yrs old to minimize confounding effects of age-related changes in sensorimotor
+             functions
+
+        Exclusion Criteria for patients wth stroke:
+
+          1. other neurological or orthopaedic problems that may interfere with interpretation of
+             results
+
+          2. significant deficits in attention, constructional skills, neglect and apraxia
+
+          3. shoulder subluxation, arm pain
+
+          4. lack of endurance as judged by a physician
+
+          5. undergoing other therapy, surgery or medical procedures within the study period.
+
+        Inclusion Criteria for healthy control subjects:
+
+        1. Age 40-80 years
+
+        Exclusion Criteria for control subjects:
+
+        1. any neurological or orthopaedic problems that may interfere with interpretation of
+        results.
