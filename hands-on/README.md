@@ -134,7 +134,7 @@ You can check the indexed docs by searching for all docs in your browser as:
 
 You'll see the documents have been indexed with the three fields.
 
-### Step 3 - Searching
+### Step 4 - Searching
 
 Have a play with various searching by setting `q=queryterm`; e.g., to search for "cancer"
 
@@ -152,7 +152,7 @@ We have also provided a set of query topics to use in `adhoc-queries.json`. Note
 
 Note, because there are multiple query variations for a topic, the script will choose a variation from a random person and run that - this highlights some of issues in query variation in health search.
 
-### Step 4 - Evaluation
+### Step 5 - Evaluation
 
 Run the script again but this time pipe the output to a results file:
 
@@ -162,7 +162,7 @@ We can now use the qrels to evaluate our system using trec_eval:
 
 `trec_eval qrels-clinical_trials.txt trec_results.txt`
 
-### Step 5 - Time to play
+### Step 6 - Time to play
 
 Now we want to understand a bit about how different search can be done. Let us look at some concept-based searches. First, lets run some annotation to understand different medical concepts:
 
