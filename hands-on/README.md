@@ -75,7 +75,7 @@ Have a look at the clinical trials documents in the `docs` directory:
 
 `less docs/NCT02631304`
 
-#### Step 2 - Annotating with UMLS concepts
+### Step 2 - Annotating with UMLS concepts
 
 We will now identify medical concepts from free-text. 
 
