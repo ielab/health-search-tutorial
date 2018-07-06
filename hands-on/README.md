@@ -27,7 +27,12 @@ Now we need two docker images: one for elastic and the other for this tutorial.
 
 `docker pull ielabgroup/health-search-tutorial`
 
-( **Alternative**: If the docker image was saved to file via `docker save -o <path for generated tar file> health-search-tutorial`. Then it can be loaded via: `docker load -i <path to image tar file>`.)
+**Alternative**: 
+
+If the docker image was saved to file (not obtained via docker hub) then it can be loaded via: 
+
+1. `gunzip health-search-tutorial-docker.tar.gz`
+2. `docker load -i health-search-tutorial-docker.tar`.)
 
 ---
 
@@ -45,7 +50,7 @@ In the task you will:
 
 ### Step 0 - Fire up the tutorial docker image
 
-`docker run --net="host" -it health-search-tutorial`
+`docker run --net="host" -it ielabgroup/health-search-tutorial`
 
 This will run the start the docker image and you will be presented with a bash shell on a Ubuntu virtual machine. By default you will start off in the `/health-search-tutorial` directory. This contains all the scripts and documents for this tutorial.
 
