@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204419">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000558</url>
+  </required_header>
+  <id_info>
+    <org_study_id>102</org_study_id>
+    <nct_id>NCT00000558</nct_id>
+  </id_info>
+  <brief_title>Prevention of Events With Angiotensin-Converting Enzyme Inhibitor Therapy (PEACE)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether the addition of angiotensin converting enzyme (ACE) inhibitor to
+      standard therapy in patients with known coronary artery disease and preserved left
+      ventricular function will prevent cardiovascular mortality and reduce the risk of myocardial
+      infarction.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Individuals with coronary artery disease are at heightened risk for major cardiovascular
+      events. With current advances, a larger segment of our population is manifesting coronary
+      artery disease at a more advanced age. The majority of these individuals have preserved left
+      ventricular function. Prior studies with converting enzyme inhibitor (CEI) therapy in
+      patients with depressed ejection fraction have demonstrated that their long-term
+      administration leads to improved survival and reduced risk of myocardial infarction over and
+      above conventional therapy. There is sufficient rationale and experience to indicate that
+      these benefits will apply to the larger group of individuals with coronary artery disease
+      and preserved left ventricular function and therefore have even broader public health
+      implications. A definitive trial is needed to assess the capacity of CEI therapy to prevent
+      mortality and reduce the risk of myocardial infarction in patients with coronary disease and
+      preserved left ventricular function.
+
+      The initiative was proposed by the former Clinical Trials Branch staff and given concept
+      clearance at the May 1994 National Heart, Lung, and Blood Advisory Council. The Request for
+      Proposals was released in October 1994.
+
+      DESIGN NARRATIVE:
+
+      A multicenter, randomized clinical trial. There are approximately 180 centers in the United
+      States, Canada, Puerto Rico, and Italy. Patients are randomly assigned to treatment groups
+      in which the addition of the angiotensin-converting enzyme (ACE) inhibitor trandolapril is
+      compared to standard therapy. The primary endpoint includes a reduction in the incidence of
+      cardiovascular death, nonfatal myocardial infarction, or the need for coronary
+      revascularization (PTCA or CABG) in coronary artery disease patients with left ventricular
+      ejection fraction of 40 percent or more. Secondary endpoints include the incidence of
+      hospitalization for the management of either unstable angina, congestive heart failure,
+      stroke, or cardiac arrhythmia. Recruitment started in November 1996 and ended in June 2000
+      with a minimum follow-up of five years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 1995</start_date>
+  <completion_date type="Actual">June 2005</completion_date>
+  <primary_completion_date type="Actual">June 2005</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>angiotensin-converting enzyme inhibitors</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women patients at least 50 years of age with coronary heart disease documented by
+        angiography and a left ventricular ejection fraction of 40 percent or more.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sarah Fowler</last_name>
+    <affiliation>George Washington University Biostatistics Center</affiliation>
+  </overall_official>
+  <link>
+    <url>http://www.bsc.gwu.edu/peace/</url>
+  </link>
+  <reference>
+    <citation>Pfeffer MA, Domanski M, Rosenberg Y, Verter J, Geller N, Albert P, Hsia J, Braunwald E. Prevention of events with angiotensin-converting enzyme inhibition (the PEACE study design). Prevention of Events with Angiotensin-Converting Enzyme Inhibition. Am J Cardiol. 1998 Aug 6;82(3A):25H-30H.</citation>
+    <PMID>9719019</PMID>
+  </reference>
+  <reference>
+    <citation>Pfeffer MA, Domanski M, Verter J, Dunlap M, Flaker GC, Gersh B, Hsia J, Goldberg AD, Limacher MC, Maggioni AP, Rosenberg Y, Rouleau JL, Warnica JW, Wasserman AG, Braunwald E; PEACE Investigators. The continuation of the Prevention of Events With Angiotensin-Converting Enzyme Inhibition (PEACE) Trial. Am Heart J. 2001 Sep;142(3):375-7.</citation>
+    <PMID>11526345</PMID>
+  </reference>
+  <reference>
+    <citation>Braunwald E, Domanski MJ, Fowler SE, Geller NL, Gersh BJ, Hsia J, Pfeffer MA, Rice MM, Rosenberg YD, Rouleau JL; PEACE Trial Investigators. Angiotensin-converting-enzyme inhibition in stable coronary artery disease. N Engl J Med. 2004 Nov 11;351(20):2058-68. Epub 2004 Nov 7.</citation>
+    <PMID>15531767</PMID>
+  </reference>
+  <verification_date>January 2008</verification_date>
+  <lastchanged_date>January 15, 2008</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Angiotensin-Converting Enzyme Inhibitors</mesh_term>
+    <mesh_term>Enzyme Inhibitors</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

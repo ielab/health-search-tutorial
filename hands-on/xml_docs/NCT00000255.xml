@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204716">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000255</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-08391-7</org_study_id>
+    <secondary_id>R01DA008391</secondary_id>
+    <secondary_id>R01-08391-7</secondary_id>
+    <nct_id>NCT00000255</nct_id>
+  </id_info>
+  <brief_title>Differential Acute Tolerance Development to Effects of Nitrous Oxide - 7</brief_title>
+  <official_title>Differential Acute Tolerance Development to Effects of Nitrous Oxide</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Chicago</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Chicago</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to conduct experiments to examine subjective and reinforcing
+      effects of nitrous oxide. Mood altering and psychomotor effects will be tested on non-drug
+      abusers and preference procedures will be used to assess reinforcing effects. To examine
+      differential acute tolerance development to effects of nitrous oxide in humans.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1995</start_date>
+  <completion_date type="Actual">May 1996</completion_date>
+  <primary_completion_date type="Actual">May 1996</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Pain intensity, pain bothersomeness</measure>
+    <time_frame>25, 70, &amp; 115 min of inhalation and 40 min post</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Subjects will inhale varying conc of nitrous oxide for 120 min with cold immersion of forearm at 25, 70, and 115 min and 40 min after inhalation. Pain intensity and bothersomeness will be assessed at each immersion.</description>
+  </primary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">10</enrollment>
+  <condition>Opioid-Related Disorders</condition>
+  <condition>Substance-Related Disorders</condition>
+  <arm_group>
+    <arm_group_label>0% Nitrous oxide</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>10% nitrous oxide</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>20% nitrous oxide</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>30% nitrous oxide</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>40% nitrous oxide</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nitrous oxide</intervention_name>
+    <arm_group_label>0% Nitrous oxide</arm_group_label>
+    <arm_group_label>10% nitrous oxide</arm_group_label>
+    <arm_group_label>20% nitrous oxide</arm_group_label>
+    <arm_group_label>30% nitrous oxide</arm_group_label>
+    <arm_group_label>40% nitrous oxide</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Please contact site for information.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>37 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Zacny, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Chicago</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Chicago, Anesthesia &amp; Critical Care</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Zacny JP, Cho AM, Coalson DW, Rupani G, Young CJ, Klafta JM, Klock PA, Apfelbaum JL. Differential acute tolerance development to effects of nitrous oxide in humans. Neurosci Lett. 1996 May 10;209(2):73-6.</citation>
+    <PMID>8761985</PMID>
+  </reference>
+  <verification_date>May 2015</verification_date>
+  <lastchanged_date>May 26, 2015</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>nitrous oxide</keyword>
+  <keyword>acute tolerance</keyword>
+  <keyword>subjective effects</keyword>
+  <keyword>analgesia</keyword>
+  <keyword>psychomotor</keyword>
+  <keyword>healthy volunteer</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Nitrous Oxide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

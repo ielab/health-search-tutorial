@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204513">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000464</url>
+  </required_header>
+  <id_info>
+    <org_study_id>no record in DORA</org_study_id>
+    <secondary_id>R01HL031472</secondary_id>
+    <nct_id>NCT00000464</nct_id>
+  </id_info>
+  <brief_title>Cardiac Arrest in Seattle: Conventional Versus Amiodarone Drug Evaluation (CASCADE)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Washington</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare the efficacy of amiodarone to conventional anti-arrhythmic therapy in individuals
+      who had survived one episode of out-of-hospital cardiac arrest.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Sudden cardiac death can usually be attributed to the occurrence of the cardiac arrhythmia,
+      ventricular fibrillation. Although a significant proportion of patients experiencing sudden
+      cardiac death may be successfully resuscitated without disabling sequelae, this event tends
+      to recur. Recurrent sudden cardiac death is more common among patients demonstrating certain
+      clinical characteristics such as: ventricular fibrillation occurring in a setting of a
+      remote prior transmural infarction; the presence of abnormal left ventricular function; male
+      gender; concurrent complex ventricular arrhythmias identified by electrocardiographic
+      monitoring; extensive coronary artery disease; and the ability to induce ventricular
+      arrhythmias following electrical stimulation.
+
+      Multiple therapeutic approaches are offered to patients surviving primary ventricular
+      fibrillation. In those with evidence of myocardial ischemia, coronary revascularization
+      procedures may be employed. Pharmacological therapy with anti-arrhythmic agents either alone
+      or in combination with selection guided by the results of continuous electrocardiographic
+      monitoring or electrophysiologic studies is often the initial step. For those patients
+      refractory to medical therapy, ventricular resection or implantation of pacemakers has been
+      employed.
+
+      Amiodarone, a unique antiarrhythmic agent with complex pharmacokinetics and substantial
+      potential toxicity, has been utilized when other antiarrhythmic agents failed. The agent was
+      released as an oral agent for the treatment of ventricular fibrillation in the United States
+      by the FDA. Several investigations suggested that amiodarone was efficacious in the
+      treatment of ventricular fibrillation when other available agents had failed.
+
+      DESIGN NARRATIVE:
+
+      Patients were stratified by presence or absence of coronary artery disease, left ventricular
+      function, and presence or absence of drug failure prior to randomization. All patients
+      underwent an evaluation of left ventricular ejection fraction, usually by radionuclide
+      ventriculography, and baseline drug-free Holter recording or electrophysiologic study, or
+      both. A total of 113 patients were randomized to amiodarone and 115 patients to conventional
+      therapy with other antiarrhythmic agents which included procainamide, quinidine,
+      disopyramide, tocainide, mexiletine, encainide, flecainide, propafenone, moricizine, or
+      combination therapy in that order. Holter exams were given at one, three, six, twelve,
+      twenty-four, and thirty-six months. Patients were followed for one to five years, with an
+      average of three years overall. Primary endpoints for the study included in the term
+      'cardiac survival' were cardiac mortality, resuscitated cardiac arrest due to documented
+      ventricular fibrillation, and complete syncope followed by a shock from an automated
+      implanted defibrillator. These endpoints included sudden arrhythmic cardiac death,
+      resuscitated out-of-hospital ventricular fibrillation, and nonarrhythmic cardiac death. A
+      patient death due to amiodarone pulmonary toxicity was also considered a primary endpoint.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1987</start_date>
+  <primary_completion_date type="Actual">December 1992</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Primary Purpose: Prevention</study_design>
+  <condition>Arrhythmia</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Arrest</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Ventricular Fibrillation</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>amiodarone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>imipramine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>mexiletine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>procainamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>propafenone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>quinidine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>sotalol</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with ventricular fibrillation who had survived an out-of-hospital cardiac
+        arrest not associated with a Q-wave acute myocardial infarction.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>H. Greene</last_name>
+    <affiliation>University of Washington</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Cardiac Arrest in Seattle: Conventional Versus Amiodarone Drug Evaluation (the CASCADE study). Am J Cardiol. 1991 Mar 15;67(7):578-84.</citation>
+    <PMID>2000790</PMID>
+  </reference>
+  <reference>
+    <citation>Greene HL. Sudden arrhythmic cardiac death--mechanisms, resuscitation and classification: the Seattle perspective. Am J Cardiol. 1990 Jan 16;65(4):4B-12B. Review.</citation>
+    <PMID>2404396</PMID>
+  </reference>
+  <reference>
+    <citation>Poole JE, Mathisen TL, Kudenchuk PJ, McAnulty JH, Swerdlow CD, Bardy GH, Greene HL. Long-term outcome in patients who survive out of hospital ventricular fibrillation and undergo electrophysiologic studies: evaluation by electrophysiologic subgroups. J Am Coll Cardiol. 1990 Sep;16(3):657-65.</citation>
+    <PMID>2387939</PMID>
+  </reference>
+  <reference>
+    <citation>Dolack GL, Callahan DB, Bardy GH, Greene HL. Signal-averaged electrocardiographic late potentials in resuscitated survivors of out-of-hospital ventricular fibrillation. Am J Cardiol. 1990 May 1;65(16):1102-4.</citation>
+    <PMID>2330894</PMID>
+  </reference>
+  <reference>
+    <citation>Bardy GH, Allen MD, Mehra R, Johnson G, Feldman S, Greene HL, Ivey TD. Transvenous defibrillation in humans via the coronary sinus. Circulation. 1990 Apr;81(4):1252-9.</citation>
+    <PMID>2317907</PMID>
+  </reference>
+  <reference>
+    <citation>Bardy GH, Troutman C, Johnson G, Mehra R, Poole JE, Dolack GL, Kudenchuk PJ, Gartman DM. Electrode system influence on biphasic waveform defibrillation efficacy in humans. Circulation. 1991 Aug;84(2):665-71.</citation>
+    <PMID>1860210</PMID>
+  </reference>
+  <reference>
+    <citation>Randomized antiarrhythmic drug therapy in survivors of cardiac arrest (the CASCADE Study). The CASCADE Investigators. Am J Cardiol. 1993 Aug 1;72(3):280-7.</citation>
+    <PMID>8342505</PMID>
+  </reference>
+  <reference>
+    <citation>Dolack GL. Clinical predictors of implantable cardioverter-defibrillator shocks (results of the CASCADE trial). Cardiac Arrest in Seattle, Conventional versus Amiodarone Drug Evaluation. Am J Cardiol. 1994 Feb 1;73(4):237-41.</citation>
+    <PMID>8296753</PMID>
+  </reference>
+  <reference>
+    <citation>Greene HL. The CASCADE Study: randomized antiarrhythmic drug therapy in survivors of cardiac arrest in Seattle. CASCADE Investigators. Am J Cardiol. 1993 Nov 26;72(16):70F-74F.</citation>
+    <PMID>8237833</PMID>
+  </reference>
+  <reference>
+    <citation>Maynard C. Rehospitalization in surviving patients of out-of-hospital ventricular fibrillation (the CASCADE Study). Cardiac Arrest in Seattle: Conventional Amiodarone Drug Evaluation. Am J Cardiol. 1993 Dec 1;72(17):1295-300.</citation>
+    <PMID>8256707</PMID>
+  </reference>
+  <verification_date>July 2013</verification_date>
+  <lastchanged_date>July 26, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Heart Arrest</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Ventricular Fibrillation</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Amiodarone</mesh_term>
+    <mesh_term>Procainamide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

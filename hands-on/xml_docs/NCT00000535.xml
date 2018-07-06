@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204442">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000535</url>
+  </required_header>
+  <id_info>
+    <org_study_id>78</org_study_id>
+    <nct_id>NCT00000535</nct_id>
+  </id_info>
+  <brief_title>Trial of Nonpharmacologic Interventions in Elderly (TONE)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To test the efficacy of weight loss and sodium restriction, alone and combined, in
+      maintaining the normotensive state following withdrawal of antihypertensive medications in
+      an elderly cohort. Conducted in collaboration with the National Institute on Aging.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      An estimated 30 to 40 percent of elderly persons are treated with blood pressure
+      medications. The efficacy of blood pressure drug therapy in older patients with diastolic or
+      combined diastolic/systolic hypertension is well proven, but such therapy can adversely
+      affect quality of life and biochemical profile. In 1992 when the study started, there was a
+      compelling rationale to identify what proportion of medicated, well-controlled elderly
+      hypertensives could be maintained long-term or greater than 30 months in the normotensive
+      state following withdrawal of blood pressure medications. There was also a need to determine
+      whether nonpharmacologic therapy could significantly increase the proportion with a
+      successful outcome.
+
+      DESIGN NARRATIVE:
+
+      Randomized. A total of 585 overweight subjects were assigned in a 2 x 2 factorial design to
+      weight loss, sodium reduction, combined weight loss and sodium reduction, or usual
+      life-style control. The remaining 390 subjects of normal weight were assigned in a 2-armed
+      design to a sodium reduction or an attention control group. The control groups were engaged
+      in a series of non-blood pressure related health encounters designed to control for
+      non-specific effects of groups contacts. Withdrawal of antihypertensive medication was
+      attempted following three months of intervention. The primary endpoint was a blood pressure
+      of 150/90 mm Hg or greater, resumption of antihypertensive drug therapy, or the occurrence
+      of a blood pressure-related clinical complication during two to three years of follow-up.
+      Recruitment ended in June, 1994. Follow-up ended in December, 1995. NHLBI support for the
+      trial ended in March, 1997. The NIA supported the Coordinating Center and two clinical
+      centers through February 1998.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1992</start_date>
+  <completion_date>March 1997</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Factorial Assignment, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, reducing</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, sodium-restricted</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with a systolic blood pressure of less than 145 mm Hg and diastolic blood
+        pressure of less than 85 mm Hg on single-drug therapy.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Walter Ettinger</last_name>
+    <affiliation>Bowman Gray School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Robert Wood Johnson Medical School</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bowman Gray School of Medicine</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Tennessee</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Appel LJ, Espeland M, Whelton PK, Dolecek T, Kumanyika S, Applegate WB, Ettinger WH Jr, Kostis JB, Wilson AC, Lacy C, et al. Trial of Nonpharmacologic Intervention in the Elderly (TONE). Design and rationale of a blood pressure control trial. Ann Epidemiol. 1995 Mar;5(2):119-29.</citation>
+    <PMID>7795830</PMID>
+  </reference>
+  <reference>
+    <citation>Espeland MA, Kumanyika S, Kostis JB, Algire J, Applegate WB, Ettinger W, Whelton PK, Bahnson J. Antihypertensive medication use among recruits for the Trial of Nonpharmacologic Interventions in the Elderly (TONE). J Am Geriatr Soc. 1996 Oct;44(10):1183-9.</citation>
+    <PMID>8855996</PMID>
+  </reference>
+  <reference>
+    <citation>Whelton PK, Appel LJ, Espeland MA, Applegate WB, Ettinger WH Jr, Kostis JB, Kumanyika S, Lacy CR, Johnson KC, Folmar S, Cutler JA. Sodium reduction and weight loss in the treatment of hypertension in older persons: a randomized controlled trial of nonpharmacologic interventions in the elderly (TONE). TONE Collaborative Research Group. JAMA. 1998 Mar 18;279(11):839-46. Erratum in: JAMA 1998 Jun 24;279(24):1954.</citation>
+    <PMID>9515998</PMID>
+  </reference>
+  <reference>
+    <citation>Whelton PK, Babnson J, Appel LJ, Charleston J, Cosgrove N, Espeland MA, Folmar S, Hoagland D, Krieger S, Lacy C, Lichtermann L, Oates-Williams F, Tayback M, Wilson AC. Recruitment in the Trial of Nonpharmacologic Intervention in the Elderly (TONE). J Am Geriatr Soc. 1997 Feb;45(2):185-93.</citation>
+    <PMID>9033517</PMID>
+  </reference>
+  <reference>
+    <citation>Kostis JB, Espeland MA, Appel L, Johnson KC, Pierce J, Wofford JL. Does withdrawal of antihypertensive medication increase the risk of cardiovascular events? Trial of Nonpharmacologic Interventions in the Elderly (TONE) Cooperative Research Group. Am J Cardiol. 1998 Dec 15;82(12):1501-8.</citation>
+    <PMID>9874055</PMID>
+  </reference>
+  <reference>
+    <citation>Kostis JB, Wilson AC, Shindler DM, Cosgrove NM, Lacy CR. Persistence of normotension after discontinuation of lifestyle intervention in the trial of TONE. Trial of Nonpharmacologic Interventions in the Elderly. Am J Hypertens. 2002 Aug;15(8):732-4.</citation>
+    <PMID>12160197</PMID>
+  </reference>
+  <reference>
+    <citation>Kostis JB, Wilson AC, Hooper WC, Harrison KW, Philipp CS, Appel LJ, Espeland MA, Folmar S, Johnson KC; TONE Cooperative Research Group. Trial Of Nonpharmacologic interventions in the Elderly. Association of angiotensin-converting enzyme DD genotype with blood pressure sensitivity to weight loss. Am Heart J. 2002 Oct;144(4):625-9.</citation>
+    <PMID>12360157</PMID>
+  </reference>
+  <reference>
+    <citation>Kumanyika SK, Espeland MA, Bahnson JL, Bottom JB, Charleston JB, Folmar S, Wilson AC, Whelton PK; TONE Cooperative Research Group. Ethnic comparison of weight loss in the Trial of Nonpharmacologic Interventions in the Elderly. Obes Res. 2002 Feb;10(2):96-106.</citation>
+    <PMID>11836455</PMID>
+  </reference>
+  <reference>
+    <citation>Appel LJ, Espeland MA, Easter L, Wilson AC, Folmar S, Lacy CR. Effects of reduced sodium intake on hypertension control in older individuals: results from the Trial of Nonpharmacologic Interventions in the Elderly (TONE). Arch Intern Med. 2001 Mar 12;161(5):685-93.</citation>
+    <PMID>11231700</PMID>
+  </reference>
+  <verification_date>October 2002</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204203">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000776</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 202</org_study_id>
+    <secondary_id>11178</secondary_id>
+    <nct_id>NCT00000776</nct_id>
+  </id_info>
+  <brief_title>Dexamethasone in Cryptococcal Meningitis</brief_title>
+  <official_title>Dexamethasone in Cryptococcal Meningitis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the effect of corticosteroids on reducing elevated intracranial pressure in
+      cryptococcal meningitis. To evaluate the safety of corticosteroids in patients with
+      cryptococcal meningitis and intracranial hypertension.
+
+      In AIDS patients with cryptococcal meningitis, a correlation has been found between early
+      death and elevated intracranial pressure. Since dexamethasone has been found to reduce
+      intracranial pressure resulting from other forms of meningitis, it may be of benefit in AIDS
+      patients with cryptococcal meningitis.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In AIDS patients with cryptococcal meningitis, a correlation has been found between early
+      death and elevated intracranial pressure. Since dexamethasone has been found to reduce
+      intracranial pressure resulting from other forms of meningitis, it may be of benefit in AIDS
+      patients with cryptococcal meningitis.
+
+      Patients are randomized to receive dexamethasone or placebo every 6 hours for 72 hours (days
+      1 through 3). Additionally, standard antifungal therapy with amphotericin B and flucytosine
+      is given for 2 weeks, followed by fluconazole for 8 weeks. Lumbar punctures will be
+      performed daily on days 1 through 3, on days 7 and 14, and at week 10.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">September 1996</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>36</enrollment>
+  <condition>Meningitis, Cryptococcal</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Flucytosine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluconazole</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amphotericin B</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  Aerosolized pentamidine or systemic chemoprophylaxis for PCP.
+
+          -  Preventive therapy for steroid-associated ulcers and any other therapies required to
+             manage steroid toxicity (e.g., insulin).
+
+        Patients must have:
+
+          -  Documented initial episode or relapse of acute cryptococcal meningitis. (NOTE:
+             Patients must be untreated for this episode except for administration of a test dose
+             of 1 g or less amphotericin B.)
+
+          -  Acute cryptococcal meningitis with cerebrospinal fluid opening pressure &gt;= 250 mm H2O
+             prior to receipt of antifungal therapy for this episode.
+
+          -  Documented HIV infection OR a diagnosis of AIDS based on a documented AIDS-defining
+             opportunistic infection.
+
+          -  Ability to begin therapy within 8 hours after the pre-entry lumbar puncture.
+
+          -  Consent of parent or guardian if less than 18 years of age.
+
+        NOTE:
+
+          -  Comatose patients eligible provided informed consent can be provided by guardian or
+             next of kin.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Concurrent CNS disease such as another infection or neoplasm that would interfere
+             with assessment of response.
+
+          -  Prison incarceration.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Acetazolamide, mannitol, urea preparations, and other corticosteroids during the
+             first 72 hours of the study.
+
+          -  Treatment or prophylaxis with other systemic antifungal agents at any time.
+
+          -  Antiretroviral therapy during the first 72 hours of the study.
+
+        Prior Medication:
+
+        Excluded within 7 days prior to study entry:
+
+          -  Corticosteroids, mannitol, urea preparations, acetazolamide, or more than 24 hours of
+             phenytoin.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>J Jacobson</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Univ of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown Univ Med Ctr</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Miami School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>331361013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook County Hosp</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern Univ Med School</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Municipal Hosp Ctr/Jacobi Med Ctr</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Veterans Administration / Mount Sinai Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10468</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jack Weiler Hosp / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10465</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY / Health Sciences Ctr at Brooklyn</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>112032098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY / Erie County Med Ctr at Buffalo</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State Univ Hosp Clinic</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>432101228</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Puerto Rico</name>
+      <address>
+        <city>San Juan</city>
+        <zip>009365067</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=5</url>
+    <description>Click here for more information about Fluconazole</description>
+  </link>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=6</url>
+    <description>Click here for more information about Amphotericin B</description>
+  </link>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 30, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>AIDS-Related Opportunistic Infections</keyword>
+  <keyword>Meningitis</keyword>
+  <keyword>Cryptococcosis</keyword>
+  <keyword>Dexamethasone</keyword>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Fluconazole</keyword>
+  <keyword>Flucytosine</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Amphotericin B</keyword>
+  <keyword>Brain Diseases</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Meningitis</mesh_term>
+    <mesh_term>Meningitis, Cryptococcal</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Amphotericin B</mesh_term>
+    <mesh_term>BB 1101</mesh_term>
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Dexamethasone 21-phosphate</mesh_term>
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>Fluconazole</mesh_term>
+    <mesh_term>Flucytosine</mesh_term>
+    <mesh_term>Liposomal amphotericin B</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

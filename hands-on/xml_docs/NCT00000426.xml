@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204550">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000426</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01AR042155</org_study_id>
+    <secondary_id>R01AR042155</secondary_id>
+    <secondary_id>NIAMS-005</secondary_id>
+    <nct_id>NCT00000426</nct_id>
+  </id_info>
+  <brief_title>Treatment of Calcium Deficiency in Young Women</brief_title>
+  <official_title>Treatment of Calcium Deficiency in Young Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Creighton University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Creighton University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study looks at the effects of calcium supplementation on bone density in women in their
+      third decade of life. We placed women aged 19-27 who take in low amounts of calcium in their
+      diets in one of two groups. We will give women in one group a placebo (inactive pill) and
+      women in the other group 1500 milligrams of calcium per day (as calcium carbonate). We will
+      monitor the results by looking at the change in bone mineral density measured at the hip,
+      total body, forearm, and spine. Treatment will last 3 years.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, controlled trial of calcium carbonate supplementation (1500 milligrams
+      per day) in third-decade women with low calcium-to-protein intakes. We accept women aged
+      19-27 on the basis of good health and the 7-day food diary demonstrating a dietary
+      calcium-to-protein ratio (in milligrams:grams) that does not exceed 13. The outcome variable
+      is the change in BMD at hip, total body, forearm, and spine. Treatment lasts for 3 years. We
+      expect that bone mass will increase in both groups but will increase to a greater extent in
+      the calcium-supplemented group than in the nonsupplemented group.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1995</start_date>
+  <completion_date>June 2000</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>150</enrollment>
+  <condition>Osteoporosis</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Calcium supplement</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Women in good health
+
+          -  Dietary calcium-to-protein ratio (in mg:g, as assessed by 7-day food diary) does not
+             exceed 13
+
+        Exclusion Criteria:
+
+          -  Smoking
+
+          -  Pregnancy
+
+          -  Lactation
+
+          -  Endocrine disease
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>27 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert P. Heaney, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Creighton University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Creighton University</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Heaney RP. Phosphorus nutrition and the treatment of osteoporosis. Mayo Clin Proc. 2004 Jan;79(1):91-7. Review.</citation>
+    <PMID>14708952</PMID>
+  </reference>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>June 27, 2013</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Calcium deficiency</keyword>
+  <keyword>Dietary calcium</keyword>
+  <keyword>Dietary protein</keyword>
+  <keyword>Osteoporosis</keyword>
+  <keyword>Calcium supplement</keyword>
+  <keyword>Bone density</keyword>
+  <keyword>Bone mass</keyword>
+  <keyword>Bone mass accumulation</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Osteoporosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Calcium, Dietary</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

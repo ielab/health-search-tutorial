@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204543">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000433</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N01AR92244</org_study_id>
+    <secondary_id>NIAMS-043</secondary_id>
+    <nct_id>NCT00000433</nct_id>
+  </id_info>
+  <brief_title>Blocking Tumor Necrosis Factor in Ankylosing Spondylitis</brief_title>
+  <official_title>Anti-Tumor Necrosis Factor (TNFR:Fc) in Ankylosing Spondylitis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Division of Rheumatology at University of California San Francisco is conducting a
+      research study on the treatment of ankylosing spondylitis (AS) with a new therapy currently
+      used for people with other forms of arthritis. The drug, called Enbrel (or etanercept), is a
+      protein that is given twice weekly by injection underneath the skin. It blocks the action of
+      tumor necrosis factor-alpha (TNF-alpha), a substance that may be involved in AS, rheumatoid
+      arthritis, and other inflammatory conditions. We will randomly assign patients to receive
+      either the drug or a placebo (inactive treatment) for 4 months. The results we will monitor
+      include morning stiffness, spinal mobility, activities of daily life, and safety of the
+      drug.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this Phase II clinical trial we will use tumor necrosis factor receptor p75 fusion
+      protein (TNFR:Fc, or etanercept) to treat patients with ankylosing spondylitis (AS). TNFR:Fc
+      is an antagonist of tumor necrosis factor (TNF), a cytokine that researchers have shown to
+      play a possible role in disease pathogenesis of ankylosing spondylitis, rheumatoid
+      arthritis, and vasculitis, as well as other inflammatory conditions.
+
+      TNFR:Fc consists of two molecules of the extracellular portion of the p75 receptor, each
+      consisting of 235 amino acids. The two receptors are fused to the Fc portion of human IgG1,
+      which consists of 232 amino acids. The gene fragments encoding the truncated TNFR and the Fc
+      portion of human IgG1 are expressed in a Chinese hamster ovary cell line.
+
+      Recent observations from animal and human studies suggest that tumor necrosis factor-alpha
+      (TNF-alpha) may play a role in disease activity in AS and other seronegative
+      spondyloarthropathies. This study aims to test the efficacy of TNFR:Fc used in conjunction
+      with standard medications in the treatment of AS. We will give patients either 25mg of
+      TNFR:Fc or placebo subcutaneously twice a week for 4 months. Outcome measures will include
+      measures of function, pain, morning stiffness, patient global assessment, and swollen joint
+      count, as well as safety measures.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 1999</start_date>
+  <completion_date>March 2002</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>42</enrollment>
+  <condition>Spondylitis, Ankylosing</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anti-Tumor Necrosis Factor</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of Ankylosing spondylitis
+
+          -  Acceptable stable treatments during study: oral glucocorticoids (less than or equal
+             to 10 mg/d) and/or NSAIDs at recommended doses and/or one of the following options:
+             methotrexate (less than or equal to 20.0 mg/week); sulfasalazine (less than or equal
+             to 3 grams/d); azathioprine (less than or equal to 2 mg/kg/d); methotrexate and
+             sulfasalazine combination at doses listed above; 6-mercaptopurine (less than or equal
+             to 1.5 mg/kg/d)
+
+        Exclusion Criteria:
+
+          -  Diagnosis of psoriatic arthritis, inflammatory bowel disease, reactive arthritis, or
+             Behýet disease
+
+          -  Significant medical problems, such as diabetes mellitus
+
+          -  History of active or recurrent infections
+
+          -  Complete ankylosis of the entire spine
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John C. Davis, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Division of Rheumatology, University of California - San Francisco Department of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCSF-Clinical Trials Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143-0792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Gorman JD, Sack KE, Davis JC Jr. Treatment of ankylosing spondylitis by inhibition of tumor necrosis factor alpha. N Engl J Med. 2002 May 2;346(18):1349-56.</citation>
+    <PMID>11986408</PMID>
+  </reference>
+  <reference>
+    <citation>Davis JC Jr, Van Der Heijde D, Braun J, Dougados M, Cush J, Clegg DO, Kivitz A, Fleischmann R, Inman R, Tsuji W; Enbrel Ankylosing Spondylitis Study Group. Recombinant human tumor necrosis factor receptor (etanercept) for treating ankylosing spondylitis: a randomized, controlled trial. Arthritis Rheum. 2003 Nov;48(11):3230-6.</citation>
+    <PMID>14613288</PMID>
+  </reference>
+  <reference>
+    <citation>Davis JC Jr, Huang F, Maksymowych W. New therapies for ankylosing spondylitis: etanercept, thalidomide, and pamidronate. Rheum Dis Clin North Am. 2003 Aug;29(3):481-94, viii. Review.</citation>
+    <PMID>12951863</PMID>
+  </reference>
+  <verification_date>February 2003</verification_date>
+  <lastchanged_date>January 2, 2007</lastchanged_date>
+  <firstreceived_date>January 18, 2000</firstreceived_date>
+  <keyword>Spondylitis</keyword>
+  <keyword>Etanercept</keyword>
+  <keyword>ENBREL</keyword>
+  <keyword>Tumor necrosis factor-alpha</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Necrosis</mesh_term>
+    <mesh_term>Spondylitis</mesh_term>
+    <mesh_term>Spondylitis, Ankylosing</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

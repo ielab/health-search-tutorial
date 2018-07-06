@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204535">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000441</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAAMAL10761</org_study_id>
+    <nct_id>NCT00000441</nct_id>
+  </id_info>
+  <brief_title>Drug Therapy for Alcohol Detoxification</brief_title>
+  <official_title>Carbamazepine and Lorazepam in Outpatient Detoxification</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project will provide relevant clinical information for primary care practitioners
+      treating alcohol withdrawal syndrome in outpatient settings. This double-blind, placebo-
+      controlled clinical trial will compare the effectiveness of lorazepam (Ativan) and
+      carbamazepine (Tegretol) in alcoholics who meet the criteria for a diagnosis of
+      uncomplicated alcohol withdrawal syndrome. Participants are randomized to five days of
+      treatment with a 1-week posttreatment followup.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <completion_date>December 2000</completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Alcoholism</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>lorazepam (Ativan)</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>carbamazepine (Tegretol)</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets criteria for alcohol dependence and uncomplicated alcohol withdrawal syndrome.
+
+          -  Ability to provide informed consent, complete self-rating questionnaires, and respond
+             to structured clinician-rated instruments.
+
+          -  Must live within 50 miles or one hour of the study site and have reliable
+             transportation to the site.
+
+          -  Must have a significant other who will provide a collateral report, attend outpatient
+             visits, and be available by telephone.
+
+          -  Subjects must be medically stable.
+
+          -  Must have a clinical withdrawal assessment prior to study.
+
+        Exclusion Criteria:
+
+          -  Meets criteria for any other substance dependence syndrome other than alcohol
+             dependence or marijuana abuse.
+
+          -  Use of other illicit psychoactive substances (except marijuana) in the last 7 days.
+
+          -  Use of pharmaceutical agents within the last 14 days that are known to lower the
+             seizure threshold, augment or decrease the alcohol withdrawal syndrome.
+
+          -  History of status epilepticus or two or more seizures occurring within 24- hour
+             period during a previous alcohol withdrawal or other forms of epilepsy.
+
+          -  Current major depressive illness, dementia, suicidal or homicidal ideation, or past
+             or present schizophrenia.
+
+          -  Acute medical instability as characterized by hepatic encephalopathy, past or present
+             severe liver failure.
+
+          -  Diabetes requiring insulin, or severe renal disease.
+
+          -  Pregnant females.
+
+          -  High blood pressure.
+
+          -  Individuals with vomiting who cannot take oral medications at beginning of study or
+             whose vomiting can be controlled only with antiemetic medication.
+
+          -  High white blood count, or liver function test that is 3 times higher than normal.
+
+          -  Known hypersensitivity or previous adverse reaction to carbamazepine, lorazepam, or
+             other benzodiazepines.
+
+          -  Any relevant ECG abnormality which might require hospitalization or greatly interfere
+             with safety during outpatient withdrawal.
+
+          -  History of severe gastrointestinal (GI) disease which might render absorption of the
+             medication difficult or produce medical instability of the patient during
+             detoxification which would include active peptic ulcer disease, ulcerative colitis,
+             regional ileitis, or evidence by history or physical examination of GI bleeding.
+
+          -  Familial tremor or other neurological condition, determined by history, known to
+             produce tremor.
+
+          -  Unable to provide a written informed consent.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Department of Psychiatry and Behavioral Sciences, Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2002</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carbamazepine</mesh_term>
+    <mesh_term>Lorazepam</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

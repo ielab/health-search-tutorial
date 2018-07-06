@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204478">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000499</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18</org_study_id>
+    <secondary_id>R10HL023914-01</secondary_id>
+    <nct_id>NCT00000499</nct_id>
+  </id_info>
+  <brief_title>Systolic Hypertension in the Elderly Program (SHEP) (Pilot Study)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The SHEP Pilot Study had six objectives, each designed to develop and test critical
+      components of a full scale trial directed at the health consequences of treating isolated
+      systolic hypertension (ISH) in the elderly.
+
+      l. To estimate and compare the yield of participants for randomization into a clinical trial
+      from various community groups using various recruitment techniques.
+
+      2. To estimate compliance with the visit schedule and to the prescribed double-blind
+      regimens.
+
+      3. To estimate and compare the effectiveness of specified antihypertensive medications in
+      reducing the blood pressure.
+
+      4. To estimate and compare the unwanted effects of specified antihypertensive medication in
+      an elderly population.
+
+      5. To evaluate the feasibility and effectiveness of periodic behavioral assessment in this
+      population.
+
+      6. To develop and test methods of ascertaining stroke and other disease endpoints.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Isolated systolic hypertension, defined as systolic blood pressure of 140 mm Hg or greater
+      with a diastolic blood pressure below 90 mm Hg, is known to be associated with an increase
+      of risk of coronary heart disease and stroke. The HANES I group estimated that isolated
+      systolic hypertension, uncommon under 54 years of age, occurred in 5 percent to 10 percent
+      of adults over 55 years and was less common than systolic-diastolic elevation. Evidence was
+      not readily available that there was effective and safe therapy to correct isolated systolic
+      hypertension. At that time, there was no body of clinical or research data that conclusively
+      proved that such therapy, if available, was beneficial.
+
+      Several groups had expressed interest in a clinical trial on systolic hypertension in the
+      elderly. Among these were the House Select Committee on Aging, a Blue-Ribbon Panel on
+      Hypertension in the Elderly, Citizens for the Treatment of High Blood Pressure, panels and
+      experts associated with the National High Blood Pressure Education Program, the National
+      Institute on Aging, the National Institute of Mental Health, and the National Institute of
+      Neurological and Communicative Disorders and Stroke.
+
+      A Policy and Data Monitoring Board was appointed to review the protocols for the pilot
+      studies as they developed and make recommendations to the Director of NHLBI. The Policy and
+      Data Monitoring Board reviewed the accumulated data on April 8, 1983 and recommended to the
+      Institute that a full scale trial be implemented. The recommendation was accepted by the
+      Director, NHLBI and was presented to the National Heart, Lung, and Blood Advisory Council at
+      its meeting in May 1983. A full scale trial was conducted.
+
+      DESIGN NARRATIVE:
+
+      A randomized, double-blind design, with two groups and fixed sample size. The 551
+      participants were randomized in a stratified double-blind manner to either chlorthalidone or
+      matching placebo in a ratio of 4:l. Subjects failing to reach goal blood pressure were
+      randomized a second time to receive one of the following drugs in addition to
+      chlorthalidone: reserpine, hydralazine, and metoprolol. Subjects on placebo in Step I who
+      did not achieve goal had a corresponding Step II placebo added to their regimen.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1980</start_date>
+  <completion_date type="Actual">May 1983</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>chlorthalidone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>reserpine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>hydralazine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>metoprolol</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, aged 60 or over. Isolated systolic hypertension. Normal diastolic pressure
+        of less than 90 mm Hg.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Merwyn Greenlick</last_name>
+    <affiliation>Kaiser Foundation Research Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert McDonald</last_name>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>H. Perry</last_name>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Harold Schnaper</last_name>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>James Schoenberger</last_name>
+    <affiliation>Rush University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Smith WM: Isolated Systolic Hypertension in the Elderly. Curr Med Res Opin, 8:19-29, 1983.</citation>
+  </reference>
+  <reference>
+    <citation>Hughes GH, Schnaper HW: The Systolic Hypertension in the Elderly Program. Int J Mental Health, 11:76-97, 1983.</citation>
+  </reference>
+  <reference>
+    <citation>Smith WM: Isolated Systolic Hypertension in the Elderly. Mild Hypertension: Recent Advances, Raven Press, New York, 1983.</citation>
+  </reference>
+  <reference>
+    <citation>Hulley SB, Furberg CD, Gurland B, McDonald R, Perry HM, Schnaper HW, Schoenberger JA, Smith WM, Vogt TM. Systolic Hypertension in the Elderly Program (SHEP): antihypertensive efficacy of chlorthalidone. Am J Cardiol. 1985 Dec 1;56(15):913-20.</citation>
+    <PMID>4072925</PMID>
+  </reference>
+  <reference>
+    <citation>Bagniewska A, Black D, Molvig K, Fox C, Ireland C, Smith J, Hulley S. Data quality in a distributed data processing system: the SHEP Pilot Study. Control Clin Trials. 1986 Mar;7(1):27-37.</citation>
+    <PMID>3956210</PMID>
+  </reference>
+  <reference>
+    <citation>Hulley SB, Feigal D, Ireland C, Kuller LH, Smith WM. Systolic hypertension in the elderly program (SHEP). The first three months. J Am Geriatr Soc. 1986 Feb;34(2):101-5.</citation>
+    <PMID>3511131</PMID>
+  </reference>
+  <reference>
+    <citation>Perry HM Jr, McDonald RH, Hulley SB, Smith WM, Furberg CD, Greenlick MR, Kuller LH, Schnaper HW, Schoenberger JA, Vogt TM. Systolic Hypertension in the Elderly Program, Pilot Study (SHEP-PS): morbidity and mortality experience. J Hypertens Suppl. 1986 Dec;4(6):S21-3.</citation>
+    <PMID>3302150</PMID>
+  </reference>
+  <reference>
+    <citation>Siegel D, Kuller L, Lazarus NB, Black D, Feigal D, Hughes G, Schoenberger JA, Hulley SB. Predictors of cardiovascular events and mortality in the Systolic Hypertension in the Elderly Program pilot project. Am J Epidemiol. 1987 Sep;126(3):385-99.</citation>
+    <PMID>3303916</PMID>
+  </reference>
+  <reference>
+    <citation>Vogt TM, Ireland CC, Greenlick MR, Hughes GH. Relation of life events to blood pressure control in the SHEP pilot trial. Am J Prev Med. 1988 Jan-Feb;4(1):1-4.</citation>
+    <PMID>3293631</PMID>
+  </reference>
+  <reference>
+    <citation>Perry HM Jr, Smith WM, McDonald RH, Black D, Cutler JA, Furberg CD, Greenlick MR, Kuller LH, Schnaper HW, Schoenberger JA, et al. Morbidity and mortality in the Systolic Hypertension in the Elderly Program (SHEP) pilot study. Stroke. 1989 Jan;20(1):4-13.</citation>
+    <PMID>2911834</PMID>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Chlorthalidone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

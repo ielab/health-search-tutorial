@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204433">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000544</url>
+  </required_header>
+  <id_info>
+    <org_study_id>87</org_study_id>
+    <nct_id>NCT00000544</nct_id>
+  </id_info>
+  <brief_title>Dietary Approaches to Stop Hypertension (DASH)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To test the effectiveness of dietary patterns in lowering blood pressure.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The strong relationship between diet and blood pressure and the risk of hypertension has
+      been well recognized. Currently, three specific diet-related factors have been recommended
+      by the Joint National Committee on High Blood Pressure as a first-line approach in
+      preventing and treating hypertension: caloric restriction for weight reduction, reduced
+      consumption of alcohol, and lower sodium intake. Many studies, primarily observational, have
+      shown significant associations between blood pressure and other diet-related factors,
+      including micronutrients such as potassium, calcium, and magnesium; macronutrients such as
+      type and amount of dietary fats, particularly polyunsaturated, and protein; and dietary
+      fiber. However, results from individual, randomized, controlled clinical trials testing the
+      effects of these nutrients on blood pressure have been inconsistent and equivocal. On the
+      other hand, both observational and randomized intervention studies have consistently linked
+      vegetarian dietary patterns to lower blood pressure.
+
+      To determine which specific dietary component may account for the blood pressure-lowering
+      effect produced by vegetarian diets, numerous studies have examined individual
+      micronutrients, macronutrients, and fiber. A large majority of cross-cultural and
+      observational studies have shown a significant inverse association of blood pressure with
+      the micronutrients, potassium, calcium, and magnesium, while the evidence linking dietary
+      fiber to lower blood pressure comes primarily from studies on vegetarian and other high
+      fiber diets. However, only a few of numerous clinical trials found that potassium or calcium
+      supplements lower blood pressure. Randomized trials of magnesium supplementation generally
+      have not shown a significant reduction in blood pressure. The few intervention studies of
+      fiber supplements likewise generally have not demonstrated significant lowering of blood
+      pressure. Pooled estimates from meta-analyses of potassium and calcium trials have reported
+      small but significant reductions in systolic (potassium and calcium) and diastolic
+      (potassium) blood pressure. All of these results are compatible with small effects of
+      individual dietary components.
+
+      Only a few observational and intervention studies have demonstrated a relationship between
+      the macronutrients, dietary fats or protein, and blood pressure. However, recent data
+      analyses shown significant direct associations with saturated fat and dietary cholesterol,
+      and inverse associations with protein intake.
+
+      Thus, an overall summary of the literature suggests that there is strong potential for a
+      number of macronutrients and micronutrients to play an important role in reducing blood
+      pressure. Testing dietary patterns rather than specific nutrients is a promising approach
+      because it is not yet known which nutrients might be most effective in lowering blood
+      pressure and because the effect of individual nutrients may be small. Testing dietary
+      patterns would naturally include several nutrients that cumulatively are likely to lower
+      blood pressure. Furthermore, most intervention studies which have not demonstrated decreases
+      in blood pressure from individual nutrients used supplements rather than foods. Therefore,
+      it may be important to test nutrients as components of foods and dietary patterns and not as
+      isolated or processed nutrients.
+
+      DESIGN NARRATIVE:
+
+      DASH, a randomized, multicenter, controlled trial, compared the effects of three dietary
+      patterns on blood pressure. The study design consisted of a three-week run-in period during
+      which eligible participants were provided a diet that approximated a typical American diet
+      in nutrient content. After run-in, eligible participants were randomized to one of three
+      dietary patterns which lasted for eight weeks: a 'typical' American diet in which the
+      macronutrient and fiber content reflected current United States consumption and was
+      relatively low in calcium, potassium, and magnesium; a diet that was high in fruits and
+      vegetables, and therefore high in potassium, magnesium, and fiber. The macronutrient and
+      calcium content of this diet otherwise resembled that of the typical American diet. The
+      third diet, termed the DASH diet, was high in fruits, vegetables, and low-fat dairy
+      products, and had a favorable macronutrient profile. This diet was low in saturated fat,
+      total fat, and cholesterol, was moderately high in protein, and had a high content of
+      calcium, potassium, magnesium, and fiber. All three diets had about 3 grams of sodium
+      daily--slightly below the average U.S. consumption-- and all included fresh, frozen, canned,
+      and dried foods. None of the diets was vegetarian or used specialty foods containing fat
+      substitutes. Alcohol and caffeine-containing beverages were limited and monitored. Because
+      it was important that good compliance to the diet be assured, food was provided to the
+      free-living study participants. The primary endpoint was change in diastolic blood pressure
+      from baseline to the end of the study. The study compared the changes in diastolic blood
+      pressure among the three dietary patterns. Screening began in June 1994. Randomization began
+      in September 1994 and was expected to take two years. Support for the trial ended in July
+      1997.
+
+      NHLBI funded an ancillary study of DASH entitled, Folic Acid Dose Response. The purpose of
+      the study was to determine the dose-response relationship between dietary folic acid intake
+      and plasma folate and homocysteine. A total of 133 healthy people aged 60 years or older
+      were enrolled. Participants were assigned to either 0, 100, 400, 1000, or 2000 micrograms of
+      folic acid for 6 weeks. Study participants were newly recruited and were not DASH
+      participants.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1993</start_date>
+  <completion_date>July 1997</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with higher than optimal diastolic blood pressure or with Stage 1 (mild)
+        hypertension.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>22 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>William Vollmer</last_name>
+    <affiliation>Kaiser Foundation Research Institute</affiliation>
+  </overall_official>
+  <link>
+    <url>http://www.brighamandwomens.org/patient/patient_dept_frame.asp?id=8</url>
+  </link>
+  <reference>
+    <citation>Laws R, Newgard ML. Bridging the gap: using ODBC to grab data stored in a SAS data warehouse for reporting in Microsoft Access. 21st Annual SAS Users Group 1996;724-728.</citation>
+  </reference>
+  <reference>
+    <citation>Sacks FM, Obarzanek E, Windhauser MM, Svetkey LP, Vollmer WM, McCullough M, Karanja N, Lin PH, Steele P, Proschan MA, et al. Rationale and design of the Dietary Approaches to Stop Hypertension trial (DASH). A multicenter controlled-feeding study of dietary patterns to lower blood pressure. Ann Epidemiol. 1995 Mar;5(2):108-18.</citation>
+    <PMID>7795829</PMID>
+  </reference>
+  <reference>
+    <citation>Appel LJ, Moore TJ, Obarzanek E, Vollmer WM, Svetkey LP, Sacks FM, Bray GA, Vogt TM, Cutler JA, Windhauser MM, Lin PH, Karanja N. A clinical trial of the effects of dietary patterns on blood pressure. DASH Collaborative Research Group. N Engl J Med. 1997 Apr 17;336(16):1117-24.</citation>
+    <PMID>9099655</PMID>
+  </reference>
+  <reference>
+    <citation>Appel LJ, Moore TJ, Obarzanek E. Dietary patterns and blood pressure. N Engl J Med 1997;337:637-638</citation>
+  </reference>
+  <reference>
+    <citation>Miller ER 3rd, Appel LJ, Jiang L, Risby TH. Association between cigarette smoking and lipid peroxidation in a controlled feeding study. Circulation. 1997 Aug 19;96(4):1097-101.</citation>
+    <PMID>9286935</PMID>
+  </reference>
+  <reference>
+    <citation>Vollmer WM, Svetkey LP, Appel LJ, Obarzanek E, Reams P, Kennedy B, Aicher K, Charleston J, Conlin PR, Evans M, Harsha D, Hertert S. Recruitment and retention of minority participants in the DASH controlled feeding trial. DASH Collaborative Research Group. Dietary Approaches to Stop Hypertension. Ethn Dis. 1998;8(2):198-208.</citation>
+    <PMID>9681285</PMID>
+  </reference>
+  <reference>
+    <citation>Zemel MB. Dietary pattern and hypertension: the DASH study. Dietary Approaches to Stop Hypertension. Nutr Rev. 1997 Aug;55(8):303-5. Review.</citation>
+    <PMID>9287480</PMID>
+  </reference>
+  <reference>
+    <citation>Blackburn GL. Functional foods in the prevention and treatment of disease: significance of the Dietary Approaches to Stop Hypertension Study. Am J Clin Nutr. 1997 Nov;66(5):1067-71.</citation>
+    <PMID>9356522</PMID>
+  </reference>
+  <reference>
+    <citation>Svetkey LP, Simons-Morton D, Vollmer WM, Appel LJ, Conlin PR, Ryan DH, Ard J, Kennedy BM. Effects of dietary patterns on blood pressure: subgroup analysis of the Dietary Approaches to Stop Hypertension (DASH) randomized clinical trial. Arch Intern Med. 1999 Feb 8;159(3):285-93.</citation>
+    <PMID>9989541</PMID>
+  </reference>
+  <reference>
+    <citation>Moore TJ, Vollmer WM, Appel LJ, Sacks FM, Svetkey LP, Vogt TM, Conlin PR, Simons-Morton DG, Carter-Edwards L, Harsha DW. Effect of dietary patterns on ambulatory blood pressure : results from the Dietary Approaches to Stop Hypertension (DASH) Trial. DASH Collaborative Research Group. Hypertension. 1999 Sep;34(3):472-7.</citation>
+    <PMID>10489396</PMID>
+  </reference>
+  <reference>
+    <citation>Windhauser MM, Ernst DB, Karanja NM, Crawford SW, Redican SE, Swain JF, Karimbakas JM, Champagne CM, Hoben KP, Evans MA. Translating the Dietary Approaches to Stop Hypertension diet from research to practice: dietary and behavior change techniques. DASH Collaborative Research Group. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S90-5.</citation>
+    <PMID>10450300</PMID>
+  </reference>
+  <reference>
+    <citation>Plaisted CS, Lin PH, Ard JD, McClure ML, Svetkey LP. The effects of dietary patterns on quality of life: a substudy of the Dietary Approaches to Stop Hypertension trial. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S84-9.</citation>
+    <PMID>10450299</PMID>
+  </reference>
+  <reference>
+    <citation>Windhauser MM, Evans MA, McCullough ML, Swain JF, Lin PH, Hoben KP, Plaisted CS, Karanja NM, Vollmer WM. Dietary adherence in the Dietary Approaches to Stop Hypertension trial. DASH Collaborative Research Group. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S76-83.</citation>
+    <PMID>10450298</PMID>
+  </reference>
+  <reference>
+    <citation>Appel LJ, Vollmer WM, Obarzanek E, Aicher KM, Conlin PR, Kennedy BM, Charleston JB, Reams PM. Recruitment and baseline characteristics of participants in the Dietary Approaches to Stop Hypertension trial. DASH Collaborative Research Group. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S69-75.</citation>
+    <PMID>10450297</PMID>
+  </reference>
+  <reference>
+    <citation>Phillips KM, Stewart KK, Karanja NM, Windhauser MM, Champagne CM, Swain JF, Lin PH, Evans MA. Validation of diet composition for the Dietary Approaches to Stop Hypertension trial. DASH Collaborative Research Group. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S60-8.</citation>
+    <PMID>10450296</PMID>
+  </reference>
+  <reference>
+    <citation>Swain JF, Windhauser MM, Hoben KP, Evans MA, McGee BB, Steele PD. Menu design and selection for multicenter controlled feeding studies: process used in the Dietary Approaches to Stop Hypertension trial. DASH Collaborative Research Group. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S54-9.</citation>
+    <PMID>10450295</PMID>
+  </reference>
+  <reference>
+    <citation>McCullough ML, Karanja NM, Lin PH, Obarzanek E, Phillips KM, Laws RL, Vollmer WM, O'Connor EA, Champagne CM, Windhauser MM. Comparison of 4 nutrient databases with chemical composition data from the Dietary Approaches to Stop Hypertension trial. DASH Collaborative Research Group. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S45-53.</citation>
+    <PMID>10450294</PMID>
+  </reference>
+  <reference>
+    <citation>Lin PH, Windhauser MM, Plaisted CS, Hoben KP, McCullough ML, Obarzanek E. The Linear Index Model for establishing nutrient goals in the Dietary Approaches to Stop Hypertension trial. DASH Collaborative Research Group. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S40-4.</citation>
+    <PMID>10450293</PMID>
+  </reference>
+  <reference>
+    <citation>Harsha DW, Lin PH, Obarzanek E, Karanja NM, Moore TJ, Caballero B. Dietary Approaches to Stop Hypertension: a summary of study results. DASH Collaborative Research Group. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S35-9.</citation>
+    <PMID>10450292</PMID>
+  </reference>
+  <reference>
+    <citation>Karanja NM, McCullough ML, Kumanyika SK, Pedula KL, Windhauser MM, Obarzanek E, Lin PH, Champagne CM, Swain JF. Pre-enrollment diets of Dietary Approaches to Stop Hypertension trial participants. DASH Collaborative Research Group. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S28-34.</citation>
+    <PMID>10450291</PMID>
+  </reference>
+  <reference>
+    <citation>Karanja NM, Obarzanek E, Lin PH, McCullough ML, Phillips KM, Swain JF, Champagne CM, Hoben KP. Descriptive characteristics of the dietary patterns used in the Dietary Approaches to Stop Hypertension Trial. DASH Collaborative Research Group. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S19-27.</citation>
+    <PMID>10450290</PMID>
+  </reference>
+  <reference>
+    <citation>Vogt TM, Appel LJ, Obarzanek E, Moore TJ, Vollmer WM, Svetkey LP, Sacks FM, Bray GA, Cutler JA, Windhauser MM, Lin PH, Karanja NM. Dietary Approaches to Stop Hypertension: rationale, design, and methods. DASH Collaborative Research Group. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S12-8. Review.</citation>
+    <PMID>10450289</PMID>
+  </reference>
+  <reference>
+    <citation>Obarzanek E, Moore TJ. Using feeding studies to test the efficacy of dietary interventions: lessons from the Dietary Approaches to Stop Hypertension trial. J Am Diet Assoc. 1999 Aug;99(8 Suppl):S9-11.</citation>
+    <PMID>10450288</PMID>
+  </reference>
+  <reference>
+    <citation>Sacks FM, Appel LJ, Moore TJ, Obarzanek E, Vollmer WM, Svetkey LP, Bray GA, Vogt TM, Cutler JA, Windhauser MM, Lin PH, Karanja N. A dietary approach to prevent hypertension: a review of the Dietary Approaches to Stop Hypertension (DASH) Study. Clin Cardiol. 1999 Jul;22(7 Suppl):III6-10.</citation>
+    <PMID>10410299</PMID>
+  </reference>
+  <reference>
+    <citation>Conlin PR, Chow D, Miller ER 3rd, Svetkey LP, Lin PH, Harsha DW, Moore TJ, Sacks FM, Appel LJ. The effect of dietary patterns on blood pressure control in hypertensive patients: results from the Dietary Approaches to Stop Hypertension (DASH) trial. Am J Hypertens. 2000 Sep;13(9):949-55.</citation>
+    <PMID>10981543</PMID>
+  </reference>
+  <reference>
+    <citation>Getchell WS, Svetkey LP, Appel LJ, Moore TJ, Bray GA, Obarzanek E. Summary of the Dietary Approaches to Stop Hypertension (DASH) Randomized Clinical Trial. Curr Treat Options Cardiovasc Med. 1999 Dec;1(4):295-300.</citation>
+    <PMID>11096495</PMID>
+  </reference>
+  <reference>
+    <citation>Obarzanek E, Sacks FM, Vollmer WM, Bray GA, Miller ER 3rd, Lin PH, Karanja NM, Most-Windhauser MM, Moore TJ, Swain JF, Bales CW, Proschan MA; DASH Research Group. Effects on blood lipids of a blood pressure-lowering diet: the Dietary Approaches to Stop Hypertension (DASH) Trial. Am J Clin Nutr. 2001 Jul;74(1):80-9.</citation>
+    <PMID>11451721</PMID>
+  </reference>
+  <reference>
+    <citation>Vollmer WM, Appel LJ, Svetkey LP, Moore TJ, Vogt TM, Conlin PR, Proschan M, Harsha D; DASH Collaborative Research Group. Comparing office-based and ambulatory blood pressure monitoring in clinical trials. J Hum Hypertens. 2005 Jan;19(1):77-82.</citation>
+    <PMID>15361888</PMID>
+  </reference>
+  <verification_date>October 2005</verification_date>
+  <lastchanged_date>October 17, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

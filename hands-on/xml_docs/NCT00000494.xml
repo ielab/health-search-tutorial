@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204483">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000494</url>
+  </required_header>
+  <id_info>
+    <org_study_id>13</org_study_id>
+    <secondary_id>R01HL023121</secondary_id>
+    <nct_id>NCT00000494</nct_id>
+  </id_info>
+  <brief_title>Management of Patent Ductus in Premature Infants</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the effects (up to one year of age) of indomethacin on the clinical course of
+      patent ductus arteriosus (PDA) in premature infants (24 hours old or less) and to assess the
+      relative merits of indomethacin and surgery in infants with persistent respiratory distress
+      who were not treated early with indomethacin. Two concurrent trials were performed.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The incidence of patent ductus arteriosus is higher in premature infants than in full-term
+      infants and is highest in premature infants who have respiratory distress syndrome. It is
+      generally agreed that intervention in an asymptomatic infant with a small left-to-right
+      shunt is unnecessary, since the patent ductus almost invariably closes spontaneously and
+      thus does not require surgery. A few infants will demonstrate signs of a large shunt during
+      the course of respiratory distress syndrome. Many of these infants will improve with medical
+      management of congestive heart failure, but others require surgical closure. A third group
+      of babies with respiratory distress have severe progressive pulmonary disease requiring
+      ventilatory support. There was disagreement as to whether elimination of the patent ductus
+      in these infants resulted in decreased mortality. A variety of therapeutic approaches was
+      being used, and there was no convincing evidence of the superiority of one treatment over
+      another.
+
+      DESIGN NARRATIVE:
+
+      Trial A was a randomized, double-blind trial in which indomethacin plus usual medical
+      therapy was compared with a placebo plus medical therapy. Where this regimen was
+      unsuccessful, the code was broken, and infants who received indomethacin were treated
+      surgically. Infants who had received placebo in Trial A were entered, if there were no
+      contraindications to indomethacin, into Trial B. In Trial B, infants were randomized to
+      surgery or indomethacin therapy. Those in whom indomethacin treatment was unsuccessful were
+      treated surgically. The Recruitment and Intervention Phase began in April 1979. All patients
+      were enrolled by March 31, 1981, and followed for one year after enrollment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1978</start_date>
+  <completion_date type="Actual">March 1982</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Defect, Congenital Heart</condition>
+  <condition>Ductus Arteriosus, Patent</condition>
+  <condition>Heart Diseases</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>indomethacin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>surgery, cardiovascular</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Boy and girl premature infants with patent ductus arteriosus. Birth weight of 1,750 grams
+        or less. Admitted to participating institution within first 24 hours of life.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>1 Year</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alexander Nadas</last_name>
+    <affiliation>Children's Hospital &amp; Medical Center</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Gersony WM, Peckham GJ, Ellison RC, Miettinen OS, Nadas AS. Effects of indomethacin in premature infants with patent ductus arteriosus: results of a national collaborative study. J Pediatr. 1983 Jun;102(6):895-906.</citation>
+    <PMID>6343572</PMID>
+  </reference>
+  <reference>
+    <citation>Ellison RC, Peckham GJ, Lang P, Talner NS, Lerer TJ, Lin L, Dooley KJ, Nadas AS. Evaluation of the preterm infant for patent ductus arteriosus. Pediatrics. 1983 Mar;71(3):364-72.</citation>
+    <PMID>6338474</PMID>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>December 12, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Congenital Abnormalities</mesh_term>
+    <mesh_term>Ductus Arteriosus, Patent</mesh_term>
+    <mesh_term>Heart Defects, Congenital</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

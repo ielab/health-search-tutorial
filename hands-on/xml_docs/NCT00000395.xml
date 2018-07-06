@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204581">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000395</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R29AR042674</org_study_id>
+    <secondary_id>R29AR042674</secondary_id>
+    <secondary_id>NIAMS-035</secondary_id>
+    <nct_id>NCT00000395</nct_id>
+  </id_info>
+  <brief_title>Antifolate Effectiveness in Arthritis</brief_title>
+  <official_title>Mechanisms of Antifolate Efficacy in Arthritis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Office of Dietary Supplements (ODS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study looks at how the arthritis drug methotrexate works in low doses to treat
+      rheumatoid arthritis. (High doses of methotrexate are used to treat some types of cancer.)
+      Methotrexate blocks the action of the B-vitamin known as folic acid. We are studying the
+      biochemical reactions affected by this vitamin because we think that blocking many of these
+      reactions may be necessary for methotrexate to work in treating rheumatoid arthritis.
+      Through these studies, we hope to gain a better understanding of how this drug and related
+      drugs work as treatments for arthritis.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Low-dose methotrexate therapy suppresses autoimmune arthritis in human and animal models. We
+      hypothesize that the effect of methotrexate in the treatment of rheumatoid arthritis is due
+      to the inhibition of aminoimidazole-carboxamide ribotide transformylase, a folate-dependent
+      enzyme that catalyzes the last step in the de novo biosynthesis of inosine monophosphate.
+      The resulting accumulation of aminoimidazole carboxamide riboside inhibits adenosine
+      deaminase, therefore interfering with normal adenosine metabolism. It is well known that
+      children with adenosine deaminase deficiency have severe combined immunodeficiency syndrome.
+      This suggests that adenosine deaminase activity is key to immune competence and is
+      associated with the mechanism of efficacy in methotrexate therapy of rheumatoid arthritis.
+
+      Several studies indicate that supplemental folinic acid (5-formyltetrahydrofolate) used in
+      large doses during low-dose methotrexate therapy for rheumatoid arthritis causes a flare in
+      joint inflammation. However, supplemental folic acid (pteroylglutamic acid) does not lessen
+      the efficacy of the therapy. We further hypothesize that if methotrexate efficacy is driven
+      by aminoimidazole carboxamide ribotide transformylase inhibition, folic acid supplementation
+      should not alter urinary levels of aminoimidazole carboxamide, adenosine, and
+      deoxyadenosine, while folinic acid supplementation should prevent the accumulation of these
+      compounds.
+
+      We will test our hypotheses both in people with rheumatoid arthritis and in Lewis rat
+      adjuvant arthritis. Our objectives include: (1) determining if the dose level of
+      methotrexate that is clinically optimal in the treatment of Lewis rat adjuvant arthritis
+      interferes with normal adenosine metabolism; (2) determining the effectiveness of drugs that
+      interfere with adenosine metabolism (deoxycoformycin, aminoimidazole carboxamide, and
+      aminoimidazole carboxamide with a suboptimal dose of methotrexate) in Lewis rat adjuvant
+      arthritis; and (3) determining whether supplemental folic acid and folinic acid during
+      methotrexate therapy normalize adenosine metabolism in patients with rheumatoid arthritis.
+      The information we obtain will enhance the understanding of the biochemical action of
+      antifolates/antimetabolites that are effective in the treatment of human and animal
+      arthritis.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1996</start_date>
+  <completion_date type="Actual">August 2002</completion_date>
+  <primary_completion_date type="Actual">August 2002</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Pharmacodynamics Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Determine the effect of Folic acid and Folinic acid on urinary 5-amino=imidazole-4-carboxaminde (AICA in individuals with rheumatoid arthritis treated with low dose methotrexate.</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Determine the effect of folic acid and folinic acid on urinary adenosine excretion in individuals with rheumatoid arthritis treated with low dose methotrexate</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlate disease activity with urinary AICA and adenosine levels</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Rheumatoid Arthritis</condition>
+  <condition>Adjuvant Arthritis</condition>
+  <arm_group>
+    <arm_group_label>Group 1 - Folinic acid</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects receiving Methotrexate for 6 weeks and 5 mg of Folinic acid daily for 1 week.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: Folic acid</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects receiving Methotrexate for 6 weeks and 5 mg of Folic acid daily for 1 week.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methotrexate</intervention_name>
+    <arm_group_label>Group 1 - Folinic acid</arm_group_label>
+    <arm_group_label>Group 2: Folic acid</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Folinic acid</intervention_name>
+    <arm_group_label>Group 1 - Folinic acid</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Folic acid</intervention_name>
+    <arm_group_label>Group 2: Folic acid</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Individuals starting methotrexate for rheumatoid arthritis.
+
+          -  Study subjects should not currently be taking folic acid-containing vitamins.
+
+        Exclusion Criteria:
+
+          -  Cancer, renal, or liver disease.
+
+          -  Previous use of methotrexate within the past 6 months or current use of folic
+             acid-containing supplements.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sarah L. Morgan, M.D., R.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alabama Department of Nutrition Sciences</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Morgan SL, Baggott JE, Vaughn WH, Young PK, Austin JV, Krumdieck CL, Alarcón GS. The effect of folic acid supplementation on the toxicity of low-dose methotrexate in patients with rheumatoid arthritis. Arthritis Rheum. 1990 Jan;33(1):9-18.</citation>
+    <PMID>2405864</PMID>
+  </reference>
+  <reference>
+    <citation>Morgan SL, Baggott JE, Refsum H, Ueland PM. Homocysteine levels in patients with rheumatoid arthritis treated with low-dose methotrexate. Clin Pharmacol Ther. 1991 Nov;50(5 Pt 1):547-56.</citation>
+    <PMID>1934868</PMID>
+  </reference>
+  <reference>
+    <citation>Morgan SL, Hine RJ, Vaughn WH, Brown A. Dietary intake and circulating vitamin levels of rheumatoid arthritis patients treated with methotrexate. Arthritis Care Res. 1993 Mar;6(1):4-10.</citation>
+    <PMID>8443257</PMID>
+  </reference>
+  <reference>
+    <citation>Morgan SL, Baggott JE, Vaughn WH, Austin JS, Veitch TA, Lee JY, Koopman WJ, Krumdieck CL, Alarcón GS. Supplementation with folic acid during methotrexate therapy for rheumatoid arthritis. A double-blind, placebo-controlled trial. Ann Intern Med. 1994 Dec 1;121(11):833-41.</citation>
+    <PMID>7978695</PMID>
+  </reference>
+  <reference>
+    <citation>Morgan SL, Anderson AM, Hood SM, Matthews PA, Lee JY, Alarcón GS. Nutrient intake patterns, body mass index, and vitamin levels in patients with rheumatoid arthritis. Arthritis Care Res. 1997 Feb;10(1):9-17.</citation>
+    <PMID>9313385</PMID>
+  </reference>
+  <reference>
+    <citation>Morgan SL, Baggott JE, Alarcón GS. Methotrexate in rheumatoid arthritis: folate supplementation should always be given. BioDrugs. 1997 Sep;8(3):164-75.</citation>
+    <PMID>18020507</PMID>
+  </reference>
+  <reference>
+    <citation>Morgan SL, Baggott JE, Lee JY, Alarcón GS. Folic acid supplementation prevents deficient blood folate levels and hyperhomocysteinemia during longterm, low dose methotrexate therapy for rheumatoid arthritis: implications for cardiovascular disease prevention. J Rheumatol. 1998 Mar;25(3):441-6.</citation>
+    <PMID>9517760</PMID>
+  </reference>
+  <reference>
+    <citation>Baggott JE, Morgan SL, Koopman WJ. The effect of methotrexate and 7-hydroxymethotrexate on rat adjuvant arthritis and on urinary aminoimidazole carboxamide excretion. Arthritis Rheum. 1998 Aug;41(8):1407-10.</citation>
+    <PMID>9704638</PMID>
+  </reference>
+  <reference>
+    <citation>Strand V, Morgan SL, Baggott JE, Alarcón GS. Folic acid supplementation and methotrexate efficacy: comment on articles by Schiff, Emery et al, and others. Arthritis Rheum. 2000 Nov;43(11):2615-6.</citation>
+    <PMID>11083294</PMID>
+  </reference>
+  <reference>
+    <citation>Alarcón GS, Morgan SL. Guidelines for folate supplementation in rheumatoid arthritis patients treated with methotrexate: comment on the guidelines for monitoring drug therapy. Arthritis Rheum. 1997 Feb;40(2):391; author reply 391-2.</citation>
+    <PMID>9041955</PMID>
+  </reference>
+  <reference>
+    <citation>Morgan SL, Alarcón GS, Moreland L. Improved methotrexate patient information. Arthritis Rheum. 1995 Jun;38(6):874-5.</citation>
+    <PMID>7779139</PMID>
+  </reference>
+  <reference>
+    <citation>Morgan Sl, Alarcón GS, Krumdieck CL. Folic acid supplementation during methotrexate therapy: it makes sense. J Rheumatol. 1993 Jun;20(6):929-30.</citation>
+    <PMID>8350325</PMID>
+  </reference>
+  <results_reference>
+    <citation>Morgan SL, Oster RA, Lee JY, Alarcón GS, Baggott JE. The effect of folic acid and folinic acid supplements on purine metabolism in methotrexate-treated rheumatoid arthritis. Arthritis Rheum. 2004 Oct;50(10):3104-11.</citation>
+    <PMID>15476202</PMID>
+  </results_reference>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>June 7, 2013</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>Sarah Morgan, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Rheumatoid arthritis</keyword>
+  <keyword>Lewis rat adjuvant arthritis</keyword>
+  <keyword>Antifolate efficacy</keyword>
+  <keyword>Autoimmunity</keyword>
+  <keyword>Adenosine metabolism</keyword>
+  <keyword>Methotrexate therapy</keyword>
+  <keyword>Skeletal disorder</keyword>
+  <keyword>Dietary supplement</keyword>
+  <keyword>Antiarthritic agent</keyword>
+  <keyword>Folic acid</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Experimental</mesh_term>
+    <mesh_term>Arthritis, Rheumatoid</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Folic Acid</mesh_term>
+    <mesh_term>Folic Acid Antagonists</mesh_term>
+    <mesh_term>Levoleucovorin</mesh_term>
+    <mesh_term>Methotrexate</mesh_term>
+    <mesh_term>Vitamin B Complex</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

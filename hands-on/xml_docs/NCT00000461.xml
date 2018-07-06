@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204516">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000461</url>
+  </required_header>
+  <id_info>
+    <org_study_id>50</org_study_id>
+    <nct_id>NCT00000461</nct_id>
+  </id_info>
+  <brief_title>Harvard Atherosclerosis Reversibility Project (HARP)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine by sequential coronary arteriography whether a lipid-lowering diet with and
+      without lipid-lowering drugs could reverse coronary artery disease in normocholesterolemic
+      patients. Also, to test whether fish oil supplements could improve human coronary
+      atherosclerosis. Finally, to determine the effect of combination therapy with lipid-reducing
+      drugs in patients with coronary heart disease and &quot;normal&quot; cholesterol levels. At least
+      three clinical trials were conducted.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The prognosis of patients with coronary heart disease is closely related to the degree of
+      coronary luminal obstruction. In population studies, the incidence and severity of coronary
+      atherosclerosis on angiography is correlated with diet and plasma lipoprotein cholesterol.
+      Previous clinical trials had shown that treatments that lowered plasma concentrations of low
+      density lipoprotein cholesterol benefited some hypercholesterolemic patients with coronary
+      heart disease. No similar benefit had been demonstrated in normocholesterolemic patients who
+      make up the majority of patients with coronary heart disease.
+
+      DESIGN NARRATIVE:
+
+      In the cholesterol-lowering agent trial, all patients received Step 1 dietary instruction
+      before randomization and every three months thereafter. Randomization was stratified by
+      medical or surgical treatment for coronary disease and the ratio of total to HDL
+      cholesterol. A total of 39 patients were assigned to placebo and 40 to active treatment with
+      pravastatin, nicotinic acid, cholestyramine, and gemfibrozil stepwise as needed to reach the
+      specified goal (total cholesterol less than or equal to 4.1 mmol/L, ratio of LDL/HDL
+      cholesterol less than or equal to 2.0). Lipid concentrations were measured every six weeks.
+      Baseline angiograms were compared to angiograms taken at 30 months.
+
+      In the fish oil trial, 41 patients were randomized to fish oil capsules containing 6 grams
+      of n-3 fatty acids daily and 39 patients were randomized to olive oil placebo capsules for
+      an average duration of 28 months. Each fish oil capsule contained 500 mg of n-3
+      polyunsaturated fatty acids composed of 240 mg of eicosapentaenoic acid, 160 mg of
+      docosahexaenoic acid, and 100 mg of mainly docosapentaenoic acid. Randomization was
+      stratified by medical or surgical treatment for coronary disease and the ratio of total to
+      HDL cholesterol. The primary outcome variable was change in minimal diameter of coronary
+      artery lesions expressed as a continuous variable. During the initial hospital stay for
+      catheterization, dietary instruction was provided to every patient according to the National
+      Cholesterol Education Program (NCEP) Step 1 guidelines. A seven-day diet record was
+      collected at the randomization visit and every three months during the trial. Every twelve
+      weeks, a research nurse reviewed with the patients side effects, diet, and concomitant
+      medications and performed a pill count. Every 24 weeks, the patients received an interval
+      medical history and physical examination by a physician. A fasting blood sample was obtained
+      for lipid analysis at the 12- and 24-week visits and every 24 weeks thereafter. If the total
+      cholesterol level of any patient increased to 250 mg/dl (6.43 mmol/liter) or greater on two
+      consecutive measurements, intensified dietary instruction was given, followed by drug
+      therapy with cholestyramine or nicotinic acid or both as needed to lower total cholesterol
+      to less than 250 mg/dl. Twenty-one patients did not complete the protocol due to death,
+      refusal to undergo the second cardiac catheterization, development of medical conditions
+      precluding participation, intolerance to the capsules, and a missing initial angiogram.
+
+      In the combination therapy trial, patients were randomized to usual care or to stepped-care
+      drug therapy with lipid-lowering agents including pravastatin, nicotinic acid,
+      cholestyramine, and gemfibrozil to decrease total cholesterol levels to less than 160 mg/dl
+      and the ratio of low density lipoprotein cholesterol to high density lipoprotein cholesterol
+      to less than 2.0. Measurements included fasting serum lipoprotein profile, fasting
+      apolipoprotein levels, and frequency of adverse effects. Patients were assessed every six
+      weeks during drug titration and every three months thereafter for two -and-a-half years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 1986</start_date>
+  <completion_date>November 1992</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>pravastatin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>niacin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cholestyramine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>gemfibrozil</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>fatty acids, omega-3</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, normocholesterolemic, with 30 percent or greater narrowing of a coronary
+        artery lumen as revealed by angiography. (Cholesterol-Lowering Agent Trial).
+
+        Men and women with angiographically-documented coronary heart disease (Fish Oil Tr
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Frank Sacks</last_name>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Sacks FM, Pasternak RC, Gibson CM, Rosner B, Stone PH. Effect on coronary atherosclerosis of decrease in plasma cholesterol concentrations in normocholesterolaemic patients. Harvard Atherosclerosis Reversibility Project (HARP) Group. Lancet. 1994 Oct 29;344(8931):1182-6.</citation>
+    <PMID>7934538</PMID>
+  </reference>
+  <reference>
+    <citation>Sacks FM, Stone PH, Gibson CM, Silverman DI, Rosner B, Pasternak RC. Controlled trial of fish oil for regression of human coronary atherosclerosis. HARP Research Group. J Am Coll Cardiol. 1995 Jun;25(7):1492-8.</citation>
+    <PMID>7759696</PMID>
+  </reference>
+  <reference>
+    <citation>Sacks FM, Gibson CM, Rosner B, Pasternak RC, Stone PH. The influence of pretreatment low density lipoprotein cholesterol concentrations on the effect of hypocholesterolemic therapy on coronary atherosclerosis in angiographic trials. Harvard Atherosclerosis Reversibility Project Research Group. Am J Cardiol. 1995 Sep 28;76(9):78C-85C. Review.</citation>
+    <PMID>7572692</PMID>
+  </reference>
+  <reference>
+    <citation>Pasternak RC, Brown LE, Stone PH, Silverman DI, Gibson CM, Sacks FM. Effect of combination therapy with lipid-reducing drugs in patients with coronary heart disease and &quot;normal&quot; cholesterol levels. A randomized, placebo-controlled trial. Harvard Atherosclerosis Reversibility Project (HARP) Study Group. Ann Intern Med. 1996 Oct 1;125(7):529-40.</citation>
+    <PMID>8815751</PMID>
+  </reference>
+  <verification_date>March 2005</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

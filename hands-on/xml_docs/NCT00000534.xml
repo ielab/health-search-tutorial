@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204443">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000534</url>
+  </required_header>
+  <id_info>
+    <org_study_id>77</org_study_id>
+    <nct_id>NCT00000534</nct_id>
+  </id_info>
+  <brief_title>Calcium for Pre-Eclampsia Prevention (CPEP)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the efficacy of 2 grams per day of oral calcium supplementation in reducing the
+      combined incidence of hypertensive disorders of pregnancy: pre-eclampsia, eclampsia, and the
+      HELLP Syndrome (hypertension, thrombocytopenia, hemolysis, and abnormal liver function). The
+      National Institute of Child Health and Human Development (NICHD) initiated the trial in
+      1991, with joint funding provided by the National Heart, Lung, and Blood Institute in fiscal
+      years 1992, 1993, and 1995.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      A considerable body of data has associated lower blood pressures with higher levels of
+      dietary calcium. Epidemiologic studies, laboratory evaluations, and clinical trials have
+      also indicated that the incidence of hypertensive disorders of pregnancy is affected
+      similarly by calcium intake. A meta-analysis of five controlled clinical trials of calcium
+      supplementation in pregnancy suggested a significant reduction in proteinuric pre-eclampsia
+      of 46 percent. Several of the trials, however, suffered from 'pitfalls' in the diagnosis of
+      pre-eclampsia, including lack of blinding, uncertain definition of endpoints, and unknown
+      techniques of measurement. Most trials have not assessed the role of dietary nutrients or
+      the possibility that a subgroup with low baseline urinary calcium may benefit most from
+      calcium supplementation. In no trial has the potential for increased risk of kidney stones
+      in the treatment group been examined systematically. Moreover, the daily schedule for
+      administration of calcium, has generally not been reported. There was a great need,
+      therefore, to evaluate the efficacy of calcium supplementation for the prevention of
+      pre-eclampsia in a large multicenter controlled clinical trial. The trial considered the
+      role of dietary nutrients, establish whether treatment is beneficial only for those with low
+      baseline urinary calcium, conduct systematic surveillance for urolithiasis, and employ
+      standardized terminology, techniques of measurement, and diagnostic criteria. The NHLBI
+      provided funding to NICHD for three years by means of an Intraagency Agreement (Y01HC20154).
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind, multicenter. Healthy nulliparous patients were randomly assigned
+      to receive either 2 grams of supplemental calcium daily ((n = 2,295) or placebo (n = 2,294)
+      in a double-blind study. Study tablets were administered beginning from 13 to 21 completed
+      weeks of gestation and continued until the termination of pregnancy. Eligible patients
+      entered a run-in period of 6 to 14 days to exclude highly noncompliant subjects. During the
+      run-in, obstetrical ultrasound was performed if it had not been obtained previously, and
+      blood was drawn for serum calcium and creatinine. Follow-up visits were scheduled every four
+      weeks through the 29th week of gestation, then every two weeks through the 35th week, and
+      weekly thereafter. Blood pressure and urine-protein were obtained at each clinic visit,
+      during labor and delivery, and during the first 24 hours postpartum. Primary endpoints
+      included pregnancy-associated hypertension, pregnancy-associated proteinuria, pre-eclampsia,
+      eclampsia, or hypertension. Other endpoints included placental abruption, cerebral
+      hemorrhage or thrombosis, elevated liver enzymes, acute renal failure, and disseminated
+      intravascular coagulation. Surveillance was conducted for renal calculi. Recruitment began
+      in May 1992 and ended in March 1995. Follow-up was completed in October of 1995. Data
+      analysis continued through March 2000 under the NICHD contract N01HD13121.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 1991</start_date>
+  <completion_date>June 2000</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Eclampsia</condition>
+  <condition>Heart Diseases</condition>
+  <condition>HELLP Syndrome</condition>
+  <condition>Hypertension</condition>
+  <condition>Pre-Eclampsia</condition>
+  <condition>Pregnancy Toxemias</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>calcium</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>dietary supplements</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Nulliparous, normotensive, pregnant women.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patrick Catalano</last_name>
+    <affiliation>Case Western Reserve University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Luis Curet</last_name>
+    <affiliation>University of New Mexico</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Hauth</last_name>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Cynthia Morris</last_name>
+    <affiliation>Oregon Health and Science University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Baha Sibai</last_name>
+    <affiliation>University of Tennessee</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Levine RJ, Esterlitz JR, Raymond EG, DerSimonian R, Hauth JC, Ben Curet L, Sibai BM, Catalano PM, Morris CD, Clemens JD, Ewell MG, Friedman SA, Goldenberg RL, Jacobson SL, Joffe GM, Klebanoff MA, Petrulis AS, Rigau-Perez JG. Trial of Calcium for Preeclampsia Prevention (CPEP): rationale, design, and methods. Control Clin Trials. 1996 Oct;17(5):442-69.</citation>
+    <PMID>8932976</PMID>
+  </reference>
+  <reference>
+    <citation>Sibai BM, Ewell M, Levine RJ, Klebanoff MA, Esterlitz J, Catalano PM, Goldenberg RL, Joffe G. Risk factors associated with preeclampsia in healthy nulliparous women. The Calcium for Preeclampsia Prevention (CPEP) Study Group. Am J Obstet Gynecol. 1997 Nov;177(5):1003-10.</citation>
+    <PMID>9396883</PMID>
+  </reference>
+  <reference>
+    <citation>Mills JL, DerSimonian R, Raymond E, Morrow JD, Roberts LJ 2nd, Clemens JD, Hauth JC, Catalano P, Sibai B, Curet LB, Levine RJ. Prostacyclin and thromboxane changes predating clinical onset of preeclampsia: a multicenter prospective study. JAMA. 1999 Jul 28;282(4):356-62.</citation>
+    <PMID>10432033</PMID>
+  </reference>
+  <reference>
+    <citation>Joffe GM, Esterlitz JR, Levine RJ, Clemens JD, Ewell MG, Sibai BM, Catalano PM. The relationship between abnormal glucose tolerance and hypertensive disorders of pregnancy in healthy nulliparous women. Calcium for Preeclampsia Prevention (CPEP) Study Group. Am J Obstet Gynecol. 1998 Oct;179(4):1032-7.</citation>
+    <PMID>9790393</PMID>
+  </reference>
+  <verification_date>February 2002</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Eclampsia</mesh_term>
+    <mesh_term>HELLP Syndrome</mesh_term>
+    <mesh_term>Pre-Eclampsia</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

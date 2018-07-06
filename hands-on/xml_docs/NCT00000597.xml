@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204380">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000597</url>
+  </required_header>
+  <id_info>
+    <org_study_id>403</org_study_id>
+    <nct_id>NCT00000597</nct_id>
+  </id_info>
+  <brief_title>Multi-Center Trial of Anti-Thymocyte Globulin in Treatment of Aplastic Anemia and Other Hematologic Disorders</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the therapeutic effects of anti-thymocyte globulin (ATG) in patients with
+      aplastic anemia and related bone marrow failure diseases.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Aplastic anemia has been shown to respond to ATG. An immunological basis for aplastic anemia
+      has been suggested by previous observations although the precise mechanism of action of ATG
+      has not been defined. This serum, produced by immunization of horses with human thymocytes,
+      may have broad reactivity with many human cells.
+
+      DESIGN NARRATIVE:
+
+      Patients in Group I with acute severe disease were randomized to receive ATG in either ten
+      day or twenty-eight day courses. Patients in Group II with moderate or chronic disease were
+      randomized to receive either ATG for ten days or high doses of the androgen, nandrolone
+      decanoate. Patients in Group III with a variety of bone marrow diseases were also treated
+      with ATG.
+
+      The study completion date listed in this record was inferred from the last publication
+      listed in the Citations section of this study record.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 1982</start_date>
+  <completion_date type="Actual">December 1988</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Anemia, Aplastic</condition>
+  <condition>Hematologic Diseases</condition>
+  <condition>Pancytopenia</condition>
+  <condition>Blood Disease</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>antilymphocyte serum</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>nandrolone</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with moderate or acute, severe, aplastic anemia.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neal Young</last_name>
+    <affiliation>Laboratory of Hematology, NHLBI</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Young N, Griffith P, Brittain E, Elfenbein G, Gardner F, Huang A, Harmon D, Hewlett J, Fay J, Mangan K, et al. A multicenter trial of antithymocyte globulin in aplastic anemia and related diseases. Blood. 1988 Dec;72(6):1861-9.</citation>
+    <PMID>3058228</PMID>
+  </reference>
+  <verification_date>May 2000</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anemia, Aplastic</mesh_term>
+    <mesh_term>Hematologic Diseases</mesh_term>
+    <mesh_term>Pancytopenia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antilymphocyte Serum</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

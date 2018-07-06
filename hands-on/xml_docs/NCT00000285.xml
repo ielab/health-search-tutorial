@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204687">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000285</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09259-2</org_study_id>
+    <secondary_id>P50-09259-2</secondary_id>
+    <nct_id>NCT00000285</nct_id>
+  </id_info>
+  <brief_title>Effects of Phenytoin on Cocaine Use in Humans - 2</brief_title>
+  <official_title>Effects of Phenytoin on Cocaine Use in Humans</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Minnesota - Clinical and Translational Science Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the effects of phenytoin on the
+      self-administration of smoked cocaine.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study was to determine the effects of phenytoin on smoked cocaine-base
+      self-administration using our laboratory self-administration model. A total of 12 patients
+      randomized, 6 to phenytoin and 6 to placebo treatment group. There were 2 phases in this
+      10-day inpatient study. Phase 1 subjects underwent one cocaine self-admin session.
+      Randomization took place at the start of Phase 2, Day 4 where subjects received either
+      placebo or phenytoin. The subjects assigned to phenytoin treatment received an oral loading
+      dose (20mg/kg) aimed at achieving plasma phenytoin concentration of (10-20 mg/L). During
+      Phase 2, subjects had the opportunity to self-administer cocaine on Days 5, 7, and 9. The
+      plasma phenytoin levels were expected to decrease gradually during Phase 2 which provided an
+      opportunity to study the effect of decreasing phenytoin plasma concentrations on cocaine
+      self-administration.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1996</start_date>
+  <completion_date>December 2001</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Parallel Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Subjective effects</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physiological effects</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Behavioral</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Cocaine-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Phenytoin</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Males/Females between the ages of 20-40. History of smoked cocaine use on the avg. of at
+        least 2 times/week over a 6 month period. Have currently used at least 1 g of cocaine
+        within a 4-6 hr period. Current history of good health, normal serum albumin levels and
+        normal QTc intervals. Nonreactive for HIV. No participation in any of our studies for the
+        past 6 months. For females: not pregnant as determined by pregnancy screening nor breat
+        feeding, and using acceptable birth control methods (e.g. birth control pills, diaphragm,
+        condoms plus foam).
+
+        Exclusion Criteria:
+
+        History of suicide attempt, bipolar disorder, schizophrenia, or generalized anxiety
+        disorder. Current problem with major depressive disorder. Current use of alcohol or other
+        durgs on a daily basis. History of major medical illnesses. Currently on parole, probation
+        or a legal history of violence. Treated for chemical dependency within the past 6 months.
+        Use of any psychotropic drugs including MAOIs in the past 6 months.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dorothy Hatsukami, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 1997</verification_date>
+  <lastchanged_date>November 3, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cocaine-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Phenytoin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

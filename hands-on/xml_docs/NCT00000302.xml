@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204670">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000302</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09260-5</org_study_id>
+    <secondary_id>P50-09260-5</secondary_id>
+    <nct_id>NCT00000302</nct_id>
+  </id_info>
+  <brief_title>Study Comparing Liquid and Tablet Buprenorphine Formulations - 5</brief_title>
+  <official_title>Expanded Steady-State Pharmacokinetic Study, Comparing Liquid and Tablet Buprenorphine Formulations</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare liquid and tablet buprenorphine formulations.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants were inducted on either liquid or tablet buprenorphine, in a double-blind,
+      double-dummy manner. They each reached a steady state by the second week, and were scheduled
+      to have blood draws in weeks 3, 4, 7, 8, 11, 12, 15, and 16.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Drug use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Retention</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Drug craving</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Heroin Dependence</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Buprenorphine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        M/F ages 21-50. Opiate dependence according to DSM-IV criteria. Currently enrolled in the
+        outpatient protocol comparing liquid and tablet formulations of Buprenorphine. Agreeable
+        to conditions of study and signed informed consent.
+
+        Exclusion Criteria:
+
+        Psychiatric disorder that requires medication therapy. History of seizures. Pregnant
+        and/or nursing women. Dependence on ETOH or benzodiazepines or other sedative-hypnotics.
+        Acute hepatitis. Other medical conditions that deem participation to be unsafe.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Walter Ling, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Friends Research Institute, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Friends Research Institute</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2002</verification_date>
+  <lastchanged_date>November 3, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Heroin Dependence</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Buprenorphine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

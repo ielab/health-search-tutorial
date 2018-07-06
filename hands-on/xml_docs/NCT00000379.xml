@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204597">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000379</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01MH058363</org_study_id>
+    <secondary_id>R01MH058363</secondary_id>
+    <secondary_id>DSIR AT-CT</secondary_id>
+    <nct_id>NCT00000379</nct_id>
+  </id_info>
+  <brief_title>Fluoxetine vs EMDR to Treat Post-Traumatic Stress Disorder (PTSD)</brief_title>
+  <official_title>Treatment of Outcomes of Fluoxetine vs EMDR in PTSD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Boston University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare two treatments for post-traumatic stress disorder
+      (PTSD): fluoxetine (an antidepressant) and Eye Movement Desensitization and Reprocessing
+      (EMDR, a psychological treatment in which the patient is led through the memory of a
+      traumatic experience in order to heal him/herself).
+
+      There are a variety of therapies used to treat PTSD, but the effectiveness of medication
+      alone vs an exposure treatment, such as EMDR, has not been tested.
+
+      Patients will be assigned randomly (like tossing a coin) to one of three groups for 8 weeks
+      of treatment. Group 1 will receive fluoxetine; Group 2 will receive EMDR; and Group 3 will
+      receive inactive placebo. Patients will then stop treatment and have evaluations, including
+      psychological tests, at the time treatment is stopped, 8 weeks later, and at 6 months.
+
+      An individual may be eligible for this study if he/she:
+
+      Has PTSD and is 18 to 65 years old.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To compare the short-term and long-term efficacy of two different treatment approaches in
+      widespread use in clinical settings for treating patients with post-traumatic stress
+      disorder (PTSD): fluoxetine (which acts directly on biological systems) vs a psychological
+      treatment, Eye Movement Desensitization and Reprocessing (EMDR). To clarify: 1) the
+      differential treatment effects of these different treatment modalities; 2) whether symptom
+      improvement is accompanied by changes in pathophysiology; and 3) the long-term effectiveness
+      of these treatments.
+
+      In recent years a variety of treatment approaches have been shown to be effective in the
+      treatment of PTSD. These include prolonged exposure therapies (PE), stress inoculation
+      training (SIT), EMDR and psychopharmacological treatment with serotonin re-uptake blockers.
+      While PE has been compared with SIT and a study is currently under way comparing
+      cognitive-behavioral treatment with EMDR, no study as yet has compared the relative merits
+      of pharmacotherapy alone vs an exposure treatment. While it is commonly held that, in order
+      to recover, people with PTSD need to &quot;process&quot; their traumatic memories, treatments that do
+      not involve the processing of traumatic memories (such as SIT or pharmacotherapy) may be
+      just as effective. In clinical practice, many patients with PTSD appear to be effectively
+      treated with pharmacological agents alone, without trauma-focused therapy.
+
+      Patients are randomly assigned to one of three conditions: 1) a double-blind
+      psychopharmacological treatment (fluoxetine); 2) a manualized treatment which focuses on
+      &quot;processing&quot; traumatic memories (EMDR); or 3) a placebo control group. After 8 weeks of
+      active treatment, subjects are evaluated, cease treatment, and are assessed again after
+      another 8 weeks and at 6 months in order to evaluate the long-term effects. Training raters
+      remain blind to the subjects' treatment condition throughout the study. Treatment outcome is
+      assessed with a multi-modal psychological and biological assessment battery including: 1)
+      standard psychological tests for PTSD (CAPS); 2) neuroendocrine function (cortisol); and 3)
+      psychophysiological response to traumatic scripts (pre-post changes in heart social and
+      occupational functioning). Treatment adherence is monitored throughout the study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1999</start_date>
+  <completion_date>December 2003</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Stress Disorders, Post-Traumatic</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluoxetine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>EMDR</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients must have:
+
+        Post-Traumatic Stress Disorder (PTSD).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bessel Van Der Kolk, MD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The Trauma Center</name>
+      <address>
+        <city>Brookline</city>
+        <state>Massachusetts</state>
+        <zip>02446</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2014</verification_date>
+  <lastchanged_date>February 19, 2014</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Adult</keyword>
+  <keyword>Comparative Study</keyword>
+  <keyword>Desensitization, Psychologic</keyword>
+  <keyword>Eye Movements</keyword>
+  <keyword>Female</keyword>
+  <keyword>Fluoxetine</keyword>
+  <keyword>Human</keyword>
+  <keyword>Male</keyword>
+  <keyword>Placebos</keyword>
+  <keyword>Stress Disorders, Post-Traumatic</keyword>
+  <keyword>Treatment Outcome</keyword>
+  <keyword>Desensitization, Psychologic -- *methods</keyword>
+  <keyword>Fluoxetine -- *therapeutic use</keyword>
+  <keyword>Stress Disorders, Post-Traumatic -- *therapy</keyword>
+  <keyword>Stress Disorders, Post-Traumatic -- drug therapy</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Fluoxetine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

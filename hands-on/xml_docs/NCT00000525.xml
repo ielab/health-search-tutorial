@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204452">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000525</url>
+  </required_header>
+  <id_info>
+    <org_study_id>44</org_study_id>
+    <secondary_id>R01HL036821</secondary_id>
+    <nct_id>NCT00000525</nct_id>
+  </id_info>
+  <brief_title>Diuretics, Hypertension, and Arrhythmias Clinical Trial</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <authority>United States: Institutional Review Board</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether hypertensive patients with ECG abnormalities and receiving
+      hydrochlorothiazide diuretics were at increased risk of sudden death.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The Multiple Risk Factor Intervention Trial (MRFIT) revealed an unexpected subgroup finding:
+      an association between diuretic therapy (especially with hydrochlorothiazide) and an
+      increased rate of sudden death in hypertensive men with left ventricular hypertrophy and
+      other ECG abnormalities. The Diuretics, Hypertension, and Arrhythmias Clinical Trial sought
+      to determine whether the finding resulted from random variation or represented a serious
+      toxic response to hydrochlorothiazide.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind. Following one month of withdrawal from all diuretics and repletion
+      with oral potassium and magnesium, the study participants were randomized to two months of
+      treatment with one of six treatment groups: hydrochlorothiazide; hydrochlorothiazide with
+      oral potassium; hydrochlorothiazide with oral potassium and magnesium; hydrochlorothiazide
+      and triamterene; chlorthalidone; or placebo. The main outcome measures were ventricular
+      arrhythmias on 24-hour Holter monitoring and serum and intracellular potassium and magnesium
+      levels.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1986</start_date>
+  <primary_completion_date type="Actual">September 1989</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind</study_design>
+  <enrollment type="Actual">233</enrollment>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Death, Sudden, Cardiac</condition>
+  <condition>Heart Arrest</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>hydrochlorothiazide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, potassium supplementation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, magnesium supplementation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>triamterene</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>chlorthalidone</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men, ages 35 to 70, with ECG abnormalities, diastolic blood pressure less than 95 mm Hg at
+        entry.
+
+        Subjects had been treated for at least six months by their own physicians with
+        hydrochlorothiazide (HCT), HCT and potassium supplementation, triamteren
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephen Hulley</last_name>
+    <affiliation>University of California</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Siegel D, Cheitlin MD, Black DM, Seeley D, Hearst N, Hulley SB. Risk of ventricular arrhythmias in hypertensive men with left ventricular hypertrophy. Am J Cardiol. 1990 Mar 15;65(11):742-7.</citation>
+    <PMID>2138408</PMID>
+  </reference>
+  <reference>
+    <citation>Chang SW, Fine R, Siegel D, Chesney M, Black D, Hulley SB. The impact of diuretic therapy on reported sexual function. Arch Intern Med. 1991 Dec;151(12):2402-8.</citation>
+    <PMID>1746997</PMID>
+  </reference>
+  <reference>
+    <citation>Siegel D, Black DM, Seeley DG, Hulley SB. Circadian variation in ventricular arrhythmias in hypertensive men. Am J Cardiol. 1992 Feb 1;69(4):344-7.</citation>
+    <PMID>1734646</PMID>
+  </reference>
+  <reference>
+    <citation>Siegel D, Hulley SB, Black DM, Cheitlin MD, Sebastian A, Seeley DG, Hearst N, Fine R. Diuretics, serum and intracellular electrolyte levels, and ventricular arrhythmias in hypertensive men. JAMA. 1992 Feb 26;267(8):1083-9.</citation>
+    <PMID>1735925</PMID>
+  </reference>
+  <reference>
+    <citation>Siegel D, Cheitlin MD, Seeley DG, Black DM, Hulley SB. Silent myocardial ischemia in men with systemic hypertension and without clinical evidence of coronary artery disease. Am J Cardiol. 1992 Jul 1;70(1):86-90.</citation>
+    <PMID>1615875</PMID>
+  </reference>
+  <reference>
+    <citation>Siegel D, Saliba P, Haffner S. Glucose and insulin levels during diuretic therapy in hypertensive men. Hypertension. 1994 Jun;23(6 Pt 1):688-94.</citation>
+    <PMID>8206564</PMID>
+  </reference>
+  <verification_date>September 2013</verification_date>
+  <lastchanged_date>September 18, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Death, Sudden</mesh_term>
+    <mesh_term>Death, Sudden, Cardiac</mesh_term>
+    <mesh_term>Heart Arrest</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Chlorthalidone</mesh_term>
+    <mesh_term>Hydrochlorothiazide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204484">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000493</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12</org_study_id>
+    <nct_id>NCT00000493</nct_id>
+  </id_info>
+  <brief_title>Multicenter Investigation of Limitation of Infarct Size (MILIS)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the ability of two separate therapeutic interventions, propranolol and
+      hyaluronidase, to limit the ultimate size of an acute myocardial infarction. A secondary
+      objective was to assess the influence of these therapies upon ventricular function and
+      morbidity following myocardial infarction.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The study of methods for minimizing the mass of ischemic infarcted myocardium associated
+      with a myocardial infarction was identified as a topic of research priority in the 1973
+      Report of the Panel Chairman for the Preparation of the National Heart, Blood Vessel, Lung,
+      and Blood Program. In September 1976, the Institute convened a workshop involving 32
+      investigators active in this field, respondents to past solicitations, experts on the topic
+      of collaborative clinical trials, members of previous review committees, and several members
+      of the Cardiology Advisory Committee. The attendees were enthusiastic about the practicality
+      and timeliness of a collaborative clinical trial in this field. The concept of collaborative
+      clinical trials to protect ischemic myocardium was discussed by the Cardiology Advisory
+      Committee in its meeting of September 22, 1976, and was recommended affirmatively and
+      enthusiastically. This trial was part of the Institute's initiatives and was reviewed and
+      favorably recommended by the National Heart, Lung, and Blood Advisory Council at its
+      December 1976 meeting. The trial consisted of five clinical centers, six central
+      laboratories, a clinical coordinating center, and a data coordinating center.
+
+      DESIGN NARRATIVE:
+
+      Randomized. Group A patients were randomized to propranolol therapy, hyaluronidase therapy,
+      or control therapy; patients assigned to Group B (propranolol contraindicated) were assigned
+      to hyaluronidase or control therapy. Single-blind for propranolol therapy, double-blind for
+      hyaluronidase or control therapy; fixed sample. Detailed follow-up of clinical status and
+      endpoints for a six-month period; annual health status follow-up thereafter.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1977</start_date>
+  <completion_date>December 1985</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>propranolol</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>hyaluronidase</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, under age 75. Documented myocardial infarction which could be treated
+        within 18 hours of onset of ischemic symptoms.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>74 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eugene Braunwald</last_name>
+    <affiliation>Harvard Medical School, Peter Bent Brigham Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Allan Jaffee</last_name>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>James Willerson</last_name>
+    <affiliation>University of Texas</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Rude RE, Poole WK, Muller JE, Turi Z, Rutherford J, Parker C, Roberts R, Raabe DS Jr, Gold HK, Stone PH, et al. Electrocardiographic and clinical criteria for recognition of acute myocardial infarction based on analysis of 3,697 patients. Am J Cardiol. 1983 Nov 1;52(8):936-42.</citation>
+    <PMID>6356862</PMID>
+  </reference>
+  <reference>
+    <citation>Hackel DB, Reimer KA, Ideker RE, Mikat EM, Hartwell TD, Parker CB, Braunwald EB, Buja M, Gold HK, Jaffe AS, et al. Comparison of enzymatic and anatomic estimates of myocardial infarct size in man. Circulation. 1984 Nov;70(5):824-35.</citation>
+    <PMID>6488496</PMID>
+  </reference>
+  <reference>
+    <citation>Mukharji J, Rude RE, Poole WK, Gustafson N, Thomas LJ Jr, Strauss HW, Jaffe AS, Muller JE, Roberts R, Raabe DS Jr, et al. Risk factors for sudden death after acute myocardial infarction: two-year follow-up. Am J Cardiol. 1984 Jul 1;54(1):31-6.</citation>
+    <PMID>6741836</PMID>
+  </reference>
+  <reference>
+    <citation>Roberts R, Croft C, Gold HK, Hartwell TD, Jaffe AS, Muller JE, Mullin SM, Parker C, Passamani ER, Poole WK, et al. Effect of propranolol on myocardial-infarct size in a randomized blinded multicenter trial. N Engl J Med. 1984 Jul 26;311(4):218-25.</citation>
+    <PMID>6377070</PMID>
+  </reference>
+  <reference>
+    <citation>Croft CH, Rude RE, Lewis SE, Parkey RW, Poole WK, Parker C, Fox N, Roberts R, Strauss HW, Thomas LJ, et al. Comparison of left ventricular function and infarct size in patients with and without persistently positive technetium-99m pyrophosphate myocardial scintigrams after myocardial infarction: analysis of 357 patients. Am J Cardiol. 1984 Feb 1;53(4):421-8.</citation>
+    <PMID>6320623</PMID>
+  </reference>
+  <reference>
+    <citation>Muller JE (Ed.), Braunwald E, Mock MB, et al (Assoc. Eds.): National Heart, Lung, and Blood Institute Multicenter Investigation of the Limitation of Infarct Size (MILIS). Design and Methods of the Clinical Trial. An Investigation of Beta-Blockade and Hyaluronidase for Treatment of Acute Myocardial Infarction. AHA Monograph 100:1-134, 1984.</citation>
+  </reference>
+  <reference>
+    <citation>Turi ZG, Rutherford JD, Roberts R, Muller JE, Jaffe AS, Rude RE, Parker C, Raabe DS, Stone PH, Hartwell TD, et al. Electrocardiographic, enzymatic and scintigraphic criteria of acute myocardial infarction as determined from study of 726 patients (A MILIS Study). Am J Cardiol. 1985 Jun 1;55(13 Pt 1):1463-8.</citation>
+    <PMID>2988325</PMID>
+  </reference>
+  <reference>
+    <citation>Muller JE, Stone PH, Turi ZG, Rutherford JD, Czeisler CA, Parker C, Poole WK, Passamani E, Roberts R, Robertson T, et al. Circadian variation in the frequency of onset of acute myocardial infarction. N Engl J Med. 1985 Nov 21;313(21):1315-22.</citation>
+    <PMID>2865677</PMID>
+  </reference>
+  <reference>
+    <citation>Muller JE, Turi ZG, Stone PH, Rude RE, Raabe DS, Jaffe AS, Gold HK, Gustafson N, Poole WK, Passamani E, et al. Digoxin therapy and mortality after myocardial infarction. Experience in the MILIS Study. N Engl J Med. 1986 Jan 30;314(5):265-71.</citation>
+    <PMID>3510391</PMID>
+  </reference>
+  <reference>
+    <citation>Wheelan K, Mukharji J, Rude RE, Poole WK, Gustafson N, Thomas LJ Jr, Strauss HW, Jaffe AS, Muller JE, Roberts R, et al. Sudden death and its relation to QT-interval prolongation after acute myocardial infarction: two-year follow-up. Am J Cardiol. 1986 Apr 1;57(10):745-50.</citation>
+    <PMID>2870632</PMID>
+  </reference>
+  <reference>
+    <citation>Rude RE, Buja LM, Willerson JT. Propranolol in acute myocardial infarction: the MILIS experience. Am J Cardiol. 1986 Apr 25;57(12):38F-42F.</citation>
+    <PMID>2871744</PMID>
+  </reference>
+  <reference>
+    <citation>Hyaluronidase therapy for acute myocardial infarction: results of a randomized, blinded, multicenter trial. MILIS Study Group. Am J Cardiol. 1986 Jun 1;57(15):1236-43.</citation>
+    <PMID>2872794</PMID>
+  </reference>
+  <reference>
+    <citation>Turi ZG, Stone PH, Muller JE, Parker C, Rude RE, Raabe DE, Jaffe AS, Hartwell TD, Robertson TL, Braunwald E. Implications for acute intervention related to time of hospital arrival in acute myocardial infarction. Am J Cardiol. 1986 Aug 1;58(3):203-9.</citation>
+    <PMID>3739907</PMID>
+  </reference>
+  <reference>
+    <citation>Croft CH, Rude RE, Gustafson N, Stone PH, Poole WK, Roberts R, Strauss HW, Raabe DS Jr, Thomas LJ, Jaffe AS, et al. Abrupt withdrawal of beta-blockade therapy in patients with myocardial infarction: effects on infarct size, left ventricular function, and hospital course. Circulation. 1986 Jun;73(6):1281-90.</citation>
+    <PMID>3009050</PMID>
+  </reference>
+  <reference>
+    <citation>Lamas GA, Muller JE, Turi ZG, Stone PH, Rutherford JD, Jaffe AS, Raabe DS, Rude RE, Mark DB, Califf RM, et al. A simplified method to predict occurrence of complete heart block during acute myocardial infarction. Am J Cardiol. 1986 Jun 1;57(15):1213-9.</citation>
+    <PMID>3717016</PMID>
+  </reference>
+  <reference>
+    <citation>Stone PH, Turi ZG, Muller JE, Parker C, Hartwell T, Rutherford JD, Jaffe AS, Raabe DS, Passamani ER, Willerson JT, et al. Prognostic significance of the treadmill exercise test performance 6 months after myocardial infarction. J Am Coll Cardiol. 1986 Nov;8(5):1007-17.</citation>
+    <PMID>2876018</PMID>
+  </reference>
+  <reference>
+    <citation>Tofler GH, Stone PH, Muller JE, Willich SN, Davis VG, Poole WK, Strauss HW, Willerson JT, Jaffe AS, Robertson T, et al. Effects of gender and race on prognosis after myocardial infarction: adverse prognosis for women, particularly black women. J Am Coll Cardiol. 1987 Mar;9(3):473-82.</citation>
+    <PMID>3819194</PMID>
+  </reference>
+  <reference>
+    <citation>Willich SN, Stone PH, Muller JE, Tofler GH, Crowder J, Parker C, Rutherford JD, Turi ZG, Robertson T, Passamani E, et al. High-risk subgroups of patients with non-Q wave myocardial infarction based on direction and severity of ST segment deviation. Am Heart J. 1987 Nov;114(5):1110-9.</citation>
+    <PMID>3673877</PMID>
+  </reference>
+  <reference>
+    <citation>Cox DA, Stone PH, Muller JE, Parker C, Hartwell TD, Rutherford JD, Roberts R, Jaffe AS, Hackel DB, Passamani ER, et al. Prognostic implications of an early peak in plasma MB creatine kinase in patients with acute myocardial infarction. J Am Coll Cardiol. 1987 Nov;10(5):979-90.</citation>
+    <PMID>3312368</PMID>
+  </reference>
+  <reference>
+    <citation>Tofler GH, Stone PH, Muller JE, Rutherford JD, Willich SN, Gustafson NF, Poole WK, Sobel BE, Willerson JT, Robertson T, et al. Prognosis after cardiac arrest due to ventricular tachycardia or ventricular fibrillation associated with acute myocardial infarction (the MILIS Study). Multicenter Investigation of the Limitation of Infarct Size. Am J Cardiol. 1987 Oct 1;60(10):755-61.</citation>
+    <PMID>3661389</PMID>
+  </reference>
+  <reference>
+    <citation>Stone PH, Raabe DS, Jaffe AS, Gustafson N, Muller JE, Turi ZG, Rutherford JD, Poole WK, Passamani E, Willerson JT, et al. Prognostic significance of location and type of myocardial infarction: independent adverse outcome associated with anterior location. J Am Coll Cardiol. 1988 Mar;11(3):453-63. Review.</citation>
+    <PMID>3278032</PMID>
+  </reference>
+  <reference>
+    <citation>Hands ME, Cook EF, Stone PH, Muller JE, Hartwell T, Sobel BE, Roberts R, Braunwald E, Rutherford JD. Electrocardiographic diagnosis of myocardial infarction in the presence of complete left bundle branch block. Am Heart J. 1988 Jul;116(1 Pt 1):23-31.</citation>
+    <PMID>3394629</PMID>
+  </reference>
+  <reference>
+    <citation>Muller JE, Rude RE, Braunwald E, Hartwell TD, Roberts R, Sobel BE, Ritter C, Parker CB, Jaffe AS, Stone PH, et al. Myocardial infarct extension: occurrence, outcome, and risk factors in the Multicenter Investigation of Limitation of Infarct Size. Ann Intern Med. 1988 Jan;108(1):1-6.</citation>
+    <PMID>3337484</PMID>
+  </reference>
+  <reference>
+    <citation>Roberts R, Braunwald E, Muller JE, Croft C, Gold HK, Hartwell TD, Jaffe AS, Mullin SM, Parker C, Passamani ER, et al. Effect of hyaluronidase on mortality and morbidity in patients with early peaking of plasma creatine kinase MB and non-transmural ischaemia. Multicentre investigation for the limitation of infarct size (MILIS). Br Heart J. 1988 Oct;60(4):290-8.</citation>
+    <PMID>3056476</PMID>
+  </reference>
+  <reference>
+    <citation>Lee RT, Lee TH, Poole WK, Gustafson N, Stone PH, Jaffe AS, Muller JE, Sobel BE, Roberts R, Braunwald E. Rate of disappearance of creatine kinase-MB after acute myocardial infarction: clinical determinants of variability. Am Heart J. 1988 Dec;116(6 Pt 1):1493-9.</citation>
+    <PMID>3195433</PMID>
+  </reference>
+  <reference>
+    <citation>Tofler GH, Muller JE, Stone PH, Willich SN, Davis VG, Poole WK, Robertson T, Braunwald E. Pericarditis in acute myocardial infarction: characterization and clinical significance. Am Heart J. 1989 Jan;117(1):86-92.</citation>
+    <PMID>2643287</PMID>
+  </reference>
+  <reference>
+    <citation>Pohjola-Sintonen S, Muller JE, Stone PH, Willich SN, Antman EM, Davis VG, Parker CB, Braunwald E. Ventricular septal and free wall rupture complicating acute myocardial infarction: experience in the Multicenter Investigation of Limitation of Infarct Size. Am Heart J. 1989 Apr;117(4):809-18.</citation>
+    <PMID>2648779</PMID>
+  </reference>
+  <reference>
+    <citation>Hands ME, Rutherford JD, Muller JE, Davies G, Stone PH, Parker C, Braunwald E. The in-hospital development of cardiogenic shock after myocardial infarction: incidence, predictors of occurrence, outcome and prognostic factors. The MILIS Study Group. J Am Coll Cardiol. 1989 Jul;14(1):40-6; discussion 47-8.</citation>
+    <PMID>2738272</PMID>
+  </reference>
+  <reference>
+    <citation>Stone PH, Muller JE, Hartwell T, York BJ, Rutherford JD, Parker CB, Turi ZG, Strauss HW, Willerson JT, Robertson T, et al. The effect of diabetes mellitus on prognosis and serial left ventricular function after acute myocardial infarction: contribution of both coronary disease and diastolic left ventricular dysfunction to the adverse prognosis. The MILIS Study Group. J Am Coll Cardiol. 1989 Jul;14(1):49-57.</citation>
+    <PMID>2661630</PMID>
+  </reference>
+  <reference>
+    <citation>Tofler GH, Stone PH, Muller JE, Braunwald E. Mortality for women after acute myocardial infarction: MILIS Study Group. Am J Cardiol. 1989 Jul 15;64(3):256.</citation>
+    <PMID>2741839</PMID>
+  </reference>
+  <reference>
+    <citation>Barzilai B, Davis VG, Stone PH, Jaffe AS. Prognostic significance of mitral regurgitation in acute myocardial infarction. The MILIS Study Group. Am J Cardiol. 1990 May 15;65(18):1169-75.</citation>
+    <PMID>2337024</PMID>
+  </reference>
+  <reference>
+    <citation>Tofler GH, Stone PH, Maclure M, Edelman E, Davis VG, Robertson T, Antman EM, Muller JE. Analysis of possible triggers of acute myocardial infarction (the MILIS study). Am J Cardiol. 1990 Jul 1;66(1):22-7.</citation>
+    <PMID>2193495</PMID>
+  </reference>
+  <reference>
+    <citation>Brezinski D, Stone PH, Muller JE, Tofler GH, Davis V, Parker C, Hartley LH, Braunwald E. Prognostic significance of the Karnofsky Performance Status score in patients with acute myocardial infarction: comparison with the left ventricular ejection fraction and the exercise treadmill test performance. The MILIS Study Group. Am Heart J. 1991 May;121(5):1374-81.</citation>
+    <PMID>2017970</PMID>
+  </reference>
+  <reference>
+    <citation>Tofler GH, Muller JE, Stone PH, Davies G, Davis VG, Braunwald E. Comparison of long-term outcome after acute myocardial infarction in patients never graduated from high school with that in more educated patients. Multicenter Investigation of the Limitation of Infarct Size (MILIS). Am J Cardiol. 1993 May 1;71(12):1031-5.</citation>
+    <PMID>8475864</PMID>
+  </reference>
+  <reference>
+    <citation>Kloner RA, Muller J, Davis V. Effects of previous angina pectoris in patients with first acute myocardial infarction not receiving thrombolytics. MILIS Study Group. Multicenter Investigation of the Limitation of Infarct Size. Am J Cardiol. 1995 Mar 15;75(8):615-7.</citation>
+    <PMID>7887389</PMID>
+  </reference>
+  <verification_date>December 1985</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

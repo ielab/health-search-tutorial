@@ -1,0 +1,43 @@
+TITLE:
+      Motion Analysis of Delirium in the ICU
+SUMMARY:
+      Delirium, as a common complication of hospitalization, poses significant health problems in
+      hospitalized patients. Though about a third of delirium cases can benefit from intervention,
+      detecting and predicting delirium is still very limited in practice. A common
+      characterization of delirium is changes in activity level, causing patients to become
+      hyperactive or hypoactive which is manifested in facial expressions and total body
+      movements. This pilot study is designed to test the feasibility of a delirium detection
+      system using movement data obtained from 3-axis wearable accelerometers and Microsoft Kinect
+      sensor, in conjunction with electronics medical record (EMR) data to analyze the relation of
+      whole-body movement as well as facial expressions with delirium.
+DETAILED DESCRIPTION:
+      The aim of the study is to assess the potential of motion and facial expression data for
+      detecting delirium in ICU patients by comparing motion and facial expression patterns in
+      delirium and control group. In this study, the investigators will use ActivePalTM
+      accelerometer to record each subject's movement patterns. Also, a processed video using the
+      KINECT application-programming interface to identify patient facial expressions and movement
+      patterns. A total of 40 participants will be enrolled with delirium and 20 patients without
+      delirium will be used as control group. Motion profiles will be compared in the motorically
+      defined subgroups (hyperactive, hypoactive, normal) based on accelerometer and Kinect data.
+      Then differences in facial expression, number of changes in postures and percentage of time
+      spent moving between motorically defined subgroups and in delirium and control group. EMR
+      data will also be used to assess the feasibility of detecting delirium by additionally
+      including information on related risk factors.
+ELIGIBILITY CRITERIA:
+      Inclusion Criteria:
+
+          -  Intensive care unit patient
+
+          -  18 years of age or older
+
+          -  Eligibility confirmed within 24 hours of admission
+
+          -  Positive Confusion Assessment Method score
+
+        Exclusion Criteria:
+
+          -  Anticipated intensive care unit stay less than one day
+
+          -  Less than 18 years of age
+
+          -  Inability to wear a motion sensor watch (ActivPal)

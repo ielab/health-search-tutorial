@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204424">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000553</url>
+  </required_header>
+  <id_info>
+    <org_study_id>97</org_study_id>
+    <nct_id>NCT00000553</nct_id>
+  </id_info>
+  <brief_title>HDL-Atherosclerosis Treatment Study (HATS)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To measure the effects of lipid-lowering drugs and/or antioxidant vitamins on progression or
+      regression of coronary heart disease as measured by quantitative angiography in patients
+      with low high density lipoprotein (HDL) cholesterol.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      More than one-third of patients with coronary disease have &quot;low&quot; high density lipoprotein
+      cholesterol (HDLc) levels (less than 35 mg/dl; United States 20th percentile) and &quot;normal&quot;
+      low density lipoprotein cholesterol (LDLc) (less than 145; United States mean), a group for
+      whom current treatment guidelines are not based on clinical trial data. Low HDLc levels are
+      strong, independent predictors of cardiovascular disease and cardiovascular mortality risk,
+      equally so for both men and women. This high coronary artery disease risk may be due to an
+      imbalance between delivery of cholesterol into the arterial intima by LDL and its removal by
+      HDL. Also, since HDL serve as antioxidants and cytoprotectants, an important HDL role may be
+      to prevent LDL oxidation and thus limit macrophage-mediated intimal lipid accumulation or to
+      prevent vascular cell toxicity. Recent epidemiologic, experimental, and clinical trial
+      evidence suggests that a 15 mg/dl rise in HDL cholesterol would reduce coronary artery
+      disease incidence and mortality by 30 to 70 percent and that antioxidant vitamins E, C, and
+      beta-carotene might reduce coronary artery disease events and atherogenesis. The potential
+      absolute benefit is much greater in those with existing coronary artery disease. It has also
+      been shown that HDLc rises in response to exercise, smoking cessation, weight reduction, and
+      monounsaturated fats.
+
+      DESIGN NARRATIVE:
+
+      Randomized, Phase III. Each patient was randomly assigned to a lipid-altering strategy or
+      its placebo and to an antioxidant vitamin strategy or its placebo, in a 2 x 2 factorial
+      design. The four groups were simvastatin-niacin plus an antioxidant vitamin cocktail;
+      simvastatin-niacin plus vitamin placebo; antioxidant vitamins alone plus simvastatin-niacin
+      placebo; or placebos for both strategies. All groups were counseled with respect to diet,
+      exercise, and smoking cessation. The primary endpoint was the average change in proximal
+      obstructive disease during the 2.5 year interval between baseline and the followup study.
+      Secondary endpoints included the frequency of cardiac events, including cardiac death,
+      confirmed non-fatal myocardial infarction, cerebrovascular accident, or revascularization by
+      bypass or angioplasty for medically refractory unstable ischemia. The trial ended in August,
+      1999.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1994</start_date>
+  <completion_date>February 2001</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Factorial Assignment, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>simvastatin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>niacin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>antioxidants</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with low HDL cholesterol, with at least one 50% stenotic coronary lesion or
+        three 30% stenotic coronary lesions. Women range in age from 35 to less than 68 and men
+        from 35 to less than 63.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>68 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bruce Brown</last_name>
+    <affiliation>University of Washington</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Brown G, Stewart BF, Zhao XQ, Hillger LA, Poulin D, Albers JJ. What benefit can be derived from treating normocholesterolemic patients with coronary artery disease? Am J Cardiol. 1995 Sep 28;76(9):93C-97C. Review.</citation>
+    <PMID>7572694</PMID>
+  </reference>
+  <reference>
+    <citation>Brown BG, Zhao XQ, Chait A, Frohlich J, Cheung M, Heise N, Dowdy A, DeAngelis D, Fisher LD, Albers J. Lipid altering or antioxidant vitamins for patients with coronary disease and very low HDL cholesterol? The HDL-Atherosclerosis Treatment Study Design. Can J Cardiol. 1998 Apr;14 Suppl A:6A-13A. Review.</citation>
+    <PMID>9594927</PMID>
+  </reference>
+  <reference>
+    <citation>Cheung MC, Wolfbauer G, Brown BG, Albers JJ. Relationship between plasma phospholipid transfer protein activity and HDL subclasses among patients with low HDL and cardiovascular disease. Atherosclerosis. 1999 Jan;142(1):201-5.</citation>
+    <PMID>9920522</PMID>
+  </reference>
+  <reference>
+    <citation>Brown BG, Zhao XQ, Chait A, Fisher LD, Cheung MC, Morse JS, Dowdy AA, Marino EK, Bolson EL, Alaupovic P, Frohlich J, Albers JJ. Simvastatin and niacin, antioxidant vitamins, or the combination for the prevention of coronary disease. N Engl J Med. 2001 Nov 29;345(22):1583-92.</citation>
+    <PMID>11757504</PMID>
+  </reference>
+  <reference>
+    <citation>Brown BG, Cheung MC, Lee AC, Zhao XQ, Chait A. Antioxidant vitamins and lipid therapy: end of a long romance? Arterioscler Thromb Vasc Biol. 2002 Oct 1;22(10):1535-46. Review.</citation>
+    <PMID>12377728</PMID>
+  </reference>
+  <verification_date>March 2005</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antioxidants</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

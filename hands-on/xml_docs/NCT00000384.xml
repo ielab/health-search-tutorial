@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204592">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000384</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R10MH055126</org_study_id>
+    <secondary_id>R10MH055121</secondary_id>
+    <secondary_id>DSIR 84-CTM</secondary_id>
+    <nct_id>NCT00000384</nct_id>
+  </id_info>
+  <brief_title>Treatment of Obsessive-Compulsive Disorder (OCD) in Children</brief_title>
+  <official_title>Treatment of Pediatric Obsessive-Compulsive Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Mental Health (NIMH)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare 3 treatments for children with OCD: medication
+      (sertraline, SER) alone vs OCD-specific therapy (Cognitive Behavior Therapy, CBT) vs
+      medication plus therapy. Some patients will receive an inactive placebo (PBO) instead of
+      medication and/or Educational Support (ES, non-psychological treatment) instead of therapy.
+
+      One in 200 children suffer from OCD, but few receive appropriate treatment. Both CBT and
+      medication seem to be effective, but their effectiveness, alone and in combination, has not
+      been evaluated.
+
+      There are 2 phases to this trial. In Phase I the child will receive 1 of the following 6
+      treatments for 12 weeks: 1) SER alone; 2) pill PBO alone; 3) CBT alone; 4) SER plus CBT; 5)
+      SER plus ES; 6) pill PBO plus ES. If the child responds to treatment, he/she will go on to
+      Phase II in which the treatment will be slowly reduced, then stopped (discontinued), over
+      time to test the treatment's durability. The child will be evaluated at Weeks 1, 4, 8, 12
+      (Phase I treatment), and Weeks 16, 20, 24, and 28 (Phase II discontinuation) to see how
+      effective and durable the treatment is in treating your child's OCD.
+
+      A child may be eligible for this study if he/she:
+
+      Has obsessive-compulsive disorder (OCD) and is 8 - 16 years old.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To contrast the degree and durability of improvement in pediatric obsessive-compulsive
+      disorder (OCD), patients will be treated with 1 of 6 conditions (3 active treatments and 3
+      control treatments): sertraline alone (SER), OCD-specific Cognitive Behavior Therapy (CBT),
+      both SER and CBT (SER plus CBT), pill placebo (PBO), pill PBO plus Educational Support (ES),
+      and SER plus ES.
+
+      One in 200 youth suffers from OCD, yet relatively few receive appropriate treatment. Both
+      CBT and medication appear beneficial in controlled studies; however, the relative efficacy
+      of CBT and medication, alone and in combination (COMB) is unknown. Thus, well-designed
+      treatment outcome studies are necessary to improve care for youth with OCD.
+
+      The experimental design covers 2 phases. Phase I is a 2 (site) x 2 (SER or pill PBO) x 3
+      (CBT, ES or non- psychosocial treatment) x 5 (repeated measures) factorial 12-week
+      comparison of SER, CBT, COMB and the control conditions. In Phase II, responders advance to
+      a 16-week discontinuation study to assess treatment durability. The primary outcome measure
+      is the Yale-Brown Obsessive-Compulsive Scale. Assessments blind to treatment status take
+      place at Week 0 (pretreatment); Weeks 1, 4, 8, 12 (Phase I treatment); and Weeks 16, 20, 24
+      and 28 (Phase II discontinuation). Besides addressing comparative efficacy and durability of
+      the specified treatments, the investigators also examine time-action effects, differential
+      effects on specific aspects of OCD, including functional impairment, and predictors of
+      response to treatment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1997</start_date>
+  <completion_date>April 2002</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Primary Purpose: Treatment</study_design>
+  <condition>Obsessive-Compulsive Disorder</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive Behavior Therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Educational Support</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sertraline</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients must have:
+
+        DSM-IV diagnosed OCD.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>8 Years</minimum_age>
+    <maximum_age>16 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edna B. Foa, PhD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <overall_official>
+    <last_name>John S. March, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Duke Univ. Med. Ctr.</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2005</verification_date>
+  <lastchanged_date>November 18, 2005</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Adolescence</keyword>
+  <keyword>Child</keyword>
+  <keyword>Cognitive Therapy</keyword>
+  <keyword>Combined Modality Therapy</keyword>
+  <keyword>Obsessive-Compulsive Disorder</keyword>
+  <keyword>Placebos</keyword>
+  <keyword>Sertraline</keyword>
+  <keyword>Patient Education</keyword>
+  <keyword>Psychotherapy</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Compulsive Personality Disorder</mesh_term>
+    <mesh_term>Obsessive-Compulsive Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Sertraline</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204218">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000761</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 211</org_study_id>
+    <secondary_id>11188</secondary_id>
+    <nct_id>NCT00000761</nct_id>
+  </id_info>
+  <brief_title>Phase I/II Study of Recombinant Human Interferon-gamma (rIFN-gamma) in HIV-Infected Children</brief_title>
+  <official_title>Phase I/II Study of Recombinant Human Interferon-gamma (rIFN-gamma) in HIV-Infected Children</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      PRIMARY: To determine the safety and toxicity of recombinant interferon gamma-1b (
+      rIFN-gamma ) in HIV-infected children receiving ongoing zidovudine ( AZT ) or didanosine (
+      ddI ) therapy. To document HIV-associated defects in neutrophil and/or monocyte function
+      that are improved with rIFN-gamma.
+
+      SECONDARY: To determine whether a change in CD4 cell count occurs and to assess virologic
+      status and effects on AZT and ddI pharmacokinetics.
+
+      It is likely that infants and children severely immunocompromised by HIV infection would
+      respond to immunomodulators that augment different portions of the host defense system.
+      Interferon-gamma has been shown to benefit children with severely compromised nonspecific
+      immunity and may thus be of benefit to those with HIV infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It is likely that infants and children severely immunocompromised by HIV infection would
+      respond to immunomodulators that augment different portions of the host defense system.
+      Interferon-gamma has been shown to benefit children with severely compromised nonspecific
+      immunity and may thus be of benefit to those with HIV infection.
+
+      Patients are treated with subcutaneous rIFN-gamma 3 times a week for 24 weeks and are then
+      followed for an additional 12 weeks.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">October 1997</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Pharmacokinetics Study, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <enrollment>20</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Interferon gamma-1b</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Required:
+
+          -  AZT or ddI therapy.
+
+          -  PCP prophylaxis.
+
+        Allowed:
+
+          -  Antipyretics.
+
+          -  Antiemetics.
+
+          -  Antihistamines.
+
+          -  Decongestants.
+
+          -  Skin creams and lotions.
+
+          -  Immunizations according to current recommendations.
+
+        Patients must have:
+
+          -  Class P-2 symptomatic HIV infection.
+
+          -  Ongoing AZT or ddI therapy of 6 months or longer duration.
+
+        Exclusion Criteria
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Antiretroviral therapy other than AZT or ddI.
+
+          -  Chemotherapy for active malignancy.
+
+          -  Amphotericin B for systemic fungal infections.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of congestive heart failure or arrhythmias.
+
+          -  History of congenital heart disease.
+
+          -  History of seizure disorder requiring anticonvulsant medication. (NOTE:
+
+        History of uncomplicated febrile seizures does not exclude.)
+
+        Prior Medication:
+
+        Excluded within 8 weeks prior to study entry:
+
+          -  Immunomodulators other than IVIG.
+
+        Prior Treatment:
+
+        Excluded:
+
+          -  Red blood cell transfusion within 4 weeks prior to study entry.
+
+        Required:
+
+          -  Ongoing AZT or ddI therapy of 6 weeks or longer duration.
+
+          -  Ongoing PCP prophylaxis for more than 6 weeks duration.
+
+        Ongoing alcohol or drug use.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>WT Shearer</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>SL Abramson</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>MW Kline</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The Children's Hosp. of Philadelphia IMPAACT CRS</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191044318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Children's Hosp. CRS</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Kline MW, Fletcher CV, Douglas SD, Fenton T, Shearer WT. Recombinant human interferon-gamma (rIFN-gamma) treatment of HIV-infected children. Conf Retroviruses Opportunistic Infect. 1997 Jan 22-26;4th:143 (abstract no 424)</citation>
+  </reference>
+  <reference>
+    <citation>Shearer WT, Kline MW, Abramson SL, Fenton T, Starr SE, Douglas SD. Recombinant human gamma interferon in human immunodeficiency virus-infected children: safety, CD4(+)-lymphocyte count, viral load, and neutrophil function (AIDS Clinical Trials Group Protocol 211). Clin Diagn Lab Immunol. 1999 May;6(3):311-5.</citation>
+    <PMID>10225828</PMID>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>April 27, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Interferon-gamma, Recombinant</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Interferon-gamma</mesh_term>
+    <mesh_term>Interferons</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

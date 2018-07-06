@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204186">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000794</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 237</org_study_id>
+    <secondary_id>ANRS 039</secondary_id>
+    <secondary_id>11214</secondary_id>
+    <nct_id>NCT00000794</nct_id>
+  </id_info>
+  <brief_title>Phase II Randomized Open-Label Trial of Atovaquone Plus Pyrimethamine and Atovaquone Plus Sulfadiazine for the Treatment of Acute Toxoplasmic Encephalitis</brief_title>
+  <official_title>Phase II Randomized Open-Label Trial of Atovaquone Plus Pyrimethamine and Atovaquone Plus Sulfadiazine for the Treatment of Acute Toxoplasmic Encephalitis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the efficacy, safety, and tolerance of atovaquone with either pyrimethamine or
+      sulfadiazine in AIDS patients with toxoplasmic encephalitis.
+
+      AIDS patients with toxoplasmic encephalitis who receive the standard therapy combination of
+      sulfadiazine and pyrimethamine experience a high frequency of severe toxicity. Atovaquone,
+      an antibiotic that has demonstrated efficacy against toxoplasmosis in animal models and in
+      preclinical testing has been well tolerated, is now available as a suspension, which is more
+      readily absorbed than the tablet form of the drug. The efficacy and safety of atovaquone in
+      combination with sulfadiazine or pyrimethamine will be studied.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      AIDS patients with toxoplasmic encephalitis who receive the standard therapy combination of
+      sulfadiazine and pyrimethamine experience a high frequency of severe toxicity. Atovaquone,
+      an antibiotic that has demonstrated efficacy against toxoplasmosis in animal models and in
+      preclinical testing has been well tolerated, is now available as a suspension, which is more
+      readily absorbed than the tablet form of the drug. The efficacy and safety of atovaquone in
+      combination with sulfadiazine or pyrimethamine will be studied.
+
+      Seventy patients are randomized to receive atovaquone with either pyrimethamine or
+      sulfonamides for up to 48 weeks. Additionally, three cohorts of 10 patients each who have a
+      history of treatment-limiting toxicity to pyrimethamine, sulfadiazine, or both drugs receive
+      atovaquone plus the alternate drug or atovaquone plus clarithromycin. All patients receiving
+      pyrimethamine also receive leucovorin protection.
+
+      PER AMENDMENT 4/3/96:
+
+      The open treatment groups are: Atovaquone plus pyrimethamine for patients with acute
+      toxoplasmic encephalitis who have no treatment limiting toxicity to pyrimethamine, and
+      Atovaquone plus clarithromycin for patients with acute toxoplasmic encephalitis who have
+      treatment limiting toxicity to both pyrimethamine and sulfadiazine. The following arms
+      closed on 12/22/95: Randomization to the atovaquone plus sulfadiazine arm for patients with
+      acute toxoplasmic encephalitis who had no treatment limiting toxicity to pyrimethamine or
+      sulfonamides, and Atovaquone plus sulfadiazine for patients with acute toxoplasmic
+      encephalitis who had treatment limiting toxicity to pyrimethamine. The following arm closed
+      on 9/26/95: Atovaquone plus pyrimethamine for patients with acute toxoplasmic encephalitis
+      who had treatment limiting toxicity to sulfonamides. NOTE: Any patients enrolled in previous
+      versions will continue to be treated with that same drug treatment and followed under their
+      previous version guidelines.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">April 1998</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Primary Purpose: Treatment</study_design>
+  <enrollment>100</enrollment>
+  <condition>Toxoplasmosis, Cerebral</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sulfadiazine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clarithromycin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atovaquone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pyrimethamine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Leucovorin calcium</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  Aerosolized pentamidine for PCP prophylaxis.
+
+        PER AMENDMENT 4/3/96:
+
+          -  History of treatment limiting toxicity to pyrimethamine. Patients with a history of
+             treatment limiting toxicity to both pyrimethamine and sulfonamides will be assigned
+             to receive atovaquone plus clarithromycin.
+
+        Patients must have:
+
+          -  Documented HIV infection or diagnosis of AIDS (except for CD4 count &lt; 200 cells/mm3).
+
+          -  Toxoplasmic encephalitis.
+
+          -  Ability to give informed consent or legal designee who could give consent.
+
+        PER AMENDMENT 4/3/96:
+
+          -  NOTE - A history of treatment limiting toxicity to both pyrimethamine and
+             sulfonamides will result in the patient being enrolled in the atovaquone plus
+             clarithromycin arm.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Coma.
+
+          -  Opportunistic infection that requires either acute or maintenance treatment with
+             disallowed medications.
+
+          -  Any infections or neoplasms of the central nervous system other than Toxoplasma, HIV
+             encephalopathy, or syphilis.
+
+          -  Unable to take oral study drugs.
+
+          -  Malabsorption (i.e., three or more episodes of diarrhea per day that has caused &gt;= 10
+             percent loss of body weight over the past 4 weeks).
+
+          -  Positive CSF or serum for Cryptococcus antigen or culture (a positive serum antigen
+             only is acceptable, provided patient received prior antifungal therapy and is on
+             maintenance, and the likelihood of recurrence is low).
+
+          -  Malignancy requiring use of cytotoxic chemotherapy.
+
+          -  Medical or social condition that would adversely affect study participation or
+             compliance.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Trimethoprim-sulfamethoxazole.
+
+          -  Primaquine.
+
+          -  Sulfonamides.
+
+          -  Antifolates.
+
+          -  Dapsone.
+
+          -  Clarithromycin (except for patients in the cohort to receive this drug).
+
+          -  Azithromycin.
+
+          -  Clindamycin.
+
+          -  Other macrolides.
+
+          -  Gamma interferon.
+
+          -  Metoclopramide.
+
+          -  G-CSF or GM-CSF.
+
+        Excluded in patients receiving clarithromycin as study drug:
+
+          -  Terfenadine, astemizole, or any other long-acting, non-sedating antihistamines.
+
+        PER AMENDMENT 4/3/96:
+
+          -  Cisapride - may increase GI motility and may increase drug absorption.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of treatment-limiting toxicity to atovaquone.
+
+          -  Receipt of &gt; 96 hours (per amendment) of treatment prior to study entry for the
+             current episode of toxoplasmic encephalitis.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Luft B</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Chirgwin K</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>USC CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>900331079</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Miami AIDS CRS</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>331361013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Queens Med. Ctr.</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96816</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Hawaii at Manoa, Leahi Hosp.</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96816</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook County Hosp. CORE Ctr.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana Univ. School of Medicine, Infectious Disease Research Clinic</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>462025250</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Hosp. of Indiana</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Adult AIDS CRS</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis ConnectCare, Infectious Diseases Clinic</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington U CRS</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY - Buffalo, Erie County Medical Ctr.</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Med. Ctr. (Mt. Sinai)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NY Univ. HIV/AIDS CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Cincinnati CRS</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>452670405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State Univ. AIDS CRS</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>432101228</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>France</country>
+  </removed_countries>
+  <link>
+    <url>http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=99</url>
+    <description>Click here for more information about Clarithromycin</description>
+  </link>
+  <reference>
+    <citation>Chirgwin K, Hafner R, Leport C, Remington J, Andersen J, Bosler EM, Roque C, Rajicic N, McAuliffe V, Morlat P, Jayaweera DT, Vilde JL, Luft BJ. Randomized phase II trial of atovaquone with pyrimethamine or sulfadiazine for treatment of toxoplasmic encephalitis in patients with acquired immunodeficiency syndrome: ACTG 237/ANRS 039 Study. AIDS Clinical Trials Group 237/Agence Nationale de Recherche sur le SIDA, Essai 039. Clin Infect Dis. 2002 May 1;34(9):1243-50.</citation>
+    <PMID>11941551</PMID>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>April 2, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Pyrimethamine</keyword>
+  <keyword>Leucovorin</keyword>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Encephalitis</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Antiprotozoal Agents</keyword>
+  <keyword>Clarithromycin</keyword>
+  <keyword>atovaquone</keyword>
+  <keyword>Toxoplasmosis, Cerebral</keyword>
+  <keyword>Sulfadiazine</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Encephalitis</mesh_term>
+    <mesh_term>Toxoplasmosis</mesh_term>
+    <mesh_term>Toxoplasmosis, Cerebral</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Atovaquone</mesh_term>
+    <mesh_term>Clarithromycin</mesh_term>
+    <mesh_term>Levoleucovorin</mesh_term>
+    <mesh_term>Pyrimethamine</mesh_term>
+    <mesh_term>Sulfadiazine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

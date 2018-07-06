@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204389">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000588</url>
+  </required_header>
+  <id_info>
+    <org_study_id>308</org_study_id>
+    <secondary_id>R01HL042814</secondary_id>
+    <nct_id>NCT00000588</nct_id>
+  </id_info>
+  <brief_title>Chelation Therapy of Iron Overload With Pyridoxal Isonicotinoyl Hydrazone</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Case Western Reserve University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Case Western Reserve University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To demonstrate the safety and effectiveness of orally-administered pyridoxal isonicotinoyl
+      hydrazone (PIH) for the chronic treatment of iron overload.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Iron overload in patients with refractory anemia may be the consequence of repeated blood
+      transfusion, of excessive absorption of dietary iron, or of a combination of both. The body
+      lacks any effective means for the excretion of excess iron and in patients with refractory
+      anemia, an inexorable accumulation of iron contained in transfused red cells or absorbed
+      from the diet eventually exceeds the body's capacity for safe storage. Without treatment,
+      widespread iron-induced damage to the liver, heart, pancreas, and other organs is followed
+      by an early death, most often the result of cardiac failure.
+
+      Treatment with a chelating agent capable of sequestering iron and permitting its excretion
+      from the body is the most widely-used therapeutic approach. Desferrioxamine was first
+      introduced 30 years ago and is the only iron-chelating agent now in clinical use. A number
+      of recent studies have shown that regular chelation therapy with desferrioxamine can prevent
+      organ damage and improve survival in transfusion-dependent patients with thalassemia major
+      and other disorders. However, desferrioxamine given orally is poorly absorbed and to be
+      effective must be given by subcutaneous or intravenous infusion using a small portable
+      syringe pump, ideally for 12 hours each day. Compliance with this regimen is frequently
+      poor, particularly in adolescents with thalassemia major who may be at greatest risk for the
+      lethal complications of iron overload. With modern transfusion programs, one of the main
+      threats to life in patients with transfusion-dependent anemias is non-compliance with
+      iron-chelation therapy. Moreover, the cost of desferrioxamine therapy in
+      transfusion-dependent therapy exceeds $10,000 per year, in part because the drug must be
+      isolated from bacterial cultures. Despite the limitations, trials of desferrioxamine have
+      validated iron chelation as a therapeutic approach to iron overload.
+
+      PIH was first recognized as an effective iron chelator in vitro in 1979. It is easily
+      produced by the Schiff base condensation of two widely used, inexpensive drugs, vitamin B-6
+      (pyridoxal) and the antituberculous agent isoniazid. The recent Phase I studies of low-dose
+      PIH in healthy controls and volunteers with iron overload have found no evidence of toxicity
+      while producing an amount of iron excretion that would be clinically useful in the treatment
+      of non-transfusion-dependent patients with iron-loading anemias. The trial should provide
+      evidence that orally-administered PIH can be substituted for chronic subcutaneous infusions
+      of desferrioxamine in the management of iron overload in refractory anemia.
+
+      The trial was part of an Institute-initiated study on Iron Overload: Cooley's Anemia and
+      Other Disorders.
+
+      DESIGN NARRATIVE:
+
+      There were three studies in the Phase II trial. Study 1 demonstrated the safety and
+      effectiveness of oral PIH in reducing the body iron burden to near-normal levels in
+      non-transfusion-dependent patients with iron-loading anemias. Study 2 demonstrated the
+      safety and effectiveness of oral PIH in maintaining near-normal body iron stores in
+      transfusion-dependent patients who had previously been well-chelated with chronic
+      subcutaneous or intravenous desferrioxamine. Study 3 demonstrated safety and effectiveness
+      of oral PIH in reducing the body iron burden to near normal levels in iron-loaded
+      transfusion-dependent patients. Studies 1 and 2 were carried out concurrently. Study 3 began
+      after the methods used in the first two studies documented a sufficient level of iron
+      excretion to permit the iron-loaded transfusion patients to keep pace with ongoing
+      transfusional loading and excrete previous accumulations of iron. After an initial 21 day
+      balance study to demonstrate that a selected dose of PIH produced sufficient iron excretion,
+      patients were begun on chronic therapy. PIH or placebo were given on days 4 to 9 and days 13
+      to 18 in a randomized, double-blind, cross-over design. Study 4 demonstrated the
+      effectiveness in 21 patients of oral deferiprone in inducing sustained decreases in body
+      iron concentrations compatible with the avoidance of complications from iron overload.
+
+      Repeat balance studies were carried out at three months, six months, and thereafter at least
+      annually with hematological and biochemical parameters monitored at weekly intervals for the
+      first month, at biweekly intervals for the next two months, and at least monthly thereafter.
+      Studies were conducted at the Cleveland Metropolitan General Hospital and at Siriraj
+      Hospital in Bangkok, Thailand.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1989</start_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Primary Purpose: Treatment</study_design>
+  <condition>Anemia (Iron-Loading)</condition>
+  <condition>Beta-Thalassemia</condition>
+  <condition>Hematologic Diseases</condition>
+  <condition>Hemoglobinopathies</condition>
+  <condition>Thalassemia</condition>
+  <condition>Iron Overload</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>chelation therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Study 1: Approximately 12 to 18 adult men and non-pregnant women with iron-loading anemias
+        in the United States and 12 to 18 similar patients in Thailand each year.
+
+        Study 2: Approximately 6 to 12 well-chelated patients with transfusion-dependence.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gary Brittenham</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Case Western Reserve University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Brittenham GM. Pyridoxal isonicotinoyl hydrazone. Effective iron chelation after oral administration. Ann N Y Acad Sci. 1990;612:315-26. Review.</citation>
+    <PMID>2291560</PMID>
+  </reference>
+  <reference>
+    <citation>Brittenham GM. Pyridoxal isonicotinoyl hydrazone: an effective iron-chelator after oral administration. Semin Hematol. 1990 Apr;27(2):112-6. Review.</citation>
+    <PMID>2190317</PMID>
+  </reference>
+  <reference>
+    <citation>Nathan DG. An orally active iron chelator. N Engl J Med. 1995 Apr 6;332(14):953-4. Erratum in: N Engl J Med 1995 May 11;332(19):1315.</citation>
+    <PMID>7877655</PMID>
+  </reference>
+  <verification_date>February 2002</verification_date>
+  <lastchanged_date>February 10, 2014</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Beta-Thalassemia</mesh_term>
+    <mesh_term>Hematologic Diseases</mesh_term>
+    <mesh_term>Hemoglobinopathies</mesh_term>
+    <mesh_term>Iron Overload</mesh_term>
+    <mesh_term>Thalassemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pyridoxal isonicotinoyl hydrazone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

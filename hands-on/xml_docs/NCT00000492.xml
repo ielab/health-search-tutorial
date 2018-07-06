@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204485">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000492</url>
+  </required_header>
+  <id_info>
+    <org_study_id>11</org_study_id>
+    <nct_id>NCT00000492</nct_id>
+  </id_info>
+  <brief_title>Beta-Blocker Heart Attack Trial (BHAT)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether the regular administration of the beta-blocker drug propranolol to
+      people who had had at least one documented myocardial infarction would result in a
+      significant reduction of mortality from all causes over the follow-up period. Eligible
+      volunteer patients were recruited to participate in a double-blind clinical trial within 21
+      days after the onset of the acute event. One-half of the patients were randomly assigned to
+      a beta-blocking drug (propranolol) and one-half to a placebo. The trial also evaluated the
+      effect of propranolol on incidences of coronary heart disease mortality, sudden cardiac
+      death, and nonfatal myocardial infarction plus coronary heart disease mortality in persons
+      with documented previous myocardial infarction.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Survivors of a documented myocardial infarction are recognized as having a high risk of
+      dying relative to the general population. Serious arrhythmias, occurring with or without
+      evidence of new infarction, are a common cause of death in this population. Theoretically,
+      an agent which (1) can block the sympathetic nervous activity thought to be involved in
+      precipitating sudden death and (2) has non-neurogenic antiarrhythmic properties would be of
+      value to people with coronary heart disease. Propranolol, like other beta- blocking agents,
+      has these as well as other properties and therefore might be expected to prevent or retard
+      complications of coronary heart disease such as serious arrhythmias. This would be reflected
+      in a decrease in mortality due to coronary heart disease.
+
+      A workshop on chronic antiarrhythmic therapy reviewed contemporary experimental data and
+      clinical practice and recommended that a clinical trial be undertaken to clearly show the
+      effects of beta-blocking drugs on mortality. Subsequently, such a trial was approved by the
+      Clinical Applications and Prevention Advisory Committee, by the Cardiology Advisory
+      Committee, and by the National Heart, Lung, and Blood Advisory Council.
+
+      The study protocol was reviewed in February 1978 and recommended for approval by the
+      policy-data monitoring board and ad hoc members. The protocol was approved by the Director
+      of NHLBI in March 1978. Recruitment started on June 19, 1978, and ended in October 1980. A
+      total of 3,837 patients were randomized. Units which participated in the trial included 32
+      clinical centers, an EKG center, a central laboratory, a coordinating center, a 1-hour
+      ambulatory ECG center, a 24-hour ambulatory EKG center, and an EKG tape quality control
+      center.
+
+      DESIGN NARRATIVE:
+
+      A randomized, double-blind design with single experimental and control groups. Patients were
+      recruited while in the hospital for an acute myocardial infarction and were enrolled in the
+      study before discharge. Eligible patients fulfilled the study definition of an acute
+      myocardial infarction. The diagnosis was based either on electrocardiographic records
+      showing evolving QRS segment changes or on ST segment and T wave changes together with
+      enzyme changes and appropriate clinical history. One-half of the patients were placed on
+      therapy using a beta-blocking drug (propranolol). The other half received a placebo. The
+      prescribed maintenance dosage of propranolol was either l80 or 240 mgs/day, depending upon
+      serum drug levels. Intervention duration averaged 25 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1977</start_date>
+  <completion_date>October 1981</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Arrhythmia</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Death, Sudden, Cardiac</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <condition>Ventricular Fibrillation</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>propranolol</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, ages 30 to 69. Documented myocardial infarction.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>69 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Allan Barker</last_name>
+    <affiliation>Salt Lake Clinic Research Foundation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Nemat Borhani</last_name>
+    <affiliation>University of California, Davis</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gerald Breneman</last_name>
+    <affiliation>Henry Ford Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Frank Canosa</last_name>
+    <affiliation>Miami Heart Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Capone</last_name>
+    <affiliation>Rhode Island Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Richard Crow</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alan Forker (participated until Feb</last_name>
+    <affiliation>University of Nebraska</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Peter Gazes</last_name>
+    <affiliation>University of South Carolina</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Gregory</last_name>
+    <affiliation>Atlantic Health System</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Grover</last_name>
+    <affiliation>Kaiser Foundation Research Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Olga Haring</last_name>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Julian Haywood</last_name>
+    <affiliation>University of Southern California</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>William Holmes</last_name>
+    <affiliation>Lankenau Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Frank Ibbott</last_name>
+    <affiliation>Bio-Science Laboratories</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Kohn</last_name>
+    <affiliation>State University of New York</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Kramer</last_name>
+    <affiliation>Long Island Jewish-Hillside Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Peter Kuo</last_name>
+    <affiliation>New Jersey College of Medicine and Dentistry-Rutgers</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Charles Laubach</last_name>
+    <affiliation>Geisinger Clinic</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Edgar Lichstein</last_name>
+    <affiliation>Maimonides Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Louis Matthews</last_name>
+    <affiliation>Dartmouth-Hitchcock Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gordon Maurice</last_name>
+    <affiliation>Providence Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>J. McNamara</last_name>
+    <affiliation>Pacific Health Research Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>E. Michau</last_name>
+    <affiliation>Veterans Administration Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Richard Miller</last_name>
+    <affiliation>Baylor College of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Joel Morganroth</last_name>
+    <affiliation>Anthropometrics Heart Clinic</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marvin Murphy</last_name>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Peters</last_name>
+    <affiliation>University of California</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Thaddeus Prout</last_name>
+    <affiliation>Greater Baltimore Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Phillip Ranheim</last_name>
+    <affiliation>Mount Sinai Hospital, New York</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David Richardson</last_name>
+    <affiliation>Medical College of Virginia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Schlant</last_name>
+    <affiliation>Emory University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>James Schoenberger</last_name>
+    <affiliation>Rush-Presbyterian-St.Luke's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pierre Theroux</last_name>
+    <affiliation>Montreal Heart Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pantel Vokonas</last_name>
+    <affiliation>Boston University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>James Walsh</last_name>
+    <affiliation>Veterans Administration Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gary Wilner</last_name>
+    <affiliation>NorthShore University HealthSystem Research Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Paul Yu</last_name>
+    <affiliation>University of Rochester School of Medicine and Dentistry</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Beta-Blocker Heart Attack Trial Study Group: Beta-Blocker Heart Attack Trial Study Protocol. DHHS Pub. No. (NIH)81-2209, 1980.</citation>
+  </reference>
+  <reference>
+    <citation>The beta-blocker heart attack trial. beta-Blocker Heart Attack Study Group. JAMA. 1981 Nov 6;246(18):2073-4.</citation>
+    <PMID>7026815</PMID>
+  </reference>
+  <reference>
+    <citation>Howard JM, DeMets D. How informed is informed consent? The BHAT experience. Control Clin Trials. 1981 Dec;2(4):287-303.</citation>
+    <PMID>6120794</PMID>
+  </reference>
+  <reference>
+    <citation>Beta Blocker Heart Attack Trial: design features. Control Clin Trials. 1981 Dec;2(4):275-85.</citation>
+    <PMID>6120793</PMID>
+  </reference>
+  <reference>
+    <citation>A randomized trial of propranolol in patients with acute myocardial infarction. I. Mortality results. JAMA. 1982 Mar 26;247(12):1707-14.</citation>
+    <PMID>7038157</PMID>
+  </reference>
+  <reference>
+    <citation>Furberg CD, Byington RP. What do subgroup analyses reveal about differential response to beta-blocker therapy? The Beta-Blocker Heart Attack Trial experience. Circulation. 1983 Jun;67(6 Pt 2):I98-101.</citation>
+    <PMID>6133654</PMID>
+  </reference>
+  <reference>
+    <citation>A randomized trial of propranolol in patients with acute myocardial infarction. II. Morbidity results. JAMA. 1983 Nov 25;250(20):2814-9.</citation>
+    <PMID>6358542</PMID>
+  </reference>
+  <reference>
+    <citation>Goldstein S. The Beta-Blocker Heart Attack Trial in perspective. Cardiology. 1983;70(5):255-62.</citation>
+    <PMID>6141847</PMID>
+  </reference>
+  <reference>
+    <citation>Shulman RS, Herbert PN, Capone RJ, McClure D, Hawkins CM, Henderson LO, Saritelli A, Campbell J. Effects of propranolol on blood lipids and lipoproteins in myocardial infarction. Circulation. 1983 Jun;67(6 Pt 2):I19-21.</citation>
+    <PMID>6851036</PMID>
+  </reference>
+  <reference>
+    <citation>Lichstein E, Morganroth J, Harrist R, Hubble E. Effect of propranolol on ventricular arrhythmia. The beta-blocker heart attack trial experience. Circulation. 1983 Jun;67(6 Pt 2):I5-10.</citation>
+    <PMID>6342839</PMID>
+  </reference>
+  <reference>
+    <citation>Goldstein S. Propranolol therapy in patients with acute myocardial infarction: the Beta-Blocker Heart Attack Trial. Circulation. 1983 Jun;67(6 Pt 2):I53-7.</citation>
+    <PMID>6342840</PMID>
+  </reference>
+  <reference>
+    <citation>Byington RP. Beta-blocker heart attack trial: design, methods, and baseline results. Beta-blocker heart attack trial research group. Control Clin Trials. 1984 Dec;5(4):382-437.</citation>
+    <PMID>6151483</PMID>
+  </reference>
+  <reference>
+    <citation>Haywood LJ. Coronary heart disease mortality/morbidity and risk in blacks. I: Clinical manifestations and diagnostic criteria: the experience with the Beta Blocker Heart Attack Trial. Am Heart J. 1984 Sep;108(3 Pt 2):787-93.</citation>
+    <PMID>6148005</PMID>
+  </reference>
+  <reference>
+    <citation>Furberg CD, Hawkins CM, Lichstein E. Effect of propranolol in postinfarction patients with mechanical or electrical complications. Circulation. 1984 Apr;69(4):761-5.</citation>
+    <PMID>6365352</PMID>
+  </reference>
+  <reference>
+    <citation>DeMets DL, Hardy R, Friedman LM, Lan KK. Statistical aspects of early termination in the beta-blocker heart attack trial. Control Clin Trials. 1984 Dec;5(4):362-72.</citation>
+    <PMID>6151482</PMID>
+  </reference>
+  <reference>
+    <citation>Byington RP, Curb JD, Mattson ME. Assessment of double-blindness at the conclusion of the beta-Blocker Heart Attack Trial. JAMA. 1985 Mar 22-29;253(12):1733-6.</citation>
+    <PMID>3974051</PMID>
+  </reference>
+  <reference>
+    <citation>Byington R, Goldstein S. Association of digitalis therapy with mortality in survivors of acute myocardial infarction: observations in the Beta-Blocker Heart Attack Trial. J Am Coll Cardiol. 1985 Nov;6(5):976-82.</citation>
+    <PMID>4045047</PMID>
+  </reference>
+  <reference>
+    <citation>Morganroth J, Lichstein E, Byington R. Beta-Blocker Heart Attack Trial: impact of propranolol therapy on ventricular arrhythmias. Prev Med. 1985 May;14(3):346-57.</citation>
+    <PMID>3903736</PMID>
+  </reference>
+  <reference>
+    <citation>Bell RL, Curb JD, Friedman LM, McIntyre KM, Payton-Ross C. Enhancement of visit adherence in the national beta-blocker heart attack trial. Control Clin Trials. 1985 Jun;6(2):89-101.</citation>
+    <PMID>3891227</PMID>
+  </reference>
+  <reference>
+    <citation>Bell RL, Curb JD, Friedman LM, Payne GH. Termination of clinical trials: the beta-blocker heart attack trial and the hypertension detection and follow-up program experience. Control Clin Trials. 1985 Jun;6(2):102-11.</citation>
+    <PMID>4006483</PMID>
+  </reference>
+  <reference>
+    <citation>Walle T, Byington RP, Furberg CD, McIntyre KM, Vokonas PS. Biologic determinants of propranolol disposition: results from 1308 patients in the Beta-Blocker Heart Attack Trial. Clin Pharmacol Ther. 1985 Nov;38(5):509-18.</citation>
+    <PMID>4053488</PMID>
+  </reference>
+  <reference>
+    <citation>Goldstein S, Byington R. The Beta Blocker Heart Attack Trial: recruitment experience. Control Clin Trials. 1987 Dec;8(4 Suppl):79S-85S.</citation>
+    <PMID>2894282</PMID>
+  </reference>
+  <reference>
+    <citation>Furberg CD, Friedman LM, MacMahon SW: Women as Participants in Trials of the Primary and Secondary Prevention of Cardiovascular Disease: Part II. Secondary Prevention: The Beta-Blocker Heart Attack Trial and the Aspirin Myocardial Infarction Study, in: Coronary Heart Disease in Women. Ed Eaker, B Packard, NK Wenger, TB Clarkson, HA Tyroler (Eds). New York, Haymarket Doyma, pp 241-246, 1987.</citation>
+  </reference>
+  <reference>
+    <citation>Kostis JB, Byington R, Friedman LM, Goldstein S, Furberg C. Prognostic significance of ventricular ectopic activity in survivors of acute myocardial infarction. J Am Coll Cardiol. 1987 Aug;10(2):231-42.</citation>
+    <PMID>2439559</PMID>
+  </reference>
+  <reference>
+    <citation>Peters RW, Byington R, Arensberg D, Friedman LM, Romhilt DW, Barker A, Laubach C, Wilner GW, Goldstein S. Mortality in the beta blocker heart attack trial: circumstances surrounding death. J Chronic Dis. 1987;40(1):75-82.</citation>
+    <PMID>3543049</PMID>
+  </reference>
+  <reference>
+    <citation>Davis BR, Furberg CD, Williams CB. Survival analysis of adverse effects data in the Beta-Blocker Heart Attack Trial. Clin Pharmacol Ther. 1987 Jun;41(6):611-5.</citation>
+    <PMID>3555942</PMID>
+  </reference>
+  <reference>
+    <citation>Davis BR, Friedman LM, Lichstein E. Are 24 hours of ambulatory ECG monitoring necessary for a patient after infarction? Am Heart J. 1988 Jan;115(1 Pt 1):83-91.</citation>
+    <PMID>3276112</PMID>
+  </reference>
+  <reference>
+    <citation>Peters RW, Muller JE, Goldstein S, Byington R, Friedman LM. Propranolol and the morning increase in the frequency of sudden cardiac death (BHAT Study). Am J Cardiol. 1989 Jun 15;63(20):1518-20.</citation>
+    <PMID>2729140</PMID>
+  </reference>
+  <reference>
+    <citation>Peters RW, Byington RP, Barker A, Yusuf S. Prognostic value of prolonged ventricular repolarization following myocardial infarction: the BHAT experience. The BHAT Study Group. J Clin Epidemiol. 1990;43(2):167-72.</citation>
+    <PMID>2406377</PMID>
+  </reference>
+  <reference>
+    <citation>Byington RP, Worthy J, Craven T, Furberg CD. Propranolol-induced lipid changes and their prognostic significance after a myocardial infarction: the Beta-Blocker Heart Attack Trial experience. Am J Cardiol. 1990 Jun 1;65(20):1287-91.</citation>
+    <PMID>2188492</PMID>
+  </reference>
+  <reference>
+    <citation>Gheorghiade M, Schultz L, Tilley B, Kao W, Goldstein S. Effects of propranolol in non-Q-wave acute myocardial infarction in the beta blocker heart attack trial. Am J Cardiol. 1990 Jul 15;66(2):129-33.</citation>
+    <PMID>2196771</PMID>
+  </reference>
+  <reference>
+    <citation>Peters RW. Propranolol and the morning increase in sudden cardiac death: (the beta-blocker heart attack trial experience). Am J Cardiol. 1990 Nov 6;66(16):57G-59G.</citation>
+    <PMID>2239715</PMID>
+  </reference>
+  <reference>
+    <citation>Gheorghiade M, Schultz L, Tilley B, Kao W, Goldstein S. Natural history of the first non-Q wave myocardial infarction in the placebo arm of the Beta-Blocker Heart Attack Trial. Am Heart J. 1991 Dec;122(6):1548-53.</citation>
+    <PMID>1957749</PMID>
+  </reference>
+  <reference>
+    <citation>Gheorghiade M, Shivkumar K, Schultz L, Jafri S, Tilley B, Goldstein S. Prognostic significance of electrocardiographic persistent ST depression in patients with their first myocardial infarction in the placebo arm of the Beta-Blocker Heart Attack Trial. Am Heart J. 1993 Aug;126(2):271-8.</citation>
+    <PMID>8337995</PMID>
+  </reference>
+  <reference>
+    <citation>Friedman LM, Byington RP. Assessment of angina pectoris after myocardial infarction: comparison of &quot;Rose Questionnaire&quot; with physician judgment in the Beta-Blocker Heart Attack Trial. Am J Epidemiol. 1985 Apr;121(4):555-62.</citation>
+    <PMID>3893101</PMID>
+  </reference>
+  <verification_date>October 1981</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Death, Sudden</mesh_term>
+    <mesh_term>Death, Sudden, Cardiac</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Ventricular Fibrillation</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

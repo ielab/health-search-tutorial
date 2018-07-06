@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204388">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000589</url>
+  </required_header>
+  <id_info>
+    <org_study_id>309</org_study_id>
+    <nct_id>NCT00000589</nct_id>
+  </id_info>
+  <brief_title>Trial to Reduce Alloimmunization to Platelets (TRAP)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the best, clinically useful procedure to prevent or minimize platelet
+      alloimmunization as a cause of refractoriness to platelet transfusion in patients undergoing
+      marrow ablative chemotherapy for acute myelogenous leukemia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Between 1971 and 1980, there was a 598 percent increase in the use of platelet concentrates
+      from 0.41 million to more than 2.86 million annually. In contrast, red cell transfusions in
+      the United States rose concurrently from 6.3 million annually to 9.9 million, an increase of
+      58 percent. Although red cell transfusions have leveled or even decreased slightly in the
+      past several years, the use of platelets has continued to increase at a rate of at least 5
+      to 10 percent each year. This dramatic and continued increase in the use of platelet
+      concentrates is largely the result of treating thrombocytopenic cancer patients. In
+      addition, open heart surgery patients and others given massive transfusions also receive
+      substantial platelet support. Nevertheless, it is the chronically transfused
+      thrombocytopenic patient who frequently develops platelet alloimmunization and accounts for
+      a large percentage of the increased demand for platelets. A recent survey in a large
+      transfusion service indicated that 8 percent of the patients had received 35 percent of the
+      random-donor pooled platelet concentrates. Although some alloimmunized patients can be
+      supported by HLA-matched, apheresis-donor platelets, suitably matched donors are not
+      available in sufficient numbers for every patient. Thus, platelet transfusion programs that
+      could prevent, or at least delay platelet alloimmunization would be of substantial benefit.
+
+      Limited studies have suggested several approaches that may reduce or prevent platelet
+      alloimmunization: reducing the number of foreign antigens to which a recipient is exposed by
+      providing single donor platelet apheresis products; providing leukocyte-poor blood products;
+      inactivating donor antigen presenting cells (APC's), a type of lymphocyte contained within
+      the transfused platelet products, by ultraviolet (UV) irradiation of platelet concentrates.
+
+      The initiative was recommended by the Blood Diseases and Resources Advisory Committee in May
+      1987 and approved by the National Heart, Lung, and Blood Advisory Council in September 1987.
+      The Requests for Applications were released in June 1988.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind. There were three treatment arms and one control arm. Patients in
+      the treatment arms received either leukocyte-poor filtered pooled random donor platelets, or
+      ultraviolet irradiated pooled random donor platelets, or leukocyte-poor filtered single
+      donor apheresis platelets. Patients in the control group received routinely pooled,
+      random-donor platelets. Patients remained on their assigned treatments for all transfusions
+      through eight weeks. Assigned transfusions were discontinued only in the event of severe
+      adverse reaction to the platelet transfusions, granulocyte transfusions, bone marrow
+      transplant, withdrawal of informed consent, or death. Pre- and post transfusion counts were
+      obtained for all platelet transfusions. Each patient was followed for one year. Recruitment
+      continued through March 1995. Data analysis ended in July 1997.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1989</start_date>
+  <completion_date>July 1997</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Blood Platelets</condition>
+  <condition>Hematologic Diseases</condition>
+  <condition>Immunization</condition>
+  <condition>Leukemia, Myelocytic, Acute</condition>
+  <condition>Blood Transfusion</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>platelet transfusion</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Male and female thrombocytopenic patients, ages 15 and over, newly diagnosed with acute
+        myelogenous leukemia (AML) and undergoing chemotherapy.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hayden Braine</last_name>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kuo-Jang Kao</last_name>
+    <affiliation>University of Florida</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jeffrey McCullough</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Janice McFarland</last_name>
+    <affiliation>Blood Center of Southeastern Wisconsin</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Charles Schiffer</last_name>
+    <affiliation>University of Maryland</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sherrill Schlichter</last_name>
+    <affiliation>Puget Sound Blood Center</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Kao KJ, Mickel M, Braine HG, Davis K, Enright H, Gernsheimer T, Gillespie MJ, Kickler TS, Lee EJ, McCullough JJ, et al. White cell reduction in platelet concentrates and packed red cells by filtration: a multicenter clinical trial. The Trap Study Group. Transfusion. 1995 Jan;35(1):13-9.</citation>
+    <PMID>7998062</PMID>
+  </reference>
+  <reference>
+    <citation>Leukocyte reduction and ultraviolet B irradiation of platelets to prevent alloimmunization and refractoriness to platelet transfusions. The Trial to Reduce Alloimmunization to Platelets Study Group. N Engl J Med. 1997 Dec 25;337(26):1861-9.</citation>
+    <PMID>9417523</PMID>
+  </reference>
+  <reference>
+    <citation>Davis KB, Slichter SJ, Corash L. Corrected count increment and percent platelet recovery as measures of posttransfusion platelet response: problems and a solution. Transfusion. 1999 Jun;39(6):586-92.</citation>
+    <PMID>10378838</PMID>
+  </reference>
+  <verification_date>May 2000</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hematologic Diseases</mesh_term>
+    <mesh_term>Leukemia, Myeloid</mesh_term>
+    <mesh_term>Leukemia, Myeloid, Acute</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204211">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000768</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 183</org_study_id>
+    <secondary_id>11158</secondary_id>
+    <nct_id>NCT00000768</nct_id>
+  </id_info>
+  <brief_title>A Randomized Comparative Pharmacokinetic Study of Oral Ganciclovir After Treatment With Intravenous Ganciclovir for Cytomegalovirus Gastrointestinal Disease in AIDS Patients</brief_title>
+  <official_title>A Randomized Comparative Pharmacokinetic Study of Oral Ganciclovir After Treatment With Intravenous Ganciclovir for Cytomegalovirus Gastrointestinal Disease in AIDS Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the oral bioavailability of three dose levels of oral ganciclovir given with
+      and without glutamic acid hydrochloride in patients with cytomegalovirus (CMV) GI disease,
+      and to compare the bioavailability of these regimens to that of standard intravenous (IV)
+      ganciclovir.
+
+      Long-term ganciclovir maintenance therapy has been recommended for CMV colitis or
+      esophagitis following induction treatment. Oral ganciclovir is a likely candidate for
+      maintenance because of its possible therapeutic value and ease of administration, but an
+      optimum dose has not been determined. Since oral ganciclovir has a low bioavailability and
+      is more soluble in an acid pH environment, the addition of glutamic acid hydrochloride may
+      enhance gastrointestinal absorption of this drug.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Long-term ganciclovir maintenance therapy has been recommended for CMV colitis or
+      esophagitis following induction treatment. Oral ganciclovir is a likely candidate for
+      maintenance because of its possible therapeutic value and ease of administration, but an
+      optimum dose has not been determined. Since oral ganciclovir has a low bioavailability and
+      is more soluble in an acid pH environment, the addition of glutamic acid hydrochloride may
+      enhance gastrointestinal absorption of this drug.
+
+      All patients receive an induction regimen of IV ganciclovir administered twice daily for 21
+      to 42 (Per Amendment 3/4/95) days. A permanent venous catheter is implanted for the
+      induction therapy. If clinically improved following induction, patients are then randomized
+      to receive one of three doses of oral ganciclovir, given first without and then with oral
+      glutamic acid hydrochloride, every 8 hours until they reach a steady state. PER AMENDMENT
+      3/14/95: After subjects have reached steady state with oral ganciclovir and glutamic acid
+      hydrochloride then PK samples will be taken. Subjects will continue the dosing regimen they
+      were assigned to (glutamic acid hydrochloride will be added if it resulted in at least 33%
+      increased bioavailability) for up to 12 months or until relapse of CMV GI disease is
+      documented. Subjects will be followed at monthly intervals for safety evaluation and for
+      evidence of CMV GI relapse. Subjects who have clinical symptoms of relapse will undergo
+      repeat endoscopy or colonoscopy to document the relapse.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">August 1998</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Pharmacokinetics Study, Primary Purpose: Treatment</study_design>
+  <enrollment>24</enrollment>
+  <condition>Colitis</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Glutamic acid hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ganciclovir</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Recommended:
+
+          -  PCP prophylaxis.
+
+        Allowed:
+
+          -  Antiretroviral therapy during induction and pharmacokinetic part of study, provided
+             patient remains on the same antiretroviral therapy for the duration of the study.
+
+          -  Chemotherapy for Kaposi's sarcoma, provided patient is hematologically stable for at
+             least 30 days prior to study entry.
+
+          -  Recombinant human erythropoietin.
+
+          -  GM-CSF and G-CSF.
+
+          -  Other medications necessary for patient's welfare, at the physician's discretion.
+
+        Patients must have:
+
+          -  HIV infection.
+
+          -  Biopsy-proven cytomegalovirus (CMV) colitis.
+
+          -  Life expectancy of at least 3 months.
+
+          -  No active AIDS-defining opportunistic infection requiring therapy that is known to
+             cause nephrotoxicity or myelosuppression.
+
+        NOTE:
+
+          -  Kaposi's sarcoma is permitted if patients are hematologically stable for at least 30
+             days prior to study entry.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Other etiologies for diarrhea identified at study entry.
+
+        PER AMENDMENT 3/14/95:
+
+          -  For subjects who have diarrhea - no other etiologies for diarrhea identified within 6
+             weeks of enrollment.
+
+          -  Known hypersensitivity to study drugs.
+
+          -  CMV retinitis.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Acyclovir or probenecid (PER AMENDMENT 3/14/95).
+
+          -  Immunomodulators.
+
+          -  Biologic response modifiers (other than GM-CSF or G-CSF).
+
+          -  Investigational agents, with the exception of treatment IND drugs.
+
+          -  Antacids.
+
+          -  H2 blockers.
+
+          -  Proton pump inhibitors.
+
+          -  Foscarnet during induction and pharmacokinetic part of study.
+
+          -  Intravenous CMV retinitis maintenance therapy (including ganciclovir) during
+             pharmacokinetic part of study.
+
+          -  Nephrotoxic agents.
+
+        Prior Medication:
+
+        Excluded within 14 days prior to study entry:
+
+          -  Immunomodulators.
+
+          -  Biologic response modifiers (other than GM-CSF or G-CSF).
+
+          -  Investigational agents, with the exception of treatment IND drugs.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jacobson M</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Dieterich D</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Kotler D</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Laine L</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Kumar P</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Alabama Therapeutics CRS</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ucsf Aids Crs</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington U CRS</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NY Univ. HIV/AIDS CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Cincinnati CRS</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Dieterich DT, Kotler DP, Busch DF, Crumpacker C, Du Mond C, Dearmand B, Buhles W. Ganciclovir treatment of cytomegalovirus colitis in AIDS: a randomized, double-blind, placebo-controlled multicenter study. J Infect Dis. 1993 Feb;167(2):278-82.</citation>
+    <PMID>8380610</PMID>
+  </reference>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 30, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Intestinal Absorption</keyword>
+  <keyword>Ganciclovir</keyword>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Cytomegalovirus Infections</keyword>
+  <keyword>Colitis</keyword>
+  <keyword>Administration, Oral</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Biological Availability</keyword>
+  <keyword>Glutamic Acid</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Digestive System Diseases</mesh_term>
+    <mesh_term>Gastrointestinal Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Ganciclovir</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

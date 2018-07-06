@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204373">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000604</url>
+  </required_header>
+  <id_info>
+    <org_study_id>108</org_study_id>
+    <secondary_id>R01HL048631</secondary_id>
+    <nct_id>NCT00000604</nct_id>
+  </id_info>
+  <brief_title>Influence of CPB Temperature on CABG Morbidity</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Baystate Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Baystate Medical Center</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare three accepted modes of myocardial preservation, warm, tepid, and cold blood
+      cardioplegia, coinciding with normothermic (37 degrees centigrade), tepid (32 degrees
+      centigrade) and hypothermic (8 to 10 degrees centigrade) cardiopulmonary bypass (CPB) to
+      define differences in neurologic function in coronary artery bypass graft (CABG) patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      A pilot study of warm versus cold perfusion and preservation was completed in 32 patients
+      prior to the ongoing study. The findings of the pilot study showed 53 percent of patients
+      had evidence of new neurologic disturbance at postoperative day four. Only the neurologic
+      dysfunction could be correlated with warm versus cold perfusion (37.5 percent warm versus 75
+      percent cold, P less than 0.05). The changes in neurologic function had abated or clearly
+      improved by one month of follow-up, and the distinction in neurologic dysfunction grading
+      was no longer apparent between the two groups.
+
+      DESIGN NARRATIVE:
+
+      Patients were randomly assigned to cold, tepid, or warm blood cardioplegia, coinciding with
+      normothermic, tepid, and hypothermic cardiopulmonary bypass. All patients received a
+      standard anesthetic protocol combining narcotic and inhalational anesthesia. Each patient
+      entering the study had extensive clinical data collected prospectively incorporating most
+      aspects of measurable determinants related to myocardial preservation. Additionally,
+      neurologic tests were performed by a blinded neurologist and rated by an objective scoring
+      system, the Mathew scale. The studies were performed preoperatively, on the third or fourth
+      postoperative day, and at one month following surgery. Hematologic data were measured for
+      fibrinolytic potential.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1994</start_date>
+  <completion_date>December 1996</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <condition>Neurologic Manifestations</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>cardiopulmonary bypass</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>heart arrest, induced</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Patients, referred for elective or urgent coronary revascularization, not having ongoing
+        angina instability, requiring three or more bypass grafts, and under 70 years of age.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Engelman RM, Pleet AB, Rousou JA, Flack JE 3rd, Deaton DW, Kulshrestha P, Gregory CA, Pekow PS. Does cardiopulmonary bypass temperature correlate with postoperative central nervous system dysfunction? J Card Surg. 1995 Jul;10(4 Suppl):493-7.</citation>
+    <PMID>7579848</PMID>
+  </reference>
+  <reference>
+    <citation>Engelman RM, Pleet AB, Rousou JA, Flack JE 3rd, Deaton DW, Gregory CA, Pekow PS. What is the best perfusion temperature for coronary revascularization? J Thorac Cardiovasc Surg. 1996 Dec;112(6):1622-32; discussion 1632-3.</citation>
+    <PMID>8975854</PMID>
+  </reference>
+  <verification_date>December 2015</verification_date>
+  <lastchanged_date>December 11, 2015</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Neurologic Manifestations</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204407">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000570</url>
+  </required_header>
+  <id_info>
+    <org_study_id>208</org_study_id>
+    <secondary_id>5R01HL035036</secondary_id>
+    <nct_id>NCT00000570</nct_id>
+  </id_info>
+  <brief_title>Human Surfactant Treatment of Respiratory Distress Syndrome Bicenter Trial</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine if surfactant administration at birth in infants at high risk for respiratory
+      distress syndrome (RDS) modified the clinical course of the syndrome.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Respiratory distress syndrome affects more than 40,000 infants annually in the United
+      States. The overall mortality rate exceeds 20 percent and in infants weighing less than 1500
+      grams at birth, RDS is responsible for or contributes to the 30-70 percent mortality,
+      depending on birthweight. The present customary treatment of RDS with intermittent mandatory
+      ventilation is accompanied by sequelae such as extra-alveolar air leaks, intraventricular
+      hemorrhage, and bronchopulmonary dysplasia in approximately 50 percent of survivors.
+
+      The respiratory distress syndrome of the newborn is a disorder in which the pulmonary
+      surfactant is deficient. It has not been possible to completely replace natural components
+      of surfactant with synthetic components and achieve a mixture which functions
+      physiologically like pulmonary surfactant. Therefore, studies of replacement therapy for
+      surfactant deficiency have used complete natural surfactants or derivatives of natural
+      surfactant which contain the defined components of surfactant. The surfactant used in the
+      clinical trial was derived from human amniotic fluid.
+
+      Two basic different strategies for surfactant treatment of respiratory distress syndrome
+      have emerged: prophylactic, or preventilatory, treatment at or shortly after birth versus
+      rescue treatment after the initiation of mechanical ventilation in instances of clinically
+      confirmed respiratory distress syndrome. Although treatment at birth has the theoretic
+      advantage of delivering surfactant more uniformly to the airways before mechanical
+      ventilation, it has the disadvantages of delaying physiologic stabilization after birth and
+      resulting in unnecessary treatment, at considerable cost, of 20 percent to 40 percent of
+      infants born at or less than 30 weeks of gestation. Rescue therapy permits early physiologic
+      stabilization and confirmation of respiratory distress syndrome, but with the theoretic
+      disadvantages of early lung injury from mechanical ventilation in the surfactant-deficient
+      lung and less uniform surfactant distribution. Previous comparative trials have been biased
+      by incomplete study enrollment and inclusion of infants in preventilation treatment groups
+      without evidence of surfactant deficiency or immaturity. In addition, outcomes have varied
+      in placebo-treated infants.
+
+      DESIGN NARRATIVE:
+
+      Randomized, placebo-controlled. Singleton infants were assigned to receive a placebo (air),
+      prophylactic surfactant treatment given intratracheally, or rescue surfactant treatment.
+      Multiple birth infants received either prophylactic or rescue treatment. Of 282 potentially
+      eligible infants, 246 received treatments at birth and 200 had respiratory distress syndrome
+      and received the full course of surfactant therapy. Preterm infants randomly assigned to
+      receive prophylactic treatment received surfactant soon after birth; those assigned to
+      receive rescue surfactant had instillation at a mean age of 220 minutes if the
+      lecithin-sphingomyelin ratio was _ 2.0 and no phosphatidylglycerol was detected in either
+      amniotic fluid or initial airway aspirate, oxygen requirements were a fraction of inspired
+      oxygen of &gt; 0.5 and mean airway pressure was _ 7 cm H20 from 2 to 12 hours after birth. Up
+      to four treatment doses were permitted within 48 hours; approximately 60 percent of
+      surfactant-treated infants required two or more doses. Endpoints included the mortality rate
+      at 28 days of age, the incidence of bronchopulmonary dysplasia at 28 days after birth and at
+      38 weeks to adjust for differences in gestational age, the incidence of pulmonary air leaks,
+      and the severity of respiratory distress syndrome as assessed by requirement for
+      supplemental oxygen and mechanical ventilation.
+
+      The study completion date listed in this record was obtained from the Query/View/Report
+      (QVR) System.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1986</start_date>
+  <completion_date type="Actual">June 1990</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Lung Diseases</condition>
+  <condition>Respiratory Distress Syndrome</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>pulmonary surfactant</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Boy and girl preterm infants 24-29 weeks of gestational age and 500-1400 grams
+        birthweight.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>1 Year</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thurman Merritt</last_name>
+    <affiliation>University of California, San Diego</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Hallman M, Merritt TA, Bry K, Berry C. Association between neonatal care practices and efficacy of exogenous human surfactant: results of a bicenter randomized trial. Pediatrics. 1993 Mar;91(3):552-60.</citation>
+    <PMID>8441558</PMID>
+  </reference>
+  <verification_date>January 2000</verification_date>
+  <lastchanged_date>December 12, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pulmonary Surfactants</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

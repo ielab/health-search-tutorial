@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204436">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000541</url>
+  </required_header>
+  <id_info>
+    <org_study_id>84</org_study_id>
+    <secondary_id>R01HL046959</secondary_id>
+    <nct_id>NCT00000541</nct_id>
+  </id_info>
+  <brief_title>Women's Antioxidant and Folic Acid Cardiovascular Study (WAFACS)</brief_title>
+  <acronym>WAFACS</acronym>
+  <official_title>Women's Antioxidant and Folic Acid Cardiovascular Study (WAFACS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine if supplements of vitamin C, vitamin E, beta-carotene, and B-vitamins (a
+      combination of folic acid, vitamins B6 and B12) reduce risk of major cardiovascular events
+      in high risk women with a prior history of atherosclerotic cardiovascular disease. The trial
+      is a companion to the Women's Health Study (WHS), a primary prevention trial of vitamin E
+      and aspirin in a low risk population of women.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Women's Antioxidant and Folic Acid Cardiovascular Study tested the effects of vitamin C
+      (500 mg/day), vitamin E (600 IU every other day), and/or beta carotene (50 mg every other
+      day) on the risk of major cardiovascular events (a combined outcome of myocardial
+      infarction, stroke, coronary revascularization, or cardiovascular death) among 8171 female
+      health professionals at increased risk. Participants were 40 years or older with a history
+      of cardiovascular disease or 3 or more cardiovascular risk factors and were followed for an
+      average duration of 9.4 years, from 1995-1996 to 2005. In 1998, 5442 of these participants
+      were further randomized to the B-vitamin intervention (a daily combination pill containing
+      folic acid [2.5 mg], vitamin B6 [50 mg], vitamin B12 [1 mg]) and were followed for 7.3
+      years, from April 1998 through July 2005.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1993</start_date>
+  <completion_date type="Actual">July 2005</completion_date>
+  <primary_completion_date type="Actual">July 2005</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Factorial Assignment, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Cardiovascular disease</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cancer</measure>
+  </primary_outcome>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Arteriosclerosis</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>dietary supplements</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vitamin C</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vitamin E</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>beta-carotene</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>folic acid/Vitamin B6/Vitamin B12</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Women, aged 40 and over, at high risk, with a history of cardiovascular disease or three
+        or more coronary heart disease risk factors.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>JoAnn Manson</last_name>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Manson JE, Gaziano JM, Spelsberg A, Ridker PM, Cook NR, Buring JE, Willett WC, Hennekens CH. A secondary prevention trial of antioxidant vitamins and cardiovascular disease in women. Rationale, design, and methods. The WACS Research Group. Ann Epidemiol. 1995 Jul;5(4):261-9.</citation>
+    <PMID>8520707</PMID>
+  </reference>
+  <reference>
+    <citation>Mason PJ, Manson JE, Sesso HD, Albert CM, Chown MJ, Cook NR, Greenland P, Ridker PM, Glynn RJ. Blood pressure and risk of secondary cardiovascular events in women: the Women's Antioxidant Cardiovascular Study (WACS). Circulation. 2004 Apr 6;109(13):1623-9. Epub 2004 Mar 15.</citation>
+    <PMID>15023883</PMID>
+  </reference>
+  <reference>
+    <citation>Bassuk SS, Albert CM, Cook NR, Zaharris E, MacFadyen JG, Danielson E, Van Denburgh M, Buring JE, Manson JE. The Women's Antioxidant Cardiovascular Study: design and baseline characteristics of participants. J Womens Health (Larchmt). 2004 Jan-Feb;13(1):99-117.</citation>
+    <PMID>15006283</PMID>
+  </reference>
+  <results_reference>
+    <citation>Cook NR, Albert CM, Gaziano JM, Zaharris E, MacFadyen J, Danielson E, Buring JE, Manson JE. A randomized factorial trial of vitamins C and E and beta carotene in the secondary prevention of cardiovascular events in women: results from the Women's Antioxidant Cardiovascular Study. Arch Intern Med. 2007 Aug 13-27;167(15):1610-8.</citation>
+    <PMID>17698683</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhang SM, Cook NR, Albert CM, Gaziano JM, Buring JE, Manson JE. Effect of combined folic acid, vitamin B6, and vitamin B12 on cancer risk in women: a randomized trial. JAMA. 2008 Nov 5;300(17):2012-21. doi: 10.1001/jama.2008.555.</citation>
+    <PMID>18984888</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kang JH, Cook N, Manson J, Buring JE, Albert CM, Grodstein F. A trial of B vitamins and cognitive function among women at high risk of cardiovascular disease. Am J Clin Nutr. 2008 Dec;88(6):1602-10. doi: 10.3945/ajcn.2008.26404.</citation>
+    <PMID>19064521</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Albert CM, Cook NR, Gaziano JM, Zaharris E, MacFadyen J, Danielson E, Buring JE, Manson JE. Effect of folic acid and B vitamins on risk of cardiovascular events and total mortality among women at high risk for cardiovascular disease: a randomized trial. JAMA. 2008 May 7;299(17):2027-36. doi: 10.1001/jama.299.17.2027.</citation>
+    <PMID>18460663</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Song Y, Cook NR, Albert CM, Van Denburgh M, Manson JE. Effects of vitamins C and E and beta-carotene on the risk of type 2 diabetes in women at high risk of cardiovascular disease: a randomized controlled trial. Am J Clin Nutr. 2009 Aug;90(2):429-37. doi: 10.3945/ajcn.2009.27491. Epub 2009 Jun 2.</citation>
+    <PMID>19491386</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Song Y, Cook NR, Albert CM, Van Denburgh M, Manson JE. Effect of homocysteine-lowering treatment with folic Acid and B vitamins on risk of type 2 diabetes in women: a randomized, controlled trial. Diabetes. 2009 Aug;58(8):1921-8. doi: 10.2337/db09-0087. Epub 2009 Jun 2.</citation>
+    <PMID>19491213</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lin J, Cook NR, Albert C, Zaharris E, Gaziano JM, Van Denburgh M, Buring JE, Manson JE. Vitamins C and E and beta carotene supplementation and cancer risk: a randomized controlled trial. J Natl Cancer Inst. 2009 Jan 7;101(1):14-23. doi: 10.1093/jnci/djn438. Epub 2008 Dec 30.</citation>
+    <PMID>19116389</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kang JH, Cook NR, Manson JE, Buring JE, Albert CM, Grodstein F. Vitamin E, vitamin C, beta carotene, and cognitive function among women with or at risk of cardiovascular disease: The Women's Antioxidant and Cardiovascular Study. Circulation. 2009 Jun 2;119(21):2772-80. doi: 10.1161/CIRCULATIONAHA.108.816900. Epub 2009 May 18.</citation>
+    <PMID>19451353</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Christen WG, Glynn RJ, Chew EY, Albert CM, Manson JE. Folic acid, pyridoxine, and cyanocobalamin combination treatment and age-related macular degeneration in women: the Women's Antioxidant and Folic Acid Cardiovascular Study. Arch Intern Med. 2009 Feb 23;169(4):335-41. doi: 10.1001/archinternmed.2008.574.</citation>
+    <PMID>19237716</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Song Y, Manson JE, Lee IM, Cook NR, Paul L, Selhub J, Giovannucci E, Zhang SM. Effect of combined folic acid, vitamin B(6), and vitamin B(12) on colorectal adenoma. J Natl Cancer Inst. 2012 Oct 17;104(20):1562-75. doi: 10.1093/jnci/djs370. Epub 2012 Oct 12.</citation>
+    <PMID>23066166</PMID>
+  </results_reference>
+  <verification_date>July 2015</verification_date>
+  <lastchanged_date>July 10, 2015</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>JoAnn E. Manson, MD</investigator_full_name>
+    <investigator_title>Chief, Division of Preventive Medicine, Brigham and Women's Hospital; Professor of Medicine and the Michael and Lee Bell Professor of Women's Health, Harvard Medical School</investigator_title>
+  </responsible_party>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arteriosclerosis</mesh_term>
+    <mesh_term>Atherosclerosis</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antioxidants</mesh_term>
+    <mesh_term>Beta Carotene</mesh_term>
+    <mesh_term>Folic Acid</mesh_term>
+    <mesh_term>Vitamin B 12</mesh_term>
+    <mesh_term>Vitamin B Complex</mesh_term>
+    <mesh_term>Vitamins</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

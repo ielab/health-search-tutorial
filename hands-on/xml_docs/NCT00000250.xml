@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204721">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000250</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-08391-2</org_study_id>
+    <secondary_id>R01DA008391</secondary_id>
+    <secondary_id>R01-08391-2</secondary_id>
+    <nct_id>NCT00000250</nct_id>
+  </id_info>
+  <brief_title>Cold Water Immersion Modulates Reinforcing Effects of Nitrous Oxide - 2</brief_title>
+  <official_title>Cold Water Immersion Modulates Reinforcing Effects of Nitrous Oxide</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Chicago</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Chicago</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to conduct experiments to examine subjective and reinforcing
+      effects of nitrous oxide. Mood altering and psychomotor effects will be tested on non-drug
+      abusers and preference procedures will be used to assess reinforcing effects. To evaluate:
+      cold water immersion modulates the reinforcing effects of nitrous oxide in healthy
+      volunteers.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>December 1993</start_date>
+  <completion_date type="Actual">May 1995</completion_date>
+  <primary_completion_date type="Actual">May 1995</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Single Blind (Subject), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Subject's choice of intervention</measure>
+    <time_frame>After sampling trials</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">12</enrollment>
+  <condition>Opioid-Related Disorders</condition>
+  <condition>Substance-Related Disorders</condition>
+  <arm_group>
+    <arm_group_label>Lukewarm water</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will immerse forearm in lukewarm water while inhaling 0% and 40% N2O in 2 sampling trials, then choose between intervntions for one choice trial</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ice cold water</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will immerse forearm in ice cold water while inhaling 0% and 40% N2O in 2 sampling trials, then choose between intervntions for one choice trial</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>0% N2O</intervention_name>
+    <description>Subjects will inhale 100% oxygen with no N2O for 25 min then immerse forearm in warm water and cold water</description>
+    <arm_group_label>Lukewarm water</arm_group_label>
+    <arm_group_label>Ice cold water</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>40% N2O</intervention_name>
+    <description>Subjects will inhale 40% N2O then immerse forearm in warm water and cold water</description>
+    <arm_group_label>Lukewarm water</arm_group_label>
+    <arm_group_label>Ice cold water</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Please contact site for information.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>32 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Zacny, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Chicago</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Chicago, Anesthesia &amp; Critical Care</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Experimentall Clinical Psycopharmacoly 1995, 3(2):148-155</citation>
+  </reference>
+  <verification_date>May 2015</verification_date>
+  <lastchanged_date>May 26, 2015</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>nitrous oxide</keyword>
+  <keyword>choice</keyword>
+  <keyword>subjective effects</keyword>
+  <keyword>pain</keyword>
+  <keyword>analgesia</keyword>
+  <keyword>reinforcer</keyword>
+  <keyword>healthy volunteer</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Nitrous Oxide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

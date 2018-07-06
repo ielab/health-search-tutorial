@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204199">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000780</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 220</org_study_id>
+    <nct_id>NCT00000780</nct_id>
+  </id_info>
+  <brief_title>A &quot;Pre-Enrollment&quot; Protocol for HIV-Infected Adolescents</brief_title>
+  <official_title>A &quot;Pre-Enrollment&quot; Protocol for HIV-Infected Adolescents</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      PRIMARY: To identify, characterize, and co-enroll HIV-infected adolescents into existing and
+      future ACTG (or other NIH-sponsored) HIV treatment protocols through the systematic and
+      recurrent assessment of eligibility. To assess the ability of adolescents enrolled in ACTG
+      220 to adhere to ACTG (or other NIH-sponsored) HIV treatment protocols; and to define
+      factors that influence the adolescent's ability to enter or adhere to study protocols.
+
+      SECONDARY: To describe the nature, stage, and progression of HIV infection in adolescents.
+
+      Little is known about HIV-infected adolescents as a group and, as a result, small numbers of
+      them are currently enrolled in ACTG drug studies. Creative approaches are needed to
+      encourage enrollment of HIV-infected adolescents whose socio-demographic profile has made
+      access to NIH-sponsored research unlikely.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Little is known about HIV-infected adolescents as a group and, as a result, small numbers of
+      them are currently enrolled in ACTG drug studies. Creative approaches are needed to
+      encourage enrollment of HIV-infected adolescents whose socio-demographic profile has made
+      access to NIH-sponsored research unlikely.
+
+      At entry and at every subsequent visit, participants are systematically evaluated for
+      eligibility and willingness to enter ACTG (or other NIH-sponsored) HIV treatment protocols
+      from a menu developed and updated by the Pediatric Adolescent Working Group of the ACTG. A
+      survey of participant attitudes, behaviors, and beliefs is administered and updated
+      semiannually. Participants attend clinic visits every 3 months and are followed for a
+      minimum of 6 months, until the end of the study. They receive periodic physical exams, STD
+      and gynecologic or genitourinary evaluations, HIV symptom assessment and related diagnoses,
+      TB evaluation, and laboratory tests (hematology and immunology).
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>N/A</study_design>
+  <enrollment>250</enrollment>
+  <condition>HIV Infections</condition>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Participants must meet the following criteria:
+
+          -  HIV infection.
+
+          -  NOT currently enrolled in an ACTG treatment protocol.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Participants with the following condition are excluded:
+
+          -  No legal provision for consent to participate in clinical research can be determined.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>20 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>D'Angelo LJ</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Futterman D</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Abdalian S</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Univ of Alabama at Birmingham Schl of Med / Pediatrics</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Long Beach Memorial (Pediatric)</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Los Angeles/UCLA Med Ctr</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>900276016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Los Angeles County - USC Med Ctr</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Med Ctr / Pediatric</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>900951752</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Oakland</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>946091809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF / Moffitt Hosp - Pediatric</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>941430105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Denver</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>802181088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Washington DC</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>200102916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>George Washington Univ / Hershey Med Ctr</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown Univ Med Ctr</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Florida Health Science Ctr / Pediatrics</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Miami (Pediatric)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33161</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory Univ Hosp / Pediatrics</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30306</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chicago Children's Memorial Hosp</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>606143394</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Chicago Children's Hosp</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>606371470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane Med Ctr Hosp</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane Univ / Charity Hosp of New Orleans</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>701122699</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Maryland at Baltimore / Univ Med Ctr</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston City Hosp / Pediatrics</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Boston</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>021155724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Worcester Memorial Hosp / Med Ctr of Cntrl MA-Memorial</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Nebraska Med Ctr</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>681985130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Lebanon Hosp Ctr</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10457</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Med Ctr Adolescent AIDS Program</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>King's County Hosp Ctr / Pediatrics</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp Pact Prog / Children's Hosp of Buffalo</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14222</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY / Erie County Med Ctr at Buffalo</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Schneider Children's Hosp</name>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bellevue Hosp / New York Univ Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harlem Hosp Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Med Ctr / Pediatrics</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Westchester Hosp</name>
+      <address>
+        <city>Valhalla</city>
+        <state>New York</state>
+        <zip>10595</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Univ Med Ctr</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>277103499</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hosp / Univ Hosp</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>452292899</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Cincinnati</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>452670405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbus Children's Hosp</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>432052696</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>West Central Ohio Hemophilia Ctr / Children's Med Ctr</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>454041815</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Milton S Hershey Med Ctr</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>170330850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191044318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Christopher's Hosp for Children</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191341095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Med Univ of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>294253312</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Tennessee / E Tennessee Comprehensive Hemophilia Ctr</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Jude Children's Research Hosp of Memphis</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>381052794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ Texas Health Science Ctr / Univ Texas Med School</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Hemophilia Foundation</name>
+      <address>
+        <city>Wauwatosa</city>
+        <state>Wisconsin</state>
+        <zip>532130127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ramon Ruiz Arnau Univ Hosp / Pediatrics</name>
+      <address>
+        <city>Bayamon</city>
+        <zip>00956</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Juan City Hosp</name>
+      <address>
+        <city>San Juan</city>
+        <zip>009367344</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Puerto Rico / Univ Children's Hosp AIDS</name>
+      <address>
+        <city>San Juan</city>
+        <zip>009365067</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Fry LJ, Fernandez RA. HIV prevention: factors that predict compliance with testing and counseling procedures. J Am Osteopath Assoc. 1994 Oct;94(10):825-30.</citation>
+    <PMID>7814276</PMID>
+  </reference>
+  <reference>
+    <citation>D'Angelo LJ, Lindsey J, Zimmer B, Culnane M, Futtermann D. Attempting to enhance the enrollment of adolescents into AIDS clinical trials: the design of ACTG Protocol 220. AIDS Patient Care STDS. 1998 Nov;12(11):853-9.</citation>
+    <PMID>11362042</PMID>
+  </reference>
+  <reference>
+    <citation>Perrier M, Schwarz T, Gonzalez O, Brounts S. Squamous cell carcinoma invading the right temporomandibular joint in a Belgian mare. Can Vet J. 2010 Aug;51(8):885-7.</citation>
+    <PMID>21037891</PMID>
+  </reference>
+  <verification_date>March 2003</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Adolescent Behavior</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

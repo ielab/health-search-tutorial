@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204413">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000564</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202</org_study_id>
+    <nct_id>NCT00000564</nct_id>
+  </id_info>
+  <brief_title>Nocturnal Oxygen Therapy</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare the efficacy of long-term use of nocturnal oxygen therapy (12 hours) with that of
+      continuous, low-flow oxygen therapy (24 hours) in patients with chronic hypoxic lung
+      disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Chronic obstructive pulmonary disease is a major health problem in the United States. In
+      1975, it was the sixth leading cause of death. The economic impact of the disease in 1972
+      amounted to $803 million in the direct costs of disability treatment, $3.05 billion in
+      disability costs, and $645 million in lost earnings due to premature death.
+
+      Motivated in part by the significant toll of this disease, a conference on the Scientific
+      Basis of Respiratory Therapy, co-sponsored by the American Thoracic Society and the Division
+      of Lung Diseases, examined the current status of the use of oxygen therapy in chronic lung
+      disease. The proceedings of the conference, published in the American Review of Respiratory
+      Disease (Vol. 110, No. 6, December 1974), included a recommendation for clinical studies
+      that would provide a critical assessment of the role of nocturnal oxygen therapy in the
+      treatment of patients with chronic obstructive pulmonary disease. Low-flow oxygen,
+      administered continuously, was known to benefit some patients with chronic hypoxic lung
+      disease. However, low-flow oxygen administration for long periods of time is cumbersome,
+      confining, and expensive. If nocturnal oxygen administration could be unequivocally
+      demonstrated to be efficacious, then the advantages of convenience and cost would have a
+      favorable impact on treatment of patients, and a rationale could be developed for testing
+      this therapy in a larger group of patients.
+
+      The Planning Phase of the trial was initiated in September 1976. Patient recruitment began
+      in May 1977. The Recruitment Phase lasted 24 months. The 203 patients in the trial were
+      assigned randomly to nocturnal oxygen therapy (home) or continuous low-flow oxygen therapy.
+
+      DESIGN NARRATIVE:
+
+      Randomized, fixed sample. Two hundred and three patients were randomly assigned to at-home
+      treatments of continuous oxygen therapy or nocturnal oxygen therapy. Endpoints related to
+      quality of life, neuropsychological function, and respiratory function and capacity.
+      Intervention lasted for 6 months to 3 years, with an average intervention of 19.3 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1976</start_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Lung Diseases</condition>
+  <condition>Lung Diseases, Obstructive</condition>
+  <condition>Chronic Obstructive Pulmonary Disease</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>oxygen inhalation therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, ages 35 to 70, who had severe chronic obstructive lung disease requiring
+        supplemental oxygen therapy.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicholas Anthonisen</last_name>
+    <affiliation>University of Manitoba</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>C.Thomas Boylen</last_name>
+    <affiliation>University of Southern California</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David Cugell</last_name>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Paul Kvale</last_name>
+    <affiliation>Henry Ford Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Thomas Petty</last_name>
+    <affiliation>University of Colorado, Denver</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Richard Timms</last_name>
+    <affiliation>University of California, San Diego</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>George Williams</last_name>
+    <affiliation>The Cleveland Clinic</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Continuous or nocturnal oxygen therapy in hypoxemic chronic obstructive lung disease: a clinical trial. Nocturnal Oxygen Therapy Trial Group. Ann Intern Med. 1980 Sep;93(3):391-8.</citation>
+    <PMID>6776858</PMID>
+  </reference>
+  <reference>
+    <citation>Is 12-hour oxygen as effective as 24-hour oxygen in advanced chronic obstructive pulmonary disease with hypoxemia? (The nocturnal oxygen therapy trial--NOTT). Chest. 1980 Sep;78(3):419-20.</citation>
+    <PMID>7418460</PMID>
+  </reference>
+  <reference>
+    <citation>DeMets DL, Williams GW, Brown BW Jr. A case report of data monitoring experience: the nocturnal oxygen therapy trial. Control Clin Trials. 1982 Jun;3(2):113-24.</citation>
+    <PMID>6749425</PMID>
+  </reference>
+  <reference>
+    <citation>Heaton RK, Grant I, McSweeny AJ, Adams KM, Petty TL. Psychologic effects of continuous and nocturnal oxygen therapy in hypoxemic chronic obstructive pulmonary disease. Arch Intern Med. 1983 Oct;143(10):1941-7.</citation>
+    <PMID>6625781</PMID>
+  </reference>
+  <reference>
+    <citation>Jacques J, Cooney TP, Silvers GW, Petty TL, Wright JL, Thurlbeck WM. The lungs and causes of death in the nocturnal oxygen therapy trial. Chest. 1984 Aug;86(2):230-3.</citation>
+    <PMID>6378540</PMID>
+  </reference>
+  <reference>
+    <citation>Williams GW, Snedecor SM, DeMets DL. Recruitment experience in the Nocturnal Oxygen Therapy Trial. Control Clin Trials. 1987 Dec;8(4 Suppl):121S-130S.</citation>
+    <PMID>3440385</PMID>
+  </reference>
+  <verification_date>May 2002</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

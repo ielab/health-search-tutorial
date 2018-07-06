@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204469">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000508</url>
+  </required_header>
+  <id_info>
+    <org_study_id>27</org_study_id>
+    <nct_id>NCT00000508</nct_id>
+  </id_info>
+  <brief_title>Stanford Coronary Risk Intervention Project (SCRIP)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether modification of risk factors altered the rate of progression of
+      coronary artery disease in arteries with mild atherosclerosis and no mechanical intervention
+      in patients who had coronary bypass surgery or percutaneous transluminal coronary
+      angioplasty (PTCA).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Because of difficulties with quantitative measurement and with feasibility of follow-up, few
+      controlled studies prior to SCRIP had been completed to determine the impact of risk factor
+      modification directly on the progression of coronary atherosclerosis in humans. Suggestive
+      evidence existed from animal studies, especially in primates, that diet and exercise altered
+      atherosclerosis as a result of risk modification. But these animal models did not accurately
+      represent the potential for modifying the coronary atherosclerotic process in humans. Some
+      indirect evidence had been developed in humans by studying arteries more accessible than the
+      coronaries. In the several preliminary studies reported using coronary arteriography to
+      study the impact of risk modification on atherosclerosis, the results had been encouraging
+      but far from definitive. One angiographic follow-up study of vein bypass grafts and severely
+      atherosclerotic coronary arteries reported improvement with lipid lowering therapy. None of
+      these studies had included randomization of patients to systematic, intense, long-term risk
+      reduction versus usual care with prospectively identified coronary artery segments with mild
+      disease.
+
+      DESIGN NARRATIVE:
+
+      Randomized, fixed-sample. A total of 300 patients were randomized, 155 to usual care (UC) in
+      the community and 145 to special intervention (SI). The SI group received intensive efforts
+      directed at reducing or eliminating risk factors, including lowering LDL-cholesterol and
+      increasing HDL-cholesterol, reducing blood pressure, eliminating cigarette smoking and
+      obesity, increasing exercise, and decreasing stressful life experience. The major endpoint
+      was the rate of coronary artery disease progression as measured by angiography, at baseline
+      and at forty-eight months. Follow-up was for four years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1983</start_date>
+  <completion_date>March 1993</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Arteriosclerosis</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>smoking cessation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, reducing</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>exercise</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, fat-restricted</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, up to 75 years of age. Patients with coronary artery disease but no
+        mechanical intervention on all major vessels.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edwin Alderman</last_name>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ronald Krauss</last_name>
+    <affiliation>University of California</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Leung WH, Demopulos PA, Alderman EL, Sanders W, Stadius ML. Evaluation of catheters and metallic catheter markers as calibration standard for measurement of coronary dimension. Cathet Cardiovasc Diagn. 1990 Nov;21(3):148-53.</citation>
+    <PMID>2225049</PMID>
+  </reference>
+  <reference>
+    <citation>Burge C, Sanders W, Alderman EL. Anatomic and machine projection angles of various radiographic imaging systems used for cardiac angiography. Cathet Cardiovasc Diagn. 1991 Jan;22(1):64-74.</citation>
+    <PMID>1995179</PMID>
+  </reference>
+  <reference>
+    <citation>Maron DJ, Fair JM, Haskell WL. Saturated fat intake and insulin resistance in men with coronary artery disease. The Stanford Coronary Risk Intervention Project Investigators and Staff. Circulation. 1991 Nov;84(5):2020-7.</citation>
+    <PMID>1934376</PMID>
+  </reference>
+  <reference>
+    <citation>Haskell WL, Alderman EL, Fair JM, Maron DJ, Mackey SF, Superko HR, Williams PT, Johnstone IM, Champagne MA, Krauss RM, et al. Effects of intensive multiple risk factor reduction on coronary atherosclerosis and clinical cardiac events in men and women with coronary artery disease. The Stanford Coronary Risk Intervention Project (SCRIP). Circulation. 1994 Mar;89(3):975-90.</citation>
+    <PMID>8124838</PMID>
+  </reference>
+  <reference>
+    <citation>Quinn TG, Alderman EL, McMillan A, Haskell W. Development of new coronary atherosclerotic lesions during a 4-year multifactor risk reduction program: the Stanford Coronary Risk Intervention Project (SCRIP). J Am Coll Cardiol. 1994 Oct;24(4):900-8.</citation>
+    <PMID>7930223</PMID>
+  </reference>
+  <reference>
+    <citation>Miller BD, Alderman EL, Haskell WL, Fair JM, Krauss RM. Predominance of dense low-density lipoprotein particles predicts angiographic benefit of therapy in the Stanford Coronary Risk Intervention Project. Circulation. 1996 Nov 1;94(9):2146-53.</citation>
+    <PMID>8901665</PMID>
+  </reference>
+  <verification_date>March 1993</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arteriosclerosis</mesh_term>
+    <mesh_term>Atherosclerosis</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

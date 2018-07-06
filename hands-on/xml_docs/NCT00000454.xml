@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204523">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000454</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAACOO11197</org_study_id>
+    <secondary_id>R01AA011197</secondary_id>
+    <nct_id>NCT00000454</nct_id>
+  </id_info>
+  <brief_title>Smoking Cessation in Alcoholism Treatment</brief_title>
+  <official_title>Field Study of Smoking Cessation in Alcoholism Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Yale University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to increase understanding of the processes that affect the treatment
+      outcome of individuals with both alcohol and nicotine dependence. Treatment outcome
+      methodology will be combined with a computerized self-monitoring methodology to examine the
+      extent to which smoking serves as a cue for alcohol craving and/or as a response to alcohol
+      craving in treated alcoholics. Subjects will be veterans participating in the Substance
+      Abuse Day Programs at the Newington and West Haven campuses of the VA Connecticut Healthcare
+      System. Nonveteran women will be recruited from the community and enrolled in the day
+      program. Subjects will be randomly assigned to one of the following two conditions: (1)
+      intensive smoking cessation therapy (counseling plus nicotine replacement using nicotine
+      patches) concurrent with alcohol treatment, or (2) brief smoking cessation advice concurrent
+      with alcohol treatment.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <completion_date>August 2002</completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <enrollment>112</enrollment>
+  <condition>Alcoholism</condition>
+  <condition>Smoking</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>nicotine replacement patch</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets criteria for alcohol dependence within the past three months, and criteria for
+             nicotine dependence.
+
+          -  Smoking at least 10 or more cigarettes per day for the past year.
+
+          -  Seeking treatment for both alcohol and nicotine dependence.
+
+          -  Minimum 1 week of alcohol abstinence and substance abuse day treatment attendance.
+
+          -  Willing to provide names of two individuals who can help locate the subject at
+             follow-up.
+
+          -  Willing to provide name of one individual who can provide collateral information
+             about alcohol and tobacco use.
+
+        Exclusion Criteria:
+
+          -  Other substance use disorder meeting criteria for dependence.
+
+          -  Acute medical or psychiatric disorder requiring inpatient treatment.
+
+          -  Taking medications known to influence alcohol urges (naltrexone, disulfiram).
+
+          -  Medical problems that would contraindicate nicotine patch use.
+
+          -  Allergy or hypersensitivity to nicotine or to adhesives used in transdermal delivery
+             systems.
+
+          -  Use of other nicotine products such as cigars, pipes, or smokeless tobacco.
+
+          -  Severe generalized skin disorder.
+
+          -  Myocardial infarction within 3 months prior to study entry.
+
+          -  Unstable angina.
+
+          -  Pregnant or lactating females, or females who are not practicing a medically accepted
+             form of contraception.
+
+          -  Impaired vision or hearing which would interfere with using a hand-held computer.
+
+          -  Reading ability below fifth grade level.
+
+          -  Lack of reliable transportation to the treatment site, or living more than 1 hour
+             from treatment site.
+
+          -  Homeless or unstable residence.
+
+          -  Plan for future admission to residential treatment.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Substance Abuse Treatment Center, VA Medical Center</name>
+      <address>
+        <city>West Haven</city>
+        <state>Connecticut</state>
+        <zip>06516</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Cooney NL, Litt MD, Cooney JL, Pilkey DT, Steinberg HR, Oncken CA. Concurrent brief versus intensive smoking intervention during alcohol dependence treatment. Psychol Addict Behav. 2007 Dec;21(4):570-5.</citation>
+    <PMID>18072840</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cooney NL, Litt MD, Cooney JL, Pilkey DT, Steinberg HR, Oncken CA. Alcohol and tobacco cessation in alcohol-dependent smokers: analysis of real-time reports. Psychol Addict Behav. 2007 Sep;21(3):277-86.</citation>
+    <PMID>17874878</PMID>
+  </results_reference>
+  <verification_date>May 2010</verification_date>
+  <lastchanged_date>May 18, 2010</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Alcoholism</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

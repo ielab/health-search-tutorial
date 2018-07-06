@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204770">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000200</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-03818-1</org_study_id>
+    <secondary_id>R01-03818-1</secondary_id>
+    <nct_id>NCT00000200</nct_id>
+  </id_info>
+  <brief_title>Cocaine Effects in Humans: Physiology and Behavior - 1</brief_title>
+  <official_title>Cocaine Effects in Humans: Physiology and Behavior</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the effects of buprenorphine or methadone
+      maintenance on cocaine taking and on the physiological and subjective effects of cocaine,
+      including cocaine craving, in opiate-dependent cocaine users.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1997</start_date>
+  <completion_date type="Actual">January 1998</completion_date>
+  <primary_completion_date type="Actual">January 1998</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Double Blind (Subject, Caregiver), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Interaction of cocaine and meds on cardio</measure>
+    <time_frame>3 hr</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Interaction of cocaine &amp; meds on coc's subjective</measure>
+    <time_frame>3 hr</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Effects of medication on cocaine craving</measure>
+    <time_frame>3 hr</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">19</enrollment>
+  <condition>Cocaine-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methadone</intervention_name>
+    <description>normal maintenance dose</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Please contact site for information.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marian Fischman, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Columbia University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Foltin RW, Fischman MW. Effects of methadone or buprenorphine maintenance on the subjective and reinforcing effects of intravenous cocaine in humans. J Pharmacol Exp Ther. 1996 Sep;278(3):1153-64.</citation>
+    <PMID>8819498</PMID>
+  </results_reference>
+  <verification_date>September 2008</verification_date>
+  <lastchanged_date>September 10, 2008</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cocaine-Related Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

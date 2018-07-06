@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204461">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000516</url>
+  </required_header>
+  <id_info>
+    <org_study_id>35</org_study_id>
+    <nct_id>NCT00000516</nct_id>
+  </id_info>
+  <brief_title>Studies of Left Ventricular Dysfunction (SOLVD)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine if enalapril treatment of left ventricular dysfunction (LVD) due to ischemic or
+      hypertensive heart disease led to reduced mortality and morbidity in symptomatic and
+      asymptomatic patients. There were a Prevention Trial, a Treatment Trial, and a registry.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Approximately two million Americans suffer from heart failure. Since the prevalence of
+      congestive heart failure is known to increase with age, improvements in the average life
+      expectancy would be expected to increase the magnitude of the problem over the next few
+      decades. While advances in the treatment of hypertension, coronary artery disease, and
+      surgical treatment of congenital and valvular heart disease have prolonged survival, many of
+      these patients ultimately develop heart failure in later life.
+
+      The therapy of congestive heart failure has undergone rapid change. Until the early 1970s,
+      the mainstay of therapy for the patient with acute and chronic congestive heart failure was
+      digitalis and diuretics. The use of digitalis in patients with heart failure secondary to
+      ischemic heart disease and in those with severe left ventricular failure of either
+      nonischemic or ischemic origin was, however, controversial.
+
+      Controversy over the acute and long-term effects of digitalis led to the introduction of a
+      variety of alternative and supplemental therapeutic approaches for the patient with heart
+      failure. In the mid 1980s, a wide spectrum of vasodilators was available. New, at that time,
+      inotropic agents, also found applications as alternatives or supplements to digitalis
+      administration. Although all of these drugs had been shown to be of some benefit in the
+      management of patients with chronic heart failure, there was inadequate information as to
+      the long-term hemodynamic effects of some of these agents and practically no information
+      regarding their effect on survival.
+
+      The recognition that patients with congestive heart failure often have elevated peripheral
+      vascular resistance led to the introduction of vasodilator therapy. Of the vasodilators, the
+      angiotensin-converting enzyme (ACE) inhibitors appeared to be the most promising because
+      they had been shown to counteract some of the major adverse hormonal and vasoconstrictor
+      mechanisms, relieve symptoms, diminish cardiac dilatation after myocardial infarction, and
+      improve exercise capacity and ejection fraction.
+
+      SOLVD was initiated in 1986 primarily to evaluate the effects of enalapril, an
+      angiotensin-converting enzyme (ACE) inhibitor. Two considerations influenced the design of
+      SOLVD: it was possible that drug treatment given to patients who already had manifest
+      congestive heart failure might not be as beneficial as initiating treatment in asymptomatic
+      left ventricular dysfunction patients; early treatment of such asymptomatic patients might
+      be less beneficial, as the patient might not have measurable activation of the
+      renin-angiotensin axis.
+
+      The Request for Proposals was released in August 1984 with the first awards made in July
+      1985. A second Request for Proposals for additional clinical centers was released in March
+      1985.
+
+      DESIGN NARRATIVE:
+
+      Both trials were randomized and double-blind. Prior to randomization, all patients received
+      enalapril, and placebo for two weeks to enable early detection of non-compliant patients,
+      those unable to tolerate the drug, and those with early side-effects. After completion of
+      the pre-randomization period, participants were allocated to enalapril or placebo using a
+      permuted block randomization within each of the clinical centers. Follow-up visits were
+      scheduled for two and six weeks after randomization and then at four, eight, and twelve
+      months. Thereafter, clinic visits were scheduled at four-month intervals. Patients were
+      followed for a minimum of two years and a maximum of five years. Primary outcome for each
+      trial was all-cause mortality. Secondary endpoints included cardiovascular mortality, sudden
+      death due to worsening congestive heart failure, hospitalization for congestive heart
+      failure, myocardial infarction, stroke, need for cardiac transplantation, and quality of
+      life. Onset of congestive heart failure was an additional outcome in the Prevention Trial.
+      Seven substudies were conducted among subsets of participants and included: diastolic
+      function; echocardiography; exercise; neurohumoral; quality of life; radionuclide; sudden
+      death. Patient recruitment began in July 1986. Recruitment in the Treatment Trial ended six
+      months ahead of schedule in February 1989, and follow-up ended in February 1991. The
+      Prevention Trial ended recruitment in April 1990 and completed follow-up in July 1991. Data
+      analysis continued through November 1994.
+
+      The trial also included a registry which enrolled 6,300 patients to study the influence of a
+      number of patient characteristics on mortality. Eighteen of the clinical centers
+      participated. Data were collected from consecutive patients with ejection fraction less than
+      .45 or with radiologic evidence of congestive heart failure over a twelve month period. At
+      one year, patient's vital status was ascertained by mail and, if necessary, by telephone
+      follow-up. One year follow-up was completed on all registry patients by May 1990. Longer
+      term follow-up was done through the National Death Index.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1985</start_date>
+  <completion_date type="Actual">May 1990</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Heart Failure</condition>
+  <condition>Hypertension</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>enalapril</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, ages 21 to 80. Subjects were asymptomatic or symptomatic and had ejection
+        fractions equal to or below 35 percent.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clarence Davis</last_name>
+    <affiliation>University of North Carolina</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Konstam MA, Kronenberg MW, Udelson JE, Metherall J, Dolan N, Edens TR, Howe DM, Yusuf S, Youngblood M, Toltsis H. Effect of acute angiotensin converting enzyme inhibition on left ventricular filling in patients with congestive heart failure. Relation to right ventricular volumes. Circulation. 1990 Feb;81(2 Suppl):III115-22.</citation>
+    <PMID>2153478</PMID>
+  </reference>
+  <reference>
+    <citation>Studies of left ventricular dysfunction (SOLVD)--rationale, design and methods: two trials that evaluate the effect of enalapril in patients with reduced ejection fraction. Am J Cardiol. 1990 Aug 1;66(3):315-22. Erratum in: Am J Cardiol 1990 Oct 15;66(12):1026.</citation>
+    <PMID>2195865</PMID>
+  </reference>
+  <reference>
+    <citation>Francis GS, Benedict C, Johnstone DE, Kirlin PC, Nicklas J, Liang CS, Kubo SH, Rudin-Toretsky E, Yusuf S. Comparison of neuroendocrine activation in patients with left ventricular dysfunction with and without congestive heart failure. A substudy of the Studies of Left Ventricular Dysfunction (SOLVD). Circulation. 1990 Nov;82(5):1724-9.</citation>
+    <PMID>2146040</PMID>
+  </reference>
+  <reference>
+    <citation>Effect of enalapril on survival in patients with reduced left ventricular ejection fractions and congestive heart failure. The SOLVD Investigators. N Engl J Med. 1991 Aug 1;325(5):293-302.</citation>
+    <PMID>2057034</PMID>
+  </reference>
+  <reference>
+    <citation>Hood WB Jr, Youngblood M, Ghali JK, Reid M, Rogers WJ, Howe D, Teo KK, LeJemtel TH. Initial blood pressure response to enalapril in hospitalized patients (Studies of Left Ventricular Dysfunction [SOLVD]). Am J Cardiol. 1991 Dec 1;68(15):1465-8.</citation>
+    <PMID>1746428</PMID>
+  </reference>
+  <reference>
+    <citation>Effect of enalapril on mortality and the development of heart failure in asymptomatic patients with reduced left ventricular ejection fractions. The SOLVD Investigattors. N Engl J Med. 1992 Sep 3;327(10):685-91. Erratum in: N Engl J Med 1992 Dec 10;327(24):1768.</citation>
+    <PMID>1463530</PMID>
+  </reference>
+  <reference>
+    <citation>Konstam MA, Rousseau MF, Kronenberg MW, Udelson JE, Melin J, Stewart D, Dolan N, Edens TR, Ahn S, Kinan D, et al. Effects of the angiotensin converting enzyme inhibitor enalapril on the long-term progression of left ventricular dysfunction in patients with heart failure. SOLVD Investigators. Circulation. 1992 Aug;86(2):431-8.</citation>
+    <PMID>1638712</PMID>
+  </reference>
+  <reference>
+    <citation>Liang CS, Stewart DK, LeJemtel TH, Kirlin PC, McIntyre KM, Robertson HT, Brown R, Moore AW, Wellington KL, Cahill L, et al. Characteristics of peak aerobic capacity in symptomatic and asymptomatic subjects with left ventricular dysfunction. The Studies of Left Ventricular Dysfunction (SOLVD) Investigators. Am J Cardiol. 1992 May 1;69(14):1207-11.</citation>
+    <PMID>1575192</PMID>
+  </reference>
+  <reference>
+    <citation>Konstam MA, Kronenberg MW, Udelson JE, Kinan D, Metherall J, Dolan N, Edens T, Howe D, Kilcoyne L, Benedict C, et al. Effectiveness of preload reserve as a determinant of clinical status in patients with left ventricular systolic dysfunction. The SOLVD Investigators. Am J Cardiol. 1992 Jun 15;69(19):1591-5.</citation>
+    <PMID>1598875</PMID>
+  </reference>
+  <reference>
+    <citation>Carew BD, Ahn SA, Boichot HD, Dierenfeldt BJ, Dolan NA, Edens TR, Weiner DH, Probstfield JL. Recruitment strategies in the studies of left ventricular dysfunction (SOLVD): strategies for screening and enrollment in two concurrent but separate trials. The SOLVD Investigators. Control Clin Trials. 1992 Oct;13(5):325-38.</citation>
+    <PMID>1330437</PMID>
+  </reference>
+  <reference>
+    <citation>Johnstone D, Limacher M, Rousseau M, Liang CS, Ekelund L, Herman M, Stewart D, Guillotte M, Bjerken G, Gaasch W, et al. Clinical characteristics of patients in studies of left ventricular dysfunction (SOLVD). Am J Cardiol. 1992 Oct 1;70(9):894-900.</citation>
+    <PMID>1529944</PMID>
+  </reference>
+  <reference>
+    <citation>Pouleur H. Results of the treatment trial of the studies of left ventricular dysfunction (SOLVD). The SOLVD Investigators. Am J Cardiol. 1992 Oct 8;70(10):135C-136C.</citation>
+    <PMID>1414890</PMID>
+  </reference>
+  <reference>
+    <citation>Bangdiwala SI, Weiner DH, Bourassa MG, Friesinger GC 2nd, Ghali JK, Yusuf S. Studies of Left Ventricular Dysfunction (SOLVD) Registry: rationale, design, methods and description of baseline characteristics. Am J Cardiol. 1992 Aug 1;70(3):347-53.</citation>
+    <PMID>1632401</PMID>
+  </reference>
+  <reference>
+    <citation>Pouleur H, Rousseau MF, van Eyll C, Stoleru L, Hayashida W, Udelson JA, Dolan N, Kinan D, Gallagher P, Ahn S, et al. Effects of long-term enalapril therapy on left ventricular diastolic properties in patients with depressed ejection fraction. SOLVD Investigators. Circulation. 1993 Aug;88(2):481-91.</citation>
+    <PMID>8101772</PMID>
+  </reference>
+  <reference>
+    <citation>Gorkin L, Norvell NK, Rosen RC, Charles E, Shumaker SA, McIntyre KM, Capone RJ, Kostis J, Niaura R, Woods P, et al. Assessment of quality of life as observed from the baseline data of the Studies of Left Ventricular Dysfunction (SOLVD) trial quality-of-life substudy. Am J Cardiol. 1993 May 1;71(12):1069-73.</citation>
+    <PMID>8475871</PMID>
+  </reference>
+  <reference>
+    <citation>Bourassa MG, Gurné O, Bangdiwala SI, Ghali JK, Young JB, Rousseau M, Johnstone DE, Yusuf S. Natural history and patterns of current practice in heart failure. The Studies of Left Ventricular Dysfunction (SOLVD) Investigators. J Am Coll Cardiol. 1993 Oct;22(4 Suppl A):14A-19A.</citation>
+    <PMID>8376685</PMID>
+  </reference>
+  <reference>
+    <citation>Pouleur HG, Konstam MA, Udelson JE, Rousseau MF. Changes in ventricular volume, wall thickness and wall stress during progression of left ventricular dysfunction. The SOLVD Investigators. J Am Coll Cardiol. 1993 Oct;22(4 Suppl A):43A-48A.</citation>
+    <PMID>8376696</PMID>
+  </reference>
+  <reference>
+    <citation>Benedict CR, Weiner DH, Johnstone DE, Bourassa MG, Ghali JK, Nicklas J, Kirlin P, Greenberg B, Quinones MA, Yusuf S. Comparative neurohormonal responses in patients with preserved and impaired left ventricular ejection fraction: results of the Studies of Left Ventricular Dysfunction (SOLVD) Registry. The SOLVD Investigators. J Am Coll Cardiol. 1993 Oct;22(4 Suppl A):146A-153A.</citation>
+    <PMID>8376686</PMID>
+  </reference>
+  <reference>
+    <citation>Bittner V, Weiner DH, Yusuf S, Rogers WJ, McIntyre KM, Bangdiwala SI, Kronenberg MW, Kostis JB, Kohn RM, Guillotte M, et al. Prediction of mortality and morbidity with a 6-minute walk test in patients with left ventricular dysfunction. SOLVD Investigators. JAMA. 1993 Oct 13;270(14):1702-7.</citation>
+    <PMID>8411500</PMID>
+  </reference>
+  <reference>
+    <citation>Pouleur H, Rousseau MF, van Eyll C, Melin J, Youngblood M, Yusuf S. Cardiac mechanics during development of heart failure. SOLVD Investigators. Circulation. 1993 May;87(5 Suppl):IV14-20.</citation>
+    <PMID>8485829</PMID>
+  </reference>
+  <reference>
+    <citation>Konstam MA, Kronenberg MW, Rousseau MF, Udelson JE, Melin J, Stewart D, Dolan N, Edens TR, Ahn S, Kinan D, et al. Effects of the angiotensin converting enzyme inhibitor enalapril on the long-term progression of left ventricular dilatation in patients with asymptomatic systolic dysfunction. SOLVD (Studies of Left Ventricular Dysfunction) Investigators. Circulation. 1993 Nov;88(5 Pt 1):2277-83.</citation>
+    <PMID>8222122</PMID>
+  </reference>
+  <reference>
+    <citation>Yusuf S, Garg R, McConachie D. Effect of angiotensin-converting enzyme inhibitors in left ventricular dysfunction: results of the studies of left ventricular dysfunction in the context of other similar trials. J Cardiovasc Pharmacol. 1993;22 Suppl 9:S28-35. Review.</citation>
+    <PMID>7514238</PMID>
+  </reference>
+  <reference>
+    <citation>Hayashida W, Van Eyll C, Rousseau MF, Pouleur H. Regional remodeling and nonuniform changes in diastolic function in patients with left ventricular dysfunction: modification by long-term enalapril treatment. The SOLVD Investigators. J Am Coll Cardiol. 1993 Nov 1;22(5):1403-10.</citation>
+    <PMID>8227798</PMID>
+  </reference>
+  <reference>
+    <citation>Melin JA, Konstam MA, Rousseau MF, Pouleur H. Progression of left ventricular dysfunction in patients with heart failure. SOLVD Investigators. The Studies of Left Ventricular Dysfunction. Ann Ital Med Int. 1993 Oct;8 Suppl:9S.</citation>
+    <PMID>8117528</PMID>
+  </reference>
+  <reference>
+    <citation>Rogers WJ, Johnstone DE, Yusuf S, Weiner DH, Gallagher P, Bittner VA, Ahn S, Schron E, Shumaker SA, Sheffield LT. Quality of life among 5,025 patients with left ventricular dysfunction randomized between placebo and enalapril: the Studies of Left Ventricular Dysfunction. The SOLVD Investigators. J Am Coll Cardiol. 1994 Feb;23(2):393-400.</citation>
+    <PMID>8294693</PMID>
+  </reference>
+  <reference>
+    <citation>Kostis JB, Shelton BJ, Yusuf S, Weiss MB, Capone RJ, Pepine CJ, Gosselin G, Delahaye F, Probstfield JL, Cahill L, et al. Tolerability of enalapril initiation by patients with left ventricular dysfunction: results of the medication challenge phase of the Studies of Left Ventricular Dysfunction. Am Heart J. 1994 Aug;128(2):358-64.</citation>
+    <PMID>8037104</PMID>
+  </reference>
+  <reference>
+    <citation>Henzlova MJ, Blackburn GH, Bradley EJ, Rogers WJ. Patient perception of a long-term clinical trial: experience using a close-out questionnaire in the Studies of Left Ventricular Dysfunction (SOLVD) Trial. SOLVD Close-out Working Group. Control Clin Trials. 1994 Aug;15(4):284-93.</citation>
+    <PMID>7956268</PMID>
+  </reference>
+  <reference>
+    <citation>Benedict CR, Johnstone DE, Weiner DH, Bourassa MG, Bittner V, Kay R, Kirlin P, Greenberg B, Kohn RM, Nicklas JM, et al. Relation of neurohumoral activation to clinical variables and degree of ventricular dysfunction: a report from the Registry of Studies of Left Ventricular Dysfunction. SOLVD Investigators. J Am Coll Cardiol. 1994 May;23(6):1410-20.</citation>
+    <PMID>7909822</PMID>
+  </reference>
+  <reference>
+    <citation>LeJemtel TH, Liang CS, Stewart DK, Kirlin PC, McIntyre KM, Robertson TH, Moore A, Cahill L, Galvao M, Wellington KL, et al. Reduced peak aerobic capacity in asymptomatic left ventricular systolic dysfunction. A substudy of the studies of left ventricular dysfunction (SOLVD). SOLVD Investigator. Studies of Left Ventricular Dysfunction. Circulation. 1994 Dec;90(6):2757-60.</citation>
+    <PMID>7994818</PMID>
+  </reference>
+  <reference>
+    <citation>Yusuf S, Pepine CJ, Garces C, Pouleur H, Salem D, Kostis J, Benedict C, Rousseau M, Bourassa M, Pitt B. Effect of enalapril on myocardial infarction and unstable angina in patients with low ejection fractions. Lancet. 1992 Nov 14;340(8829):1173-8.</citation>
+    <PMID>1359258</PMID>
+  </reference>
+  <reference>
+    <citation>Pratt CM, Gardner M, Pepine C, Kohn R, Young JB, Greenberg B, Capone R, Kostis J, Henzlova M, Gosselin G, et al. Lack of long-term ventricular arrhythmia reduction by enalapril in heart failure. SOLVD Investigators. Am J Cardiol. 1995 Jun 15;75(17):1244-9.</citation>
+    <PMID>7778548</PMID>
+  </reference>
+  <reference>
+    <citation>Benedict CR, Francis GS, Shelton B, Johnstone DE, Kubo SH, Kirlin P, Nicklas J, Liang CS, Konstam MA, Greenberg B, et al. Effect of long-term enalapril therapy on neurohormones in patients with left ventricular dysfunction. SOLVD Investigators. Am J Cardiol. 1995 Jun 1;75(16):1151-7.</citation>
+    <PMID>7762503</PMID>
+  </reference>
+  <reference>
+    <citation>Kostis JB, Shelton B, Gosselin G, Goulet C, Hood WB Jr, Kohn RM, Kubo SH, Schron E, Weiss MB, Willis PW 3rd, Young JB, Probstfield J. Adverse effects of enalapril in the Studies of Left Ventricular Dysfunction (SOLVD). SOLVD Investigators. Am Heart J. 1996 Feb;131(2):350-5.</citation>
+    <PMID>8579032</PMID>
+  </reference>
+  <reference>
+    <citation>Torre-Amione G, Kapadia S, Benedict C, Oral H, Young JB, Mann DL. Proinflammatory cytokine levels in patients with depressed left ventricular ejection fraction: a report from the Studies of Left Ventricular Dysfunction (SOLVD). J Am Coll Cardiol. 1996 Apr;27(5):1201-6.</citation>
+    <PMID>8609343</PMID>
+  </reference>
+  <reference>
+    <citation>Kirlin PC, Benedict C, Shelton BJ, Francis G, Nicklas J, Liang CS, Kubo S, Johnstone D, Probstfield J, Yusuf S. Neurohumoral variability in left ventricular dysfunction. SOLVD Investigators. Studies of Left Ventricular Dysfunction. Am J Cardiol. 1995 Feb 15;75(5):354-9.</citation>
+    <PMID>7856527</PMID>
+  </reference>
+  <reference>
+    <citation>Greenberg B, Quinones MA, Koilpillai C, Limacher M, Shindler D, Benedict C, Shelton B. Effects of long-term enalapril therapy on cardiac structure and function in patients with left ventricular dysfunction. Results of the SOLVD echocardiography substudy. Circulation. 1995 May 15;91(10):2573-81.</citation>
+    <PMID>7743619</PMID>
+  </reference>
+  <reference>
+    <citation>Young JB, Weiner DH, Yusuf S, Pratt CM, Kostis JB, Weiss MB, Schroeder E, Guillote M. Patterns of medication use in patients with heart failure: a report from the Registry of Studies of Left Ventricular Dysfunction (SOLVD). South Med J. 1995 May;88(5):514-23. Review.</citation>
+    <PMID>7732439</PMID>
+  </reference>
+  <reference>
+    <citation>Shindler DM, Kostis JB, Yusuf S, Quinones MA, Pitt B, Stewart D, Pinkett T, Ghali JK, Wilson AC. Diabetes mellitus, a predictor of morbidity and mortality in the Studies of Left Ventricular Dysfunction (SOLVD) Trials and Registry. Am J Cardiol. 1996 May 1;77(11):1017-20.</citation>
+    <PMID>8644628</PMID>
+  </reference>
+  <reference>
+    <citation>Konstam V, Salem D, Pouleur H, Kostis J, Gorkin L, Shumaker S, Mottard I, Woods P, Konstam MA, Yusuf S. Baseline quality of life as a predictor of mortality and hospitalization in 5,025 patients with congestive heart failure. SOLVD Investigations. Studies of Left Ventricular Dysfunction Investigators. Am J Cardiol. 1996 Oct 15;78(8):890-5.</citation>
+    <PMID>8888661</PMID>
+  </reference>
+  <reference>
+    <citation>Dries DL, Rosenberg YD, Waclawiw MA, Domanski MJ. Ejection fraction and risk of thromboembolic events in patients with systolic dysfunction and sinus rhythm: evidence for gender differences in the studies of left ventricular dysfunction trials. J Am Coll Cardiol. 1997 Apr;29(5):1074-80. Erratum in: J Am Coll Cardiol 1998 Aug;32(2):555.</citation>
+    <PMID>9120162</PMID>
+  </reference>
+  <reference>
+    <citation>Patten RD, Kronenberg MW, Benedict CR, Udelson JE, Kinan D, Stewart D, Yusuf S, Smith JJ, Kilcoyne L, Dolan N, Edens TR, Metherall J, Konstam MA. Acute and long-term effects of the angiotensin-converting enzyme inhibitor, enalapril, on adrenergic activity and sensitivity during exercise in patients with left ventricular systolic dysfunction. Am Heart J. 1997 Jul;134(1):37-43.</citation>
+    <PMID>9266781</PMID>
+  </reference>
+  <reference>
+    <citation>Al-Khadra AS, Salem DN, Rand WM, Udelson JE, Smith JJ, Konstam MA. Warfarin anticoagulation and survival: a cohort analysis from the Studies of Left Ventricular Dysfunction. J Am Coll Cardiol. 1998 Mar 15;31(4):749-53.</citation>
+    <PMID>9525542</PMID>
+  </reference>
+  <reference>
+    <citation>Dries DL, Exner DV, Gersh BJ, Domanski MJ, Waclawiw MA, Stevenson LW. Atrial fibrillation is associated with an increased risk for mortality and heart failure progression in patients with asymptomatic and symptomatic left ventricular systolic dysfunction: a retrospective analysis of the SOLVD trials. Studies of Left Ventricular Dysfunction. J Am Coll Cardiol. 1998 Sep;32(3):695-703.</citation>
+    <PMID>9741514</PMID>
+  </reference>
+  <reference>
+    <citation>Domanski MJ, Mitchell GF, Norman JE, Exner DV, Pitt B, Pfeffer MA. Independent prognostic information provided by sphygmomanometrically determined pulse pressure and mean arterial pressure in patients with left ventricular dysfunction. J Am Coll Cardiol. 1999 Mar 15;33(4):951-8.</citation>
+    <PMID>10091821</PMID>
+  </reference>
+  <reference>
+    <citation>Exner DV, Dries DL, Waclawiw MA, Shelton B, Domanski MJ. Beta-adrenergic blocking agent use and mortality in patients with asymptomatic and symptomatic left ventricular systolic dysfunction: a post hoc analysis of the Studies of Left Ventricular Dysfunction. J Am Coll Cardiol. 1999 Mar 15;33(4):916-23.</citation>
+    <PMID>10091816</PMID>
+  </reference>
+  <reference>
+    <citation>Dries DL, Exner DV, Gersh BJ, Cooper HA, Carson PE, Domanski MJ. Racial differences in the outcome of left ventricular dysfunction. N Engl J Med. 1999 Feb 25;340(8):609-16. Erratum in: N Engl J Med 1999 Jul 22;341(4):298.</citation>
+    <PMID>10029645</PMID>
+  </reference>
+  <reference>
+    <citation>Kronenberg MW, Konstam MA, Edens TR, Howe DM, Dolan N, Udelson JE, Benedict C, Stewart D, Yusuf S. Factors influencing exercise performance in patients with left ventricular dysfunction. SOLVD Investigators. Studies of Left Ventricular Dysfunction. J Card Fail. 1998 Sep;4(3):159-67.</citation>
+    <PMID>9754586</PMID>
+  </reference>
+  <reference>
+    <citation>Rashid H, Exner DV, Mirsky I, Cooper HA, Waclawiw MA, Domanski MJ. Comparison of echocardiography and radionuclide angiography as predictors of mortality in patients with left ventricular dysfunction (studies of left ventricular dysfunction). Am J Cardiol. 1999 Aug 1;84(3):299-303.</citation>
+    <PMID>10496439</PMID>
+  </reference>
+  <reference>
+    <citation>Cooper HA, Exner DV, Waclawiw MA, Domanski MJ. White blood cell count and mortality in patients with ischemic and nonischemic left ventricular systolic dysfunction (an analysis of the Studies Of Left Ventricular Dysfunction [SOLVD]). Am J Cardiol. 1999 Aug 1;84(3):252-7.</citation>
+    <PMID>10496431</PMID>
+  </reference>
+  <reference>
+    <citation>Quiñones MA, Greenberg BH, Kopelen HA, Koilpillai C, Limacher MC, Shindler DM, Shelton BJ, Weiner DH. Echocardiographic predictors of clinical outcome in patients with left ventricular dysfunction enrolled in the SOLVD registry and trials: significance of left ventricular hypertrophy. Studies of Left Ventricular Dysfunction. J Am Coll Cardiol. 2000 Apr;35(5):1237-44.</citation>
+    <PMID>10758966</PMID>
+  </reference>
+  <reference>
+    <citation>Riedinger MS, Dracup KA, Brecht ML. Predictors of quality of life in women with heart failure. SOLVD Investigators. Studies of Left Ventricular Dysfunction. J Heart Lung Transplant. 2000 Jun;19(6):598-608.</citation>
+    <PMID>10867341</PMID>
+  </reference>
+  <reference>
+    <citation>Vermes E, Tardif JC, Bourassa MG, Racine N, Levesque S, White M, Guerra PG, Ducharme A. Enalapril decreases the incidence of atrial fibrillation in patients with left ventricular dysfunction: insight from the Studies Of Left Ventricular Dysfunction (SOLVD) trials. Circulation. 2003 Jun 17;107(23):2926-31. Epub 2003 May 27.</citation>
+    <PMID>12771010</PMID>
+  </reference>
+  <reference>
+    <citation>Domanski M, Norman J, Pitt B, Haigney M, Hanlon S, Peyster E; Studies of Left Ventricular Dysfunction. Diuretic use, progressive heart failure, and death in patients in the Studies Of Left Ventricular Dysfunction (SOLVD). J Am Coll Cardiol. 2003 Aug 20;42(4):705-8.</citation>
+    <PMID>12932605</PMID>
+  </reference>
+  <reference>
+    <citation>Hernandez AF, O'Connor CM. Sparing a little may save a lot: lessons from the Studies of Left Ventricular Dysfunction (SOLVD). J Am Coll Cardiol. 2003 Aug 20;42(4):709-11.</citation>
+    <PMID>12932606</PMID>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>April 26, 2012</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Ventricular Dysfunction</mesh_term>
+    <mesh_term>Ventricular Dysfunction, Left</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

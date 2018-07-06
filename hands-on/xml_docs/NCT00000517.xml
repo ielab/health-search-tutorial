@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204460">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000517</url>
+  </required_header>
+  <id_info>
+    <org_study_id>36</org_study_id>
+    <secondary_id>R01HL033233-06</secondary_id>
+    <nct_id>NCT00000517</nct_id>
+  </id_info>
+  <brief_title>Boston Area Anticoagulation Trial for Atrial Fibrillation (BAATAF)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the benefits and risks of oral anticoagulant therapy in reducing embolic stroke
+      and systemic emboli in patients with atrial fibrillation without rheumatic heart disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The efficacy of oral anticoagulation therapy in reducing the risk of embolic stroke in
+      patients with atrial fibrillation and rheumatic heart disease was well known. The value of
+      anticoagulant therapy in patients with atrial fibrillation without rheumatic heart disease
+      had not been established. Several studies strongly suggested that although the risk of
+      stroke in patients with atrial fibrillation was greatest in the presence of valvular
+      disease, the risk of stroke in the absence of valvular disease was also much greater in
+      patients with atrial fibrillation than those without this arrhythmia. What was lacking was a
+      detailed controlled study assessing the degree of reduction in stroke risk by
+      anticoagulation of fibrillating patients without valvular disease.
+
+      The second question asked was whether the added potential morbidity or mortality associated
+      with long-term anticoagulation therapy justified its use in the prophylactic treatment of
+      neurologically asymptomatic patients with atrial fibrillation, even if it did reduce stroke
+      risk. Gastrointestinal, urinary tract, cutaneous and joint hemorrhages were all potential
+      serious complications, as was cerebral hemorrhage, including bleeding into areas of recent
+      cerebral infarction. Interest had again focused on hemorrhagic complications of stroke in
+      anticoagulated patients and among risk factors for hemorrhage were large, recent infarcts.
+      No one suggested that anticoagulation, even if very successful in reducing stroke risk,
+      would eliminate it altogether, and thus hemorrhagic infarction was an important potential
+      problem, as was assessment of risk of primary intracerebral hemorrhage.
+
+      DESIGN NARRATIVE:
+
+      Randomized non-blind. Recruitment began in September 1985 and ended in June 1989. The
+      experimental group of 212 patients received long-term, low-dose warfarin. The control group
+      of 208 patients did not receive warfarin but could choose to take aspirin. Average follow-up
+      was 2.2 years. The primary endpoint was non-hemorrhage stroke. At entry and annually, the
+      history was recorded and patients underwent a physical examination focusing on neurologic
+      factors. Every year, beginning at six months, patients were sent a questionnaire on
+      neurologic symptoms, bleeding episodes, and other medical conditions. Study nurses contacted
+      all patients to review their responses. Each patient's referring physician was contacted at
+      three months and nine months during each year of follow-up.
+
+      Participating institutions in the multicenter trial were organized into three groups. At
+      Group I institutions, on-site investigators performed all clinical evaluations. In Group II,
+      personnel from the central site hospital, the Massachusetts General Hospital, traveled to
+      the local hospitals to evaluate, randomize, and follow patients. Group III institutions
+      referred patients directly to the Massachusetts General Hospital for all procedures.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1985</start_date>
+  <completion_date type="Actual">June 1991</completion_date>
+  <primary_completion_date type="Actual">June 1991</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Arrhythmia</condition>
+  <condition>Atrial Fibrillation</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Cerebral Embolism and Thrombosis</condition>
+  <condition>Cerebrovascular Disorders</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Thrombophlebitis</condition>
+  <condition>Cerebrovascular Accident</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>warfarin</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, 18 years of age or older, with non-rheumatic atrial fibrillation.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>The effect of low-dose warfarin on the risk of stroke in patients with nonrheumatic atrial fibrillation. The Boston Area Anticoagulation Trial for Atrial Fibrillation Investigators. N Engl J Med. 1990 Nov 29;323(22):1505-11.</citation>
+    <PMID>2233931</PMID>
+  </reference>
+  <reference>
+    <citation>Lancaster TR, Singer DE, Sheehan MA, Oertel LB, Maraventano SW, Hughes RA, Kistler JP. The impact of long-term warfarin therapy on quality of life. Evidence from a randomized trial. Boston Area Anticoagulation Trial for Atrial Fibrillation Investigators. Arch Intern Med. 1991 Oct;151(10):1944-9. Erratum in: Arch Intern Med 1992 Apr;152(4):825.</citation>
+    <PMID>1929681</PMID>
+  </reference>
+  <reference>
+    <citation>Singer DE, Hughes RA, Gress DR, Sheehan MA, Oertel LB, Maraventano SW, Blewett DR, Rosner B, Kistler JP. The effect of aspirin on the risk of stroke in patients with nonrheumatic atrial fibrillation: The BAATAF Study. Am Heart J. 1992 Dec;124(6):1567-73.</citation>
+    <PMID>1462916</PMID>
+  </reference>
+  <reference>
+    <citation>Kistler JP, Singer DE, Millenson MM, Bauer KA, Gress DR, Barzegar S, Hughes RA, Sheehan MA, Maraventano SW, Oertel LB, et al. Effect of low-intensity warfarin anticoagulation on level of activity of the hemostatic system in patients with atrial fibrillation. BAATAF Investigators. Stroke. 1993 Sep;24(9):1360-5.</citation>
+    <PMID>8362431</PMID>
+  </reference>
+  <verification_date>April 2014</verification_date>
+  <lastchanged_date>April 9, 2014</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>J. Philip Kistler</investigator_full_name>
+    <investigator_title>Physician</investigator_title>
+  </responsible_party>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Atrial Fibrillation</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Cerebral Infarction</mesh_term>
+    <mesh_term>Cerebrovascular Disorders</mesh_term>
+    <mesh_term>Embolism and Thrombosis</mesh_term>
+    <mesh_term>Intracranial Embolism and Thrombosis</mesh_term>
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Thrombophlebitis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204448">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000529</url>
+  </required_header>
+  <id_info>
+    <org_study_id>72</org_study_id>
+    <nct_id>NCT00000529</nct_id>
+  </id_info>
+  <brief_title>Tamoxifen Study</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the impact of tamoxifen on development of breast cancer, coronary heart disease,
+      and bone fractures. The National Cancer Institute initiated the prevention trial under its
+      National Surgical Adjuvant Breast and Bowel Project (NSABP). The National Heart, Lung, and
+      Blood Institute provided support to obtain blood pressure and lipid measurements, and
+      lipoprotein and selected coagulation factor measurements in a subsample.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Tamoxifen is nominally called an 'anti-estrogen' although it has some estrogen-agonist
+      activities and tends to increase plasma endogenous estrogen levels. Several studies have
+      confirmed that it decreases plasma total cholesterol and LDL-cholesterol and a review of
+      mortality in patients taking tamoxifen as adjuvant therapy for breast cancer indicates a
+      decreased number of vascular deaths in women on tamoxifen compared to those not on this
+      agent.
+
+      DESIGN NARRATIVE:
+
+      Subjects were randomized to receive 10 mg of tamoxifen two times a day or to placebo. The
+      primary endpoint was prevention of invasive breast cancer. The secondary endpoint was the
+      effects on fatal and nonfatal cardiovascular events (coronary heart disease, stroke, and
+      thromboembolic disease) and fractures. A total of 13,388 women at increased risk for breast
+      cancer were randomly assigned to receive either tamoxifen (20 milligrams per day) or
+      placebo. Cardiovascular follow-up was available for 13,194 women. The median follow-up was
+      57 months; the mean follow-up was 49 months. During long-term follow-up, 76 percent of the
+      tamoxifen participants were compliant with the study therapy; 83 percent were compliant
+      through 24 months of follow-up. To evaluate the effects of tamoxifen in women with and
+      without pre-existing heart disease, the 13,388 women enrolled at the 131 clinical sites were
+      divided into subgroups of those with and without a self-reported history of clinical
+      coronary heart disease, defined as myocardial infarction or angina prior to randomization.
+      Medical records for subjects with suspected cardiovascular events were collected by the
+      clinical sites and forwarded to the NSABP Operations Center for adjudication by
+      investigators who were blinded to treatment assignment. Primary cardiovascular events
+      included fatal myocardial infarction, Q-wave myocardial infarction, and non-Q-wave
+      myocardial infarction. Secondary cardiovascular events included unstable angina (angina
+      requiring hospitalization) and severe angina (angina requiring revascularization). All
+      subjects were included in the analysis using the intent-to-treat principle.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1992</start_date>
+  <completion_date>November 1995</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>tamoxifen</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Women over the age of 35 with a 5-year predicted breast cancer risk of at least 1.66
+        percent or a history of lobular breast carcinoma in situ, life expectancy of 10 years or
+        more, breast examination and mammogram without evidence of cancer, no hormonal therapy
+        within three months prior to randomization, and no history of deep venous thrombosis or
+        pulmonary embolism. .
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Reis SE, Costantino JP, Wickerham DL, Tan-Chiu E, Wang J, Kavanah M. Cardiovascular effects of tamoxifen in women with and without heart disease: breast cancer prevention trial. National Surgical Adjuvant Breast and Bowel Project Breast Cancer Prevention Trial Investigators. J Natl Cancer Inst. 2001 Jan 3;93(1):16-21.</citation>
+    <PMID>11136837</PMID>
+  </reference>
+  <reference>
+    <citation>Cushman M, Costantino JP, Tracy RP, Song K, Buckley L, Roberts JD, Krag DN. Tamoxifen and cardiac risk factors in healthy women: Suggestion of an anti-inflammatory effect. Arterioscler Thromb Vasc Biol. 2001 Feb;21(2):255-61.</citation>
+    <PMID>11156862</PMID>
+  </reference>
+  <verification_date>August 2001</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Tamoxifen</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

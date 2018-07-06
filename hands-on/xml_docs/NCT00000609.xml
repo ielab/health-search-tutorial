@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204368">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000609</url>
+  </required_header>
+  <id_info>
+    <org_study_id>112</org_study_id>
+    <nct_id>NCT00000609</nct_id>
+  </id_info>
+  <brief_title>Sudden Cardiac Death in Heart Failure Trial (SCD-HeFT)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare conventional treatment of congestive heart failure (CHF) with two experimental
+      interventions: amiodarone and an implantable cardioverter-defibrillator (ICD).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Congestive heart failure is a major cause of mortality and morbidity, and sudden arrhythmic
+      death is the cause of death in from 30 to 50 percent of those who die. The study addresses
+      the problem and tests two interventions that have promise of benefit. To date, many of the
+      therapies that have been tested for congestive heart failure have either been ineffective or
+      actually decreased survival. Conventional therapy is still relatively ineffective in that
+      recent studies such as the Congestive Heart Failure - Survival Trial of Antiarrhythmic
+      Therapy (CHF-STAT) have demonstrated a mortality of 40 percent during two-and-half years of
+      follow-up. The implantable cardioverter-defibrillator appears to be effective in patients
+      who are resuscitated from cardiac arrest, but until recently, the devices required a
+      thoracotomy and had to be reserved for patients with the highest risk for sudden death. The
+      newer transvenous devices with pectoral patches can now be considered for broader
+      applications. Although there have been mixed results with amiodarone in patients with
+      congestive heart failure, there is a general consensus that it could be effective in the
+      proper subset of patients with congestive heart failure. A comparison of the optimal device
+      and drug is appropriate for such a high risk population.
+
+      DESIGN NARRATIVE:
+
+      Three-armed, randomized, multicenter trial conducted at over 125 North American, Australian
+      and New Zealand sites. Patients were enrolled over 2.5 years after being randomly assigned
+      to amiodarone, matched placebo or an implantable cardiac defibrillator (ICD). Median
+      follow-up was 45.5 months. All three arms used conventional therapy for heart failure and
+      coronary artery disease (ACE inhibitors, lipid lowering and beta-blockers). The central
+      hypothesis was that amiodarone or the ICD would improve survival compared to placebo. The
+      primary outcome was the prevention of all-cause mortality. Secondary outcome measures
+      included cardiac mortality and arrhythmic mortality, morbidity, quality of life, and
+      incremental cost-effectiveness of the interventions. .
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1997</start_date>
+  <completion_date>April 2005</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Arrhythmia</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Death, Sudden, Cardiac</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Heart Failure, Congestive</condition>
+  <condition>Heart Failure</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>amiodarone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>defibrillators, implantable</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Patients with New York Heart Association class II or class III heart failure and ejection
+        fraction less than or equal to 35%.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kerry Lee</last_name>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Bardy GH, Lee KL, Mark DB, Poole JE, Packer DL, Boineau R, Domanski M, Troutman C, Anderson J, Johnson G, McNulty SE, Clapp-Channing N, Davidson-Ray LD, Fraulo ES, Fishbein DP, Luceri RM, Ip JH; Sudden Cardiac Death in Heart Failure Trial (SCD-HeFT) Investigators. Amiodarone or an implantable cardioverter-defibrillator for congestive heart failure. N Engl J Med. 2005 Jan 20;352(3):225-37. Erratum in: N Engl J Med. 2005 May 19;352(20):2146.</citation>
+    <PMID>15659722</PMID>
+  </reference>
+  <reference>
+    <citation>Kadish A. Prophylactic defibrillator implantation--toward an evidence-based approach. N Engl J Med. 2005 Jan 20;352(3):285-7.</citation>
+    <PMID>15659729</PMID>
+  </reference>
+  <verification_date>November 2005</verification_date>
+  <lastchanged_date>November 10, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Death, Sudden</mesh_term>
+    <mesh_term>Death, Sudden, Cardiac</mesh_term>
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

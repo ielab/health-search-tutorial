@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204604">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000372</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01MH057708-02</org_study_id>
+    <secondary_id>DSIR</secondary_id>
+    <nct_id>NCT00000372</nct_id>
+  </id_info>
+  <brief_title>Glycine and D-Cycloserine in Schizophrenia</brief_title>
+  <official_title>A Placebo Controlled Trial of Glycine Added to Clozapine in Schizophrenia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the effects of D-cycloserine and glycine for
+      treating negative symptoms (such as loss of interest, loss of energy, loss of warmth, and
+      loss of humor) which occur between phases of positive symptoms (marked by hallucinations,
+      delusions, and thought confusions) in schizophrenics.
+
+      Clozapine is currently the most effective treatment for negative symptoms of schizophrenia.
+      Two other drugs, D-cycloserine and glycine, are being investigated as new treatments.
+      D-cycloserine improves negative symptoms when added to some drugs, but may worsen these
+      symptoms when given with clozapine. Glycine also improves negative symptoms and may still be
+      able to improve these symptoms when given with clozapine. This study gives either
+      D-cycloserine or glycine (or an inactive placebo) with clozapine to determine which is the
+      best combination.
+
+      Patients will be assigned to 1 of 3 groups. Group 1 will receive D-cycloserine plus
+      clozapine. Group 2 will receive glycine plus clozapine. Group 3 will receive an inactive
+      placebo plus clozapine. Patients will receive these medications for 8 weeks. Negative
+      symptoms of schizophrenia will be monitored through the Scale for the Assessment of Negative
+      Symptoms, Positive symptoms will be monitored through the Positive and Negative Syndrome
+      Scale, and additionally subjects will complete the Brief Psychiatric Rating Scale and the
+      Global Assessment Scale.
+
+      An individual may be eligible for this study if he/she is 18 to 65 years old and has been
+      diagnosed with schizophrenia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To determine if glycine produces improvement in negative symptoms and D-cycloserine produces
+      worsening in symptoms compared to placebo, patients will undergo a double blind study of
+      d-cycloserine and glycine treatment added to clozapine.
+
+      Clozapine is more effective for negative symptoms of schizophrenia than conventional
+      neuroleptics, but the neurochemical actions contributing to this superior clinical efficacy
+      remain unclear. Recent evidence points to a role for glutamatergic dysregulation in
+      schizophrenia, as well as important differences between conventional agents and clozapine in
+      effects upon glutamatergic systems. D-cycloserine, a partial agonist at the glycine
+      modulatory site of the N-methyl-D-aspartate (NMDA) receptor, improves negative symptoms when
+      added to conventional agents and worsens negative symptoms when added to clozapine.
+      High-dose glycine also improves negative symptoms and has provided preliminary evidence
+      suggesting that glycine improves negative symptoms when added to clozapine. Serum
+      concentrations of glycine predicted response to both high-dose glycine and D-cycloserine.
+      Both clozapine and D-cycloserine may improve negative symptoms by activation of the glycine
+      modulatory site of the NMDA receptor complex. Because D-cycloserine is a partial agonist, it
+      may act as an antagonist at the glycine site in the presence of clozapine, whereas the full
+      agonist, glycine, would not be expected to worsen negative symptoms in the presence of
+      clozapine.
+
+      This study proposes to administer a fixed-dose of D-cycloserine, glycine, or placebo added
+      to clozapine in 45 patients with schizophrenia. Because assessments are standardized between
+      studies, results from this study can be compared with results from a previous study of
+      D-cycloserine added to conventional neuroleptic.
+
+      The study was ultimately suspended before participants were enrolled, due to definitive
+      findings indicating that pairing treatment of D-cycloserine with Clozapine resulted in
+      worsening of negative symptoms.
+    </textblock>
+  </detailed_description>
+  <overall_status>Withdrawn</overall_status>
+  <why_stopped>
+    Pairing D-Cycloserine with Clozapine was found to worsen negative side effects in patients
+    with Schizophrenia, so the study was suspended.
+  </why_stopped>
+  <start_date>March 1998</start_date>
+  <completion_date type="Actual">November 2005</completion_date>
+  <primary_completion_date type="Actual">November 2005</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Change in SANS Total Score from Baseline to Week 8</measure>
+    <time_frame>Baseline, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Positive and Negative Syndrome Score from Baseline to Week 8</measure>
+    <time_frame>Baseline, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in Brief Psychotic Rating Scale from Baseline to Week 8</measure>
+    <time_frame>Baseline, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Global Assessment Scale from Baseline to Week 8</measure>
+    <time_frame>Baseline, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">0</enrollment>
+  <condition>Schizophrenia</condition>
+  <arm_group>
+    <arm_group_label>Glycine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The patients will undergo a 2 week single blind placebo lead in followed by an 8 week randomly assigned double blind treatment phase with 30 grams of glycine in 7 ounces of lemonade twice a day in addition to clozapine treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The patients will undergo a 2 week single blind placebo lead in followed by an 8 week randomly assigned double blind treatment phase with 30 grams of placebo powder in 7 ounces of lemonade twice a day in addition to clozapine treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>D-Cycloserine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The patients will undergo a 2 week single blind placebo lead in followed by an 8 week randomly assigned double blind treatment phase with D-cycloserine in addition to clozapine treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>D-cycloserine</intervention_name>
+    <arm_group_label>D-Cycloserine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Glycine</intervention_name>
+    <arm_group_label>Glycine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clozapine</intervention_name>
+    <arm_group_label>Glycine</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>D-Cycloserine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of Schizophrenia
+
+          -  Score of 27 or greater on the Scale for the Assessment of Negative Symptoms (SANS)
+
+          -  Treatment with stable dose of clozapine for at least 4 weeks
+
+          -  Between 18 and 65 years old
+
+        Exclusion Criteria:
+
+          -  No other antipsychotic medications in oral for for at least 3 months or in depot form
+             for 6 months
+
+          -  Current major depressive episode
+
+          -  Current substance abuse diagnosis
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Donald Goff, MD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Freedom Trail Clinic</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2014</verification_date>
+  <lastchanged_date>June 11, 2014</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Donald C. Goff, MD</investigator_full_name>
+    <investigator_title>Director of the Schizophrenia Clinical and Research Program</investigator_title>
+  </responsible_party>
+  <keyword>Adult</keyword>
+  <keyword>Amino Acids</keyword>
+  <keyword>Cycloserine</keyword>
+  <keyword>Female</keyword>
+  <keyword>Glycine</keyword>
+  <keyword>Human</keyword>
+  <keyword>Male</keyword>
+  <keyword>N-Methylaspartate</keyword>
+  <keyword>Placebos</keyword>
+  <keyword>Schizophrenia</keyword>
+  <keyword>Amino Acids -- blood</keyword>
+  <keyword>Cycloserine -- *therapeutic use</keyword>
+  <keyword>Glycine -- *therapeutic use</keyword>
+  <keyword>Schizophrenia -- *drug therapy</keyword>
+  <keyword>Schizophrenia -- physiopathology</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Schizophrenia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Clozapine</mesh_term>
+    <mesh_term>Cycloserine</mesh_term>
+    <mesh_term>Glycine</mesh_term>
+    <mesh_term>Therapeutic Uses</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

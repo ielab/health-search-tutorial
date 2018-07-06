@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204727">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000243</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-08045-1</org_study_id>
+    <secondary_id>R01-08045-1</secondary_id>
+    <secondary_id>DPMC</secondary_id>
+    <nct_id>NCT00000243</nct_id>
+  </id_info>
+  <brief_title>Effects of Buprenorphine/Naloxone in Treating Opioid Dependent Individuals Who Are Maintained on Methadone</brief_title>
+  <official_title>Transitioning Patients From Methadone to Buprenorphine/Naloxone for Treating Opioid Dependence</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Buprenorphine is a drug that may be helpful in treating opioid dependent individuals who
+      were previously maintained on methadone. The purpose of this study is to determine the
+      effects of different doses of buprenorphine/naloxone in treating opioid dependent
+      individuals who were previously maintained on methadone.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Buprenorphine is a mixed agonist-antagonist opioid that is being developed as a treatment
+      for opioid dependence. Because buprenorphine is a partial mu agonist opioid, under certain
+      conditions it is possible for buprenorphine to precipitate opioid withdrawal in opioid
+      dependent individuals. A person with a high level of physical dependence could experience
+      buprenorphine-related precipitated withdrawal. The purpose of this study is to test the
+      acute effects of different doses of buprenorphine/naloxone in opioid dependent individuals
+      maintained on methadone. The study is designed to provide dosing schedules similar to those
+      that might be initially used in a physician's office.
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <start_date>September 2002</start_date>
+  <completion_date>January 2004</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Pharmacodynamics Study, Intervention Model: Parallel Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Physiological effects</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Analog rating scale for drug effects</measure>
+  </primary_outcome>
+  <enrollment>16</enrollment>
+  <condition>Opioid-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Buprenorphine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets criteria for opioid dependence
+
+        Exclusion Criteria:
+
+          -  Significant medical or psychiatric illness
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric C. Strain, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins University (BPRU) Bayview Campus</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224 6823</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2007</verification_date>
+  <lastchanged_date>March 15, 2007</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Buprenorphine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

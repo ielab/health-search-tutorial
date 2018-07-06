@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204703">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000268</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09236-3</org_study_id>
+    <secondary_id>P50-09236-3</secondary_id>
+    <nct_id>NCT00000268</nct_id>
+  </id_info>
+  <brief_title>Cocaine Abuse and Attention Deficit Disorder - 3</brief_title>
+  <official_title>Cocaine Abuse and Attention Deficit Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>New York State Psychiatric Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate cocaine abuse and Attention Deficit Disorder
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To evaluate the safety and efficacy of methylphenidate and bupropion in treating individuals
+      with adult Attention Deficit Disorder.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1995</start_date>
+  <completion_date>November 1998</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Single Group Assignment, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Side effects</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Craving</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Drug use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>ADHD symptoms</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improvement in functioning</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability</measure>
+  </primary_outcome>
+  <enrollment>32</enrollment>
+  <condition>Cocaine-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bupropion</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        current adult ADHD current cocaine dependence
+
+        Exclusion Criteria:
+
+        no current major depression
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Herbert Kleber, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>New York State Psychiatric Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>New York State Psychiatric Institute</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 1995</verification_date>
+  <lastchanged_date>November 3, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Attention Deficit Disorder with Hyperactivity</mesh_term>
+    <mesh_term>Cocaine-Related Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204527">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000449</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAAMON7850</org_study_id>
+    <nct_id>NCT00000449</nct_id>
+  </id_info>
+  <brief_title>Behavior and Naltrexone Treatment for Alcoholics</brief_title>
+  <official_title>Coping, Exposure, and Naltrexone Treatment With Alcoholics</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study's purpose is to improve alcoholism treatment by investigating the combined
+      effectiveness of a psychotherapy (Coping Skills Training and Cue Exposure Treatment -
+      CSTCET) with naltrexone in a randomized clinical trial. Individuals will receive 2 weeks of
+      CSTCET or a control treatment as inpatients followed by 12 consecutive weeks of receiving
+      either naltrexone or placebo as outpatients. Followups at 24, 48, and 72 weeks after
+      treatment is completed.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <completion_date>March 2000</completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Factorial Assignment, Primary Purpose: Treatment</study_design>
+  <enrollment>160</enrollment>
+  <condition>Alcoholism</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>naltrexone (Revia)</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>cognitive behavioral therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>cue exposure treatment</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets criteria for alcohol dependence.
+
+        Exclusion Criteria:
+
+          -  Current diagnosis of dependence on other substances except nicotine.
+
+          -  A history of psychosis or current psychotic symptoms.
+
+          -  Current suicidality, homocidality, or psychiatric symptoms that require additional
+             medication.
+
+          -  Current use of disulfiram (Antabuse).
+
+          -  Evidence of significant cerebral, renal, thyroid, or cardiac disease.
+
+          -  History of opioid abuse in the previous year.
+
+          -  History of cirrhosis, hepatocellular disease, or elevated bilirubin.
+
+          -  Females who are pregnant, nursing, or not using a reliable method of birth control.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Brown University, Center for Alcohol and Addiction Studies</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2002</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Naltrexone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

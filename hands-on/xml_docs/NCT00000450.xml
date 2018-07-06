@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204526">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000450</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAAMAS10518</org_study_id>
+    <secondary_id>R01AA010518</secondary_id>
+    <nct_id>NCT00000450</nct_id>
+  </id_info>
+  <brief_title>Naltrexone Maintenance Treatment of Alcoholism</brief_title>
+  <official_title>Nalmefene Maintenance Treatment of Alcoholism</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Scripps Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Scripps Research Institute</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the long-term effectiveness of naltrexone
+      treatment in alcohol-dependent patients who respond to short-term treatment. Those who
+      respond to short-term treatment will be randomized to a 1-year, double-blind,
+      placebo-controlled maintenance phase with a 6-month posttreatment followup.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <completion_date>April 2002</completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>184</enrollment>
+  <condition>Alcoholism</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>naltrexone (Revia)</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets criteria for alcohol dependence.
+
+          -  Expresses a desire to cut down or stop drinking.
+
+        Exclusion Criteria:
+
+          -  Currently meets criteria for dependence on substances other than alcohol.
+
+          -  History of opiate dependence or evidence of current opiate use.
+
+          -  Significant medical disorders that will increase potential risk or interfere with
+             study participation.
+
+          -  Liver function tests more than 3 times normal or elevated bilirubin.
+
+          -  Female patients who are pregnant, nursing, or not using a reliable method of birth
+             control.
+
+          -  Inability to understand and provide a consent form.
+
+          -  Treatment with an investigational drug during the previous month.
+
+          -  Prior treatment with naltrexone.
+
+          -  Chronic treatment with any narcotic-containing medications during the previous month.
+
+          -  Sensitivity to naltrexone as evidenced by adverse drug experiences especially with
+             narcotic containing analgesics or opioid antagonists.
+
+          -  Current treatment with disulfiram.
+
+          -  More than 6 weeks of abstinence.
+
+          -  Meets criteria for a major psychiatric disorder and is in need of, or currently
+             undergoing pharmacotherapy.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Department of Psychiatry, University of Miami School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2010</verification_date>
+  <lastchanged_date>July 21, 2010</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Alcoholism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Naltrexone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

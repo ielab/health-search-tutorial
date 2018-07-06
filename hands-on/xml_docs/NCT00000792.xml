@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204188">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000792</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 258</org_study_id>
+    <secondary_id>11235</secondary_id>
+    <nct_id>NCT00000792</nct_id>
+  </id_info>
+  <brief_title>A Pharmacologically Guided Phase I/II Study of Daily Orally Administered Synthetic Hypericin in HIV-Infected Subjects</brief_title>
+  <official_title>A Pharmacologically Guided Phase I/II Study of Daily Orally Administered Synthetic Hypericin in HIV-Infected Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>VIMRx Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>Unspecified</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the safety and tolerance of daily oral hypericin when given to achieve target
+      trough levels within defined cohorts. To determine the responses of surrogate markers of HIV
+      infection to daily oral hypericin.
+
+      It is not known whether daily oral dosing will produce a tolerable prolonged exposure to
+      therapeutic levels of hypericin. Pharmacokinetic modeling studies have demonstrated that
+      daily oral dosing should produce a trough level in a desired range without excessive peak
+      levels.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It is not known whether daily oral dosing will produce a tolerable prolonged exposure to
+      therapeutic levels of hypericin. Pharmacokinetic modeling studies have demonstrated that
+      daily oral dosing should produce a trough level in a desired range without excessive peak
+      levels.
+
+      Cohorts of six patients each receive escalating doses of oral hypericin daily. Blood is
+      sampled for peak and trough levels the second week of therapy. A computer modeling algorithm
+      will use these levels to determine the appropriate dose needed for each patient to achieve
+      the desired trough level. When three of six patients at a given dose have completed 3 weeks
+      of therapy without evidence of dose-limiting toxicity, data will be reviewed to determine
+      whether subsequent patients should be entered at the next higher dose. The MTD is defined as
+      the dose level immediately below that at which grade 3 or worse toxicity is seen in three or
+      more of six patients.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">January 1995</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Pharmacokinetics Study, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <enrollment>24</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hypericin</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Required:
+
+          -  PCP prophylaxis.
+
+        Allowed:
+
+          -  Rifabutin, ketoconazole, fluconazole, and acyclovir, provided the medication has been
+             taken for at least 4 weeks prior to study entry without toxicity.
+
+          -  Topical medications such as clotrimazole troches or nystatin suspension.
+
+        Patients must have:
+
+          -  Documented HIV infection.
+
+          -  CD4 count &lt;= 350 cells/mm3.
+
+          -  p24 antigen positive at &gt;= 35 pcg/ml.
+
+          -  No active opportunistic infection at study entry that would require curative or
+             suppressive therapy.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Malignancy for which systemic chemotherapy is required.
+
+          -  Medically significant liver disease, orthostatic hypotension, hypertension, cardiac
+             disease, seizure disorders, or lymphoma.
+
+          -  Any medical condition that would interfere with evaluation of the patient.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  AZT, ddI, ddC, d4T, or any other antiretroviral medication.
+
+          -  Interferon or other immunomodulating drugs.
+
+          -  Cytotoxic chemotherapy.
+
+          -  Foscarnet.
+
+          -  Ganciclovir.
+
+          -  Antimycobacterial drugs other than rifabutin.
+
+          -  MAO inhibitors.
+
+          -  Hypertension-inducing, nephrotoxic, or hepatotoxic drugs.
+
+          -  Opiates.
+
+          -  Drugs known to cause photosensitivity.
+
+        Prior Medication:
+
+        Excluded within 1 month prior to study entry:
+
+          -  AZT, ddI, ddC, d4T, or any other antiretroviral medication.
+
+          -  Interferon or other immunomodulating drugs.
+
+          -  Cytotoxic chemotherapy.
+
+          -  Preparations known to contain hypericin.
+
+        Excluded within 3 months prior to study entry:
+
+          -  Ribavirin.
+
+          -  Hyperforate (500 mg tablets or ampules for IV injection) manufactured by Kline.
+
+          -  Psychotonin M Alcohol Extract manufactured by Steigerwald.
+
+          -  Hypericin (40 mg vial) by VIMRx.
+
+        Excluded within 14 days prior to study entry:
+
+          -  Foscarnet.
+
+          -  Ganciclovir.
+
+          -  Antimycobacterial drugs other than rifabutin.
+
+          -  MAO inhibitors.
+
+          -  Hypertension-inducing, nephrotoxic, or hepatotoxic drugs.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Valentine FT</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Crumpacker C</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins Adult AIDS CRS</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess - East Campus A0102 CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NY Univ. HIV/AIDS CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Furner V, Bek M, Gold J. A Phase I/II unblinded dose ranging study of hypericin in HIV-positive subjects. Int Conf AIDS. 1991 Jun 16-21;7(2):199 (abstract no WB2071)</citation>
+  </reference>
+  <reference>
+    <citation>Gulick RM, McAuliffe V, Holden-Wiltse J, Crumpacker C, Liebes L, Stein DS, Meehan P, Hussey S, Forcht J, Valentine FT. Phase I studies of hypericin, the active compound in St. John's Wort, as an antiretroviral agent in HIV-infected adults. AIDS Clinical Trials Group Protocols 150 and 258. Ann Intern Med. 1999 Mar 16;130(6):510-4.</citation>
+    <PMID>10075619</PMID>
+  </reference>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 29, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Administration, Oral</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Antiviral Agents</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hypericin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

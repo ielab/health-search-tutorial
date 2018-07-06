@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204606">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000370</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R29MH057326</org_study_id>
+    <secondary_id>R29MH057326</secondary_id>
+    <secondary_id>DSIR AT-AS</secondary_id>
+    <nct_id>NCT00000370</nct_id>
+  </id_info>
+  <brief_title>Treatment of Social Phobia</brief_title>
+  <official_title>Treatment of Social Phobia: Mediators And Moderators</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Boston University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Social phobia is a very common and debilitating disorder, with public speaking anxiety being
+      the most common fear. Psychologists have found that treating patients for their fear of
+      public speaking, through cognitive-behavioral treatment (talk-based therapy) or exposure
+      treatment (where participants participate in actual public speaking sessions), not only
+      helps patients overcome this fear but also helps them overcome their more general social
+      fears. However, little is known about how this change occurs during therapy. This study
+      tries to identify the factors that contribute most to successful therapy.
+
+      Patients are assigned randomly (like tossing a coin) to 1 of 3 groups. Group 1 will receive
+      cognitive-behavioral treatment and Group 2 will receive exposure treatment. Group 3 will not
+      receive treatment. Study leaders will monitor patient response to treatment through
+      behavioral tests and assessments.
+
+      An individual may be eligible for this study if he/she:
+
+      Has social phobia with public speaking anxiety.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary goal of the present study is to identify the mediators and moderators of change
+      in the treatment of social phobia and, in so doing suggest a common mechanism of action for
+      all brief psychosocial interventions. Perceived self-efficacy of social behavior, negative
+      cognitive appraisal (estimated social costs), and perceived emotional control will be
+      considered as potential mediators; avoidant personality disorder and the generalized subtype
+      of social phobia will be considered as potential predictors for poor treatment outcome.
+
+      Social phobia is a very prevalent and debilitating disorder, with public speaking anxiety
+      being the most common fear among socially phobic individuals. Although there are a number of
+      effective psychosocial treatments for social phobia (e.g., cognitive-behavioral treatments
+      and exposure therapy) very little is known about the underlying mechanism of therapeutic
+      change (i.e., the mediators of change), and the variables that are predictive of treatment
+      outcome (i.e., the moderators of change). Furthermore, it is unclear why treating
+      individuals for their public speaking anxiety can generalize to other untreated social
+      fears.
+
+      Patients are randomly assigned to either a comprehensive cognitive-behavioral treatment for
+      social phobia (n=43), a performance-based exposure treatment for public speaking anxiety
+      without cognitive intervention (n=43), or a waitlist control group (n=43). Clinician
+      ratings, behavioral tests, cognitive assessments, subjective ratings, and physiological
+      measures are employed to determine the degree of therapeutic gains in various social phobia
+      domains. The main hypothesis is that perceived emotional control will mediate treatment
+      outcome and generality of effectiveness independent of the specific treatment condition.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1998</start_date>
+  <completion_date>February 2003</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Primary Purpose: Treatment</study_design>
+  <condition>Phobic Disorders</condition>
+  <condition>Social Phobia</condition>
+  <condition>Public Speaking Anxiety</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive behavior therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Performance-based exposure therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Psychosocial intervention</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients must have:
+
+        Social phobia with public speaking anxiety.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stefan Hofmann, PhD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Center for Anxiety and Related Disorders at Boston University</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>August 5, 2013</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Cognitive Therapy</keyword>
+  <keyword>Cost of Illness</keyword>
+  <keyword>Female</keyword>
+  <keyword>Human</keyword>
+  <keyword>Male</keyword>
+  <keyword>Phobic Disorders</keyword>
+  <keyword>Phobic Disorders -- *therapy</keyword>
+  <keyword>Phobic Disorders -- pathology</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Phobic Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

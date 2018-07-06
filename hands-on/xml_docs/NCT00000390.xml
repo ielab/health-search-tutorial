@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204586">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000390</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01MH042952</org_study_id>
+    <secondary_id>87-DEP</secondary_id>
+    <nct_id>NCT00000390</nct_id>
+  </id_info>
+  <brief_title>Antidepressant Treatment of AIDS Related Depression.</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GEIGY Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Mental Health (NIMH)</source>
+  <oversight_info>
+    <authority>Unspecified</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To test the effectiveness treating AIDS related depression with imipramine hydrochloride.
+
+      Depression syndromes are commonly associated with chronic, disabling, and fatal diseases.
+      Due to the relentless course of HIV infection, there is a certain reluctance to treat the
+      associated depression. In other illness, it has been proven that treating the depression
+      often results in improvement of overall health status.
+
+      This is a placebo controlled trial. Half of the patients are given imipramine hydrochloride
+      every day for 6 weeks. Assessment is done by self reports and the Hamilton Depression Rating
+      Scale. Prior to entry all patients are given a psychiatric evaluation. There is a cross over
+      phase in which placebo non responders are entered into an open-label study and given
+      imipramine hydrochloride.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To test the effectiveness treating AIDS related depression with imipramine hydrochloride.
+
+      Depression syndromes are commonly associated with chronic, disabling, and fatal diseases.
+      Due to the relentless course of HIV infection, there is a certain reluctance to treat the
+      associated depression. In other illness, it has been proven that treating the depression
+      often results in improvement of overall health status.
+
+      This is a placebo controlled trial. Half of the patients are given imipramine hydrochloride
+      every day for 6 weeks. Assessment is done by self reports and the Hamilton Depression Rating
+      Scale. Prior to entry all patients are given a psychiatric evaluation. There is a cross over
+      phase in which placebo non responders are entered into an open-label study and given
+      imipramine hydrochloride.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Primary Purpose: Treatment</study_design>
+  <condition>Depression</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Imipramine hydrochloride</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient must be ambulatory and relatively good health. Even if unable to work at
+             least able to partially care care for self and not demented.
+
+          -  May have been alcoholic or drug abuser 6 months previous.
+
+          -  Unspecified
+
+          -  CD4 Unspecified.
+
+        Exclusion Criteria:
+
+          -  Non ambulatory patients or those requiring extensive help in self care are excluded.
+
+          -  Non ambulatory patients or those requiring extensive help in self care are excluded.
+
+          -  Current alcohol or drug abuse.
+
+          -  Unspecified
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Frances A</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Manning D</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>New York Hosp - Cornell Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2000</verification_date>
+  <lastchanged_date>April 22, 2015</lastchanged_date>
+  <firstreceived_date>January 17, 2000</firstreceived_date>
+  <keyword>Adult</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Female</keyword>
+  <keyword>Human</keyword>
+  <keyword>Imipramine</keyword>
+  <keyword>Male</keyword>
+  <keyword>Middle Age</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome -- *complications</keyword>
+  <keyword>Depression -- *drug therapy</keyword>
+  <keyword>Depression -- etiology</keyword>
+  <keyword>Imipramine -- *therapeutic use</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Imipramine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

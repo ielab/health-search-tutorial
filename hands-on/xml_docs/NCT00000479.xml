@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204498">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000479</url>
+  </required_header>
+  <id_info>
+    <org_study_id>69</org_study_id>
+    <secondary_id>R01HL043851</secondary_id>
+    <secondary_id>HL043851</secondary_id>
+    <secondary_id>CA047988</secondary_id>
+    <nct_id>NCT00000479</nct_id>
+  </id_info>
+  <brief_title>Women's Health Study (WHS): A Randomized Trial of Low-dose Aspirin and Vitamin E in the Primary Prevention of Cardiovascular Disease and Cancer</brief_title>
+  <acronym>WHS</acronym>
+  <official_title>Women's Health Study of Low-dose Aspirin and Vitamin E in Apparently Healthy Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the effects of low-dose aspirin and vitamin E in
+      primary prevention of cardiovascular disease and cancer in apparently healthy women.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Various doses of aspirin have been shown to be effective in preventing thrombosis or
+      vascular occlusion in several clinical conditions. Short-term studies have documented the
+      efficacy of aspirin in preventing occlusion of saphenous vein bypass grants, preventing
+      myocardial infarction in patients with unstable angina, preventing transient ischemic
+      attacks and stroke in men with cerebral vascular disease, preventing occlusion of injured
+      coronary arteries following transluminal angioplasty and aiding in reducing myocardial
+      infarction and total mortality in patients receiving fibrinolytic therapy. Additionally,
+      aspirin has been effective in the secondary prevention of myocardial infarction in subjects
+      with known coronary artery disease. The results of the Physicians' Health Study, a
+      large-scale primary prevention trial of aspirin in male physicians, have shown a decrease in
+      myocardial infarction, a non-significant increase in cerebral vascular events, and no
+      difference in overall mortality. However, few studies have addressed the efficacy of aspirin
+      in vascular diseases in women, and it is possible that the risk to benefit ratio may be
+      different in women. Specifically, there have been no large primary prevention trials in
+      women, who are at risk of coronary heart disease, especially after menopause.
+
+      DESIGN NARRATIVE:
+
+      The Women's Health Study (WHS) is a randomized, double-blind, placebo-controlled trial using
+      a 2x2 factorial design. The WHS is sponsored by both NHBLI (HL080467) and NCI (CA047988).
+      Approximately 1.75 million female health professionals were contacted by mail to determine
+      if they were suitable for inclusion in the study. A three-month run-in phase was performed
+      to screen out those with poor compliance. Randomization, which began in February 1993 and
+      ended in January 1996, was stratified on five-year age groups. A total of 39,876
+      participants were randomly assigned to either Vitamin E (600 IU every other day) or placebo;
+      and to aspirin (100 mg every other day) or placebo. IN the 2x2 factorial design, women were
+      randomly assigned to active aspirin and placebo vitamin E (n=9,968), placebo aspirin and
+      active vitamin E (n=9,971), active aspirin and active vitamin E (n=9,966), or placebo
+      aspirin and placebo vitamin E (n=9,971). A description of the characteristics of women in
+      these 4 groups is provided in J Women's Health Gend Based Med 2000;9:19-27. In the main
+      analyses, all women on active aspirin (n=19,934) were compared to women on placebo aspirin
+      (n=19,942); and all women on active vitamin E (n=19,937) were compared to women on placebo
+      aspirin (n=19,939).
+
+      As part of the initial trial, pre-randomization blood samples from 28,345 participants were
+      frozen and stored for genetic analysis which has been supported by non-federal sources.
+
+      The primary endpoint is the reduction of the risk of all important vascular events (a
+      combined endpoint of nonfatal myocardial infarction, nonfatal stroke, and total
+      cardiovascular death) and a decrease in the incidence of total malignant neoplasms of
+      epithelial cell origin. Secondary endpoints are the individual components of the combined
+      endpoints. Compliance is measured by replies to a questionnaire sent out every year. The
+      trial was completed in 2004 and results were published in 2005 (N Engl J Med
+      2005;352:1293-304; JAMA 2005;294:47-55; JAMA 2005;294:56-65).
+
+      Currently, women are being followed on an observational basis.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1992</start_date>
+  <completion_date type="Actual">February 2005</completion_date>
+  <primary_completion_date type="Actual">March 2004</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Factorial Assignment, Masking: Double Blind (Subject, Investigator, Outcomes Assessor), Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Number of Participants With Major Cardiovascular Events (a Combined Endpoint of Nonfatal Myocardial Infarction, Nonfatal Stroke, and Total Cardiovascular Death)</measure>
+    <time_frame>Average follow-up 10.1 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Cancer, Excluding Nonmelanoma Skin Cancer</measure>
+    <time_frame>Average follow-up 10.1 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">39876</enrollment>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Cerebrovascular Disorders</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <condition>Vascular Diseases</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Vitamin E (600 IU every other day) and aspirin (100 mg every other day)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Vitamin E (600 IU every other day) and placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Aspirin (100 mg every other day) and placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo and placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aspirin</intervention_name>
+    <description>Participants will receive 100 mg of aspirin every other day.</description>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_label>3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vitamin E</intervention_name>
+    <description>Participants will receive 600 IU of vitamin E every other day.</description>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants will receive placebo.</description>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_label>3</arm_group_label>
+    <arm_group_label>4</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Healthy women
+
+          -  No previous history of cardiovascular disease or cancer
+
+          -  No contraindications to aspirin or vitamin E
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julie Buring</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Ridker PM, Miletich JP, Hennekens CH, Buring JE. Ethnic distribution of factor V Leiden in 4047 men and women. Implications for venous thromboembolism screening. JAMA. 1997 Apr 23-30;277(16):1305-7.</citation>
+    <PMID>9109469</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Buring JE, Shih J, Matias M, Hennekens CH. Prospective study of C-reactive protein and the risk of future cardiovascular events among apparently healthy women. Circulation. 1998 Aug 25;98(8):731-3.</citation>
+    <PMID>9727541</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Hennekens CH, Rifai N, Buring JE, Manson JE. Hormone replacement therapy and increased plasma concentration of C-reactive protein. Circulation. 1999 Aug 17;100(7):713-6.</citation>
+    <PMID>10449692</PMID>
+  </reference>
+  <reference>
+    <citation>Lee IM, Cook NR, Manson JE, Buring JE, Hennekens CH. Beta-carotene supplementation and incidence of cancer and cardiovascular disease: the Women's Health Study. J Natl Cancer Inst. 1999 Dec 15;91(24):2102-6.</citation>
+    <PMID>10601381</PMID>
+  </reference>
+  <reference>
+    <citation>Rexrode KM, Lee IM, Cook NR, Hennekens CH, Buring JE. Baseline characteristics of participants in the Women's Health Study. J Womens Health Gend Based Med. 2000 Jan-Feb;9(1):19-27.</citation>
+    <PMID>10718501</PMID>
+  </reference>
+  <reference>
+    <citation>Liu S, Manson JE, Lee IM, Cole SR, Hennekens CH, Willett WC, Buring JE. Fruit and vegetable intake and risk of cardiovascular disease: the Women's Health Study. Am J Clin Nutr. 2000 Oct;72(4):922-8.</citation>
+    <PMID>11010932</PMID>
+  </reference>
+  <reference>
+    <citation>Lee IM, Rexrode KM, Cook NR, Manson JE, Buring JE. Physical activity and coronary heart disease in women: is &quot;no pain, no gain&quot; passé? JAMA. 2001 Mar 21;285(11):1447-54.</citation>
+    <PMID>11255420</PMID>
+  </reference>
+  <reference>
+    <citation>Pradhan AD, Manson JE, Rifai N, Buring JE, Ridker PM. C-reactive protein, interleukin 6, and risk of developing type 2 diabetes mellitus. JAMA. 2001 Jul 18;286(3):327-34.</citation>
+    <PMID>11466099</PMID>
+  </reference>
+  <reference>
+    <citation>Sesso HD, Lee IM, Gaziano JM, Rexrode KM, Glynn RJ, Buring JE. Maternal and paternal history of myocardial infarction and risk of cardiovascular disease in men and women. Circulation. 2001 Jul 24;104(4):393-8.</citation>
+    <PMID>11468199</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Hennekens CH, Buring JE, Rifai N. C-reactive protein and other markers of inflammation in the prediction of cardiovascular disease in women. N Engl J Med. 2000 Mar 23;342(12):836-43.</citation>
+    <PMID>10733371</PMID>
+  </reference>
+  <reference>
+    <citation>Blake GJ, Otvos JD, Rifai N, Ridker PM. Low-density lipoprotein particle concentration and size as determined by nuclear magnetic resonance spectroscopy as predictors of cardiovascular disease in women. Circulation. 2002 Oct 8;106(15):1930-7.</citation>
+    <PMID>12370215</PMID>
+  </reference>
+  <reference>
+    <citation>Cook NR, Benseñor IM, Lotufo PA, Lee IM, Skerrett PJ, Chown MJ, Ajani UA, Manson JE, Buring JE. Migraine and coronary heart disease in women and men. Headache. 2002 Sep;42(8):715-27.</citation>
+    <PMID>12390634</PMID>
+  </reference>
+  <reference>
+    <citation>Liu S, Manson JE, Buring JE, Stampfer MJ, Willett WC, Ridker PM. Relation between a diet with a high glycemic load and plasma concentrations of high-sensitivity C-reactive protein in middle-aged women. Am J Clin Nutr. 2002 Mar;75(3):492-8.</citation>
+    <PMID>11864854</PMID>
+  </reference>
+  <reference>
+    <citation>Porch JV, Lee IM, Cook NR, Rexrode KM, Burin JE. Estrogen-progestin replacement therapy and breast cancer risk: the Women's Health Study (United States). Cancer Causes Control. 2002 Nov;13(9):847-54.</citation>
+    <PMID>12462550</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Rifai N, Rose L, Buring JE, Cook NR. Comparison of C-reactive protein and low-density lipoprotein cholesterol levels in the prediction of first cardiovascular events. N Engl J Med. 2002 Nov 14;347(20):1557-65.</citation>
+    <PMID>12432042</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Buring JE, Cook NR, Rifai N. C-reactive protein, the metabolic syndrome, and risk of incident cardiovascular events: an 8-year follow-up of 14 719 initially healthy American women. Circulation. 2003 Jan 28;107(3):391-7.</citation>
+    <PMID>12551861</PMID>
+  </reference>
+  <reference>
+    <citation>Pradhan AD, Manson JE, Meigs JB, Rifai N, Buring JE, Liu S, Ridker PM. Insulin, proinsulin, proinsulin:insulin ratio, and the risk of developing type 2 diabetes mellitus in women. Am J Med. 2003 Apr 15;114(6):438-44.</citation>
+    <PMID>12727576</PMID>
+  </reference>
+  <reference>
+    <citation>Janket SJ, Manson JE, Sesso H, Buring JE, Liu S. A prospective study of sugar intake and risk of type 2 diabetes in women. Diabetes Care. 2003 Apr;26(4):1008-15.</citation>
+    <PMID>12663565</PMID>
+  </reference>
+  <reference>
+    <citation>Atiya M, Kurth T, Berger K, Buring JE, Kase CS; Women's Health Study. Interobserver agreement in the classification of stroke in the Women's Health Study. Stroke. 2003 Feb;34(2):565-7.</citation>
+    <PMID>12574576</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Cook N. Clinical usefulness of very high and very low levels of C-reactive protein across the full range of Framingham Risk Scores. Circulation. 2004 Apr 27;109(16):1955-9. Epub 2004 Mar 29.</citation>
+    <PMID>15051634</PMID>
+  </reference>
+  <reference>
+    <citation>Albert MA, Glynn RJ, Buring J, Ridker PM. C-reactive protein levels among women of various ethnic groups living in the United States (from the Women's Health Study). Am J Cardiol. 2004 May 15;93(10):1238-42.</citation>
+    <PMID>15135696</PMID>
+  </reference>
+  <reference>
+    <citation>Lin J, Zhang SM, Cook NR, Lee IM, Buring JE. Dietary fat and fatty acids and risk of colorectal cancer in women. Am J Epidemiol. 2004 Nov 15;160(10):1011-22.</citation>
+    <PMID>15522858</PMID>
+  </reference>
+  <reference>
+    <citation>Weinstein AR, Sesso HD, Lee IM, Cook NR, Manson JE, Buring JE, Gaziano JM. Relationship of physical activity vs body mass index with type 2 diabetes in women. JAMA. 2004 Sep 8;292(10):1188-94.</citation>
+    <PMID>15353531</PMID>
+  </reference>
+  <reference>
+    <citation>Christen W, Glynn R, Sperduto R, Chew E, Buring J. Age-related cataract in a randomized trial of beta-carotene in women. Ophthalmic Epidemiol. 2004 Dec;11(5):401-12.</citation>
+    <PMID>15590586</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang SM, Buring JE, Lee IM, Cook NR, Ridker PM. C-reactive protein levels are not associated with increased risk for colorectal cancer in women. Ann Intern Med. 2005 Mar 15;142(6):425-32.</citation>
+    <PMID>15767620</PMID>
+  </reference>
+  <reference>
+    <citation>Kurth T, Gaziano JM, Rexrode KM, Kase CS, Cook NR, Manson JE, Buring JE. Prospective study of body mass index and risk of stroke in apparently healthy women. Circulation. 2005 Apr 19;111(15):1992-8.</citation>
+    <PMID>15837954</PMID>
+  </reference>
+  <reference>
+    <citation>Levitan EB, Ridker PM, Manson JE, Stampfer MJ, Buring JE, Cook NR, Liu S. Association between consumption of beer, wine, and liquor and plasma concentration of high-sensitivity C-reactive protein in women aged 39 to 89 years. Am J Cardiol. 2005 Jul 1;96(1):83-8.</citation>
+    <PMID>15979440</PMID>
+  </reference>
+  <reference>
+    <citation>Lee IM, Cook NR, Gaziano JM, Gordon D, Ridker PM, Manson JE, Hennekens CH, Buring JE. Vitamin E in the primary prevention of cardiovascular disease and cancer: the Women's Health Study: a randomized controlled trial. JAMA. 2005 Jul 6;294(1):56-65.</citation>
+    <PMID>15998891</PMID>
+  </reference>
+  <reference>
+    <citation>Cook NR, Lee IM, Gaziano JM, Gordon D, Ridker PM, Manson JE, Hennekens CH, Buring JE. Low-dose aspirin in the primary prevention of cancer: the Women's Health Study: a randomized controlled trial. JAMA. 2005 Jul 6;294(1):47-55.</citation>
+    <PMID>15998890</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Rifai N, Cook NR, Bradwin G, Buring JE. Non-HDL cholesterol, apolipoproteins A-I and B100, standard lipid measures, lipid ratios, and CRP as risk factors for cardiovascular disease in women. JAMA. 2005 Jul 20;294(3):326-33.</citation>
+    <PMID>16030277</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Cook NR, Lee IM, Gordon D, Gaziano JM, Manson JE, Hennekens CH, Buring JE. A randomized trial of low-dose aspirin in the primary prevention of cardiovascular disease in women. N Engl J Med. 2005 Mar 31;352(13):1293-304. Epub 2005 Mar 7.</citation>
+    <PMID>15753114</PMID>
+  </reference>
+  <reference>
+    <citation>Bassuk SS, Ridker PM, Manson JE, Buring JE. Aspirin and cardiovascular disease prevention in women: new findings from the Women's Health Study. Womens Health (Lond Engl). 2005 Jul;1(1):9-10. doi: 10.2217/17455057.1.1.9.</citation>
+    <PMID>19803939</PMID>
+  </reference>
+  <reference>
+    <citation>Conroy MB, Cook NR, Manson JE, Buring JE, Lee IM. Past physical activity, current physical activity, and risk of coronary heart disease. Med Sci Sports Exerc. 2005 Aug;37(8):1251-6.</citation>
+    <PMID>16118569</PMID>
+  </reference>
+  <reference>
+    <citation>Lin J, Zhang SM, Cook NR, Manson JE, Lee IM, Buring JE. Intakes of calcium and vitamin D and risk of colorectal cancer in women. Am J Epidemiol. 2005 Apr 15;161(8):755-64.</citation>
+    <PMID>15800268</PMID>
+  </reference>
+  <reference>
+    <citation>Lin J, Zhang SM, Cook NR, Rexrode KM, Liu S, Manson JE, Lee IM, Buring JE. Dietary intakes of fruit, vegetables, and fiber, and risk of colorectal cancer in a prospective cohort of women (United States). Cancer Causes Control. 2005 Apr;16(3):225-33.</citation>
+    <PMID>15947874</PMID>
+  </reference>
+  <reference>
+    <citation>Sesso HD, Buring JE, Zhang SM, Norkus EP, Gaziano JM. Dietary and plasma lycopene and the risk of breast cancer. Cancer Epidemiol Biomarkers Prev. 2005 May;14(5):1074-81.</citation>
+    <PMID>15894655</PMID>
+  </reference>
+  <reference>
+    <citation>Blake GJ, Rifai N, Buring JE, Ridker PM. Blood pressure, C-reactive protein, and risk of future cardiovascular events. Circulation. 2003 Dec 16;108(24):2993-9. Epub 2003 Nov 24. Erratum in: Circulation. 2007 May 22;115(20):e537.</citation>
+    <PMID>14638538</PMID>
+  </reference>
+  <reference>
+    <citation>Rexrode KM, Manson JE, Lee IM, Ridker PM, Sluss PM, Cook NR, Buring JE. Sex hormone levels and risk of cardiovascular events in postmenopausal women. Circulation. 2003 Oct 7;108(14):1688-93. Epub 2003 Sep 15.</citation>
+    <PMID>12975257</PMID>
+  </reference>
+  <reference>
+    <citation>Sesso HD, Buring JE, Rifai N, Blake GJ, Gaziano JM, Ridker PM. C-reactive protein and the risk of developing hypertension. JAMA. 2003 Dec 10;290(22):2945-51.</citation>
+    <PMID>14665655</PMID>
+  </reference>
+  <reference>
+    <citation>Liu S, Serdula M, Janket SJ, Cook NR, Sesso HD, Willett WC, Manson JE, Buring JE. A prospective study of fruit and vegetable intake and the risk of type 2 diabetes in women. Diabetes Care. 2004 Dec;27(12):2993-6.</citation>
+    <PMID>15562224</PMID>
+  </reference>
+  <reference>
+    <citation>Buring JE, Hennekens CH for the Women's Health Study Research Group. The Women's Health Study: rationale and background. J Myocardial Ischemia, 4:30-40, 1992.</citation>
+  </reference>
+  <reference>
+    <citation>Sesso HD, Buring JE, Norkus EP, Gaziano JM. Plasma lycopene, other carotenoids, and retinol and the risk of cardiovascular disease in women. Am J Clin Nutr. 2004 Jan;79(1):47-53.</citation>
+    <PMID>14684396</PMID>
+  </reference>
+  <reference>
+    <citation>Song Y, Manson JE, Buring JE, Liu S. Dietary magnesium intake in relation to plasma insulin levels and risk of type 2 diabetes in women. Diabetes Care. 2004 Jan;27(1):59-65.</citation>
+    <PMID>14693967</PMID>
+  </reference>
+  <reference>
+    <citation>Song Y, Manson JE, Buring JE, Liu S. A prospective study of red meat consumption and type 2 diabetes in middle-aged and elderly women: the women's health study. Diabetes Care. 2004 Sep;27(9):2108-15.</citation>
+    <PMID>15333470</PMID>
+  </reference>
+  <reference>
+    <citation>Kurth T, Kase CS, Berger K, Gaziano JM, Cook NR, Buring JE. Smoking and risk of hemorrhagic stroke in women. Stroke. 2003 Dec;34(12):2792-5. Epub 2003 Nov 13.</citation>
+    <PMID>14615625</PMID>
+  </reference>
+  <reference>
+    <citation>Misakian AL, Langer RD, Bensenor IM, Cook NR, Manson JE, Buring JE, Rexrode KM. Postmenopausal hormone therapy and migraine headache. J Womens Health (Larchmt). 2003 Dec;12(10):1027-36.</citation>
+    <PMID>14709191</PMID>
+  </reference>
+  <reference>
+    <citation>Pradhan AD, Cook NR, Buring JE, Manson JE, Ridker PM. C-reactive protein is independently associated with fasting insulin in nondiabetic women. Arterioscler Thromb Vasc Biol. 2003 Apr 1;23(4):650-5. Epub 2003 Mar 6.</citation>
+    <PMID>12692007</PMID>
+  </reference>
+  <reference>
+    <citation>Rexrode KM, Pradhan A, Manson JE, Buring JE, Ridker PM. Relationship of total and abdominal adiposity with CRP and IL-6 in women. Ann Epidemiol. 2003 Nov;13(10):674-82.</citation>
+    <PMID>14599731</PMID>
+  </reference>
+  <reference>
+    <citation>Schaumberg DA, Sullivan DA, Buring JE, Dana MR. Prevalence of dry eye syndrome among US women. Am J Ophthalmol. 2003 Aug;136(2):318-26.</citation>
+    <PMID>12888056</PMID>
+  </reference>
+  <reference>
+    <citation>Sesso HD, Chen RS, L'Italien GJ, Lapuerta P, Lee WC, Glynn RJ. Blood pressure lowering and life expectancy based on a Markov model of cardiovascular events. Hypertension. 2003 Nov;42(5):885-90. Epub 2003 Oct 13.</citation>
+    <PMID>14557283</PMID>
+  </reference>
+  <reference>
+    <citation>Sesso HD, Gaziano JM, Liu S, Buring JE. Flavonoid intake and the risk of cardiovascular disease in women. Am J Clin Nutr. 2003 Jun;77(6):1400-8.</citation>
+    <PMID>12791616</PMID>
+  </reference>
+  <reference>
+    <citation>Sesso HD, Liu S, Gaziano JM, Buring JE. Dietary lycopene, tomato-based food products and cardiovascular disease in women. J Nutr. 2003 Jul;133(7):2336-41.</citation>
+    <PMID>12840203</PMID>
+  </reference>
+  <reference>
+    <citation>Bermudez EA, Rifai N, Buring J, Manson JE, Ridker PM. Interrelationships among circulating interleukin-6, C-reactive protein, and traditional cardiovascular risk factors in women. Arterioscler Thromb Vasc Biol. 2002 Oct 1;22(10):1668-73.</citation>
+    <PMID>12377747</PMID>
+  </reference>
+  <reference>
+    <citation>Bermudez EA, Rifai N, Buring JE, Manson JE, Ridker PM. Relation between markers of systemic vascular inflammation and smoking in women. Am J Cardiol. 2002 May 1;89(9):1117-9.</citation>
+    <PMID>11988205</PMID>
+  </reference>
+  <reference>
+    <citation>Brown DA, Breit SN, Buring J, Fairlie WD, Bauskin AR, Liu T, Ridker PM. Concentration in plasma of macrophage inhibitory cytokine-1 and risk of cardiovascular events in women: a nested case-control study. Lancet. 2002 Jun 22;359(9324):2159-63.</citation>
+    <PMID>12090982</PMID>
+  </reference>
+  <reference>
+    <citation>Glynn RJ, L'Italien GJ, Sesso HD, Jackson EA, Buring JE. Development of predictive models for long-term cardiovascular risk associated with systolic and diastolic blood pressure. Hypertension. 2002 Jan;39(1):105-10.</citation>
+    <PMID>11799087</PMID>
+  </reference>
+  <reference>
+    <citation>Lee IM, Cook NR, Manson JE, Buring JE. Randomised beta-carotene supplementation and incidence of cancer and cardiovascular disease in women: is the association modified by baseline plasma level? Br J Cancer. 2002 Mar 4;86(5):698-701.</citation>
+    <PMID>11875728</PMID>
+  </reference>
+  <reference>
+    <citation>Liu S, Buring JE, Sesso HD, Rimm EB, Willett WC, Manson JE. A prospective study of dietary fiber intake and risk of cardiovascular disease among women. J Am Coll Cardiol. 2002 Jan 2;39(1):49-56.</citation>
+    <PMID>11755286</PMID>
+  </reference>
+  <reference>
+    <citation>Rifai N, Buring JE, Lee IM, Manson JE, Ridker PM. Is C-reactive protein specific for vascular disease in women? Ann Intern Med. 2002 Apr 2;136(7):529-33.</citation>
+    <PMID>11926788</PMID>
+  </reference>
+  <reference>
+    <citation>Benseñor IM, Cook NR, Lee IM, Chown MJ, Hennekens CH, Buring JE, Manson JE. Active and passive smoking and risk of colds in women. Ann Epidemiol. 2001 May;11(4):225-31.</citation>
+    <PMID>11306340</PMID>
+  </reference>
+  <reference>
+    <citation>Benseñor IM, Cook NR, Lee IM, Chown MJ, Hennekens CH, Buring JE. Low-dose aspirin for migraine prophylaxis in women. Cephalalgia. 2001 Apr;21(3):175-83.</citation>
+    <PMID>11442551</PMID>
+  </reference>
+  <reference>
+    <citation>Karlson EW, Lee IM, Cook NR, Buring JE, Hennekens CH, Bloch KJ. Serologic evaluations of women exposed to breast implants. J Rheumatol. 2001 Jul;28(7):1523-30.</citation>
+    <PMID>11469457</PMID>
+  </reference>
+  <reference>
+    <citation>Lee IM, Cook NR, Rexrode KM, Buring JE. Lifetime physical activity and risk of breast cancer. Br J Cancer. 2001 Sep 28;85(7):962-5.</citation>
+    <PMID>11592766</PMID>
+  </reference>
+  <reference>
+    <citation>Lee IM, Rexrode KM, Cook NR, Hennekens CH, Burin JE. Physical activity and breast cancer risk: the Women's Health Study (United States). Cancer Causes Control. 2001 Feb;12(2):137-45.</citation>
+    <PMID>11246842</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Buring JE, Rifai N. Soluble P-selectin and the risk of future cardiovascular events. Circulation. 2001 Jan 30;103(4):491-5.</citation>
+    <PMID>11157711</PMID>
+  </reference>
+  <reference>
+    <citation>Schaumberg DA, Buring JE, Sullivan DA, Dana MR. Hormone replacement therapy and dry eye syndrome. JAMA. 2001 Nov 7;286(17):2114-9.</citation>
+    <PMID>11694152</PMID>
+  </reference>
+  <reference>
+    <citation>Schönbeck U, Varo N, Libby P, Buring J, Ridker PM. Soluble CD40L and cardiovascular risk in women. Circulation. 2001 Nov 6;104(19):2266-8.</citation>
+    <PMID>11696462</PMID>
+  </reference>
+  <reference>
+    <citation>Schaumberg DA, Christen WG, Glynn RJ, Buring JE. Demographic predictors of eye care utilization among women. Med Care. 2000 Jun;38(6):638-46.</citation>
+    <PMID>10843311</PMID>
+  </reference>
+  <reference>
+    <citation>Karlson EW, Lee IM, Cook NR, Manson JE, Buring JE, Hennekens CH. Comparison of self-reported diagnosis of connective tissue disease with medical records in female health professionals: the Women's Health Cohort Study. Am J Epidemiol. 1999 Sep 15;150(6):652-60.</citation>
+    <PMID>10490005</PMID>
+  </reference>
+  <reference>
+    <citation>Karlson EW, Lee IM, Cook NR, Manson JE, Buring JE, Hennekens CH. A retrospective cohort study of cigarette smoking and risk of rheumatoid arthritis in female health professionals. Arthritis Rheum. 1999 May;42(5):910-7.</citation>
+    <PMID>10323446</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Hennekens CH, Buring JE, Kundsin R, Shih J. Baseline IgG antibody titers to Chlamydia pneumoniae, Helicobacter pylori, herpes simplex virus, and cytomegalovirus and the risk for cardiovascular disease in women. Ann Intern Med. 1999 Oct 19;131(8):573-7.</citation>
+    <PMID>10523217</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Manson JE, Buring JE, Shih J, Matias M, Hennekens CH. Homocysteine and risk of cardiovascular disease among postmenopausal women. JAMA. 1999 May 19;281(19):1817-21.</citation>
+    <PMID>10340369</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Miletich JP, Buring JE, Ariyo AA, Price DT, Manson JE, Hill JA. Factor V Leiden mutation as a risk factor for recurrent pregnancy loss. Ann Intern Med. 1998 Jun 15;128(12 Pt 1):1000-3.</citation>
+    <PMID>9625662</PMID>
+  </reference>
+  <reference>
+    <citation>Hennekens CH, Lee IM, Cook NR, Hebert PR, Karlson EW, LaMotte F, Manson JE, Buring JE. Self-reported breast implants and connective-tissue diseases in female health professionals. A retrospective cohort study. JAMA. 1996 Feb 28;275(8):616-21. Erratum in: JAMA 1998 Jan 21;279(3):198.</citation>
+    <PMID>8594243</PMID>
+  </reference>
+  <reference>
+    <citation>Christen WG, Liu S, Schaumberg DA, Buring JE. Fruit and vegetable intake and the risk of cataract in women. Am J Clin Nutr. 2005 Jun;81(6):1417-22.</citation>
+    <PMID>15941896</PMID>
+  </reference>
+  <reference>
+    <citation>Kurth T, Slomke MA, Kase CS, Cook NR, Lee IM, Gaziano JM, Diener HC, Buring JE. Migraine, headache, and the risk of stroke in women: a prospective study. Neurology. 2005 Mar 22;64(6):1020-6.</citation>
+    <PMID>15781820</PMID>
+  </reference>
+  <reference>
+    <citation>Song Y, Ridker PM, Manson JE, Cook NR, Buring JE, Liu S. Magnesium intake, C-reactive protein, and the prevalence of metabolic syndrome in middle-aged and older U.S. women. Diabetes Care. 2005 Jun;28(6):1438-44.</citation>
+    <PMID>15920065</PMID>
+  </reference>
+  <reference>
+    <citation>Blake GJ, Pradhan AD, Manson JE, Williams GR, Buring J, Ridker PM, Glynn RJ. Hemoglobin A1c level and future cardiovascular events among women. Arch Intern Med. 2004 Apr 12;164(7):757-61.</citation>
+    <PMID>15078645</PMID>
+  </reference>
+  <reference>
+    <citation>Higginbotham S, Zhang ZF, Lee IM, Cook NR, Buring JE, Liu S. Dietary glycemic load and breast cancer risk in the Women's Health Study. Cancer Epidemiol Biomarkers Prev. 2004 Jan;13(1):65-70.</citation>
+    <PMID>14744735</PMID>
+  </reference>
+  <reference>
+    <citation>Higginbotham S, Zhang ZF, Lee IM, Cook NR, Giovannucci E, Buring JE, Liu S; Women's Health Study. Dietary glycemic load and risk of colorectal cancer in the Women's Health Study. J Natl Cancer Inst. 2004 Feb 4;96(3):229-33.</citation>
+    <PMID>14759990</PMID>
+  </reference>
+  <reference>
+    <citation>Joffe HV, Ridker PM, Manson JE, Cook NR, Buring JE, Rexrode KM. Sex hormone-binding globulin and serum testosterone are inversely associated with C-reactive protein levels in postmenopausal women at high risk for cardiovascular disease. Ann Epidemiol. 2006 Feb;16(2):105-12. Epub 2005 Oct 10.</citation>
+    <PMID>16216530</PMID>
+  </reference>
+  <reference>
+    <citation>Song Y, Manson JE, Buring JE, Sesso HD, Liu S. Associations of dietary flavonoids with risk of type 2 diabetes, and markers of insulin resistance and systemic inflammation in women: a prospective study and cross-sectional analysis. J Am Coll Nutr. 2005 Oct;24(5):376-84.</citation>
+    <PMID>16192263</PMID>
+  </reference>
+  <reference>
+    <citation>Sesso HD, Buring JE, Chown MJ, Ridker PM, Gaziano JM. A prospective study of plasma lipid levels and hypertension in women. Arch Intern Med. 2005 Nov 14;165(20):2420-7.</citation>
+    <PMID>16287773</PMID>
+  </reference>
+  <verification_date>June 2012</verification_date>
+  <lastchanged_date>June 12, 2012</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <firstreceived_results_date>December 5, 2011</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Julie E. Buring</investigator_full_name>
+    <investigator_title>Professor of Medicine, Harvard Medical School</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Cerebrovascular Disorders</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Alpha-Tocopherol</mesh_term>
+    <mesh_term>Aspirin</mesh_term>
+    <mesh_term>Tocopherols</mesh_term>
+    <mesh_term>Tocotrienols</mesh_term>
+    <mesh_term>Vitamin E</mesh_term>
+    <mesh_term>Vitamins</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

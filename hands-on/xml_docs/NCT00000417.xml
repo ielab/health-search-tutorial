@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204559">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000417</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P60 AR36308 NIAMS-014</org_study_id>
+    <secondary_id>P60AR036308</secondary_id>
+    <nct_id>NCT00000417</nct_id>
+  </id_info>
+  <brief_title>Psychoeducational Approach to Improve Health in Lupus</brief_title>
+  <official_title>A Randomized Controlled Trial of a Psychoeducational Intervention to Improve Outcomes in Systemic Lupus Erythematosus (SLE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We will study the relationships among patient/partner communication, social support, and
+      self-efficacy (a person's belief in the ability to manage his or her disease) as they affect
+      the health of people with systemic lupus erythematosus (SLE, or lupus) over time. We are
+      assigning 150 people with lupus and their partners to either (1) receive counseling to
+      improve self-efficacy, partner support, and patient/partner problem solving or (2) see an
+      informational film about lupus. We will follow study participants for 12 months to find out
+      about their physical and mental health, disease activity, beliefs that they can take steps
+      that help them feel better, coping, social support, and couples communication.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Studies have shown that patient self-efficacy in disease management and social support
+      predict physical and mental health and disease activity in lupus. We wished to study the
+      relationships among patient/partner communication, social support, and self-efficacy as they
+      influence patient health longitudinally. We are randomizing 150 lupus patients and their
+      partners to either (1) participate in a counseling intervention to improve self-efficacy,
+      partner support, and patient/partner problem-solving in lupus management or (2) see an
+      informational film about lupus (control). The counseling intervention includes an initial
+      in-person session followed by five monthly telephone calls to monitor and reinforce
+      problem-solving. We will follow patients for 12 months for self-reported physical and mental
+      health, disease activity, self-efficacy, coping, social support, and couples communication.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1997</start_date>
+  <completion_date type="Actual">March 2001</completion_date>
+  <primary_completion_date type="Actual">March 2001</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <enrollment>150</enrollment>
+  <condition>Systemic Lupus Erythematosus</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Counseling intervention</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Informational film</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Has partner willing to participate in study
+
+        Exclusion Criteria:
+
+          -  Unable to read and write English questionnaires
+
+          -  Unable to be reached by phone
+
+          -  Rheumatologist considers patient unable to participate, generally due to patient
+             cognitive problems or severe illness
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lawren H. Daltroy, DrPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Brigham &amp; Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Karlson EW, Liang MH, Eaton H, Huang J, Fitzgerald L, Rogers MP, Daltroy LH. A randomized clinical trial of a psychoeducational intervention to improve outcomes in systemic lupus erythematosus. Arthritis Rheum. 2004 Jun;50(6):1832-41.</citation>
+    <PMID>15188360</PMID>
+  </reference>
+  <verification_date>December 2013</verification_date>
+  <lastchanged_date>December 23, 2013</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Matthew H. Liang, MD</investigator_full_name>
+    <investigator_title>Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>SLE</keyword>
+  <keyword>Lupus</keyword>
+  <keyword>Educational intervention</keyword>
+  <keyword>Health education</keyword>
+  <keyword>Social support network</keyword>
+  <keyword>Outcomes research</keyword>
+  <keyword>Self-help</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lupus Erythematosus, Systemic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

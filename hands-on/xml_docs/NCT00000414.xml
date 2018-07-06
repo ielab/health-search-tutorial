@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204562">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000414</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P01 AR43584 Substudy 004</org_study_id>
+    <secondary_id>P01AR043584</secondary_id>
+    <nct_id>NCT00000414</nct_id>
+  </id_info>
+  <brief_title>Patient Education in Rheumatoid Arthritis and Osteoarthritis</brief_title>
+  <official_title>Patient Education Strategies for Better Outcomes in Rheumatoid Arthritis (RA) and Osteoarthritis (OA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project will evaluate the effectiveness and general usefulness of two arthritis patient
+      education programs. The first, the Arthritis Self-Management Program, is a 6-week,
+      community-based program taught in small groups by peer leaders. The second, the Self-Managed
+      Arthritis Relief Therapy (SMART) Program, is a computer-driven program delivered through the
+      mail. Participants in this project are people with rheumatoid arthritis or osteoarthritis
+      who are taking part in the larger long-term studies being conducted by ARAMIS (the
+      Arthritis, Rheumatism and Aging Medical Information System).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In a changing health care environment, the role of patients in managing their arthritis is
+      increasingly important. Patient education is the primary means for teaching patients how to
+      fulfill this role successfully. The goal of self-management health education is not merely
+      to provide information but also to change patient attitudes and behavior so that patient
+      outcomes are improved. These programs represent a new treatment for arthritis.
+
+      This project will evaluate the relative effect on health status and cost-effectiveness of
+      two arthritis patient education programs that use different delivery systems. The Arthritis
+      Self-Management Program (ASMP) uses a small group, multi-class format. It is taught by
+      trained lay leaders and has been evaluated for effectiveness and widely disseminated. The
+      Self-Managed Arthritis Relief Therapy (SMART) Program is a computer-driven, individualized,
+      mail-delivered intervention. Results of a pilot study suggest that it is effective in
+      improving health status and reducing health care use.
+
+      The project will also evaluate how generalizable the SMART program is and its effectiveness
+      for patients with different diagnoses (OA and RA). It will also determine the attributes of
+      patients who choose and do not choose to participate in patient education programs as well
+      as the attributes of those who complete and do not complete the ASMP and SMART programs.
+
+      Through use of the ARAMIS data collection system, the project allows us to describe the
+      differences between people who volunteer to receive patient education and those who refuse
+      patient education. This project is directed at improving patient outcomes in both RA and OA
+      through wide availability of a low-cost, mail-delivered arthritis self-management program
+      that is the next generation in arthritis health education.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1996</start_date>
+  <completion_date type="Actual">April 2001</completion_date>
+  <primary_completion_date type="Actual">April 2001</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">1200</enrollment>
+  <condition>Rheumatoid Arthritis</condition>
+  <condition>Osteoarthritis</condition>
+  <arm_group>
+    <arm_group_label>Arthritis Self-Management Program</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>small group self-management program</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SMART Program</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Self-Managed Arthritis Relief Therapy: mailed self management material</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Arthritis Self-Management Program</intervention_name>
+    <arm_group_label>Arthritis Self-Management Program</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>SMART Program</intervention_name>
+    <arm_group_label>SMART Program</arm_group_label>
+    <other_name>Self-Managed Arthritis Relief Therapy (SMART)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Physician diagnosis of OA or RA
+
+          -  Participation in the ARAMIS longitudinal study
+
+        Exclusion Criteria:
+
+          -  Age under 18
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kate R. Lorig, DrPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wichita Arthritis Center</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Saskatoon</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Lorig KR, Ritter PL, Laurent DD, Fries JF. Long-term randomized controlled trials of tailored-print and small-group arthritis self-management interventions. Med Care. 2004 Apr;42(4):346-54.</citation>
+    <PMID>15076811</PMID>
+  </reference>
+  <verification_date>November 2004</verification_date>
+  <lastchanged_date>June 19, 2013</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Kate Lorig</investigator_full_name>
+    <investigator_title>professor</investigator_title>
+  </responsible_party>
+  <keyword>Rheumatoid arthritis (RA)</keyword>
+  <keyword>Osteoarthritis (OA)</keyword>
+  <keyword>Arthritis education</keyword>
+  <keyword>Health care service evaluation</keyword>
+  <keyword>Outcomes research</keyword>
+  <keyword>Arthritis Self-Management Program (ASMP)</keyword>
+  <keyword>Self-Managed Arthritis Relief Therapy (SMART) Program</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Rheumatoid</mesh_term>
+    <mesh_term>Osteoarthritis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

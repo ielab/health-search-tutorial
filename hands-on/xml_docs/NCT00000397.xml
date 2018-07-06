@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204579">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000397</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00008633</org_study_id>
+    <secondary_id>R21AR046094</secondary_id>
+    <secondary_id>NIAMS-039</secondary_id>
+    <nct_id>NCT00000397</nct_id>
+  </id_info>
+  <brief_title>Behavioral Insomnia Therapy for Fibromyalgia</brief_title>
+  <official_title>Behavioral Insomnia Therapy for Fibromyalgia Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <authority>United States: Institutional Review Board</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study tests the effectiveness of a nondrug treatment for the insomnia that often occurs
+      in people with fibromyalgia. The treatment is a type of psychotherapy called
+      cognitive-behavioral therapy. Cognitive-behavioral therapy combines cognitive therapy, which
+      can modify or eliminate thought patterns contributing to the person's symptoms, and
+      behavioral therapy, which aims to help the person change his or her behavior.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Fibromyalgia (FM) is a prevalent and debilitating condition that contributes to impaired
+      occupational and social functioning and increased disability among affected individuals. The
+      vast majority of people with FM experience persistent sleep disturbances (e.g., onset
+      difficulty, repeated or extended awakenings, nonrestorative sleep) that worsen other
+      FM-related symptoms (e.g., chronic pain, fatigue) and sustain their general dysfunction.
+      Pharmacologic treatments (e.g., antidepressants, hypnotics) may reduce symptoms for some
+      people with FM, but many FM patients display little enduring improvement in their sleep and
+      other FM-related symptoms in response to such agents.
+
+      Our clinical observations and initial pilot work suggest that factors common among other
+      insomnia subtypes such as conditioned bedtime arousal, erratic sleep/wake scheduling, and
+      spending too much time in bed likely perpetuate the sleep problems of these
+      medication-refractory FM patients. Over the past decade, we have developed, refined, and
+      repeatedly tested a cognitive-behavioral therapy (CBT) that has proven effective for
+      reducing sleep disturbances perpetuated by such underlying cognitive/behavioral mechanisms.
+      The major objectives of this project are to conduct a prospective randomized clinical trial
+      to confirm these preliminary findings and to determine the efficacy of CBT insomnia
+      treatment for interrupting the disturbed nocturnal sleep and daytime pain, fatigue, and
+      distress symptom complex that defines FM.
+
+      One arm of this study's three-by-four factorial design will compare CBT with both a contact
+      control treatment and standard care. The other arm in the design is a repeated-measures
+      factor consisting of four time points (i.e., baseline, mid-treatment, post-treatment, and
+      6-month follow-up periods) at which we will assess outcome. We will assess participants at
+      all four time points with objective (wrist actigraphy) and subjective (sleep logs, Insomnia
+      Symptom Questionnaire) measures of sleep improvements, measures of subjective pain, and
+      questionnaires that assess mood (State-Trait Anxiety and Beck Depression Scales) and general
+      quality of life (SF-36). We will conduct multivariate statistical analyses and tests of
+      clinical significance with these various measures. We will also conduct exploratory analyses
+      to determine if polysomnographically-derived sleep measures obtained prior to treatment
+      correlate with initial levels of pain and distress or eventual treatment outcome.
+
+      Results should provide information about the usefulness of CBT for treating FM-related sleep
+      difficulties. Results should also improve understanding of the FM syndrome in general and
+      provide new information about the potential role of behavioral therapy in the overall
+      management of this disorder.
+
+      Individuals interested in participating in this study should live within reasonable
+      commuting distance from the Duke University Medical Center (Durham, NC), because this
+      research requires multiple outpatient visits for screening and treatment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1999</start_date>
+  <completion_date type="Actual">September 2004</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind, Primary Purpose: Treatment</study_design>
+  <enrollment type="Actual">106</enrollment>
+  <condition>Fibromyalgia</condition>
+  <condition>Insomnia</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Behavioral insomnia therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Insomnia for more than 1 month
+
+          -  Fibromyalgia diagnosis
+
+          -  Participants must live within easy commuting distance of Duke Medical Center, Durham,
+             North Carolina
+
+        Exclusion Criteria:
+
+          -  Terminal illness
+
+          -  Major psychiatric disorder
+
+          -  Substance abuse
+
+          -  Dependence on hypnotic drugs
+
+          -  Other sleep disorders (sleep apnea, restless legs, etc.)
+
+          -  Other sleep-disturbing medical disorders (painful arthritis, thyroid condition, etc.)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jack D. Edinger, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>VA Medical Center-Durham</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Krystal AD, Edinger J, Wohlgemuth W, Marsh GR. Sleep in peri-menopausal and post-menopausal women. Sleep Med Rev. 1998 Nov;2(4):243-53.</citation>
+    <PMID>15310495</PMID>
+  </reference>
+  <results_reference>
+    <citation>Edinger JD, Wohlgemuth WK, Krystal AD, Rice JR. Behavioral insomnia therapy for fibromyalgia patients: a randomized clinical trial. Arch Intern Med. 2005 Nov 28;165(21):2527-35.</citation>
+    <PMID>16314551</PMID>
+  </results_reference>
+  <verification_date>December 2005</verification_date>
+  <lastchanged_date>July 18, 2014</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Fibromyalgia</keyword>
+  <keyword>Insomnia</keyword>
+  <keyword>Cognitive-behavioral therapy (CBT)</keyword>
+  <keyword>Behavioral insomnia therapy</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Fibromyalgia</mesh_term>
+    <mesh_term>Myofascial Pain Syndromes</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

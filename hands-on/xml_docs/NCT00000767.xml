@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204212">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000767</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AVEG 014A</org_study_id>
+    <secondary_id>10561</secondary_id>
+    <secondary_id>AVEG 014A/B</secondary_id>
+    <nct_id>NCT00000767</nct_id>
+  </id_info>
+  <brief_title>A Multicenter, Randomized, Placebo-Controlled, Double-Blind Trial to Evaluate the Safety and Immunogenicity of a Recombinant Vaccinia-HIV-1 IIIB Env/Gag/Pol Vaccine (TBC-3B)</brief_title>
+  <official_title>A Multicenter, Randomized, Placebo-Controlled, Double-Blind Trial to Evaluate the Safety and Immunogenicity of a Recombinant Vaccinia-HIV-1 IIIB Env/Gag/Pol Vaccine (TBC-3B)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate, in healthy HIV-1 seronegative vaccinia-immune and vaccinia-naive volunteers,
+      the safety and immunogenicity of an HIV-1 candidate vaccine (TBC-3B) consisting of a live
+      recombinant vaccinia virus expressing the env, gag, and pol genes of HIV-1 IIIB strain. To
+      evaluate the potential of boosting with one of a variety of HIV-1 recombinant subunit,
+      peptide, or pseudovirion vaccines, if available, to augment the immune responses of the
+      vaccinees.
+
+      Antigenic drift, defined as the genetic variation of the HIV-1 envelope gene that results in
+      antigenic variation during natural infection, may confound attempts to achieve protective
+      immunity using a vaccine based solely on HIV-1 envelope proteins. Inclusion of conserved
+      core and polymerase proteins along with envelope protein in a candidate vaccine may address
+      some of the problems with antigenic variability. A prime-boost immunization approach using a
+      novel priming immunogen expressing env, gag, and pol genes of the HIV-1 IIIB strain will be
+      attempted in this study.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Antigenic drift, defined as the genetic variation of the HIV-1 envelope gene that results in
+      antigenic variation during natural infection, may confound attempts to achieve protective
+      immunity using a vaccine based solely on HIV-1 envelope proteins. Inclusion of conserved
+      core and polymerase proteins along with envelope protein in a candidate vaccine may address
+      some of the problems with antigenic variability. A prime-boost immunization approach using a
+      novel priming immunogen expressing env, gag, and pol genes of the HIV-1 IIIB strain will be
+      attempted in this study.
+
+      In Part I, vaccinia-immune volunteers are randomized to one of two regimens. Group A
+      receives priming with TBC-3B on days 0 and 56, followed by boosting on day 224 (8 months)
+      with one of the following: TBC-3B, an alternative immunogen such as pseudovirion particles
+      or a recombinant HIV-1 subunit or peptide vaccine, or placebo. Group B receives priming with
+      control vaccine (DryVax), followed by boosting with an appropriate placebo. At least 50
+      percent of subjects in Part I will be observed for a minimum of 8 weeks before subsequent
+      volunteers are enrolled in Part II. PER 11/18/94 AMENDMENT, Part I boosting is given on day
+      392. PER 5/19/95 AMENDMENT, Part I boosting is given on day 756 if not available on day 392;
+      if the appropriate product is not available then, the study will end on day 756. In Part II,
+      vaccinia-naive volunteers are randomized to one of three regimens. Group C receives TBC-3B
+      on day 0 and saline placebo on day 56. Group D receives TBC-3B on days 0 and 56. Both Group
+      C and D receive boosting with TBC-3B or an alternative immunogen on day 224. Group E
+      receives control vaccine (DryVax) on days 0 and 56, followed by appropriate placebo on day
+      224. Per 06/10/94 addendum, volunteers will be contacted once or twice per year for at least
+      5 years to check on health status.
+
+      NOTE: Part I (Part A) of the protocol has closed to accrual.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">July 1996</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <enrollment>18</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>TBC-3B Vaccine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Smallpox Vaccine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Subjects must have:
+
+          -  Negative ELISA and Western blot for HIV-1 within 6 weeks prior to immunization.
+
+          -  Normal history and physical exam.
+
+          -  History of smallpox vaccination at least 5 years prior to study entry (Part I) OR no
+             prior smallpox vaccination (Part II).
+
+          -  Absolute CD4 count &gt;= 400 cells/mm3.
+
+          -  Normal urinalysis.
+
+        NOTE:
+
+          -  No more than 10 percent of volunteers in both Parts I and II may be over 50 years of
+             age.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Subjects with the following symptoms or conditions are excluded:
+
+          -  Positive hepatitis B surface antigen.
+
+          -  Medical or psychiatric condition (such as recent suicidal ideation or present
+             psychosis) that precludes compliance.
+
+          -  Occupational responsibilities that preclude compliance.
+
+          -  Active syphilis. NOTE: Subjects with serology documented to be a false positive or
+             due to a remote (&gt; 6 months) treated infection are eligible.
+
+          -  Active tuberculosis. NOTE: Subjects with a positive PPD and a normal chest x-ray
+             showing no evidence of TB and not requiring isoniazid therapy are eligible.
+
+          -  Eczema.
+
+          -  Household contact with persons meeting any of the following criteria:
+
+          -  pregnancy, less than 12 months of age, eczema, immunodeficiency disease, or use of
+             immunosuppressive medications.
+
+        Subjects with the following prior conditions are excluded:
+
+          -  History of immunodeficiency, chronic illness, autoimmune disease, or use of
+             immunosuppressive medications.
+
+          -  History of anaphylaxis or other serious adverse reactions to vaccines.
+
+          -  Eczema within the past year.
+
+          -  History of serious allergic reaction to any substance, requiring hospitalization or
+             emergent medical care (e.g., Steven-Johnson syndrome, bronchospasm, or hypotension).
+
+          -  Prior psychiatric condition (such as history of suicide attempts or past psychosis)
+             that precludes compliance.
+
+          -  History of cancer unless there has been surgical excision that is considered to have
+             achieved cure.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Prior HIV vaccines.
+
+          -  Live attenuated vaccines within the past 60 days. NOTE: Medically indicated subunit
+             or killed vaccines (e.g., influenza, pneumococcal) do not exclude but should be
+             administered at least 2 weeks prior to HIV immunizations.
+
+          -  Experimental agents within the past 30 days.
+
+        Prior Treatment:
+
+        Excluded:
+
+          -  Receipt of blood products or immunoglobulins within the past 6 months. It is STRONGLY
+             RECOMMENDED that any activity that might expose subject to HIV (unprotected sex or
+             needle sharing) be avoided.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Keefer M</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>St. Louis Univ. School of Medicine AVEG</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Rochester AVEG</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>JHU AVEG</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt Univ. Hosp. AVEG</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UW - Seattle AVEG</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2012</verification_date>
+  <lastchanged_date>May 23, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaccines, Synthetic</keyword>
+  <keyword>Vaccinia Virus</keyword>
+  <keyword>Viral Vaccines</keyword>
+  <keyword>Smallpox Vaccine</keyword>
+  <keyword>HIV-1</keyword>
+  <keyword>AIDS Vaccines</keyword>
+  <keyword>HIV Seronegativity</keyword>
+  <keyword>HIV Preventive Vaccine</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Vaccinia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

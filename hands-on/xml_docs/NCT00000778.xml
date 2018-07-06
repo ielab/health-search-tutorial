@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204201">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000778</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DATRI 008</org_study_id>
+    <nct_id>NCT00000778</nct_id>
+  </id_info>
+  <brief_title>A Pilot Study of Methodology to Rapidly Evaluate Drugs for Bactericidal Activity, Tolerance, and Pharmacokinetics in the Treatment of Pulmonary Tuberculosis Using Isoniazid and Levofloxacin</brief_title>
+  <official_title>A Pilot Study of Methodology to Rapidly Evaluate Drugs for Bactericidal Activity, Tolerance, and Pharmacokinetics in the Treatment of Pulmonary Tuberculosis Using Isoniazid and Levofloxacin</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the methodology for rapidly determining the early bactericidal activity (EBA),
+      tolerance, and pharmacokinetics of isoniazid and levofloxacin in the treatment of pulmonary
+      tuberculosis (TB).
+
+      Traditionally, in trials for treatment of TB, a new drug is administered in combination with
+      two or more other antituberculous agents of known effectiveness over a long period of time.
+      In this setting, it is difficult to determine the effect of any single drug or dose level.
+      Development of new agents for the treatment of TB may be accelerated by a methodology in
+      which a new agent could be evaluated for activity by administering it as a single agent over
+      a short time period. This study utilizes a method to measure the amount of bacteria present
+      each day in the lungs.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Traditionally, in trials for treatment of TB, a new drug is administered in combination with
+      two or more other antituberculous agents of known effectiveness over a long period of time.
+      In this setting, it is difficult to determine the effect of any single drug or dose level.
+      Development of new agents for the treatment of TB may be accelerated by a methodology in
+      which a new agent could be evaluated for activity by administering it as a single agent over
+      a short time period. This study utilizes a method to measure the amount of bacteria present
+      each day in the lungs.
+
+      An initial cohort of patients receive isoniazid (with pyridoxine) daily for 5 days. Sputum
+      samples are collected daily for determination of the EBA (decline in colony-forming units/ml
+      sputum). If the methodology is validated, additional patients are randomized to receive one
+      of two doses of levofloxacin daily for 5 days, with determination of EBA. All patients are
+      hospitalized for 2 days of baseline evaluation and 5 days of treatment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Pharmacokinetics Study, Primary Purpose: Treatment</study_design>
+  <enrollment>44</enrollment>
+  <condition>HIV Infections</condition>
+  <condition>Tuberculosis</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Isoniazid</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pyridoxine hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Levofloxacin</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed in all patients:
+
+          -  Antacids if administered more than 2 hours before or after study drug.
+
+        Allowed in isoniazid patients:
+
+          -  Anticonvulsant therapy if blood levels are monitored.
+
+        Allowed in levofloxacin patients:
+
+          -  Acceptable medications other than antacids if administered at least 2 hours before or
+             1 hour after study drug.
+
+          -  Anticonvulsant therapy, theophylline, or warfarin if doses are monitored.
+
+        Patients must have:
+
+          -  Presumptive active pulmonary TB.
+
+          -  No clinical evidence of central nervous system or miliary tuberculosis.
+
+        NOTE:
+
+          -  Both HIV-positive and HIV-negative patients are eligible.
+
+        NOTE:
+
+          -  Pregnant women may be enrolled in the isoniazid cohort only.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Active or suspected MAI infection.
+
+          -  Active or suspected hepatitis.
+
+          -  Any other serious acute infection, diabetes, chronic obstructive pulmonary disease,
+             malignancy requiring chemotherapy, or major organ dysfunction.
+
+          -  Extreme illness or toxic appearance.
+
+          -  Pregnancy (if entering the levofloxacin portion of the study).
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  All standard TB therapies.
+
+          -  Clofazimine.
+
+          -  Rifabutin.
+
+          -  Quinolones.
+
+          -  Aminoglycosides.
+
+          -  Corticosteroids.
+
+          -  Pentoxifylline.
+
+          -  Colony-stimulating factors.
+
+          -  Interferons.
+
+          -  Interleukins.
+
+          -  Disulfiram (patients receiving isoniazid).
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of treatment-limiting intolerance or known hypersensitivity to isoniazid (in
+             patients receiving isoniazid) or to quinolones (in patients receiving levofloxacin).
+
+          -  Vomiting or diarrhea &gt;= grade 2 at screening or within 2 days prior to screening.
+
+          -  History of drug-resistant TB (in patients receiving isoniazid).
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Any prior treatment or prophylaxis for TB if enrolling on the isoniazid cohort.
+
+          -  Any anti-TB drug within the past 12 weeks, including standard drugs against TB as
+             well as clofazimine, rifabutin, and all quinolones and aminoglycosides.
+
+          -  Corticosteroids, pentoxifylline, colony-stimulating factors, interferons, or
+             interleukins within the past 12 weeks.
+
+        Known risk factors for multi-drug resistant (MDR) TB, including:
+
+          -  Domicile, shelter, or prison exposure to a known case of MDR TB within the past 6
+             months.
+
+          -  Residence in a specific domicile, shelter, or prison cell block within 6 months of a
+             known outbreak of MDR TB.
+
+          -  Hospitalization, within the past 6 months, on a medical service or unit in which
+             nosocomial transmission of MDR TB is known to have occurred.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hafner R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Cohn J</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Egorin M</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Univ of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>352336505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Med Ctr</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>900951793</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harbor - UCLA Med Ctr</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Broward Gen Med Ctr</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33316</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Miami / Jackson Memorial Hosp</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Illinois</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60622</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane Univ Med School</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>701122699</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Texas Southwestern Med Ctr of Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ TX Galveston</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77550</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine / Houston Veterans Adm Med Ctr</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=123</url>
+    <description>Click here for more information about Isoniazid</description>
+  </link>
+  <reference>
+    <citation>El-Sadr WM, Perlman DC, Matts JP, Nelson E, Cohn D, Telzak E, Chirgwin K, Salomon N, Olibrice M, Hafner R. Outcome of an induction regimen for the treatment of HIV-related tuberculosis (TB): evaluation of the addition of a quinolone. Int Conf AIDS. 1996 Jul 7-12;11(1):327 (abstract no TuB2358)</citation>
+  </reference>
+  <verification_date>June 1995</verification_date>
+  <lastchanged_date>August 6, 2008</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Isoniazid</keyword>
+  <keyword>Tuberculosis, Pulmonary</keyword>
+  <keyword>Pyridoxine</keyword>
+  <keyword>Ofloxacin</keyword>
+  <keyword>AIDS-Related Opportunistic Infections</keyword>
+  <keyword>Drug Evaluation</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Sputum</keyword>
+  <keyword>Colony Count, Microbial</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Tuberculosis</mesh_term>
+    <mesh_term>Tuberculosis, Pulmonary</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Isoniazid</mesh_term>
+    <mesh_term>Levofloxacin</mesh_term>
+    <mesh_term>Ofloxacin</mesh_term>
+    <mesh_term>Pyridoxine</mesh_term>
+    <mesh_term>Vitamin B 6</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

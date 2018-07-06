@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204375">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000602</url>
+  </required_header>
+  <id_info>
+    <org_study_id>315</org_study_id>
+    <nct_id>NCT00000602</nct_id>
+  </id_info>
+  <brief_title>Pediatric Hydroxyurea in Sickle Cell Anemia (PED HUG)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether hydroxyurea prevents the onset of chronic end organ damage in young
+      children with sickle cell anemia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Sickle cell anemia is a complex syndrome with multiple organ system disturbances brought
+      about by the interplay of genetic, humoral, vascular and environmental factors. The clinical
+      course can be one of abrupt and insidious exacerbations and remissions, often migratory and
+      repetitive. These events may result in impairment of function, permanently damaged organs,
+      and ultimately death. Although there is wide variability in the clinical expression of
+      sickle cell disease, this complex set of clinical manifestations is experienced by most
+      patients. In addition, there is no evidence that the primary disease process is different in
+      children when compared with adults with regard to painful episodes. However, children have a
+      higher incidence of respiratory viral infections, and are susceptible to pneumococcal
+      septicemia. With the successful completion of the Multicenter Study of Hydroxyurea (MSH)
+      Trial in adults, attention has now been focused on the use of this agent in children.
+
+      The Cooperative Study of Sickle Cell Disease (CSSCD) has demonstrated that sickle cell
+      anemia patients with increased painful episode rates die at a younger age. In addition,
+      increased levels of fetal hemoglobin are associated with improved survival, and is probably
+      a reliable childhood forecaster of adult life expectancy. The beneficial effect produced by
+      hydroxyurea is thought to occur because it increases fetal hemoglobin levels. Therefore, if
+      chronic end organ damage can be prevented in early childhood by hydroxyurea administration,
+      and if the crisis rate can be decreased by hydroxyurea use early in life, sickle cell anemia
+      patients may experience increased longevity and an improved quality of life.
+
+      DESIGN NARRATIVE:
+
+      The Phase I-Phase II study, HUG-KIDS, examined the safety of hydroxyurea. Children with
+      sickle cell anemia, age 5 to 15 years, were eligible for this multicenter Phase I/II trial.
+      Hydroxyurea was started at 15 mg/kg/d and escalated to 30 mg/kg/d unless the patient
+      experienced laboratory toxicity. Patients were monitored by 2-week visits to assess
+      compliance, toxicity, clinical adverse events, growth parameters, and laboratory efficacy
+      associated with hydroxyurea treatment. Eighty-four children were enrolled between December
+      1994 and March 1996. Sixty-eight children reached maximum tolerated dose (MTD) and 52 were
+      treated at MTD for 1 year. The study was conducted at four Comprehensive Sickle Cell Centers
+      by the following investigators: Thomas R. Kinney at Duke University Medical Center, Durham,
+      North Carolina; Kwaku Ohene-Frempong at Children's Hospital of Philadelphia; Orah S. Platt
+      at Children's Hospital in Boston; and Elliot Vichinsky at Children's Hospital in Oakland,
+      California. The complete study lasted three years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1994</start_date>
+  <completion_date>March 1997</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Primary Purpose: Treatment</study_design>
+  <condition>Anemia, Sickle Cell</condition>
+  <condition>Hematologic Diseases</condition>
+  <condition>Hemoglobinopathies</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>hydroxyurea</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Children with sickle cell disease and between the ages of five and eighteen years.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Phase I/II Multicenter Pediatric Trial of Hydroxyurea (HUG-Kids). Blood, 90 (Suppl 1):Abstract # 1974, 1997.</citation>
+  </reference>
+  <reference>
+    <citation>Kinney TR, Helms RW, O'Branski EE, Ohene-Frempong K, Wang W, Daeschner C, Vichinsky E, Redding-Lallinger R, Gee B, Platt OS, Ware RE. Safety of hydroxyurea in children with sickle cell anemia: results of the HUG-KIDS study, a phase I/II trial. Pediatric Hydroxyurea Group. Blood. 1999 Sep 1;94(5):1550-4.</citation>
+    <PMID>10477679</PMID>
+  </reference>
+  <reference>
+    <citation>Wang WC, Helms RW, Lynn HS, Redding-Lallinger R, Gee BE, Ohene-Frempong K, Smith-Whitley K, Waclawiw MA, Vichinsky EP, Styles LA, Ware RE, Kinney TR. Effect of hydroxyurea on growth in children with sickle cell anemia: results of the HUG-KIDS Study. J Pediatr. 2002 Feb;140(2):225-9.</citation>
+    <PMID>11865275</PMID>
+  </reference>
+  <verification_date>October 2005</verification_date>
+  <lastchanged_date>October 26, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anemia, Sickle Cell</mesh_term>
+    <mesh_term>Hematologic Diseases</mesh_term>
+    <mesh_term>Hemoglobinopathies</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hydroxyurea</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

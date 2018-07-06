@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204381">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000596</url>
+  </required_header>
+  <id_info>
+    <org_study_id>402</org_study_id>
+    <nct_id>NCT00000596</nct_id>
+  </id_info>
+  <brief_title>Diffuse Fibrotic Lung Disease</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the effects of cyclophosphamide compared with prednisone, dapsone, or high-dose
+      intermittent 'pulse' therapy with methylprednisolone in patients with idiopathic pulmonary
+      fibrosis. Also, to evaluate the use of intermittent, short-term, high-dose intravenous
+      corticosteroids in patients with sarcoidosis. There were actually four separate clinical
+      trials.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The fibrotic lung diseases represent 15 to 20 percent of the non-infectious disorders of the
+      lung. Idiopathic pulmonary fibrosis, one of the 10 general groups of fibrotic lung
+      disorders, is a chronic and devastating illness resulting in death within an average of 4 to
+      5 years from the onset of symptoms. Although 5 to 10 percent of these patients respond to
+      corticosteroids, there is no known treatment for the remainder.
+
+      Sarcoidosis, a generalized disorder characterized by epithelioid cell granuloma formation in
+      affected organs, especially the lung and lymphoid tissue, has a clinical course that varies
+      considerably from patient to patient and, in some cases, resolves spontaneously. In other
+      cases, intermittent pneumonitis develops, which may result in a permanent loss of lung
+      function. Large intermittent doses of corticosteroids might be superior to conventional
+      high-dose corticosteroids in patients with pulmonary sarcoidosis which has not resolved
+      spontaneously.
+
+      DESIGN NARRATIVE:
+
+      In the randomized, non-blind cyclophosphamide versus prednisone trial, 25 to 50 patients
+      with idiopathic pulmonary fibrosis were assigned to treatment with prednisone or
+      cyclophosphamide. At the end of 52 weeks of drug therapy, both groups were treated using
+      conventional medical therapies. In the non-randomized dapsone trial, 10 fibrotic patients
+      were treated with dapsone and prednisone for one year. In the double-blind, randomized
+      methylprednisolone trial, 25 to 50 patients were given low-dose methylprednisolone, and, in
+      addition, all patients were randomized to either high-dose methylprednisolone treatment or
+      to placebo at weekly intervals for one year. In the randomized, double-blind, high-dose
+      corticosteroid trial, 25 to 50 patients with pulmonary sarcoidosis were given a short
+      intense course of high-dose methylprednisolone or a placebo for 6 weeks.
+
+      The study completion date listed in this record was inferred from the last publication
+      listed in the Citations section of this study record.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1978</start_date>
+  <completion_date type="Actual">January 1983</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Lung Diseases</condition>
+  <condition>Pulmonary Fibrosis</condition>
+  <condition>Sarcoidosis</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>prednisone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cyclophosphamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>dapsone</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        No eligibility criteria
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Keogh BA, Bernardo J, Hunninghake GW, Line BR, Price DL, Crystal RG. Effect of intermittent high dose parenteral corticosteroids on the alveolitis of idiopathic pulmonary fibrosis. Am Rev Respir Dis. 1983 Jan;127(1):18-22.</citation>
+    <PMID>6849542</PMID>
+  </reference>
+  <verification_date>February 2002</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Pulmonary Fibrosis</mesh_term>
+    <mesh_term>Sarcoidosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204437">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000540</url>
+  </required_header>
+  <id_info>
+    <org_study_id>83</org_study_id>
+    <nct_id>NCT00000540</nct_id>
+  </id_info>
+  <brief_title>Coronary Artery Bypass Graft (CABG) Patch Trial</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To test the hypothesis that implantable cardioverter defibrillator (ICD) therapy will
+      improve survival in coronary heart disease patients at high risk of death, especially
+      arrhythmic death.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Management strategies are urgently needed for the problem of sudden cardiac death, the most
+      common single, non-accidental cause of death in adults in North America. Many consider that
+      the problem of sudden cardiac death has reached epidemic proportions. Contemporary
+      prophylactic management of sudden cardiac death includes identification of high risk
+      populations, based on underlying structural heart disease, degree of left ventricular
+      dysfunction, and evidence of a ventricular arrhythmia propensity. Populations with the
+      highest sudden death cardiac risk, notably those patients resuscitated from spontaneous
+      episodes of sustained ventricular tachyarrhythmias, have been used as test populations for
+      the development of effective prophylactic approaches. However, in such populations, ethical
+      considerations have precluded the use of untreated control groups. Furthermore, such
+      patients comprise only a small proportion of the total patient population that could benefit
+      from an effective prophylactic strategy. The largest 'at-risk' group are those patients with
+      coronary artery disease and depressed left ventricular function who have, but have not yet
+      expressed, a ventricular tachyarrhythmia propensity. The major advantages of a controlled
+      trial of prophylactic therapy in the latter population are evaluation of sudden death
+      prophylaxis in the larger 'at-risk' population and the opportunity to do so with an
+      untreated control group. The 'window of opportunity' for such comparisons has been closed in
+      resuscitated patients for some time and is in danger of closing in the larger population.
+      The total absence of controlled efficacy data for ICD use despite 30,000 implanted units of
+      this expensive technology argues strongly for the timely acquisition of controlled data in
+      the larger population before the therapy is embraced any further.
+
+      DESIGN NARRATIVE:
+
+      Randomized, non-blind. Patients were randomized during surgery for coronary artery bypass
+      graft to receive ICD or not, and followed and censored at 42 months at 35 centers. The
+      primary endpoint was all-cause mortality. The trial described morbidity of ICD treatment,
+      evaluated the effect of ICD therapy on quality of life, and compared health care costs of
+      ICD treatment to those in the control group. Anti-arrhythmic treatment of unsustained
+      arrhythmia was prohibited; anti-arrhythmic drug use, when indicated, was documented; and
+      aspirin was prescribed unless contraindications existed. Recruitment was extended through
+      December 1995 in order to accrue 900 patients, instead of the original 800 projected. As of
+      February 1996, 900 patients had been recruited. In April 1997, the DSMB recommended that the
+      trial be stopped because there was sufficient evidence to conclude that there was no
+      difference between the treatment and control groups. Follow-up was extended for two years
+      beyond the original termination date.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 1992</start_date>
+  <completion_date>December 1998</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Arrhythmia</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Death, Sudden, Cardiac</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <condition>Ventricular Arrhythmia</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>defibrillators, implantable</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, up to age 80, with a left ventricular ejection fraction less than .36 and
+        an abnormal signal averaged electrocardiogram.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Bigger</last_name>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Bigger JT.The CABG Patch Trial. In: Santini M, ed. Progress in Clinical Pacing,1994. Armonk, NY: Futura Media Services, Inc., 1995:809-827.</citation>
+  </reference>
+  <reference>
+    <citation>The Coronary Artery Bypass Graft (CABG) Patch Trial. The CABG Patch Trial Investigators and Coordinators. Prog Cardiovasc Dis. 1993 Sep-Oct;36(2):97-114.</citation>
+    <PMID>8367611</PMID>
+  </reference>
+  <reference>
+    <citation>Spotnitz HM, Herre JM, Baker LD Jr, Fitzgerald DM, Kron IL, Bigger JT Jr. Surgical aspects of a randomized trial of defibrillator implantation during coronary artery bypass surgery. The CABG Patch Trial. Circulation. 1996 Nov 1;94(9 Suppl):II248-53.</citation>
+    <PMID>8901755</PMID>
+  </reference>
+  <reference>
+    <citation>Kron IL, Cope JT, Baker LD Jr, Spotnitz HM. The risks of reoperative coronary artery bypass in chronic ischemic cardiomyopathy: results of the CABG Patch Trial. Circulation. 1997 Nov 4;96(9 Suppl):II-21-5.</citation>
+    <PMID>9386070</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr. Prophylactic use of implanted cardiac defibrillators in patients at high risk for ventricular arrhythmias after coronary-artery bypass graft surgery. Coronary Artery Bypass Graft (CABG) Patch Trial Investigators. N Engl J Med. 1997 Nov 27;337(22):1569-75.</citation>
+    <PMID>9371853</PMID>
+  </reference>
+  <reference>
+    <citation>Curtis AB, Cannom DS, Bigger JT Jr, DiMarco JP, Estes NA 3rd, Steinman RC, Parides MK. Baseline characteristics of patients in the coronary artery bypass graft (CABG) Patch Trial. Am Heart J. 1997 Nov;134(5 Pt 1):787-98.</citation>
+    <PMID>9398090</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr, Parides MK, Rolnitzky LM, Meier P, Levin B, Egan DA. Changes in sample size and length of follow-up to maintain power in the coronary artery bypass graft (CABG) patch trial. Control Clin Trials. 1998 Feb;19(1):1-14.</citation>
+    <PMID>9492965</PMID>
+  </reference>
+  <reference>
+    <citation>Cook JR, Flack JE, Gregory CA, Deaton DW, Rousou JA, Engelman RM. Influence of the preoperative signal-averaged electrocardiogram on left ventricular function after coronary artery bypass graft surgery in patients with left ventricular dysfunction. The CABG Patch Trial. Am J Cardiol. 1998 Aug 1;82(3):285-9.</citation>
+    <PMID>9708654</PMID>
+  </reference>
+  <reference>
+    <citation>Spotnitz HM, Herre JM, Raza ST, Hammon JW Jr, Baker LD Jr, Fitzgerald DM, Kron IL, Bigger JT Jr. Effect of implantable cardioverter-defibrillator implantation on surgical morbidity in the CABG Patch Trial. Surgical Investigators of the Coronary Artery Bypass Graft Patch Trial. Circulation. 1998 Nov 10;98(19 Suppl):II77-80.</citation>
+    <PMID>9852885</PMID>
+  </reference>
+  <reference>
+    <citation>Curtis AB, Bigger JT Jr, DiMarco JP, Anderson JL. Epicardial cardioverter-defibrillators do not cause postoperative arrhythmias. The CABG Patch Trial Investigators. Coronary Artery Bypass Graft. Am J Cardiol. 1998 Nov 1;82(9):1114-7, A9.</citation>
+    <PMID>9817491</PMID>
+  </reference>
+  <reference>
+    <citation>Namerow PB, Firth BR, Heywood GM, Windle JR, Parides MK. Quality-of-life six months after CABG surgery in patients randomized to ICD versus no ICD therapy: findings from the CABG Patch Trial. Pacing Clin Electrophysiol. 1999 Sep;22(9):1305-13.</citation>
+    <PMID>10527011</PMID>
+  </reference>
+  <reference>
+    <citation>Olshansky B, Telfer EA, Curtis AB, Bigger JT Jr. Predictive value of preoperative left ventricular ejection fraction and functional class for mortality and morbidity after high-risk coronary artery bypass grafting. Am J Cardiol. 2000 Jun 15;85(12):1489-91; A7.</citation>
+    <PMID>10856399</PMID>
+  </reference>
+  <reference>
+    <citation>Flack JE 3rd, Cook JR, May SJ, Lemeshow S, Engelman RM, Rousou JA, Deaton DW. Does cardioplegia type affect outcome and survival in patients with advanced left ventricular dysfunction? Results from the CABG Patch Trial. Circulation. 2000 Nov 7;102(19 Suppl 3):III84-9.</citation>
+    <PMID>11082368</PMID>
+  </reference>
+  <reference>
+    <citation>Argenziano M, Spotnitz HM, Whang W, Bigger JT Jr, Parides M, Rose EA. Risk stratification for coronary bypass surgery in patients with left ventricular dysfunction: analysis of the coronary artery bypass grafting patch trial database. Circulation. 1999 Nov 9;100(19 Suppl):II119-24.</citation>
+    <PMID>10567289</PMID>
+  </reference>
+  <reference>
+    <citation>Whang W, Bigger JT Jr. Diabetes and outcomes of coronary artery bypass graft surgery in patients with severe left ventricular dysfunction: results from The CABG Patch Trial database. The CABG Patch Trial Investigators and Coordinators. J Am Coll Cardiol. 2000 Oct;36(4):1166-72. Erratum in: J Am Coll Cardiol 2001 Jun 1;37(7):2012.</citation>
+    <PMID>11028466</PMID>
+  </reference>
+  <verification_date>August 2004</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Death, Sudden</mesh_term>
+    <mesh_term>Death, Sudden, Cardiac</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

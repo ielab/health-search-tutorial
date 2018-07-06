@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204370">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000607</url>
+  </required_header>
+  <id_info>
+    <org_study_id>110</org_study_id>
+    <nct_id>NCT00000607</nct_id>
+  </id_info>
+  <brief_title>Randomized Evaluation of Mechanical Assistance for the Treatment of Congestive Heart Failure (REMATCH)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To conduct a randomized, unblinded clinical trial comparing the left ventricular assist
+      device (LVAD) with maximum medical management in patients with end-stage heart failure who
+      were not candidates for heart transplantation.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Mortality rates for heart failure are high, with five year survival rates approximating 30
+      to 40 percent in patients with mild to moderate symptoms and 0 to 20 percent survival in
+      patients with severe symptoms. The patient with class IV heart failure has a one year
+      survival rate of only 40 to 50 percent. This is despite advances in medical therapy and the
+      availability of ACE inhibitors. While cardiac transplantation is the most viable form of
+      treatment for these patients, it is limited by complications of chronic immunosuppression,
+      the development of graft coronary artery disease and the serious shortage of donor organs.
+      As many as 16,500 patients per year may be suitable candidates for heart transplantation.
+      The actual number of donor hearts procured over the past few years, however, has remained
+      relatively constant at 2,000. Thus, there is a strong rationale for the therapeutic
+      application of left ventricular assist devices (LVADs) as an alternative to cardiac
+      transplantation.
+
+      With respect to LVAD efficacy, patients have been supported for periods as long as 344 days
+      on the pneumatic system and 503 days with the electromechanical device. Experience with the
+      TCI pneumatic system in 75 LVAD patients show improved one year survival after
+      transplantation in the LVAD patients as opposed to patients who did not receive the LVAD
+      despite the same selection criteria. Experience with the vented electric LVADs in bridge
+      patients show a transplant and survival rate that is similar to the pneumatic device. LVADs
+      have also been shown to have a favorable effect on circulatory hemodynamics and exercise
+      capacity. Among 53 patients who survived the TCI LVAD procedure, 90 percent improved to New
+      York Heart Association (NYHA) functional class I and 10 percent to functional class II.
+
+      With respect to safety, the principal adverse effects associated with the LVADs include
+      bleeding, hemolysis, and organ dysfunction, thromboembolism, infection, right heart failure,
+      and mechanical failure. Thromboembolic complications are low in the TCI device despite the
+      lack of systemic anticoagulation. The overall mechanical failure rate is small, less than 1
+      percent in 26 patient years of use. The vented electric and pneumatic device experience to
+      date indicates that the devices are similar with respect to adverse event rates. Thus, in
+      1997 there was a strong rationale for a randomized controlled trial that compared the
+      benefits and cost of vented electric LVADs to medical treatment. The need to perform a
+      randomized controlled study was further emphasized by the lack of rigorous data on survival,
+      quality of life, and cost effectiveness comparing LVAD support with medical therapy.
+
+      DESIGN NARRATIVE:
+
+      Unblinded, randomized, multicenter. Patients were randomized to either the Thermo
+      Cardiosystems, Inc. (TCI) vented electric (VE) LVAD or optimal medical therapy (OMM) and
+      followed for at least two years. If randomized to LVAD therapy, patients received a LVAD
+      implantation within 12 hours of randomization. If randomized to medical therapy, patients
+      received optimal medical management including the use of digoxin, diuretics, and ACE
+      inhibitors in maximally tolerated doses. The primary endpoint was all-cause mortality.
+      Secondary endpoints included cardiovascular mortality, exercise capacity (six-minute walk
+      test) and health-related quality of life, adverse effects, and the relative
+      cost-effectiveness of LVADs versus medical management. Recruitment ended in June, 2001.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 1997</start_date>
+  <completion_date>August 2003</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Heart Failure</condition>
+  <condition>Heart Failure, Congestive</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>heart-assist devices</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with Class III and Class IV congestive heart failure patients between the
+        ages of 18 and 72 who were not candidates for heart transplantation.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>72 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Rose EA, Moskowitz AJ, Packer M, Sollano JA, Williams DL, Tierney AR, Heitjan DF, Meier P, Ascheim DD, Levitan RG, Weinberg AD, Stevenson LW, Shapiro PA, Lazar RM, Watson JT, Goldstein DJ, Gelijns AC. The REMATCH trial: rationale, design, and end points. Randomized Evaluation of Mechanical Assistance for the Treatment of Congestive Heart Failure. Ann Thorac Surg. 1999 Mar;67(3):723-30.</citation>
+    <PMID>10215217</PMID>
+  </reference>
+  <reference>
+    <citation>Scalia GM, McCarthy PM, Savage RM, Smedira NG, Thomas JD. Clinical utility of echocardiography in the management of implantable ventricular assist devices. J Am Soc Echocardiogr. 2000 Aug;13(8):754-63.</citation>
+    <PMID>10936819</PMID>
+  </reference>
+  <reference>
+    <citation>Sun BC, Catanese KA, Spanier TB, Flannery MR, Gardocki MT, Marcus LS, Levin HR, Rose EA, Oz MC. 100 long-term implantable left ventricular assist devices: the Columbia Presbyterian interim experience. Ann Thorac Surg. 1999 Aug;68(2):688-94.</citation>
+    <PMID>10475472</PMID>
+  </reference>
+  <reference>
+    <citation>Rose EA, Gelijns AC, Moskowitz AJ, Heitjan DF, Stevenson LW, Dembitsky W, Long JW, Ascheim DD, Tierney AR, Levitan RG, Watson JT, Meier P, Ronan NS, Shapiro PA, Lazar RM, Miller LW, Gupta L, Frazier OH, Desvigne-Nickens P, Oz MC, Poirier VL; Randomized Evaluation of Mechanical Assistance for the Treatment of Congestive Heart Failure (REMATCH) Study Group. Long-term use of a left ventricular assist device for end-stage heart failure. N Engl J Med. 2001 Nov 15;345(20):1435-43.</citation>
+    <PMID>11794191</PMID>
+  </reference>
+  <reference>
+    <citation>Hunt SA. Comment--the REMATCH trial: Long-term use of a left ventricular assist device for end-stage heart failure. J Card Fail. 2002 Apr;8(2):59-60.</citation>
+    <PMID>12016626</PMID>
+  </reference>
+  <reference>
+    <citation>Richenbacher WE, Naka Y, Raines EP, Frazier OH, Couper GS, Pagani FD, Damme L, VanMeter CH, Magovern GJ Jr, Gupta L, Seemuth SC, Weinberg AD, Long JW; REMATCH Investigators. Surgical management of patients in the REMATCH trial. Ann Thorac Surg. 2003 Jun;75(6 Suppl):S86-92.</citation>
+    <PMID>12820740</PMID>
+  </reference>
+  <reference>
+    <citation>Oz MC, Gelijns AC, Miller L, Wang C, Nickens P, Arons R, Aaronson K, Richenbacher W, van Meter C, Nelson K, Weinberg A, Watson J, Rose EA, Moskowitz AJ. Left ventricular assist devices as permanent heart failure therapy: the price of progress. Ann Surg. 2003 Oct;238(4):577-83; discussion 583-5.</citation>
+    <PMID>14530729</PMID>
+  </reference>
+  <reference>
+    <citation>Lazar RM, Shapiro PA, Jaski BE, Parides MK, Bourge RC, Watson JT, Damme L, Dembitsky W, Hosenpud JD, Gupta L, Tierney A, Kraus T, Naka Y. Neurological events during long-term mechanical circulatory support for heart failure: the Randomized Evaluation of Mechanical Assistance for the Treatment of Congestive Heart Failure (REMATCH) experience. Circulation. 2004 May 25;109(20):2423-7. Epub 2004 May 3.</citation>
+    <PMID>15123534</PMID>
+  </reference>
+  <reference>
+    <citation>Stevenson LW, Miller LW, Desvigne-Nickens P, Ascheim DD, Parides MK, Renlund DG, Oren RM, Krueger SK, Costanzo MR, Wann LS, Levitan RG, Mancini D; REMATCH Investigators. Left ventricular assist device as destination for patients undergoing intravenous inotropic therapy: a subset analysis from REMATCH (Randomized Evaluation of Mechanical Assistance in Treatment of Chronic Heart Failure). Circulation. 2004 Aug 24;110(8):975-81. Epub 2004 Aug 16.</citation>
+    <PMID>15313942</PMID>
+  </reference>
+  <reference>
+    <citation>Holman WL, Park SJ, Long JW, Weinberg A, Gupta L, Tierney AR, Adamson RM, Watson JD, Raines EP, Couper GS, Pagani FD, Burton NA, Miller LW, Naka Y; REMATCH Investigators. Infection in permanent circulatory support: experience from the REMATCH trial. J Heart Lung Transplant. 2004 Dec;23(12):1359-65.</citation>
+    <PMID>15607664</PMID>
+  </reference>
+  <verification_date>October 2005</verification_date>
+  <lastchanged_date>October 26, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

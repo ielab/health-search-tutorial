@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204588">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000388</url>
+  </required_header>
+  <id_info>
+    <org_study_id>U01MH050453</org_study_id>
+    <secondary_id>U01MH050453</secondary_id>
+    <secondary_id>MH50447</secondary_id>
+    <secondary_id>MH50454</secondary_id>
+    <secondary_id>MH50461</secondary_id>
+    <secondary_id>MH50467</secondary_id>
+    <secondary_id>MH50440</secondary_id>
+    <secondary_id>DSIR CT</secondary_id>
+    <nct_id>NCT00000388</nct_id>
+  </id_info>
+  <brief_title>Multimodal Treatment Study of Children With Attention Deficit and Hyperactivity Disorder (MTA)</brief_title>
+  <acronym>MTA</acronym>
+  <official_title>Multimodal Treatment Study of Children With ADHD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York University School of Medicine</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is a continuation of the Multimodal Treatment Study of Children with Attention
+      Deficit Hyperactivity Disorder (MTA Study). Continuation Aim 1 is to track the persistence
+      of intervention-related effects as the MTA sample matures into mid-adolescence, including
+      subsequent mental-health and school-related service utilization patterns as a function of
+      MTA treatment experience (treatment assignment) and outcome (degree of treatment success at
+      14 mo.). Aim 2 is to test specific hypotheses about predictors, mediators, and moderators of
+      long-term outcome among children with ADHD (e.g., comorbidity; family functioning; cognitive
+      skills; peer relations) that may influence adolescent functioning (either independent of or
+      through initial treatment assignment and/or 14-month treatment outcomes); and to compare how
+      these predictors, mediators, and moderators are similar or dissimilar within the normal
+      comparison group. Aim 3 is to track the patterns of risk and protective factors (including
+      their mediation or moderation by initial treatment assignment and/or outcome) involved in
+      early and subsequent stages of developing substance-related disorders and antisocial
+      behavior. Aim 4 is to examine the effect of initial treatment assignment and degree of
+      treatment success on later academic performance, achievement, school conduct, tendency to
+      drop out, and other adverse school outcomes.
+
+      In the original MTA design, patients were randomly assigned to 1 of 4 treatment conditions:
+      (1) medication only; (2) psychosocial only; (3) combined (medication and psychosocial); or
+      (4) Assessment-and-Referral condition. All but the latter were treated intensively for 14
+      months, with assessments for all subjects at baseline, 3, 9, 14, and 24 months. The original
+      MTA design thus provides short-term (10 months post-treatment) follow-up at 24 months. This
+      continuation extends the follow-up to assessments at 36, 60, and 84 months after treatment.
+
+      A child may be eligible for this study if he/she:
+
+      Is 7 - 9 years old, and has Attention Deficit Hyperactivity Disorder (ADHD).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This trial is a continuation of the Multimodal Treatment Study of Children with Attention
+      Deficit Hyperactivity Disorder (MTA Study). Continuation Aim 1 is to track the persistence
+      of intervention-related effects as the MTA sample matures into mid-adolescence, including
+      subsequent mental-health and school-related service utilization patterns as a function of
+      MTA treatment experience (treatment assignment) and outcome (degree of treatment success at
+      14 mo.). Aim 2 is to test specific hypotheses about predictors, mediators, and moderators of
+      long-term outcome among children with ADHD (e.g., comorbidity; family functioning; cognitive
+      skills; peer relations) that may influence adolescent functioning (either independent of or
+      through initial treatment assignment and/or 14-month treatment outcomes); and to compare how
+      these predictors, mediators, and moderators are similar or dissimilar within the normal
+      comparison group. Aim 3 is to track the patterns of risk and protective factors (including
+      their mediation or moderation by initial treatment assignment and/or outcome) involved in
+      early and subsequent stages of developing substance-related disorders and antisocial
+      behavior. Aim 4 is to examine the effect of initial treatment assignment and degree of
+      treatment success on later academic performance, achievement, school conduct, tendency to
+      drop out, and other adverse school outcomes.
+
+      In the original MTA design, patients were randomly assigned to 1 of 4 treatment conditions:
+      (1) medication only; (2) psychosocial only; (3) combined (medication and psychosocial); or
+      (4) Assessment-and-Referral condition. All but the latter were treated intensively for 14
+      months, with assessments for all subjects at baseline, 3, 9, 14, and 24 months. The original
+      MTA design thus provides short-term (10 months post-treatment) follow-up at 24 months. This
+      continuation extends the follow-up to assessments at 36, 60, and 84 months after treatment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1998</start_date>
+  <completion_date>November 1999</completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Attention Deficit Disorder With Hyperactivity</condition>
+  <condition>Substance-related Disorders</condition>
+  <condition>Dyssocial Behavior</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Psychosocial treatment</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anti-ADHD medication</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Assessment-and-Referral</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients must have:
+
+        Rigorously diagnosed Attention Deficit Hyperactivity Disorder (ADHD).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>7 Years</minimum_age>
+    <maximum_age>9 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Howard B. Abikoff, PhD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <overall_official>
+    <last_name>C. Keith Conners</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Laurence L. Greenhill, MD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Stephen P. Hinshaw, PhD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <overall_official>
+    <last_name>William E. Pelham, PhD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <overall_official>
+    <last_name>James M. Swanson, PhD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <reference>
+    <citation>Kolko DJ, Bukstein OG, Barron J. Methylphenidate and behavior modification in children with ADHD and comorbid ODD or CD: main and incremental effects across settings. J Am Acad Child Adolesc Psychiatry. 1999 May;38(5):578-86.</citation>
+    <PMID>10230190</PMID>
+  </reference>
+  <reference>
+    <citation>Epstein JN, Conners CK, Erhardt D, Arnold LE, Hechtman L, Hinshaw SP, Hoza B, Newcorn JH, Swanson JM, Vitiello B. Familial aggregation of ADHD characteristics. J Abnorm Child Psychol. 2000 Dec;28(6):585-94.</citation>
+    <PMID>11104319</PMID>
+  </reference>
+  <reference>
+    <citation>Hoza B, Owens JS, Pelham WE, Swanson JM, Conners CK, Hinshaw SP, Arnold LE, Kraemer HC. Parent cognitions as predictors of child treatment response in attention-deficit/hyperactivity disorder. J Abnorm Child Psychol. 2000 Dec;28(6):569-83.</citation>
+    <PMID>11104318</PMID>
+  </reference>
+  <reference>
+    <citation>Paule MG, Rowland AS, Ferguson SA, Chelonis JJ, Tannock R, Swanson JM, Castellanos FX. Attention deficit/hyperactivity disorder: characteristics, interventions and models. Neurotoxicol Teratol. 2000 Sep-Oct;22(5):631-51. Review.</citation>
+    <PMID>11106857</PMID>
+  </reference>
+  <reference>
+    <citation>Pelham WE, Gnagy EM, Greiner AR, Hoza B, Hinshaw SP, Swanson JM, Simpson S, Shapiro C, Bukstein O, Baron-Myak C, McBurnett K. Behavioral versus behavioral and pharmacological treatment in ADHD children attending a summer treatment program. J Abnorm Child Psychol. 2000 Dec;28(6):507-25.</citation>
+    <PMID>11104314</PMID>
+  </reference>
+  <reference>
+    <citation>Abikoff H. Tailored psychosocial treatments for ADHD: the search for a good fit. J Clin Child Psychol. 2001 Mar;30(1):122-5.</citation>
+    <PMID>11294070</PMID>
+  </reference>
+  <reference>
+    <citation>Hoza B. Psychosocial treatment issues in the MTA: a reply to Greene and Ablon. J Clin Child Psychol. 2001 Mar;30(1):126-30.</citation>
+    <PMID>11294071</PMID>
+  </reference>
+  <reference>
+    <citation>Jensen PS, Hinshaw SP, Swanson JM, Greenhill LL, Conners CK, Arnold LE, Abikoff HB, Elliott G, Hechtman L, Hoza B, March JS, Newcorn JH, Severe JB, Vitiello B, Wells K, Wigal T. Findings from the NIMH Multimodal Treatment Study of ADHD (MTA): implications and applications for primary care providers. J Dev Behav Pediatr. 2001 Feb;22(1):60-73.</citation>
+    <PMID>11265923</PMID>
+  </reference>
+  <reference>
+    <citation>Marcus, S. M., &amp; Gibbons, R. D. (2001). Estimating the efficacy of receiving treatment in randomized clinical trials with noncompliance. Health Services and Outcomes Research Methodology, 2(3-4), 247-258.</citation>
+  </reference>
+  <reference>
+    <citation>Newcorn JH, Halperin JM, Jensen PS, Abikoff HB, Arnold LE, Cantwell DP, Conners CK, Elliott GR, Epstein JN, Greenhill LL, Hechtman L, Hinshaw SP, Hoza B, Kraemer HC, Pelham WE, Severe JB, Swanson JM, Wells KC, Wigal T, Vitiello B. Symptom profiles in children with ADHD: effects of comorbidity and gender. J Am Acad Child Adolesc Psychiatry. 2001 Feb;40(2):137-46.</citation>
+    <PMID>11214601</PMID>
+  </reference>
+  <reference>
+    <citation>Johnston C, Murray C, Hinshaw SP, William EP Jr, Hoza B. Responsiveness in interactions of mothers and sons with ADHD: relations to maternal and child characteristics. J Abnorm Child Psychol. 2002 Feb;30(1):77-88.</citation>
+    <PMID>11930974</PMID>
+  </reference>
+  <reference>
+    <citation>Arnold LE, Elliot M, Sachs L, Bird H, Kraemer HC, Wells KC, Abikoff HB, Comarda A, Conners CK, Elliott GR, Greenhill LL, Hechtman L, Hindshaw SP, Hoza B, Jensen PS, March JS, Newcorn JH, Pelham WE, Severe JB, Swanson JM, Vitiello B, Wigal T. Effects of ethnicity on treatment attendance, stimulant response/dose, and 14-month outcome in ADHD. J Consult Clin Psychol. 2003 Aug;71(4):713-27.</citation>
+    <PMID>12924677</PMID>
+  </reference>
+  <reference>
+    <citation>Hoza B, Gerdes AC, Hinshaw SP, Arnold LE, Pelham WE Jr, Molina BS, Abikoff HB, Epstein JN, Greenhill LL, Hechtman L, Odbert C, Swanson JM, Wigal T. Self-perceptions of competence in children with ADHD and comparison children. J Consult Clin Psychol. 2004 Jun;72(3):382-91.</citation>
+    <PMID>15279522</PMID>
+  </reference>
+  <reference>
+    <citation>MTA Cooperative Group. National Institute of Mental Health Multimodal Treatment Study of ADHD follow-up: 24-month outcomes of treatment strategies for attention-deficit/hyperactivity disorder. Pediatrics. 2004 Apr;113(4):754-61.</citation>
+    <PMID>15060224</PMID>
+  </reference>
+  <reference>
+    <citation>Newcorn, J. H. (2004). Comorbidity of ADHD and disruptive behavior disorders: Prevalence, impact, and management options. Drug Benefit Trends, 16(8), 431-436.</citation>
+  </reference>
+  <reference>
+    <citation>Galanter, C. A., Pagar, D. L., Davies, M., Li, W., Carlson, G. A., Abikoff, H. B., . . . Jensen, P. S. (2005). ADHD and manic symptoms: Diagnostic and treatment implications. Clinical Neuroscience Research, 5(5-6), 283-294.</citation>
+  </reference>
+  <reference>
+    <citation>Hechtman, L., Etcovitch, J., Platt, R., Arnold, L. E., Abikoff, H. B., Newcorn, J. H., . . . Wigal, T. (2005). Does multimodal treatment of ADHD decrease other diagnoses? Clinical Neuroscience Research, 5(5-6), 273-282.</citation>
+  </reference>
+  <reference>
+    <citation>Santosh, P. J., Taylor, E., Swanson, J., Wigal, T., Chuang, S., Davies, M., . . . Posner, M. (2005). Refining the diagnoses of inattention and overactivity syndromes: A reanalysis of the multimodal treatment study of attention deficit hyperactivity disorder (ADHD) based on ICD-10 criteria for hyperkinetic disorder. Clinical Neuroscience Research, 5(5-6), 307-314.</citation>
+  </reference>
+  <reference>
+    <citation>Hervey AS, Epstein JN, Curry JF, Tonev S, Eugene Arnold L, Keith Conners C, Hinshaw SP, Swanson JM, Hechtman L. Reaction time distribution analysis of neuropsychological performance in an ADHD sample. Child Neuropsychol. 2006 Apr;12(2):125-40.</citation>
+    <PMID>16754533</PMID>
+  </reference>
+  <reference>
+    <citation>Gerdes AC, Hoza B, Arnold LE, Hinshaw SP, Wells KC, Hechtman L, Greenhill LL, Swanson JM, Pelham WE, Wigal T. Child and parent predictors of perceptions of parent--child relationship quality. J Atten Disord. 2007 Jul;11(1):37-48.</citation>
+    <PMID>17606771</PMID>
+  </reference>
+  <reference>
+    <citation>Gerdes AC, Hoza B, Arnold LE, Pelham WE, Swanson JM, Wigal T, Jensen PS. Maternal depressive symptomatology and parenting behavior: exploration of possible mediators. J Abnorm Child Psychol. 2007 Oct;35(5):705-14. Epub 2007 Aug 3.</citation>
+    <PMID>17674187</PMID>
+  </reference>
+  <reference>
+    <citation>Hinshaw SP. Moderators and mediators of treatment outcome for youth with ADHD: understanding for whom and how interventions work. Ambul Pediatr. 2007 Jan-Feb;7(1 Suppl):91-100. Review.</citation>
+    <PMID>17261488</PMID>
+  </reference>
+  <reference>
+    <citation>Hinshaw SP. Moderators and mediators of treatment outcome for youth with ADHD: understanding for whom and how interventions work. J Pediatr Psychol. 2007 Jul;32(6):664-75. Epub 2007 Jan 29. Review.</citation>
+    <PMID>17264086</PMID>
+  </reference>
+  <reference>
+    <citation>Laforett DR, Murray DW, Kollins SH. Psychosocial treatments for preschool-aged children with Attention-Deficit Hyperactivity Disorder. Dev Disabil Res Rev. 2008;14(4):300-10. doi: 10.1002/ddrr.36. Review.</citation>
+    <PMID>19072758</PMID>
+  </reference>
+  <reference>
+    <citation>Langberg JM, Epstein JN, Altaye M, Molina BS, Arnold LE, Vitiello B. The transition to middle school is associated with changes in the developmental trajectory of ADHD symptomatology in young adolescents with ADHD. J Clin Child Adolesc Psychol. 2008 Jul;37(3):651-63. doi: 10.1080/15374410802148095.</citation>
+    <PMID>18645755</PMID>
+  </reference>
+  <reference>
+    <citation>Mrug S, Hoza B, Gerdes AC, Hinshaw S, Arnold LE, Hechtman L, Pelham WE. Discriminating between children with ADHD and classmates using peer variables. J Atten Disord. 2009 Jan;12(4):372-80. doi: 10.1177/1087054708314602. Epub 2008 Apr 3.</citation>
+    <PMID>18388251</PMID>
+  </reference>
+  <reference>
+    <citation>Jones HA, Epstein JN, Hinshaw SP, Owens EB, Chi TC, Arnold LE, Hoza B, Wells KC. Ethnicity as a moderator of treatment effects on parent--child interaction for children with ADHD. J Atten Disord. 2010 May;13(6):592-600. doi: 10.1177/1087054709332158. Epub 2009 Jun 16.</citation>
+    <PMID>19531810</PMID>
+  </reference>
+  <reference>
+    <citation>Langberg JM, Epstein JN, Simon JO, Loren RE, Arnold LE, Hechtman L, Hinshaw SP, Hoza B, Jensen PS, Pelham WE, Swanson JM, Wigal T. Parental Agreement on ADHD Symptom-Specific and Broadband Externalizing Ratings of Child Behavior. J Emot Behav Disord. 2010 Mar;18(1):41-50.</citation>
+    <PMID>21691457</PMID>
+  </reference>
+  <reference>
+    <citation>Mikami AY, Hinshaw SP, Arnold LE, Hoza B, Hechtman L, Newcorn JH, Abikoff HB. Bulimia nervosa symptoms in the multimodal treatment study of children with ADHD. Int J Eat Disord. 2010 Apr;43(3):248-59. doi: 10.1002/eat.20692.</citation>
+    <PMID>19378318</PMID>
+  </reference>
+  <reference>
+    <citation>Murray DW. Treatment of preschoolers with attention-deficit/hyperactivity disorder. Curr Psychiatry Rep. 2010 Oct;12(5):374-81. doi: 10.1007/s11920-010-0142-6. Review.</citation>
+    <PMID>20676944</PMID>
+  </reference>
+  <reference>
+    <citation>Rabiner DL, Murray DW, Rosen L, Hardy K, Skinner A, Underwood M. Instability in teacher ratings of children's inattentive symptoms: implications for the assessment of ADHD. J Dev Behav Pediatr. 2010 Apr;31(3):175-80. doi: 10.1097/DBP.0b013e3181d5a2d8.</citation>
+    <PMID>20305572</PMID>
+  </reference>
+  <reference>
+    <citation>Vaughn AJ, Epstein JN, Rausch J, Altaye M, Langberg J, Newcorn JH, Hinshaw SP, Hechtman L, Arnold LE, Swanson JM, Wigal T. Relation between outcomes on a continuous performance test and ADHD symptoms over time. J Abnorm Child Psychol. 2011 Aug;39(6):853-64. doi: 10.1007/s10802-011-9501-y.</citation>
+    <PMID>21476025</PMID>
+  </reference>
+  <reference>
+    <citation>Mrug S, Molina BS, Hoza B, Gerdes AC, Hinshaw SP, Hechtman L, Arnold LE. Peer rejection and friendships in children with Attention-Deficit/Hyperactivity Disorder: contributions to long-term outcomes. J Abnorm Child Psychol. 2012 Aug;40(6):1013-26. doi: 10.1007/s10802-012-9610-2.</citation>
+    <PMID>22331455</PMID>
+  </reference>
+  <reference>
+    <citation>Shaw M, Hodgkins P, Caci H, Young S, Kahle J, Woods AG, Arnold LE. A systematic review and analysis of long-term outcomes in attention deficit hyperactivity disorder: effects of treatment and non-treatment. BMC Med. 2012 Sep 4;10:99. doi: 10.1186/1741-7015-10-99. Review.</citation>
+    <PMID>22947230</PMID>
+  </reference>
+  <reference>
+    <citation>Vitiello B, Elliott GR, Swanson JM, Arnold LE, Hechtman L, Abikoff H, Molina BS, Wells K, Wigal T, Jensen PS, Greenhill LL, Kaltman JR, Severe JB, Odbert C, Hur K, Gibbons R. Blood pressure and heart rate over 10 years in the multimodal treatment study of children with ADHD. Am J Psychiatry. 2012 Feb;169(2):167-77. doi: 10.1176/appi.ajp.2011.10111705.</citation>
+    <PMID>21890793</PMID>
+  </reference>
+  <reference>
+    <citation>Owens EB, Hinshaw SP. Perinatal problems and psychiatric comorbidity among children with ADHD. J Clin Child Adolesc Psychol. 2013;42(6):762-8. doi: 10.1080/15374416.2013.785359. Epub 2013 Apr 14.</citation>
+    <PMID>23581554</PMID>
+  </reference>
+  <reference>
+    <citation>Greenfield B, Hechtman L, Stehli A, Wigal T. Sexual maturation among youth with ADHD and the impact of stimulant medication. Eur Child Adolesc Psychiatry. 2014 Sep;23(9):835-9. doi: 10.1007/s00787-014-0521-3. Epub 2014 Feb 2.</citation>
+    <PMID>24488239</PMID>
+  </reference>
+  <results_reference>
+    <citation>A 14-month randomized clinical trial of treatment strategies for attention-deficit/hyperactivity disorder. The MTA Cooperative Group. Multimodal Treatment Study of Children with ADHD. Arch Gen Psychiatry. 1999 Dec;56(12):1073-86.</citation>
+    <PMID>10591283</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Richters JE, Arnold LE, Jensen PS, Abikoff H, Conners CK, Greenhill LL, Hechtman L, Hinshaw SP, Pelham WE, Swanson JM. NIMH collaborative multisite multimodal treatment study of children with ADHD: I. Background and rationale. J Am Acad Child Adolesc Psychiatry. 1995 Aug;34(8):987-1000. Review.</citation>
+    <PMID>7665456</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Greenhill LL, Abikoff HB, Arnold LE, Cantwell DP, Conners CK, Elliott G, Hechtman L, Hinshaw SP, Hoza B, Jensen PS, March JS, Newcorn J, Pelham WE, Severe JB, Swanson JM, Vitiello B, Wells K. Medication treatment strategies in the MTA Study: relevance to clinicians and researchers. J Am Acad Child Adolesc Psychiatry. 1996 Oct;35(10):1304-13.</citation>
+    <PMID>8885584</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Arnold, L. E., Abikoff, H. B., Cantwell, D. P., Conners, C. K., Elliott, G. R., Greenhill, L. L.,Hechtman, L., Hinshaw, S.P., Hoza B., Jensen, P.S., Kraemer, H.C, March, J.S., Newcorn, J.H., Pelham, W.E., Richters, J.E., Schiller, E., Severe, J.B., Swanson, J.M., Vereen, D., Wells, K.C. (1997). NIMH collaborative multimodal treatment study of children with ADHD (MTA): Design, methodology, and protocol evolution. Journal of Attention Disorders, 2(3), 141-158.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Arnold LE, Abikoff HB, Cantwell DP, Conners CK, Elliott G, Greenhill LL, Hechtman L, Hinshaw SP, Hoza B, Jensen PS, Kraemer HC, March JS, Newcorn JH, Pelham WE, Richters JE, Schiller E, Severe JB, Swanson JM, Vereen D, Wells KC. National Institute of Mental Health Collaborative Multimodal Treatment Study of Children with ADHD (the MTA). Design challenges and choices. Arch Gen Psychiatry. 1997 Sep;54(9):865-70.</citation>
+    <PMID>9294378</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hinshaw, S. P., March, J. S., Abikoff, H., Arnold, L. E., Cantwell, D. P., Conners, C. K., . . . Wigal, T. (1997). Comprehensive assessment of childhood attention-deficit hyperactivity disorder in the context of a multisite, multimodal clinical trial. Journal of Attention Disorders, 1(4), 217-234.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Moderators and mediators of treatment response for children with attention-deficit/hyperactivity disorder: the Multimodal Treatment Study of children with Attention-deficit/hyperactivity disorder. Arch Gen Psychiatry. 1999 Dec;56(12):1088-96.</citation>
+    <PMID>10591284</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Jensen PS. Fact versus fancy concerning the multimodal treatment study for attention-deficit hyperactivity disorder. Can J Psychiatry. 1999 Dec;44(10):975-80. Review.</citation>
+    <PMID>10637676</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Pelham WE Jr. The NIMH multimodal treatment study for attention-deficit hyperactivity disorder: just say yes to drugs alone? Can J Psychiatry. 1999 Dec;44(10):981-90. Review.</citation>
+    <PMID>10637677</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hinshaw SP, Owens EB, Wells KC, Kraemer HC, Abikoff HB, Arnold LE, Conners CK, Elliott G, Greenhill LL, Hechtman L, Hoza B, Jensen PS, March JS, Newcorn JH, Pelham WE, Swanson JM, Vitiello B, Wigal T. Family processes and treatment outcome in the MTA: negative/ineffective parenting practices in relation to multimodal treatment. J Abnorm Child Psychol. 2000 Dec;28(6):555-68.</citation>
+    <PMID>11104317</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>March JS, Swanson JM, Arnold LE, Hoza B, Conners CK, Hinshaw SP, Hechtman L, Kraemer HC, Greenhill LL, Abikoff HB, Elliott LG, Jensen PS, Newcorn JH, Vitiello B, Severe J, Wells KC, Pelham WE. Anxiety as a predictor and outcome variable in the multimodal treatment study of children with ADHD (MTA). J Abnorm Child Psychol. 2000 Dec;28(6):527-41.</citation>
+    <PMID>11104315</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wells KC, Pelham WE, Kotkin RA, Hoza B, Abikoff HB, Abramowitz A, Arnold LE, Cantwell DP, Conners CK, Del Carmen R, Elliott G, Greenhill LL, Hechtman L, Hibbs E, Hinshaw SP, Jensen PS, March JS, Swanson JM, Schiller E. Psychosocial treatment strategies in the MTA study: rationale, methods, and critical issues in design and implementation. J Abnorm Child Psychol. 2000 Dec;28(6):483-505.</citation>
+    <PMID>11104313</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Conners CK, Epstein JN, March JS, Angold A, Wells KC, Klaric J, Swanson JM, Arnold LE, Abikoff HB, Elliott GR, Greenhill LL, Hechtman L, Hinshaw SP, Hoza B, Jensen PS, Kraemer HC, Newcorn JH, Pelham WE, Severe JB, Vitiello B, Wigal T. Multimodal treatment of ADHD in the MTA: an alternative outcome analysis. J Am Acad Child Adolesc Psychiatry. 2001 Feb;40(2):159-67.</citation>
+    <PMID>11211364</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Greenhill LL, Swanson JM, Vitiello B, Davies M, Clevenger W, Wu M, Arnold LE, Abikoff HB, Bukstein OG, Conners CK, Elliott GR, Hechtman L, Hinshaw SP, Hoza B, Jensen PS, Kraemer HC, March JS, Newcorn JH, Severe JB, Wells K, Wigal T. Impairment and deportment responses to different methylphenidate doses in children with ADHD: the MTA titration trial. J Am Acad Child Adolesc Psychiatry. 2001 Feb;40(2):180-7.</citation>
+    <PMID>11211366</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Jensen PS, Hinshaw SP, Kraemer HC, Lenora N, Newcorn JH, Abikoff HB, March JS, Arnold LE, Cantwell DP, Conners CK, Elliott GR, Greenhill LL, Hechtman L, Hoza B, Pelham WE, Severe JB, Swanson JM, Wells KC, Wigal T, Vitiello B. ADHD comorbidity findings from the MTA study: comparing comorbid subgroups. J Am Acad Child Adolesc Psychiatry. 2001 Feb;40(2):147-58.</citation>
+    <PMID>11211363</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Swanson JM, Kraemer HC, Hinshaw SP, Arnold LE, Conners CK, Abikoff HB, Clevenger W, Davies M, Elliott GR, Greenhill LL, Hechtman L, Hoza B, Jensen PS, March JS, Newcorn JH, Owens EB, Pelham WE, Schiller E, Severe JB, Simpson S, Vitiello B, Wells K, Wigal T, Wu M. Clinical relevance of the primary findings of the MTA: success rates based on severity of ADHD and ODD symptoms at the end of treatment. J Am Acad Child Adolesc Psychiatry. 2001 Feb;40(2):168-79.</citation>
+    <PMID>11211365</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Vitiello B, Severe JB, Greenhill LL, Arnold LE, Abikoff HB, Bukstein OG, Elliott GR, Hechtman L, Jensen PS, Hinshaw SP, March JS, Newcorn JH, Swanson JM, Cantwell DP. Methylphenidate dosage for children with ADHD over time under controlled conditions: lessons from the MTA. J Am Acad Child Adolesc Psychiatry. 2001 Feb;40(2):188-96.</citation>
+    <PMID>11211367</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wells KC. Comprehensive versus matched psychosocial treatment in the MTA study: conceptual and empirical issues. J Clin Child Psychol. 2001 Mar;30(1):131-5.</citation>
+    <PMID>11294072</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Abikoff H, Arnold LE, Newcorn JH, Elliott GR, Hechtman L, Severe JB, Wigal T, Shapiro C, Cantwell DP, Conners CK, Greenhill LL, Hinshaw SP, Hoza B, Jensen PS, Kraemer HC, March JS, Pelham WE, Swanson JM, Vitiello B, Wells KC. Emergency/Adjunct services and attrition prevention for randomized clinical trials in children: the MTA manual-based solution. J Am Acad Child Adolesc Psychiatry. 2002 May;41(5):498-504.</citation>
+    <PMID>12014781</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Swanson JM, Arnold LE, Vitiello B, Abikoff HB, Wells KC, Pelham WE, March JS, Hinshaw SP, Hoza B, Epstein JN, Elliott GR, Greenhill LL, Hechtman L, Jensen PS, Kraemer HC, Kotkin R, Molina B, Newcorn JH, Owens EB, Severe J, Hoagwood K, Simpson S, Wigal T, Hanley T; MTA Group. Multimodal Treatment of Children with Attention Deficit Hyperactivity Disorder. Response to commentary on the multimodal treatment study of ADHD (MTA): mining the meaning of the MTA. J Abnorm Child Psychol. 2002 Aug;30(4):327-32.</citation>
+    <PMID>12108764</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Galanter CA, Carlson GA, Jensen PS, Greenhill LL, Davies M, Li W, Chuang SZ, Elliott GR, Arnold LE, March JS, Hechtman L, Pelham WE, Swanson JM. Response to methylphenidate in children with attention deficit hyperactivity disorder and manic symptoms in the multimodal treatment study of children with attention deficit hyperactivity disorder titration trial. J Child Adolesc Psychopharmacol. 2003 Summer;13(2):123-36.</citation>
+    <PMID>12880507</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Owens EB, Hinshaw SP, Kraemer HC, Arnold LE, Abikoff HB, Cantwell DP, Conners CK, Elliott G, Greenhill LL, Hechtman L, Hoza B, Jensen PS, March JS, Newcorn JH, Pelham WE, Severe JB, Swanson JM, Vitiello B, Wells KC, Wigal T. Which treatment for whom for ADHD? Moderators of treatment response in the MTA. J Consult Clin Psychol. 2003 Jun;71(3):540-52.</citation>
+    <PMID>12795577</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Arnold LE, Chuang S, Davies M, Abikoff HB, Conners CK, Elliott GR, Greenhill LL, Hechtman L, Hinshaw SP, Hoza B, Jensen PS, Kraemer HC, Langworthy-Lam KS, March JS, Newcorn JH, Pelham WE, Severe JB, Swanson JM, Vitiello B, Wells KC, Wigal T. Nine months of multicomponent behavioral treatment for ADHD and effectiveness of MTA fading procedures. J Abnorm Child Psychol. 2004 Feb;32(1):39-51.</citation>
+    <PMID>14998110</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>MTA Cooperative Group. National Institute of Mental Health Multimodal Treatment Study of ADHD follow-up: changes in effectiveness and growth after the end of treatment. Pediatrics. 2004 Apr;113(4):762-9.</citation>
+    <PMID>15060225</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Arnold, L. E., Elliott, M., Lindsay, R. L., Molina, B., Cornelius, M. D., Vitiello, B., . . . Wells, K. (2005). Gestational and postnatal tobacco smoke exposure as predictor of ADHD, comorbid ODD/CD, and treatment response in the MTA. Clinical Neuroscience Research, 5(5-6), 295-306.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Hoza B, Gerdes AC, Mrug S, Hinshaw SP, Bukowski WM, Gold JA, Arnold LE, Abikoff HB, Conners CK, Elliott GR, Greenhill LL, Hechtman L, Jensen PS, Kraemer HC, March JS, Newcorn JH, Severe JB, Swanson JM, Vitiello B, Wells KC, Wigal T. Peer-assessed outcomes in the multimodal treatment study of children with attention deficit hyperactivity disorder. J Clin Child Adolesc Psychol. 2005 Mar;34(1):74-86.</citation>
+    <PMID>15677282</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Jensen PS, Garcia JA, Glied S, Crowe M, Foster M, Schlander M, Hinshaw S, Vitiello B, Arnold LE, Elliott G, Hechtman L, Newcorn JH, Pelham WE, Swanson J, Wells K. Cost-effectiveness of ADHD treatments: findings from the multimodal treatment study of children with ADHD. Am J Psychiatry. 2005 Sep;162(9):1628-36.</citation>
+    <PMID>16135621</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Epstein JN, Conners CK, Hervey AS, Tonev ST, Arnold LE, Abikoff HB, Elliott G, Greenhill LL, Hechtman L, Hoagwood K, Hinshaw SP, Hoza B, Jensen PS, March JS, Newcorn JH, Pelham WE, Severe JB, Swanson JM, Wells K, Vitiello B, Wigal T; MTA Cooperative Study Group. Assessing medication effects in the MTA study using neuropsychological outcomes. J Child Psychol Psychiatry. 2006 May;47(5):446-56.</citation>
+    <PMID>16671928</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wells KC, Chi TC, Hinshaw SP, Epstein JN, Pfiffner L, Nebel-Schwalm M, Owens EB, Arnold LE, Abikoff HB, Conners CK, Elliott GR, Greenhill LL, Hechtman L, Hoza B, Jensen PS, March J, Newcorn JH, Pelham WE, Severe JB, Swanson J, Vitiello B, Wigal T. Treatment-related changes in objectively measured parenting behaviors in the multimodal treatment study of children with attention-deficit/hyperactivity disorder. J Consult Clin Psychol. 2006 Aug;74(4):649-57.</citation>
+    <PMID>16881772</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hoza B, Kaiser NM, Hurt E. Multimodal treatments for childhood attention-deficit/hyperactivity disorder: interpreting outcomes in the context of study designs. Clin Child Fam Psychol Rev. 2007 Dec;10(4):318-34. Review.</citation>
+    <PMID>17710545</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Jensen PS, Arnold LE, Swanson JM, Vitiello B, Abikoff HB, Greenhill LL, Hechtman L, Hinshaw SP, Pelham WE, Wells KC, Conners CK, Elliott GR, Epstein JN, Hoza B, March JS, Molina BS, Newcorn JH, Severe JB, Wigal T, Gibbons RD, Hur K. 3-year follow-up of the NIMH MTA study. J Am Acad Child Adolesc Psychiatry. 2007 Aug;46(8):989-1002.</citation>
+    <PMID>17667478</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Molina BS, Flory K, Hinshaw SP, Greiner AR, Arnold LE, Swanson JM, Hechtman L, Jensen PS, Vitiello B, Hoza B, Pelham WE, Elliott GR, Wells KC, Abikoff HB, Gibbons RD, Marcus S, Conners CK, Epstein JN, Greenhill LL, March JS, Newcorn JH, Severe JB, Wigal T. Delinquent behavior and emerging substance use in the MTA at 36 months: prevalence, course, and treatment effects. J Am Acad Child Adolesc Psychiatry. 2007 Aug;46(8):1028-40.</citation>
+    <PMID>17667481</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Stevens J, Kelleher K, Greenhouse J, Chen G, Xiang H, Kaizar E, Jensen PS, Arnold LE. Empirical evaluation of the generalizability of the sample from the multimodal treatment study for ADHD. Adm Policy Ment Health. 2007 May;34(3):221-32. Epub 2006 Oct 20.</citation>
+    <PMID>17053977</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Swanson JM, Elliott GR, Greenhill LL, Wigal T, Arnold LE, Vitiello B, Hechtman L, Epstein JN, Pelham WE, Abikoff HB, Newcorn JH, Molina BS, Hinshaw SP, Wells KC, Hoza B, Jensen PS, Gibbons RD, Hur K, Stehli A, Davies M, March JS, Conners CK, Caron M, Volkow ND. Effects of stimulant medication on growth rates across 3 years in the MTA follow-up. J Am Acad Child Adolesc Psychiatry. 2007 Aug;46(8):1015-27.</citation>
+    <PMID>17667480</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Swanson JM, Hinshaw SP, Arnold LE, Gibbons RD, Marcus S, Hur K, Jensen PS, Vitiello B, Abikoff HB, Greenhill LL, Hechtman L, Pelham WE, Wells KC, Conners CK, March JS, Elliott GR, Epstein JN, Hoagwood K, Hoza B, Molina BS, Newcorn JH, Severe JB, Wigal T. Secondary evaluations of MTA 36-month outcomes: propensity score and growth mixture model analyses. J Am Acad Child Adolesc Psychiatry. 2007 Aug;46(8):1003-14.</citation>
+    <PMID>17667479</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Swanson J, Arnold LE, Kraemer H, Hechtman L, Molina B, Hinshaw S, Vitiello B, Jensen P, Steinhoff K, Lerner M, Greenhill L, Abikoff H, Wells K, Epstein J, Elliott G, Newcorn J, Hoza B, Wigal T; MTA Cooperative Group. Evidence, interpretation, and qualification from multiple reports of long-term outcomes in the Multimodal Treatment study of Children With ADHD (MTA): part I: executive summary. J Atten Disord. 2008 Jul;12(1):4-14. doi: 10.1177/1087054708319345.</citation>
+    <PMID>18573923</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Swanson J, Arnold LE, Kraemer H, Hechtman L, Molina B, Hinshaw S, Vitiello B, Jensen P, Steinhoff K, Lerner M, Greenhill L, Abikoff H, Wells K, Epstein J, Elliott G, Newcorn J, Hoza B, Wigal T; MTA Cooperative Group. Evidence, interpretation, and qualification from multiple reports of long-term outcomes in the Multimodal Treatment Study of children with ADHD (MTA): Part II: supporting details. J Atten Disord. 2008 Jul;12(1):15-43. doi: 10.1177/1087054708319525.</citation>
+    <PMID>18573924</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Pappadopulos E, Jensen PS, Chait AR, Arnold LE, Swanson JM, Greenhill LL, Hechtman L, Chuang S, Wells KC, Pelham W, Cooper T, Elliott G, Newcorn JH. Medication adherence in the MTA: saliva methylphenidate samples versus parent report and mediating effect of concomitant behavioral treatment. J Am Acad Child Adolesc Psychiatry. 2009 May;48(5):501-10. doi: 10.1097/CHI.0b013e31819c23ed.</citation>
+    <PMID>19307987</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Molina BS, Hinshaw SP, Swanson JM, Arnold LE, Vitiello B, Jensen PS, Epstein JN, Hoza B, Hechtman L, Abikoff HB, Elliott GR, Greenhill LL, Newcorn JH, Wells KC, Wigal T, Gibbons RD, Hur K, Houck PR; MTA Cooperative Group. The MTA at 8 years: prospective follow-up of children treated for combined-type ADHD in a multisite study. J Am Acad Child Adolesc Psychiatry. 2009 May;48(5):484-500. doi: 10.1097/CHI.0b013e31819c23d0.</citation>
+    <PMID>19318991</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Langberg JM, Arnold LE, Flowers AM, Epstein JN, Altaye M, Hinshaw SP, Swanson JM, Kotkin R, Simpson S, Molina BS, Jensen PS, Abikoff H, Pelham WE Jr, Vitiello B, Wells KC, Hechtman L. Parent-reported homework problems in the MTA study: evidence for sustained improvement with behavioral treatment. J Clin Child Adolesc Psychol. 2010;39(2):220-33. doi: 10.1080/15374410903532700.</citation>
+    <PMID>20390813</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Murray-Close D, Hoza B, Hinshaw SP, Arnold LE, Swanson J, Jensen PS, Hechtman L, Wells K. Developmental processes in peer problems of children with attention-deficit/hyperactivity disorder in the Multimodal Treatment Study of Children With ADHD: developmental cascades and vicious cycles. Dev Psychopathol. 2010 Nov;22(4):785-802. doi: 10.1017/S0954579410000465. Erratum in: Dev Psychopathol. 2014 Feb;26(1):287.</citation>
+    <PMID>20883582</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hoza B, McQuade JD, Murray-Close D, Shoulberg E, Molina BS, Arnold LE, Swanson J, Hechtman L. Does childhood positive self-perceptual bias mediate adolescent risky behavior in youth from the MTA study? J Consult Clin Psychol. 2013 Oct;81(5):846-58. doi: 10.1037/a0033536. Epub 2013 Jul 8.</citation>
+    <PMID>23834228</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Molina BS, Hinshaw SP, Eugene Arnold L, Swanson JM, Pelham WE, Hechtman L, Hoza B, Epstein JN, Wigal T, Abikoff HB, Greenhill LL, Jensen PS, Wells KC, Vitiello B, Gibbons RD, Howard A, Houck PR, Hur K, Lu B, Marcus S; MTA Cooperative Group. Adolescent substance use in the multimodal treatment study of attention-deficit/hyperactivity disorder (ADHD) (MTA) as a function of childhood ADHD, random assignment to childhood treatments, and subsequent medication. J Am Acad Child Adolesc Psychiatry. 2013 Mar;52(3):250-63. doi: 10.1016/j.jaac.2012.12.014. Epub 2013 Feb 8.</citation>
+    <PMID>23452682</PMID>
+  </results_reference>
+  <verification_date>September 2015</verification_date>
+  <lastchanged_date>September 28, 2015</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Attention Deficit Disorder with Hyperactivity</keyword>
+  <keyword>Adolescence</keyword>
+  <keyword>Child</keyword>
+  <keyword>Cognition</keyword>
+  <keyword>Combined Modality Therapy</keyword>
+  <keyword>Female</keyword>
+  <keyword>Human</keyword>
+  <keyword>Male</keyword>
+  <keyword>Peer Group</keyword>
+  <keyword>Risk Factors</keyword>
+  <keyword>Treatment Outcome</keyword>
+  <keyword>Attention Deficit Disorder with Hyperactivity -- *therapy</keyword>
+  <keyword>Attention Deficit Disorder with Hyperactivity -- drug therapy</keyword>
+  <keyword>Attention Deficit Disorder with Hyperactivity -- psychology</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Attention Deficit Disorder with Hyperactivity</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Hyperkinesis</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

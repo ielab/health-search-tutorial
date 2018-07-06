@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204383">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000594</url>
+  </required_header>
+  <id_info>
+    <org_study_id>400</org_study_id>
+    <nct_id>NCT00000594</nct_id>
+  </id_info>
+  <brief_title>NHLBI Type II Coronary Intervention Study</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether lowering of cholesterol with cholestyramine in a population with Type
+      II hyperlipidemia led to a decreased rate of progression (a regression of coronary artery
+      disease) as demonstrated by death, myocardial infarction, or progression of disease on
+      angiography.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      There is overwhelming evidence that increased cholesterol levels are associated with
+      increased risk of cardiovascular disease. This study examined whether lowering of
+      cholesterol through drug therapy in people who had coronary artery disease as determined by
+      angiography led to regression of the disease, again as indicated by angiography and
+      reduction in mortality or nonfatal myocardial infarction. The study should be contrasted
+      with the Coronary Primary Prevention Trial (CPPT), which determined whether lowering
+      cholesterol through a combination of drug and diet therapy resulted in decreased
+      cardiovascular mortality. It should be noted that patients in the CPPT did not have known
+      preexisting coronary heart disease.
+
+      DESIGN NARRATIVE:
+
+      A randomized, double-blind trial, with single experimental and control groups. The
+      experimental group received drug therapy (cholestyramine); the control group received
+      placebo. Both groups received diet therapy. The endpoints were a significant difference in
+      the progression of coronary disease as shown by angiography or a significant difference in
+      new myocardial infarction or death. Patients were followed under therapy for at least 5
+      years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 1971</start_date>
+  <completion_date type="Actual">November 1976</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypercholesterolemia, Familial</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cholestyramine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with angiographically demonstrated coronary artery disease.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Brensike</last_name>
+    <affiliation>Cardiology Branch, NHLBI</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Borer JS, Brensike JF, Redwood DR, Itscoitz SB, Passamani ER, Stone NJ, Richardson JM, Levy RI, Epstein SE. Limitations of the electrocardiographic response to exercise in predicting coronary-artery disease. N Engl J Med. 1975 Aug 21;293(8):367-71.</citation>
+    <PMID>168493</PMID>
+  </reference>
+  <reference>
+    <citation>Belmaker RH, Pollin W, Jenkins CD, Brensike J. Coronary prone behavior pattern in a sample of type II hypercholesteremic patients. J Psychosom Res. 1976;20(6):591-4.</citation>
+    <PMID>190398</PMID>
+  </reference>
+  <reference>
+    <citation>Aldrich RF, Brensike JF, Battaglini JW, Richardson JM, Loh IK, Stone NJ, Passamani ER, Ackerstein H, Seningen R, Borer JS, Levy RI, Epstein SE. Coronary calcifications in the detection of coronary artery disease and comparison with electrocardiographic exercise testing. Results from the National Heart, Lung, and Blood Institute's type II coronary intervention study. Circulation. 1979 Jun;59(6):1113-24.</citation>
+    <PMID>582024</PMID>
+  </reference>
+  <reference>
+    <citation>Brensike JF, Kelsey SF, Passamani ER, Fisher MR, Richardson JM, Loh IK, Stone NJ, Aldrich RF, Battaglini JW, Moriarty DJ, Myrianthopoulos MB, Detre KM, Epstein SE, Levy RI. National Heart, Lung, and Blood Institute type II Coronary Intervention Study: design, methods, and baseline characteristics. Control Clin Trials. 1982 Jun;3(2):91-111.</citation>
+    <PMID>6749427</PMID>
+  </reference>
+  <reference>
+    <citation>Brensike JF, Levy RI, Kelsey SF, Passamani ER, Richardson JM, Loh IK, Stone NJ, Aldrich RF, Battaglini JW, Moriarty DJ, et al. Effects of therapy with cholestyramine on progression of coronary arteriosclerosis: results of the NHLBI Type II Coronary Intervention Study. Circulation. 1984 Feb;69(2):313-24.</citation>
+    <PMID>6360414</PMID>
+  </reference>
+  <reference>
+    <citation>Levy RI, Brensike JF, Epstein SE, Kelsey SF, Passamani ER, Richardson JM, Loh IK, Stone NJ, Aldrich RF, Battaglini JW, et al. The influence of changes in lipid values induced by cholestyramine and diet on progression of coronary artery disease: results of NHLBI Type II Coronary Intervention Study. Circulation. 1984 Feb;69(2):325-37.</citation>
+    <PMID>6360415</PMID>
+  </reference>
+  <reference>
+    <citation>Brown BG, Lin JT, Kelsey S, Passamani ER, Levy RI, Dodge HT, Detre KM. Progression of coronary atherosclerosis in patients with probable familial hypercholesterolemia. Quantitative arteriographic assessment of patients in NHLBI type II study. Arteriosclerosis. 1989 Jan-Feb;9(1 Suppl):I81-90.</citation>
+    <PMID>2912435</PMID>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>April 26, 2012</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Hypercholesterolemia</mesh_term>
+    <mesh_term>Hyperlipoproteinemia Type II</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

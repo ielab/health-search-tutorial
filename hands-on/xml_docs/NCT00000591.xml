@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204386">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000591</url>
+  </required_header>
+  <id_info>
+    <org_study_id>311</org_study_id>
+    <nct_id>NCT00000591</nct_id>
+  </id_info>
+  <brief_title>T-Cell Depletion in Unrelated Donor Marrow Transplantation</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine if a reduction in morbidity and mortality from acute and chronic graft versus
+      host disease (GvHD) can be achieved through use of T-cell depletion techniques without a
+      counterbalancing increase in relapse of leukemia in patients receiving an unrelated donor
+      marrow transplant.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Allogeneic bone marrow transplantation is an accepted therapeutic option for many
+      hematologic, immunologic, and malignant diseases, including chronic myelocytic leukemia and
+      acute leukemia during or after first relapse (second remission). In order to maximize the
+      chance for a successful transplant, it is desirable that the donor and the recipient share
+      the same Human Leukocyte Antigen (HLA) histocompatibility antigens. Because of the Mendelian
+      inheritance of HLA antigens, the chances of finding a match are much greater among relatives
+      than in the general population. However, only about 30 percent of patients needing a
+      transplant have a matched sibling. Thus a transplant from an HLA-matched unrelated donor may
+      be an important alternative for these patients.
+
+      Graft versus host disease is a frequent and severe complication of marrow transplantation.
+      Acute GvHD typically occurs within three months after transplantation and is characterized
+      by skin rash, liver dysfunction, and diarrhea. Although the pathophysiology of this disease
+      is not fully defined in humans, data from animal studies suggest that it is mediated by
+      mature donor T cells that react against disparate recipient histocompatibility antigens.
+
+      One treatment modality that ameliorates or prevents GvHD following allogeneic marrow
+      transplantation is T cell-depletion of donor marrow before infusion into the recipient. T
+      cell-depletion can be divided into physical methods such as separation by elutriation or
+      sheep cell rosetting, and immunologic methods which use a T cell-specific antibody(ies) plus
+      complement or toxin to kill the cells. These different techniques may remove a subpopulation
+      of T cells, all T cells, or T cells plus other cell types such as B cells or natural killer
+      (NK) cells. The number of stem cells transferred may also be affected.
+
+      Unfortunately, in many of the published studies conducted in patients receiving transplants
+      from HLA-matched siblings, T cell-depletion used to prevent or treat GvHD increased the
+      chances of other complications, namely graft failure and leukemia relapse. This is not
+      surprising in light of studies of patients with both early and advanced leukemias that
+      demonstrated a decreased risk of relapse associated with acute and/or chronic GvHD. Because
+      the net effect of these opposing consequences of T cell-depletion on leukemia-free survival
+      in related donor transplants is generally unfavorable, T cell-depletion for related donor
+      marrow transplantation is controversial. The utility of T-cell depletion in unrelated-donor
+      transplants needs to be determined.
+
+      The initiative grew out of increasing concern on the part of Institute staff, the bone
+      marrow transplantation community, and members of Congress that graft versus host disease is
+      so frequent and severe a complication of unrelated donor transplants that it has become a
+      limiting factor in their outcome. The initiative was given concept clearance by the May 1992
+      National Heart, Lung, and Blood Advisory Council and released in January 1993.
+
+      DESIGN NARRATIVE:
+
+      The primary endpoint of this trial was disease free survival at three years post transplant.
+      Secondary endpoints included overall survival, incidence of GvHD, graft failure, infections
+      and other complications, and time to disease relapse. The covariates considered included age
+      of recipient, disease risk status, interval between diagnosis and transplant, disease type,
+      age and gender of donor, post-transplant chimerism, pre-transplant Karnofsky score, and
+      other measures of performance status. An economic analysis was performed.
+
+      Patients were randomly assigned to receive either a T-cell depleted or a non-depleted
+      transplant. Two methods of T-cell depletion were in use: an anti-CD3 monoclonal antibody,
+      T10B9, plus complement, or counterflow elutriation plus the Ceprate column. Each method of
+      T-depletion was part of a package that included a specific pre-transplant conditioning
+      regimen and additional GvHD prophylaxis. Patients randomized to the non-T-cell depleted arm
+      received a conditioning regimen containing cyclophosphamide and total body irradiation, and
+      a GvHD prophylaxis regimen of cyclosporin and methotrexate. A total of 410 patients were
+      enrolled. Enrollment ended October 31, 2000.
+
+      A total of 14 transplant centers participated in the study, Follow-up ended in April 2002.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 1993</start_date>
+  <completion_date>February 2005</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Bone Marrow Transplantation</condition>
+  <condition>Graft Vs Host Disease</condition>
+  <condition>Immunologic Diseases</condition>
+  <condition>Leukemia</condition>
+  <condition>Myelodysplastic Syndromes</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>lymphocyte depletion</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        No eligibility criteria
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shelly Carter</last_name>
+    <affiliation>The EMMES Corporation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Wagner</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Howe C, Wagner J, Kerman N, et al. 1995. T-cell Depletion in Unrelated-donor Marrow Transplantation. Blood 391a (abstract).</citation>
+  </reference>
+  <reference>
+    <citation>Grewal SS, Barker JN, Davies SM, Wagner JE. Unrelated donor hematopoietic cell transplantation: marrow or umbilical cord blood? Blood. 2003 Jun 1;101(11):4233-44. Epub 2003 Jan 9. Review.</citation>
+    <PMID>12522002</PMID>
+  </reference>
+  <reference>
+    <citation>Davies SM, Radloff GA, Wagner JE, McGlennen R, Kersey JH, Ramsay NK. Polyclonal engraftment after unrelated donor bone marrow and cord blood transplantation. Biol Blood Marrow Transplant. 1997 Dec;3(6):304-9.</citation>
+    <PMID>9502297</PMID>
+  </reference>
+  <reference>
+    <citation>Davies SM, Wagner JE, Defor T, Blazar BR, Katsanis E, Kersey JH, Orchard PJ, McGlave PB, Weisdorf DJ, Ramsay NK. Unrelated donor bone marrow transplantation for children and adolescents with aplastic anaemia or myelodysplasia. Br J Haematol. 1997 Mar;96(4):749-56.</citation>
+    <PMID>9074418</PMID>
+  </reference>
+  <reference>
+    <citation>Davies SM, Wagner JE, Weisdorf DJ, Shu XO, Blazar BR, Enright H, McGlave PB, Ramsay NK. Unrelated donor bone marrow transplantation for hematological malignancies-current status. Leuk Lymphoma. 1996 Oct;23(3-4):221-6. Review.</citation>
+    <PMID>9031102</PMID>
+  </reference>
+  <reference>
+    <citation>Pawlowska AB, Davies SM, Orchard PJ, Wagner JE, Ramsay NK. Unrelated donor bone marrow transplantation for acute leukemia in patients with Down's syndrome. Bone Marrow Transplant. 1996 Aug;18(2):453-5.</citation>
+    <PMID>8864463</PMID>
+  </reference>
+  <reference>
+    <citation>Davies SM, Szabo E, Wagner JE, Ramsay NK, Weisdorf DJ. Idiopathic hyperammonemia: a frequently lethal complication of bone marrow transplantation. Bone Marrow Transplant. 1996 Jun;17(6):1119-25.</citation>
+    <PMID>8807124</PMID>
+  </reference>
+  <reference>
+    <citation>Davies SM, Khan S, Wagner JE, Arthur DC, Auerbach AD, Ramsay NK, Weisdorf DJ. Unrelated donor bone marrow transplantation for Fanconi anemia. Bone Marrow Transplant. 1996 Jan;17(1):43-7.</citation>
+    <PMID>8673053</PMID>
+  </reference>
+  <reference>
+    <citation>Pavletic SZ, Carter SL, Kernan NA, Henslee-Downey J, Mendizabal AM, Papadopoulos E, Gingrich R, Casper J, Yanovich S, Weisdorf D; National Heart, Lung, and Blood Institute Unrelated Donor Marrow Transplantation Trial. Influence of T-cell depletion on chronic graft-versus-host disease: results of a multicenter randomized trial in unrelated marrow donor transplantation. Blood. 2005 Nov 1;106(9):3308-13. Epub 2005 Jul 26.</citation>
+    <PMID>16046530</PMID>
+  </reference>
+  <reference>
+    <citation>de Lissovoy G, Hurd D, Carter S, Beatty P, Ewell M, Henslee-Downey J, Kernan N, Yanovich S, Weisdorf D. Economic analysis of unrelated allogeneic bone marrow transplantation: results from the randomized clinical trial of T-cell depletion vs unmanipulated grafts for the prevention of graft-versus-host disease. Bone Marrow Transplant. 2005 Sep;36(6):539-46.</citation>
+    <PMID>16044144</PMID>
+  </reference>
+  <reference>
+    <citation>McCullough J, McKenna D, Kadidlo D, Schierman T, Wagner J. Issues in the quality of umbilical cord blood stem cells for transplantation. Transfusion. 2005 Jun;45(6):832-41.</citation>
+    <PMID>15934980</PMID>
+  </reference>
+  <reference>
+    <citation>Wagner JE, Thompson JS, Carter SL, Kernan NA; Unrelated Donor Marrow Transplantation Trial. Effect of graft-versus-host disease prophylaxis on 3-year disease-free survival in recipients of unrelated donor bone marrow (T-cell Depletion Trial): a multi-centre, randomised phase II-III trial. Lancet. 2005 Aug 27-Sep 2;366(9487):733-41.</citation>
+    <PMID>16125590</PMID>
+  </reference>
+  <verification_date>November 2005</verification_date>
+  <lastchanged_date>November 10, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Graft vs Host Disease</mesh_term>
+    <mesh_term>Immune System Diseases</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Preleukemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

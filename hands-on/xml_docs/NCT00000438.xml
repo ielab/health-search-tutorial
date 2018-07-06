@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204538">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000438</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAAMCC11855</org_study_id>
+    <secondary_id>R01AA011855</secondary_id>
+    <nct_id>NCT00000438</nct_id>
+  </id_info>
+  <brief_title>Naltrexone Treatment for Alcoholism</brief_title>
+  <official_title>Naltrexone Treatment for Alcoholism: Predicting Outcome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the effectiveness of the medication naltrexone (Revia) for treating
+      alcoholism. Individuals will be inpatients for a 2 week period and provide assessments of
+      their alcohol withdrawal symptoms, craving, and mood. Following hospital discharge,
+      individuals will be assigned randomly to receive naltrexone daily, naltrexone twice a day or
+      a placebo. This part of the study will last 12 weeks, with regular measurements of drinking
+      level, craving and mood. Assessments will be conducted 6 and 12 months after the beginning
+      of the study.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <completion_date>March 2003</completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Primary Purpose: Treatment</study_design>
+  <enrollment>192</enrollment>
+  <condition>Alcoholism</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>naltrexone (Revia)</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets criteria for alcohol dependence.
+
+          -  Committed to alcohol abstinence as a treatment goal.
+
+          -  Individuals will be required to identify two family members or close friends who are
+             knowledgeable about their location, drinking behavior, and psychosocial status.
+
+        Exclusion Criteria:
+
+          -  Meets criteria for any other psychoactive substance use disorder (excluding nicotine
+             and caffeine).
+
+          -  Meets criteria for a major psychiatric disorder and are in need of or currently
+             undergoing pharmacotherapy.
+
+          -  Females who are pregnant, lactating, or not using a reliable method of contraception.
+
+          -  Currently experiencing a serious medical condition that would place them at risk or
+             interfere with study participation.
+
+          -  Experiencing acute hepatitis or liver failure or whose liver function test is more
+             than 3 times normal.
+
+          -  Have a history of severe allergies, multiple adverse drug reactions or known allergy
+             to naltrexone.
+
+          -  Vocabulary below the 5th grade reading level.
+
+          -  Abnormal MRI scan.
+
+          -  HIV infection due to the neurological sequelae.
+
+          -  Significant central nervous system diseases.
+
+          -  Seizure disorder or history of closed head trauma.
+
+          -  Neuroendocrine disorders.
+
+          -  Treatment with opiates within the last six months.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2010</verification_date>
+  <lastchanged_date>May 13, 2010</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <name_title>Mary E. McCaul, Ph.D., Professor</name_title>
+    <organization>Johns Hopkins University</organization>
+  </responsible_party>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Alcoholism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Naltrexone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

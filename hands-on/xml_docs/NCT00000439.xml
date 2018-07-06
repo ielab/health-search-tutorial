@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204537">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000439</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAASAL10523</org_study_id>
+    <nct_id>NCT00000439</nct_id>
+  </id_info>
+  <brief_title>Drug Treatment for Alcoholics With Bipolar Disorder</brief_title>
+  <official_title>Efficacy of Valproate Maintenance in Bipolar Alcoholics</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to test the effectiveness of sodium valproate (Depacon) in
+      treating individuals with alcohol dependence and comorbid bipolar disorder.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The aim of this study is to test the mood stabilizer, anticonvulsant, sodium valproate in
+      individuals with alcohol dependence and bipolar disorder, in a double-blind,
+      placebo-controlled, and randomized trial of 6 months duration. All subjects are treated with
+      treatment as usual, which include lithium carbonate and individual dual recovery counseling
+      and are randomized to either sodium valproate or placebo.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2000</start_date>
+  <completion_date type="Actual">August 2003</completion_date>
+  <primary_completion_date type="Actual">August 2003</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Change in proportion of heavy drinking days</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in depressive and manic symptoms</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">72</enrollment>
+  <condition>Alcoholism</condition>
+  <condition>Bipolar Disorder</condition>
+  <arm_group>
+    <arm_group_label>sodium valproate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>sodium valproate was added on treatment as usual and dose monitored by blood level measurements</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>sodium valproate</intervention_name>
+    <description>subjects were randomized to sodium valproate vs placebo. Serum sodium valproate was monitored. This intervention was added on treatment as usual which was defined as being on lithium carbonate and also attending individual dual recovery counseling.</description>
+    <arm_group_label>sodium valproate</arm_group_label>
+    <other_name>Depakote, Divalproex sodium, Depacon</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets the criteria for alcohol dependence with comorbid bipolar disorder.
+
+          -  Agreement to participate in outpatient treatment.
+
+          -  Ability to tolerate lithium carbonate and be randomized to receive sodium valproate
+             or placebo.
+
+          -  Stable living situation.
+
+          -  Ability to provide informed consent.
+
+        Exclusion Criteria:
+
+          -  Psychiatric conditions including schizophrenia, schizoaffective disorder, any
+             non-bipolar psychotic disorder, unipolar major depression, mental retardation, or
+             signs of impaired cognitive functioning.
+
+          -  Neurological conditions including epilepsy, history of brain injury, encephalitis, or
+             any organic brain syndrome or focally abnormal electroencephalographic examination.
+
+          -  Medical conditions including severe cardiac, liver, kidney, endocrine, hematologic,
+             other impairing or unstable medical condition or impending surgery.
+
+          -  Persistent elevation of liver function enzymes indicating active liver disease.
+
+          -  Pregnancy or not using an acceptable contraceptive method.
+
+          -  Inability to read or understand study forms; agree to informed consent.
+
+          -  Impending incarceration or a mandate to attend treatment by the legal system for an
+             alcohol use disorder.
+
+          -  The presence of either/or cocaine dependence, opioid dependence, and intravenous drug
+             use.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ihsan M Salloum, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Miami</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Department of Psychiatry, Western Psychiatric Institute and Clinic of the University of Pittsburgh Medical Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Salloum IM, Cornelius JR, Daley DC, Kirisci L, Himmelhoch JM, Thase ME. Efficacy of valproate maintenance in patients with bipolar disorder and alcoholism: a double-blind placebo-controlled study. Arch Gen Psychiatry. 2005 Jan;62(1):37-45.</citation>
+    <PMID>15630071</PMID>
+  </results_reference>
+  <verification_date>February 2009</verification_date>
+  <lastchanged_date>February 24, 2009</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <name_title>Ihsan M Salloum, MD, MPH</name_title>
+    <organization>University of Pittsburgh</organization>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bipolar Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Valproic Acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

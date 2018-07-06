@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204672">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000300</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09260-3</org_study_id>
+    <secondary_id>P50-09260-3</secondary_id>
+    <nct_id>NCT00000300</nct_id>
+  </id_info>
+  <brief_title>Feasibility Study of Take-Home LAAM Medication - 3</brief_title>
+  <official_title>Feasibility Study of Take-Home LAAM Medication</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to test therapeutic benefits of take-home LAAM. (1) Do subjects
+      with take-home LAAM availability show increased clinical responsibility over subjects
+      without; (2) Do subjects with take-home LAAM attempt diversion when random recall and other
+      diversion safeguards are used; (3) Does treatment response correlate with background or drug
+      use variables at intake, discharge, or during treatment?
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1-Year study, participant will be randomly assigned to one of two groups: One will have the
+      opportunity to earn take-home doses by turning in a designated number of clean urines. Two
+      will not have the opportunity to earn take-home doses. Clinic visits three times per week.
+      Urine sample given at each visit.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 1995</start_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Drug use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Retention</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Increased prosocial behaviors</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Decreased frequency of HIV related behavior</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Opioid-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LAAM</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        meets DSM-IV criteria for opiate dependence. M/F, 18 years or older. Certified for LAAm
+        treatment by a physician. Able to understand english. Willing to provide names, addresses,
+        and numbers of 3 relatives who can aid in patient location for follow-up visits.
+
+        Exclusion Criteria:
+
+        Hypertensive to LAAM. Pregnant or nursing women. Female of childbearing potential who
+        refuses to use an acceptable form of birth control. Clinically significant abnormality in
+        hematology, blood work, or UA, ETOH and/or sedative/hypnotic dependence according to
+        DSM-IV criteria. Medical or psychiatric illness which would jeopardize safe study
+        participation.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Walter Ling, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Friends Research Institute, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Friends Research Institute</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 1995</verification_date>
+  <lastchanged_date>November 3, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

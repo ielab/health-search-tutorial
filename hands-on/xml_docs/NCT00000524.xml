@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204453">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000524</url>
+  </required_header>
+  <id_info>
+    <org_study_id>43</org_study_id>
+    <secondary_id>R01HL034744-04</secondary_id>
+    <nct_id>NCT00000524</nct_id>
+  </id_info>
+  <brief_title>Myocarditis Treatment Trial</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Utah</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Utah</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether immunosuppressive treatment improved cardiac function in patients with
+      biopsy-proven myocarditis.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Heart failure due to myocarditis can be a devastating illness. At the same time,
+      immunosuppressive therapy is associated with considerable risks of untoward side effects.
+      Clinicians did not know whether, under what circumstances, or in what form, this hazardous
+      treatment should be used in such critically ill patients. In addition, if immunosuppressive
+      therapy was of benefit, then endomyocardial biopsy in patients suspected of having
+      myocarditis was a justified procedure. The trial also provided information concerning the
+      side effects of immuno-suppressive therapy in such patients.
+
+      DESIGN NARRATIVE:
+
+      Patients were randomized into two treatment arms consisting of conventional therapy alone
+      for congestive heart failure or combined with a twenty-four week regimen of
+      immunosuppressive therapy. Immunosuppressive therapy consisted of prednisone with either
+      cyclosporine or azathioprine. The primary outcome measure was a change in the left
+      ventricular ejection fraction at twenty-eight weeks. Secondary endpoints included survival,
+      failures of therapy, requirements for conventional therapy, assessments of symptoms,
+      myocardial histology, and arrhythmias.
+
+      The study completion date listed in this record was obtained from the Query/View/Report
+      (QVR) System.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1986</start_date>
+  <completion_date type="Actual">March 1994</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocarditis</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cyclosporine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>prednisone</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, 18 years of age or older, with left ventricular failure and
+        biopsy-documented myocarditis.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jay Mason</last_name>
+    <affiliation>University of Utah</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Mason JW, O'Connell JB. Clinical merit of endomyocardial biopsy. Circulation. 1989 May;79(5):971-9. Review.</citation>
+    <PMID>2653662</PMID>
+  </reference>
+  <reference>
+    <citation>O'Connell JB, Mason JW. Diagnosing and treating active myocarditis. West J Med. 1989 Apr;150(4):431-5. Review.</citation>
+    <PMID>2660415</PMID>
+  </reference>
+  <reference>
+    <citation>O'Connell JB, Mason JW. The applicability of results of streamlined trials to clinical practice: the Myocarditis Treatment Trial. Stat Med. 1990 Jan-Feb;9(1-2):193-6; discussion 196-7.</citation>
+    <PMID>2345835</PMID>
+  </reference>
+  <reference>
+    <citation>Neumann DA, Burek CL, Baughman KL, Rose NR, Herskowitz A. Circulating heart-reactive antibodies in patients with myocarditis or cardiomyopathy. J Am Coll Cardiol. 1990 Nov;16(6):839-46.</citation>
+    <PMID>2229805</PMID>
+  </reference>
+  <reference>
+    <citation>Mason JW, O'Connell JB, Herskowitz A, Rose NR, McManus BM, Billingham ME, Moon TE. A clinical trial of immunosuppressive therapy for myocarditis. The Myocarditis Treatment Trial Investigators. N Engl J Med. 1995 Aug 3;333(5):269-75.</citation>
+    <PMID>7596370</PMID>
+  </reference>
+  <reference>
+    <citation>Hahn EA, Hartz VL, Moon TE, O'Connell JB, Herskowitz A, McManus BM, Mason JW. The Myocarditis Treatment Trial: design, methods and patients enrollment. Eur Heart J. 1995 Dec;16 Suppl O:162-7.</citation>
+    <PMID>8682088</PMID>
+  </reference>
+  <verification_date>November 2013</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Myocarditis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

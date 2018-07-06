@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204481">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000496</url>
+  </required_header>
+  <id_info>
+    <org_study_id>15</org_study_id>
+    <nct_id>NCT00000496</nct_id>
+  </id_info>
+  <brief_title>Platelet Drug Trial in Coronary Disease Progression</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the effectiveness of the platelet inhibitor drugs dipyridamole and aspirin in
+      reducing the angiographic progression of coronary artery disease over a five-year period and
+      to test the predictive value of the platelet survival half-life in identifying patients with
+      more rapid progression of coronary disease and development of its complications.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Coronary atherosclerosis is the leading cause of death in this country and the developed
+      countries of the world. Although modern coronary care units have resulted in a markedly
+      decreased hospital mortality from acute myocardial infarction, especially in those patients
+      who enter the hospital early, its overall impact is limited since two-thirds of patients who
+      die from coronary disease do not reach the hospital. When the trial was initiated in 1979,
+      new approaches to the medical treatment of coronary disease and its complications were
+      needed with an effort directed towards prevention of its progression and prevention of its
+      complications through medical therapy. This prevention could save significant health care
+      dollars over the long-term especially if the need for aortocoronary bypass graft surgery and
+      the incidence of myocardial infarction could be reduced. Early identification of the patient
+      at risk of developing coronary disease or of those with early coronary artery lesions would
+      allow a greater impact of any successful intervention therapy.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind. The patients in the experimental group were treated with
+      dipyridamole and aspirin for five years. Patients in the control group received a lactose
+      placebo. The primary endpoint was angiographic evidence of progression of coronary artery
+      disease and development of new coronary disease. Secondary endpoints included total
+      mortality, cardiac mortality, mortality due to myocardial infarction, and incidence of new
+      myocardial infarction. Recruitment ended in December 1982.
+
+      The study completion date listed in this record was obtained from the statement immediately
+      above (&quot;Recruitment ended in December 1982&quot;) and was confirmed from the Query/View/Report
+      (QVR) System.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 1979</start_date>
+  <completion_date type="Actual">December 1982</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>aspirin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>dipyridamole</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Patients aged 65 or less. Angiographically identified coronary heart disease
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

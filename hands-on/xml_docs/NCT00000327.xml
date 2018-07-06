@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204645">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000327</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-11160-2</org_study_id>
+    <secondary_id>R01DA011160</secondary_id>
+    <secondary_id>R01-11160-2</secondary_id>
+    <nct_id>NCT00000327</nct_id>
+  </id_info>
+  <brief_title>Buprenorphine/Naloxone Treatment for Opioid Dependence-Experiment I(2) - 2</brief_title>
+  <official_title>Buprenorphine/Naloxone Treatment for Opioid Dependence-Experiment I(2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the clinical efficacy of daily vs. 3-day (MWF)
+      buprenorphine/naloxone combination tablet administration and determine whether outcomes are
+      improved when using a 3-day schedule in which all doses are ingested at the clinic vs. one
+      in which take-home doses are given on intervening days.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Mon/Wed/Fri dosing with the 8 mg buprenorphine/naloxone tablet is as safe and effective as
+      daily dosing and is preferred by patients to daily dosing. Multiple doses of the combination
+      tablet (e.g. 16mg, 24mg) are well tolerated by patients. A 3 day schedule with take-outs is
+      as effective as a 3-day schedule in which all medication is ingested at the clinic
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1997</start_date>
+  <completion_date type="Actual">August 1997</completion_date>
+  <primary_completion_date type="Actual">August 1997</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Crossover Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Drug use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Retention</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Compliance</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dosing schedule preferences</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Analog rating scale for dosing schedule effects</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Heroin Dependence</condition>
+  <condition>Opioid-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Heroin Dependence</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Individual must be currently dependent and meet FDA criteria for narcotic maintenance
+        treatment. Co-morbid substance abuse or dependence disorders may also be present.
+        Individuals must be healthy despite drug dependency.
+
+        Exclusion Criteria:
+
+        Individuals with evidence of an active Diagnostic and Statistical Manual of Mental
+        Disorders (DSM-IV) Axis I psychiatric disorder (e.g., psychosis, manic-depressive illness,
+        organic psychiatric disorders), significant medical illness (e.g. liver or cardiovascular
+        disease) or pregnant female subjects are excluded from study participation.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>62 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Leslie Amass, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado, Denver</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Colorado Health Sciences Center</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Amass, L., Kamien, J.H., and Mikulich, S.K. Efficacy of and preference for 3-day vs daily dosing with the buprenorphine-naloxone combination tablet. presented to the 1998 Meeting of the College on Problems of Drug Dependence. Scottsdate, AZ (6/13-18). Presenting at CPDD 1998</citation>
+  </reference>
+  <verification_date>December 2013</verification_date>
+  <lastchanged_date>May 26, 2015</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>drug dependence</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Heroin Dependence</mesh_term>
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Buprenorphine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

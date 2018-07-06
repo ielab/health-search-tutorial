@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204648">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000324</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-10754-1</org_study_id>
+    <secondary_id>R01-10754-1</secondary_id>
+    <nct_id>NCT00000324</nct_id>
+  </id_info>
+  <brief_title>Tryptophan and Behavior Therapy for Cocaine Abuse - 1</brief_title>
+  <official_title>Tryptophan and Behavior Therapy for Cocaine Abuse</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the efficacy of tryptophan vs. placebo, and voucher
+      payments vs. a control condition, in the treatment of cocaine dependence.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This clinical trial uses a 2 by 2 design to compare tryptophan to placebo, and voucher
+      incentives vs. a control condition, in the outpatient treatment of cocaine dependence- using
+      a relapse prevention model of treatment intervention.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 1997</start_date>
+  <completion_date>April 2001</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Side effects</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Retention</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cocaine use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cocaine craving</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Other drug use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Psychosocial functioning</measure>
+  </primary_outcome>
+  <enrollment>200</enrollment>
+  <condition>Cocaine-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tryptophan</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Cocaine dependent
+
+        Exclusion Criteria:
+
+          -  Physically dependent on drugs of abuse other than cocaine
+
+          -  Significant medical or psychiatric illness (besides substance abuse disorder)
+
+          -  Pregnant
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric C Strain, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins University School of Medicine</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Jones H.E., Johnson, R.E., Bigelow G.E., Strain E.C. Differences at treatment entry between opioid-dependent and cocaine-dependent males and females. Addictive Disorders and Their Treatment 3:110-121, 2004.</citation>
+  </reference>
+  <reference>
+    <citation>Jones HE, Johnson RE, Bigelow GE, Silverman K, Mudric T, Strain EC. Safety and efficacy of L-tryptophan and behavioral incentives for treatment of cocaine dependence: a randomized clinical trial. Am J Addict. 2004 Oct-Dec;13(5):421-37.</citation>
+    <PMID>15764421</PMID>
+  </reference>
+  <verification_date>August 2005</verification_date>
+  <lastchanged_date>June 2, 2015</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cocaine-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Tryptophan</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

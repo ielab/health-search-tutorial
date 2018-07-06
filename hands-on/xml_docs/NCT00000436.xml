@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204540">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000436</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P60AR038520</org_study_id>
+    <secondary_id>NIAMS-013</secondary_id>
+    <nct_id>NCT00000436</nct_id>
+  </id_info>
+  <brief_title>Improving Functional Recovery After Hip Fracture</brief_title>
+  <official_title>Self-Efficacy and High-Intensity Strength Training to Improve Postoperative Rehabilitation of Hip Fracture Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project will assess the effectiveness of a novel approach involving patient education
+      and strength training to improve functional recovery after a hip fracture. Participants will
+      be randomly assigned to one of two study groups. One group (control group) will receive
+      standard medical care. The other group will participate in a program of patient education
+      and strength training, including an at-home walking program.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The specific aims of this project are to (a) implement an intervention program of patient
+      education focused on self-efficacy (the belief that one's actions are responsible for
+      successful outcomes) and strength training designed to improve the postoperative
+      rehabilitation of older persons (65 years of age and older) who have sustained a fracture of
+      the hip; and (b) evaluate in a randomized trial the efficacy of this intervention program to
+      improve the overall postoperative functional status of such patients and decrease the rate
+      of their subsequent institutionalization.
+
+      The study will also (a) describe and document the risk factors for functional deterioration,
+      recurrent falls, and subsequent institutionalization in a cohort of such patients; (b)
+      assess self-efficacy beliefs and their ability to influence and predict postoperative
+      functional capacity in such patients; and (c) document the costs associated with
+      implementing the program and generate data that can provide the basis for subsequent
+      cost-benefit analysis.
+
+      We hypothesize that (a) a program of patient education focusing on self-efficacy and
+      strength training can improve the functional capacity and reduce the rate of
+      institutionalization of older persons following hip fracture; and (b) clinical, psychosocial
+      factors, muscle strength, and balance are multifactorial determinants of functional
+      capacity, recurrent falls, and subsequent institutionalization in hip fracture patients.
+
+      We will randomize 200 patients who have sustained a primary unilateral hip fracture to the
+      multiple-component intervention program of patient education and high-intensity strength
+      training or to standard medical care. The intervention program will comprise four major
+      components: (1) an in-hospital postoperative patient instruction protocol conducted prior to
+      discharge with the patient and a family member or caregiver; (2) a hospital-based, 8-week
+      program of high-intensity isokinetic strength training for patients; (3) an at-home walking
+      program designed to enable patients to maintain strength and physical activity following the
+      hospital-based portion of the intervention; and (4) supportive telephone calls through which
+      patients and their families or caregivers will have regular and ongoing contact with a
+      hospital-based interventionist, as well as other hip fracture patients.
+
+      The principal outcome is within-patient change in the physical, social, and role function
+      subscales of the SF-36. Secondary measures of outcome, including muscle strength, balance,
+      functional status on the Cummings Scale, activities of daily living, recurrent falls, and
+      rate of institutionalization, will be assessed at baseline and 1 year post-discharge.
+
+      The long-term objective of the project is to improve the overall functional capacity and
+      reduce both recurrent falls and the need for institutionalization of hip fracture patients
+      through development and evaluation of an intervention program whose feasibility and cost
+      have the potential for application in a wide range of institutional settings involved in the
+      treatment and rehabilitation of such patients.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1993</start_date>
+  <completion_date>June 2000</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Single Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>200</enrollment>
+  <condition>Unilateral Hip Fracture</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Self-efficacy and muscle strength training</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>High-intensity strength training</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients who are 65 years of age and older, and who have been admitted for a hip
+             fracture to the Fracture Service at New York Presbyterian Hospital.
+
+        Exclusion Criteria:
+
+          -  Patients who are unable to give informed consent on the 4th or 5th day after surgery.
+
+          -  Patients whose hip fracture is due to underlying disease, secondary to malignancy
+             (cancer).
+
+          -  Patients who do not speak English.
+
+          -  Patients for whom exercise is contraindicated or whose physicians believe that
+             exercise is contraindicated.
+
+          -  Patients who do not have access to a telephone or cannot be reached by telephone.
+
+          -  Patients and physicians who refuse to participate or who intend to relocate upon
+             discharge.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John P. Allegrante, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital for Special Surgery, New York</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital for Special Surgery</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Allegrante JP, MacKenzie CR, Robbins L, Cornell CN. Hip fracture in older persons. Does self-efficacy-based intervention have a role in rehabilitation? Arthritis Care Res. 1991 Mar;4(1):39-47. Review.</citation>
+    <PMID>11188586</PMID>
+  </reference>
+  <reference>
+    <citation>Ruchlin HS, Allegrante JP, Einstein J, O'Doherty J, Robbins L, Peterson MG, MacKenzie CR, Cornell CN. A method for documenting the economic efficacy of multiple-component interventions designed to enhance functional and social status. Arthritis Care Res. 1997 Apr;10(2):151-8. Review.</citation>
+    <PMID>9313403</PMID>
+  </reference>
+  <reference>
+    <citation>Ruchlin HS, Elkin EB, Allegrante JP. The economic impact of a multifactorial intervention to improve postoperative rehabilitation of hip fracture patients. Arthritis Rheum. 2001 Oct;45(5):446-52.</citation>
+    <PMID>11642644</PMID>
+  </reference>
+  <verification_date>March 2001</verification_date>
+  <lastchanged_date>January 2, 2007</lastchanged_date>
+  <firstreceived_date>January 29, 2000</firstreceived_date>
+  <keyword>Hip fracture</keyword>
+  <keyword>Self-efficacy</keyword>
+  <keyword>Strength training</keyword>
+  <keyword>Rehabilitation</keyword>
+  <keyword>Postoperative</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Fractures, Bone</mesh_term>
+    <mesh_term>Hip Fractures</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

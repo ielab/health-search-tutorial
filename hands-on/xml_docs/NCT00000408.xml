@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204568">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000408</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01AR044939</org_study_id>
+    <secondary_id>R01AR044939</secondary_id>
+    <nct_id>NCT00000408</nct_id>
+  </id_info>
+  <brief_title>Low Back Pain Patient Education Evaluation</brief_title>
+  <official_title>Evaluation of a Low Back Pain Patient Education Program</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Back pain is one of the most common of all symptoms. It is also a great cause of days lost
+      from work and visits to health care providers. This study will develop and evaluate an
+      approach to low back pain that allows subjects to talk with each other and with health
+      professionals via an Internet discussion group. Results we will look at include health
+      behaviors, such as exercise; health status, such as pain and disability; and health care
+      use, such as number of visits to doctors and other health care providers. Anyone 18 years
+      old or older who lives in the United States and has ongoing Internet access can take part in
+      the study. All subjects must have back pain and meet the eligibility criteria listed below.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will develop and evaluate in a randomized trial a low back pain intervention that
+      allows subjects to talk with each other and with health professionals via an Internet
+      discussion group. The intervention consists of a book and a videotape and is based on
+      interaction with other participants in the program and health professionals through a closed
+      password protected moderated Internet discussion group. Outcome measures include health
+      behaviors, such as exercise; health status, such as pain and disability; and health care
+      use, such as number of visits to doctors and other health care providers. Patients will be
+      randomized either to the treatment group and followed for 6, 12, 18, and 24 months with the
+      intervention.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 1998</start_date>
+  <completion_date type="Actual">February 2002</completion_date>
+  <primary_completion_date type="Actual">February 2002</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">580</enrollment>
+  <condition>Low Back Pain</condition>
+  <arm_group>
+    <arm_group_label>email discussion group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>rancomized control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>usual care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Patient education evaluation</intervention_name>
+    <arm_group_label>email discussion group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Must live in the United States
+
+          -  Must understand and write English
+
+          -  Must have access to a computer with e-mail and expect to have this access for at
+             least 3 years
+
+          -  Must be 18 years old
+
+          -  Must have seen a doctor for back pain at least once in the past year
+
+        Exclusion Criteria:
+
+          -  Pregnancy
+
+          -  Back surgery in the past 6 months
+
+          -  Expectation of having back surgery in the next 6 months
+
+          -  Back pain due to a car accident or other major injury within the last 6 months
+
+          -  Back pain or sciatica due to systemic disease (inflammatory rheumatic diseases,
+             tumor, or other)
+
+          -  Major physical or mental health condition for which one is currently being treated
+             that severely limits daily activities
+
+          -  Terminal illness
+
+          -  Receiving disability or workers compensation insurance payments for back pain or
+             sciatica
+
+          -  Presently involved in legal proceedings because of back pain or sciatica
+
+          -  Difficulty with bladder or bowel control that began with back pain or sciatica
+
+          -  No visits to a doctor in the past year for back pain or sciatica
+
+          -  Numbness in crotch area that began with back pain or sciatica
+
+          -  Age under 18
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kate R. Lorig, Dr.P.H.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Lorig KR, Laurent DD, Deyo RA, Marnell ME, Minor MA, Ritter PL. Can a Back Pain E-mail Discussion Group improve health status and lower health care costs?: A randomized study. Arch Intern Med. 2002 Apr 8;162(7):792-6.</citation>
+    <PMID>11926853</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bruce B, Lorig K, Laurent D, Ritter P. The impact of a moderated e-mail discussion group on use of complementary and alternative therapies in subjects with recurrent back pain. Patient Educ Couns. 2005 Sep;58(3):305-11.</citation>
+    <PMID>16122642</PMID>
+  </results_reference>
+  <verification_date>February 2003</verification_date>
+  <lastchanged_date>April 30, 2013</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Kate Lorig</investigator_full_name>
+    <investigator_title>professor</investigator_title>
+  </responsible_party>
+  <keyword>Health education</keyword>
+  <keyword>Back injury</keyword>
+  <keyword>Chronic pain</keyword>
+  <keyword>Education/evaluation planning</keyword>
+  <keyword>Outcomes research</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Back Pain</mesh_term>
+    <mesh_term>Low Back Pain</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

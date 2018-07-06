@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204226">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000753</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 187</org_study_id>
+    <secondary_id>11162</secondary_id>
+    <nct_id>NCT00000753</nct_id>
+  </id_info>
+  <brief_title>A Phase I Concentration-Targeted Multidose Study of Atevirdine Mesylate ( U-87201E ), AZT, and ddI or ddC</brief_title>
+  <official_title>A Phase I Concentration-Targeted Multidose Study of Atevirdine Mesylate ( U-87201E ), AZT, and ddI or ddC</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Upjohn</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Glaxo Wellcome</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>Unspecified</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the safety, toxicity, pharmacokinetic profile, and antiretroviral activity of
+      atevirdine mesylate ( U-87201E ) in HIV-infected patients. Per 06/04/93 amendment, to also
+      evaluate the interactive effects of didanosine ( ddI ) or zalcitabine ( dideoxycytidine; ddC
+      ) with zidovudine ( AZT ) on the pharmacokinetics of U-87201E and to assess the effects of
+      the triple combination therapies on immunologic and virologic parameters.
+
+      Since the use of non-nucleoside reverse transcriptase inhibitors such as U-87201E has been
+      associated with the rapid development of resistant HIV isolates, an initial evaluation of
+      this drug in patients was made in combination with AZT. Because of the inability to detect
+      resistance after 6 weeks of combined AZT/U-87201E therapy, this protocol will initially
+      investigate U-87201E administered alone and then investigate the effect of this drug with
+      AZT and ddI or ddC.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Since the use of non-nucleoside reverse transcriptase inhibitors such as U-87201E has been
+      associated with the rapid development of resistant HIV isolates, an initial evaluation of
+      this drug in patients was made in combination with AZT. Because of the inability to detect
+      resistance after 6 weeks of combined AZT/U-87201E therapy, this protocol will initially
+      investigate U-87201E administered alone and then investigate the effect of this drug with
+      AZT and ddI or ddC.
+
+      Ten patients are treated at each of three targeted concentration ranges of U-87201E.
+      Patients in the second cohort are enrolled immediately after patients in the first cohort
+      are accrued; patients in the third cohort are enrolled when 5 of 10 patients in the second
+      cohort have tolerated that dose for at least 4 weeks. The MTD will be the dose below that
+      which produces dose-limiting grade 3 or 4 toxicity in five out of 10 patients. At least two
+      women and five antiretroviral naive patients must be enrolled in each dose concentration
+      range. Patients receive at least 8 weeks of monotherapy with U-87201E, with possible
+      extension to at least 24 weeks with the same dose of U-87201E alone or in combination with
+      zidovudine plus either ddI or ddC. Patients are followed weekly for at least 8 weeks and, if
+      applicable, at weeks 10, 12, 16, 20, and 24 and monthly thereafter, up to 1 month following
+      the last dose. Patients on combination therapy will have an indwelling venous catheter
+      inserted for the first 2 days of combination therapy. Per 10/15/93 amendment, if no MTD is
+      established with the first three cohorts, then 10 additional patients will be enrolled at a
+      fourth concentration.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">February 1995</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Pharmacokinetics Study, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <enrollment>30</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atevirdine mesylate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zidovudine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zalcitabine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Didanosine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  PCP prophylaxis with pentamidine, TMP/SMX, or dapsone (if appropriate).
+
+          -  Clotrimazole troches or nystatin oral suspension for oral candidiasis.
+
+          -  Acyclovir (up to 1000 mg/day) for herpes lesions.
+
+          -  Supportive care as deemed necessary for toxicities .
+
+        Patients must have:
+
+          -  HIV infection.
+
+          -  CD4 count &lt;= 500 cells/mm3.
+
+          -  No active opportunistic infections.
+
+          -  Consent of parent, guardian, or person with power of attorney, if less than 18 years
+             of age.
+
+        NOTE:
+
+          -  Participation of women in the study is encouraged.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms and conditions are excluded:
+
+          -  Acute medical problems, including opportunistic infections (e.g., active
+             cryptococcosis, Pneumocystis carinii, herpes zoster, histoplasmosis, and CMV) or
+             nonopportunistic diseases (e.g., liver or renal disease or lymphoma).
+
+          -  Current diagnosis of malignancy for which systemic therapy would be required during
+             the study.
+
+          -  Active gastrointestinal disorders.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Investigational drugs.
+
+          -  Systemic therapy for malignancy.
+
+          -  Phenobarbital, phenytoin, ketoconazole, rifampin, rifabutin, cimetidine, beta
+             blockers, chronic antacids, antiarrhythmic agents, or other medications known to
+             affect cardiac conduction or seizure threshold.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of any cardiovascular disease, including conduction disturbances, arrhythmias
+             or atherosclerotic heart disease.
+
+          -  History of CNS disease such as seizure disorder, AIDS Dementia Complex, progressive
+             multifocal leukoencephalopathy, or any other active neurological disorder.
+
+          -  History of chronic gastrointestinal disorders such as chronic diarrhea (&gt; 4 weeks
+             duration).
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Antiretroviral or immunomodulator agents (such as AZT, ddI, ddC, interferon, etc.)
+             within 15 days prior to study entry.
+
+          -  Cytotoxic chemotherapy within 1 month prior to study entry.
+
+          -  Prior U-87201E or other non-nucleoside reverse transcriptase inhibitors (i.e.,
+             nevirapine, TIBO, L697,661).
+
+        Present use of alcohol or illicit drugs.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Reichman R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>USC CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Miami AIDS CRS</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis ConnectCare, Infectious Diseases Clinic</name>
+      <address>
+        <city>St Louis</city>
+        <state>Missouri</state>
+        <zip>63112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington U CRS</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Rochester ACTG CRS</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State Univ. AIDS CRS</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=4</url>
+    <description>Click here for more information about Zidovudine</description>
+  </link>
+  <link>
+    <url>http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=15</url>
+    <description>Click here for more information about Zalcitabine</description>
+  </link>
+  <link>
+    <url>http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=16</url>
+    <description>Click here for more information about Didanosine</description>
+  </link>
+  <reference>
+    <citation>Demeter LM, Meehan PM, Morse G, Fischl MA, Para M, Powderly W, Leedom J, Holden-Wiltse J, Greisberger C, Wood K, Timpone J Jr, Wathen LK, Nevin T, Resnick L, Batts DH, Reichman RC. Phase I study of atevirdine mesylate (U-87201E) monotherapy in HIV-1-infected patients. J Acquir Immune Defic Syndr Hum Retrovirol. 1998 Oct 1;19(2):135-44.</citation>
+    <PMID>9768622</PMID>
+  </reference>
+  <reference>
+    <citation>Morse GD, Reichman RC, Fischl MA, Para M, Leedom J, Powderly W, Demeter LM, Resnick L, Bassiakos Y, Timpone J, Cox S, Batts D. Concentration-targeted phase I trials of atevirdine mesylate in patients with HIV infection: dosage requirements and pharmacokinetic studies. The ACTG 187 and 199 study teams. Antiviral Res. 2000 Jan;45(1):47-58.</citation>
+    <PMID>10774589</PMID>
+  </reference>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 30, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Zalcitabine</keyword>
+  <keyword>Didanosine</keyword>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Antiviral Agents</keyword>
+  <keyword>Zidovudine</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Atevirdine</mesh_term>
+    <mesh_term>Didanosine</mesh_term>
+    <mesh_term>Zalcitabine</mesh_term>
+    <mesh_term>Zidovudine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

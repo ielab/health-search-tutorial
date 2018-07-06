@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204541">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000435</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N01AR92241</org_study_id>
+    <secondary_id>NIAMS-042</secondary_id>
+    <nct_id>NCT00000435</nct_id>
+  </id_info>
+  <brief_title>dnaJ Peptide for Relieving Rheumatoid Arthritis</brief_title>
+  <official_title>A Clinical Trial of Shared Epitope Peptides in Rheumatoid Arthritis (RA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A small protein called dnaJ peptide may help people with rheumatoid arthritis (RA) by
+      preventing their immune system cells from attacking their own tissues. The purpose of this
+      study is to determine if small amounts of dnaJ peptide can &quot;re-educate&quot; immune cells in
+      people with RA so that the cells stop attacking joint tissues.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Immune modulation is a promising new approach for the treatment of RA. Studies have shown
+      that immune cells in the joints of people in the early stages of RA react strongly against
+      dnaJ peptides from bacteria. These immune cells may also cross-react with human dnaJ
+      peptides in the joints to cause inflammation. dnaJ may help RA by &quot;re-educating&quot; the immune
+      system and dampening the abnormal inflammatory immune response in RA.
+
+      This study will last 7 months. Participants will be randomly assigned to receive either dnaJ
+      or placebo by mouth. At screening, participants will have medical history, physical, and
+      medication assessment. At screening, at 6 study visits every month after the start of
+      treatment, and at 1 month follow-up, participants will have a joint exam, blood and urine
+      collection, and will fill out a questionnaire about their condition.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1999</start_date>
+  <completion_date>September 2004</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Area under the curve or 'AUC' obtained by adding 0 for no response and 1 for an ACR 20 response for visits on Day 112, 140, and 168</measure>
+    <time_frame>time points 112, 140 and 168 of the 6-month trial</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Day 112 ACR 20 score</measure>
+    <time_frame>Visit day 112 of the 6-month trial</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">160</enrollment>
+  <condition>Rheumatoid Arthritis</condition>
+  <arm_group>
+    <arm_group_label>A</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects randomized to arm A received 25mg/day po of placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects randomized to Arm B received 25mg/day po of peptide dnaJP1</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>dnaJ peptide</intervention_name>
+    <description>dnaJP1 was taken in pill form at 25mg/day for 6 months</description>
+    <arm_group_label>B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>None-placebo</intervention_name>
+    <description>placebo was taken in pill form at 25mg/day for 6 months</description>
+    <arm_group_label>A</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Active rheumatoid arthritis as defined by the revised American College of
+             Rheumatology (ACR) 1987 criteria. Evidence of active disease will be based on at
+             least six swollen or nine tender joints.
+
+          -  Diagnosis of rheumatoid arthritis of less than 5 years
+
+          -  Reactivity to dnaJ
+
+          -  Agree to use acceptable methods of contraception
+
+          -  Able to understand and sign informed consent
+
+        Exclusion Criteria:
+
+          -  Patients taking more 7.5 mg of prednisone or disease modifying agents other than
+             hydrochloroquine or sulfasalazine (i.e., gold, penicillamine, azathioprine,
+             cyclophosphamide, methotrexate, cyclosporine, or anti-TNF agents)
+
+          -  Serum creatinine greater than 1.5 mg/dl
+
+          -  SGOT less than SGPT
+
+          -  Alkaline phosphatase greater than 2 times age/sex adjusted normal values
+
+          -  Hematocrit of less than 30
+
+          -  Platelets less than 130,000
+
+          -  History of lymphoma
+
+          -  Any active malignancy or cancer requiring treatment in the last 5 years, except for
+             nonmelanoma skin cancers and carcinoma of the cervix in situ
+
+          -  Medical or psychiatric condition or active serious infection
+
+          -  Pregnant or breastfeeding
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Salvatore Albani, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Diego</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Arizona Health Sciences Center</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724-5093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Irvine Medical Center</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Denver Arthritis Center</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Guthrie Clinic</name>
+      <address>
+        <city>Sayre</city>
+        <state>Pennsylvania</state>
+        <zip>18840</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Mason Research Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Prakken BJ, Samodal R, Le TD, Giannoni F, Yung GP, Scavulli J, Amox D, Roord S, de Kleer I, Bonnin D, Lanza P, Berry C, Massa M, Billetta R, Albani S. Epitope-specific immunotherapy induces immune deviation of proinflammatory T cells in rheumatoid arthritis. Proc Natl Acad Sci U S A. 2004 Mar 23;101(12):4228-33. Epub 2004 Mar 15.</citation>
+    <PMID>15024101</PMID>
+  </reference>
+  <verification_date>July 2007</verification_date>
+  <lastchanged_date>July 30, 2007</lastchanged_date>
+  <firstreceived_date>January 21, 2000</firstreceived_date>
+  <keyword>RA</keyword>
+  <keyword>Immune Modulation</keyword>
+  <keyword>Oral Tolerance</keyword>
+  <keyword>Peptide</keyword>
+  <keyword>dnaJ</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Rheumatoid</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

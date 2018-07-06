@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204602">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000374</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01MH060004-01</org_study_id>
+    <secondary_id>R01MH060004-01</secondary_id>
+    <secondary_id>DSIR 83-ATAP</secondary_id>
+    <nct_id>NCT00000374</nct_id>
+  </id_info>
+  <brief_title>Treatment for First-Episode Schizophrenia</brief_title>
+  <official_title>Preventing Morbidity in First-Episode Schizophrenia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>North Shore Long Island Jewish Health System</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Zucker Hillside Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>North Shore Long Island Jewish Health System</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This 3-year study will determine if the antipsychotic medications olanzapine (Zyprexa®) and
+      risperidone (Risperdal®) can help patients with first-episode schizophrenia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of the study is to prevent morbidity in first-episode schizophrenia using
+      second-generation antipsychotic drugs: olanzapine, risperidone.
+
+      Long-term studies of first-episode schizophrenia patients have clearly indicated excellent
+      initial responsiveness of positive psychotic symptoms to treatment with conventional
+      antipsychotic medications. However, in the years immediately following this initial good
+      response, morbidity increases. Relapses, often multiple ones, are the rule and are usually
+      precipitated by medication noncompliance. There is some evidence that the second-generation
+      antipsychotic drugs may have superior efficacy in terms of these outcome domains. However,
+      these newer agents have been studied primarily in chronic and/or treatment-resistant patient
+      samples and there are virtually no long-term studies or studies comparing the new drugs with
+      one another.
+
+      First episode patients are randomly assigned to treatment with olanzapine or risperidone for
+      3 years. Outcome measures for the initial episode include psychopathology (positive,
+      negative, and affective symptoms), side effects, neurocognition (executive function, memory,
+      and attention), social and occupational function and service utilization. The effects on
+      long-term course are measured in terms of frequency and timing of relapses, level of
+      recovery from subsequent episodes and prospectively assessed course of psychopathology,
+      neurocognitive function, social/vocational function, and service utilization.
+
+      For information on a related study, please follow this link:
+
+      http://clinicaltrials.gov/show/NCT00320671
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1998</start_date>
+  <completion_date type="Actual">May 2007</completion_date>
+  <primary_completion_date type="Actual">May 2007</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Treatment response</measure>
+    <time_frame>8 consecutive weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">125</enrollment>
+  <condition>Schizophrenia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Olanzapine</intervention_name>
+    <description>The dosage for Olanzapine will be 2.5 mg to 20mg per day. The dose of the Olanzapine will be based on the participant's clinical improvement and side effects.</description>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Risperidone</intervention_name>
+    <description>The dosage for Risperidone will be 1 mg to 6mg per day. The dose of the Risperidone will be based on the participant's clinical improvement and side effects.</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  First episode schizophrenia, schizophreniform disorder or schizoaffective disorder
+
+        Exclusion Criteria:
+
+          -  Prior treatment with antipsychotic medications.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Delbert Robinson, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Zucker Hillside Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Bronx-Lebanon Hospital Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hillside Hospital</name>
+      <address>
+        <city>Glen Oaks</city>
+        <state>New York</state>
+        <zip>11004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2012</verification_date>
+  <lastchanged_date>January 12, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Institute of Mental Health (NIMH)</investigator_affiliation>
+    <investigator_full_name>Delbert Robinson</investigator_full_name>
+    <investigator_title>Delbert Robinson, MD/Prinicipal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Adolescence</keyword>
+  <keyword>Adult</keyword>
+  <keyword>Antipsychotic Agents</keyword>
+  <keyword>Female</keyword>
+  <keyword>Human</keyword>
+  <keyword>Male</keyword>
+  <keyword>olanzapine</keyword>
+  <keyword>Risperidone</keyword>
+  <keyword>Schizophrenia</keyword>
+  <keyword>Antipsychotic Agents -- *therapeutic use</keyword>
+  <keyword>olanzapine -- *therapeutic use</keyword>
+  <keyword>Risperidone -- *therapeutic use</keyword>
+  <keyword>Schizophrenia -- *drug therapy</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Schizophrenia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antipsychotic Agents</mesh_term>
+    <mesh_term>Olanzapine</mesh_term>
+    <mesh_term>Risperidone</mesh_term>
+    <mesh_term>Therapeutic Uses</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

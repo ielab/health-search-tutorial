@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204548">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000428</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01AR045416</org_study_id>
+    <secondary_id>R01AR045416</secondary_id>
+    <secondary_id>NIAMS-038</secondary_id>
+    <nct_id>NCT00000428</nct_id>
+  </id_info>
+  <brief_title>Combining N-of-1 Trials to Assess Fibromyalgia Treatments</brief_title>
+  <official_title>Combining N-of-1 Trials to Assess Fibromyalgia Therapies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tufts Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Tufts Medical Center</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will compare the effectiveness of combination therapy with the drugs
+      amitriptyline and fluoxetine (AM+FL) and amitriptyline (AM) alone in the treatment of people
+      with fibromyalgia. Doctors will treat each study participant with both AM + FL and AM alone
+      for 6 weeks at a time. The study uses a method that combines results from treatment of
+      individual patients to assess overall treatment effectiveness and help individual patients
+      and their physicians with their treatment decisions. This study will also help compare the
+      results of community-based studies (studies involving private doctors) and studies based at
+      clinical research centers.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will use the combined N-of-1 method to compare the effectiveness of the
+      combination therapy amitriptyline and fluoxetine (AM+FL) versus amitriptyline (AM) alone in
+      patients with fibromyalgia (FM). It will also compare community-based and center-based trial
+      results. We will ask community-based, board-certified rheumatologists to participate as
+      investigators and we will also carry out a center-based study (at Newton-Wellesley
+      Hospital). Physicians will ask patients meeting eligibility criteria to participate in this
+      study and undergo an N-of-1 trial.
+
+      Each N-of-1 trial will consist of three paired crossover periods (each 6-weeks long) during
+      which the patient will receive either AM + placebo (placebo every morning and AM 25 mg at
+      night) or combination treatment AM+FL (FL 20 mg in the morning and AM 25 mg at night). The
+      dispensing pharmacy will carry out paired randomization.
+
+      We will assess patient evaluations and outcome measures at baseline prior to trial, at the
+      end of each treatment period, and 3 months after completion of the N-of-1 trial. In
+      addition, at baseline, we will obtain demographic information, an electrocardiogram, and
+      baseline blood tests. We may ask patients to have additional blood tests at the period
+      evaluations. We will also do a pregnancy test for all women of child-bearing age enrolling
+      in the study. The main study outcome measure will be the Fibromyalgia Impact Questionnaire
+      (FIQ). Additional measures will include the Visual Analog Scales (VAS) for pain, sleep,
+      global well-being; Physician VAS for global well-being; and tender-point score.
+
+      We will analyze the results of the N-of-1 trials in two ways: (1) using only the individual
+      patient's results (classic one-sided t-test) and (2) using the patient's results in
+      combination with the results of other patients who underwent similar trials (the combined
+      N-of-1 approach). To obtain the latter information, we will include each patient's results
+      for the collective analysis. We will provide these results back to the physicians and will
+      record the final treatment decisions the physicians reach with their patients. In addition,
+      we will ask both physicians and patients to comment on their participation in an N-of-1
+      trial and this research process. Followup of patients 3 months after completion of their
+      N-of-1 trial will include determining current medication and a current outcome assessment.
+      Investigators will record all adverse drug reactions and patients withdrawn from studies.
+      They will also record the reason for withdrawal for all patients choosing to withdraw. We
+      will include results from patients who drop out due to reasons other than drug reactions in
+      the combined N-of-1 analyses if completed period pair results are available. An independent
+      safety officer will review all withdrawals.
+
+      Results of individual patient trials will be confidential; however, we will combine these
+      results (after removal of patient identifiers) with the results of other patients, and will
+      publish the overall results of this study. We will maintain the connection of results to
+      patient identifiers only to enable us to provide results to individual investigators and
+      their patients.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 2000</start_date>
+  <completion_date type="Actual">March 2004</completion_date>
+  <primary_completion_date type="Actual">March 2004</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>FIbromyalgia Impact Questionnaire scores</measure>
+    <time_frame>At baseline,each treatment period, and at 3 mo follow up</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">58</enrollment>
+  <condition>Fibromyalgia</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients received each intervention multiple times in random-order crossover design.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amitriptyline</intervention_name>
+    <description>Amitriptyline 25 mg po</description>
+    <arm_group_label>1</arm_group_label>
+    <other_name>Elavil</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amitriptyline plus Fluoxitine</intervention_name>
+    <description>Amitriptyline 25 mg po plus Fluoxitine 20 mg po</description>
+    <arm_group_label>1</arm_group_label>
+    <other_name>elavil plus prozac</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients who meet fibromyalgia criteria as defined by the American College of
+             Rheumatology
+
+          -  No systemic illness (current or past) or other contraindications to taking study
+             medications (e.g. known hypersensitivity)
+
+          -  Age 18-60
+
+          -  Patient willingness, and physician agreement, to discontinue CNS
+             medications/NSAIDs/analgesics for 1 week prior to starting their trial
+
+          -  Patient informed consent and agreement to participate in an N-of-1 trial
+
+        Exclusion Criteria:
+
+          -  Patients who are currently pregnant or who plan to become pregnant during the study
+             period
+
+          -  Patients with any contraindications to using either amitriptyline or fluoxetine
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Deborah R. Zucker</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>New England Medical Center, Tufts University School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Office of Raphael Kieval, MD</name>
+      <address>
+        <city>Brockton</city>
+        <state>Massachusetts</state>
+        <zip>02402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Office of Ronald J. Rapoport, MD</name>
+      <address>
+        <city>Fall River</city>
+        <state>Massachusetts</state>
+        <zip>02720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Office of Eileen Winston, MD</name>
+      <address>
+        <city>Framingham</city>
+        <state>Massachusetts</state>
+        <zip>01702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Office of Nicola Mogavero, MD</name>
+      <address>
+        <city>Melrose</city>
+        <state>Massachusetts</state>
+        <zip>02176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Office of Jacqueline Feuer, MD</name>
+      <address>
+        <city>Needham</city>
+        <state>Massachusetts</state>
+        <zip>02192</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Newton-Wellesley Hospital</name>
+      <address>
+        <city>Newton</city>
+        <state>Massachusetts</state>
+        <zip>02162</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Office of Sharon A. Stotsky, MD</name>
+      <address>
+        <city>North Reading</city>
+        <state>Massachusetts</state>
+        <zip>01864</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Goldenberg D, Mayskiy M, Mossey C, Ruthazer R, Schmid C. A randomized, double-blind crossover trial of fluoxetine and amitriptyline in the treatment of fibromyalgia. Arthritis Rheum. 1996 Nov;39(11):1852-9.</citation>
+    <PMID>8912507</PMID>
+  </reference>
+  <reference>
+    <citation>Zucker DR, Schmid CH, McIntosh MW, D'Agostino RB, Selker HP, Lau J. Combining single patient (N-of-1) trials to estimate population treatment effects and to evaluate individual patient responses to treatment. J Clin Epidemiol. 1997 Apr;50(4):401-10.</citation>
+    <PMID>9179098</PMID>
+  </reference>
+  <reference>
+    <citation>Guyatt G, Sackett D, Taylor DW, Chong J, Roberts R, Pugsley S. Determining optimal therapy--randomized trials in individual patients. N Engl J Med. 1986 Apr 3;314(14):889-92.</citation>
+    <PMID>2936958</PMID>
+  </reference>
+  <reference>
+    <citation>Guyatt G, Sackett D, Adachi J, Roberts R, Chong J, Rosenbloom D, Keller J. A clinician's guide for conducting randomized trials in individual patients. CMAJ. 1988 Sep 15;139(6):497-503.</citation>
+    <PMID>3409138</PMID>
+  </reference>
+  <reference>
+    <citation>Larson EB. N-of-1 clinical trials. A technique for improving medical therapeutics. West J Med. 1990 Jan;152(1):52-6.</citation>
+    <PMID>2309473</PMID>
+  </reference>
+  <results_reference>
+    <citation>Zucker DR, Ruthazer R, Schmid CH, Feuer JM, Fischer PA, Kieval RI, Mogavero N, Rapoport RJ, Selker HP, Stotsky SA, Winston E, Goldenberg DL. Lessons learned combining N-of-1 trials to assess fibromyalgia therapies. J Rheumatol. 2006 Oct;33(10):2069-77.</citation>
+    <PMID>17014022</PMID>
+  </results_reference>
+  <verification_date>July 2013</verification_date>
+  <lastchanged_date>July 31, 2013</lastchanged_date>
+  <firstreceived_date>January 18, 2000</firstreceived_date>
+  <responsible_party>
+    <name_title>Deborah Zucker, MD, PhD</name_title>
+    <organization>Tufts-New England Medical Center</organization>
+  </responsible_party>
+  <keyword>Fibromyalgia Syndrome (FMS)</keyword>
+  <keyword>Amitriptyline</keyword>
+  <keyword>Fluoxetine</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Fibromyalgia</mesh_term>
+    <mesh_term>Myofascial Pain Syndromes</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Amitriptyline</mesh_term>
+    <mesh_term>Amitriptyline, perphenazine drug combination</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

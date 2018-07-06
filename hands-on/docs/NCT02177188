@@ -1,0 +1,75 @@
+TITLE:
+      HEAVy HAT-HEAlthy Volunteers Heart to Arm Time. Haemorrhage Simulation Protocol in Healthy Volunteers
+SUMMARY:
+      In prehospital settings, hypovolemic shock diagnosis is based on Advanced Trauma Life
+      Support (ATLS) shock classification. The most often used clinical signs are heart rate (HR),
+      arterial blood pressure (BP), respiratory rate, neurologic status, diuresis, skin colour and
+      temperature. However, some of these signs, such as hypotension and tachycardia, lack
+      specificity and sensitivity and do not occur early enough. Even with an early preload
+      reduction, blood pressure can remain constant due to compensatory mechanisms, such as
+      vasoconstriction and positive chronotropism. Tachycardia occurs earlier, but has poor
+      specificity and sensitivity. A retrospective analysis of 25,287 trauma patients showed that
+      among 489 patients presenting with systolic BP < 90 mmHg, only 65% had tachycardia (HR > 90
+      bpm), while 39% of patients with systolic BP > 120 mmHg were tachycardic, probably resulting
+      from other stimuli influencing heart rate, such as pain, fear, circulating hormones and
+      endogenous enkephalins. Therefore, it could be very useful to have an index that identifies
+      initial volume variation, when physiological regulatory mechanisms are still effectively
+      maintaining normal BP.
+
+      Pulse transit time (PTT) is the sum of pre-ejection period (PEP; the time interval between
+      the onset of ventricular depolarization and ventricular ejection) and vascular transit time
+      (VTT; the time it takes for the pulse wave to travel from the aortic valve to peripheral
+      arteries). PEP and VTT variations depend on preload variation, and PTT increases with PEP,
+      showing a linear correlation (R2 = 0.96). Chan et al. subjected 11 healthy volunteers to the
+      head-up tilt test, and demonstrated that PEP increased and VTT decreased for increasing tilt
+      angles from 0° to 80°, corresponding to light-moderate bleeding. They also observed early
+      sympathetic activation, expressed by decreases of both RR interval (RR) and VTT, dampening
+      the PTT increase, since PTT is influenced by both continuous PEP increase and progressive
+      VTT decrease occurring during hypovolaemia.
+
+      Here the investigators describe a new index, called indexed Heart to Arm Time (iHAT). iHAT
+      is the mPTT/RR ratio, where mPTT is a modified PTT, measured from the onset of ventricular
+      depolarization (the 'R' wave of the ECG trace) to the systolic peak of the
+      photoplethysmographic pulse oxymetry (PPG) waveform. mPTT is indexed to RR interval on ECG
+      to counteract sympathetic activation that would dampen PEP increase and enhance VTT
+      reduction, by means of positive inotropism and peripheral vasoconstriction, respectively.
+      iHAT therefore increases during haemorrhage because of preload reduction and the consequent
+      PEP increase and RR interval decrease. iHAT is expressed as the time percentage of the
+      interbeat interval (RR) it takes to the PPG waveform to travel to peripheral arteries. In
+      this study iHAT has been calculated as the average of beat-to-beat mPTT/RR ratios over 30
+      heart beats (corresponding to at least 2 breathing cycles) in order to minimize the effect
+      of spontaneous breathing on preload, and thus on PEP and PTT.
+
+      In the present study, the investigators aimed to evaluate iHAT in a simulating model of
+      hypovolaemia by using a Lower Body Negative Pressure (LBNP) chamber. LBNP chamber simulates
+      haemorrhage by applying negative pressure to the lower limbs, thus giving an accurate model
+      of hypovolemia. The LBNP chamber has been used for many years for research purposes, and in
+      2001 Convertino suggested it is a useful device to test severe haemorrhage-related
+      hemodynamic responses. In fact, the induced volemic sequestration is an efficient technique
+      to study physiological behaviours in humans.
+
+      The primary endpoint was to evaluate the use of the iHAT as a predictor of hypovolaemia. The
+      secondary endpoint was to compare the specificity and sensitivity of the iHAT index compared
+      to commonly used indexes (BP, HR). Furthermore, the investigators aimed to assess
+      feasibility of Transthoracic echocardiography (TTE) evaluation of Cardiac Output (CO) in a
+      haemorrhagic model and to evaluate CO changes with respect to measured hemodynamic
+      variables.
+
+      TTE evaluation of CO is non invasive and comparable to thermodilution, and of possible use
+      in an emergency setting.
+ELIGIBILITY CRITERIA:
+      Inclusion Criteria:
+
+          -  30 healthy volunteers with no assumption of coffee or any other substance with
+             possible action on the autonomic nervous system.
+
+        Exclusion Criteria:
+
+          -  age < 18 yrs,
+
+          -  pregnancy,
+
+          -  assumption of any drugs and existence of any disease,
+
+          -  intake of any drug/substance with action on the autonomic nervous system during the
+             previous 24 hours.

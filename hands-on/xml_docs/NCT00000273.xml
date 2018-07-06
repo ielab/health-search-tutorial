@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204698">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000273</url>
+  </required_header>
+  <id_info>
+    <org_study_id>#4857</org_study_id>
+    <secondary_id>5P50DA009236-18</secondary_id>
+    <secondary_id>P50DA009236-08</secondary_id>
+    <nct_id>NCT00000273</nct_id>
+  </id_info>
+  <brief_title>A Laboratory Model for Heroin Abuse Medications - 8</brief_title>
+  <official_title>A Laboratory Model for Heroin Abuse Medications</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York State Psychiatric Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York State Psychiatric Institute</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the effects of treatment medications (methadone,
+      buprenorphine, LAAM, naltrexone, naltrexone microcapsules, and methoclocinnamox) on I.V. and
+      smoked heroin self-administration.&quot;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1995</start_date>
+  <completion_date type="Actual">November 2005</completion_date>
+  <primary_completion_date type="Actual">November 2005</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Pharmacodynamics Study, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Caregiver, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Amount drug self-administered</measure>
+    <time_frame>90 minutes</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Subjective responses</measure>
+    <time_frame>90 min</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">37</enrollment>
+  <condition>Heroin Dependence</condition>
+  <condition>Opioid-Related Disorders</condition>
+  <condition>Substance-Related Disorders</condition>
+  <arm_group>
+    <arm_group_label>Opiate abuser</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>opiates</intervention_name>
+    <description>prescription opioids</description>
+    <arm_group_label>Opiate abuser</arm_group_label>
+    <other_name>morphine</other_name>
+    <other_name>fentanyl</other_name>
+    <other_name>buprenorphine</other_name>
+    <other_name>oxycodone</other_name>
+    <other_name>methadone</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Please contact site for information.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Herbert Kleber, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>New York State Psychiatric Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Columbia University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Comer SD, Sullivan MA, Whittington RA, Vosburg SK, Kowalczyk WJ. Abuse liability of prescription opioids compared to heroin in morphine-maintained heroin abusers. Neuropsychopharmacology. 2008 Apr;33(5):1179-91. Epub 2007 Jun 20.</citation>
+    <PMID>17581533</PMID>
+  </results_reference>
+  <verification_date>November 2013</verification_date>
+  <lastchanged_date>November 4, 2013</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Heroin Dependence</mesh_term>
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

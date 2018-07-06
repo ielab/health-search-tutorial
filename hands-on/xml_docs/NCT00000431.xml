@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204545">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000431</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N01AR92238</org_study_id>
+    <secondary_id>N01AR92238-000</secondary_id>
+    <secondary_id>NIAMS-044</secondary_id>
+    <nct_id>NCT00000431</nct_id>
+  </id_info>
+  <brief_title>Preliminary Testing of New Treatment for Chronic Leg Wounds</brief_title>
+  <official_title>Phase I Trial to Evaluate the Safety of Platelet Derived Growth Factor B (PDGF-B) and a Limb Compression Bandage in Venous Leg Ulcers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Gene Vector Laboratory</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Most chronic (long-lasting) wounds of the leg (also known as venous ulcers) fail to heal in
+      a reasonable period of time. Although researchers have made great progress in understanding
+      how the body repairs wounds, attempts to develop new treatments have been disappointing. In
+      general, treatments based on recent findings about the details of wound repair have not
+      greatly reduced the number of people who have chronic wounds. The long-term goal of this
+      study is to evaluate a new approach for healing a chronic wound. Current methods of directly
+      applying substances that are involved in wound healing to a chronic wound do not cause
+      enough healing. PDGF-B (platelet-derived growth factor B), a factor associated with wound
+      healing, might dramatically enhance healing if a genetically engineered virus is injected
+      into the wound that causes cells in the wound to produce PDGF-B in large quantities.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Most chronic wounds of the leg fail to heal in a reasonable period of time. In fact, despite
+      considerable advances in elucidating the molecular basis of wound repair, attempts to
+      develop new therapies have been disappointing. In general, therapies based on recently
+      elucidated mechanisms of wound repair have had minimal effect on the overall number of
+      individuals with a treated healed chronic wound. The long-term goal of this study is to
+      evaluate a new approach for healing a chronic wound. Current methods of applying cytokines
+      as a topical protein to treat chronic wounds result in an inadequate response. PDGF-B, a
+      growth factor associated with wound healing, might dramatically enhance wound healing when
+      produced in large quantities in the wound bed via adenovirus-mediated gene overexpression by
+      the cells of the wound bed.
+
+      This study consists of two trials. The goal of Trial A, a dose-escalation trial, is to
+      determine the maximum tolerated dose (MTD) of PDGF-B/Ad5, an adenovirus vector designed to
+      overexpress PDGF-B, with respect to local and systemic toxicity and biologic feasibility.
+      The primary objective is to evaluate the acute safety, both local and systemic, of an
+      intra-ulcer injection of PDGF-B/Ad5, thereby determining the recommended dose. Upon
+      evaluating patients, they will be treated with a single intra-ulcer injection of PDGF-B/Ad5
+      in the wound. Patients will receive only one dose, which will be administered during a
+      72-hour inpatient stay in a research unit at the Hospital of the University of Pennsylvania.
+
+      This study will use a standard three-six dose-escalation scheme. The MTD is defined as the
+      highest dose for which fewer than two of six subjects experience a severe adverse reaction.
+      Each patient will be closely monitored for clinical adverse reactions resulting from
+      treatment with PDGF-B/Ad5. Toxicity will be graded according to the National Cancer
+      Institute's Common Toxicity Criteria Scale.
+
+      The primary objective of Trial B is to evaluate the safety and biologic feasibility of the
+      MTD of PDGF-B/Ad5 reported in Trial A in a standard 24-week trial for treatment of a venous
+      leg ulcer. For this study, 15 consecutive patients will be treated using the MTD. All
+      patients will receive a single intra-ulcer injection of PDGF-B/Ad5 and a limb compression
+      bandage to be changed weekly.Study participants will be followed for 24 weeks, which is the
+      length of most FDA-approved venous leg ulcer trials.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2005</start_date>
+  <completion_date type="Actual">March 2011</completion_date>
+  <primary_completion_date type="Actual">July 2008</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Safety of treatment</measure>
+    <time_frame>Wtihin 28 days of administration</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proof of concept</measure>
+    <time_frame>Within 28 days of administration</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">24</enrollment>
+  <condition>Varicose Ulcer</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Upon evaluation, participant will be treated with a single intra-ulcer injection of PDGF-B/Ad5 in the wound. Patients will receive only one dose, which will be administered during a 72-hour inpatient stay in a research unit at the Hospital of the University of Pennsylvania. This study will use a standard three-six dose-escalation scheme.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PDGF-B/Ad5</intervention_name>
+    <description>This is a dose finding study to evaluate the safety of a single injection of PDGF dna in an adenoviral vector.</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient must have a venous leg ulcer.
+
+          -  Patient must have failed at least 6 weeks of limb compression.
+
+          -  Wound must be free of necrotic debris.
+
+          -  Wound must be greater than 5 cm2 and less than 20 cm2.
+
+          -  Wound must be more than 6 months old.
+
+          -  Affected limb must have an ankle-brachial index (ABI) &gt; 0.85.
+
+          -  Patient must be more than 18 years old.
+
+        Exclusion Criteria:
+
+          -  Any active cancer or cancer in remission for less than 10 years.
+
+          -  Patients with life expectancy of less than 6 months.
+
+          -  Liver function tests (Alanine Transaminase(ALT) Aspartate Amino Transfer (AST)
+             Alkaline Phosphatase (ALK PHOS) and bilirubin) greater than 1.5x upper limit of
+             normal for the reference lab.
+
+          -  Patients with intercurrent organ damage or medical problems.
+
+          -  Pregnant or lactating females.
+
+          -  Any requirement for systemic corticosteroids or immunosuppressives, or history of
+             corticosteroid or immunosuppressive use in the 4 weeks previous to study entry.
+
+          -  Seropositive for hepatitis B surface antigen or hepatitis C antibody.
+
+          -  Any concurrent medical illness that may be exacerbated by PDGF-B/Ad5 administration.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David J. Margolis, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2009</verification_date>
+  <lastchanged_date>May 8, 2013</lastchanged_date>
+  <firstreceived_date>January 18, 2000</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Venous leg ulcer</keyword>
+  <keyword>Wound healing</keyword>
+  <keyword>Somatic gene therapy</keyword>
+  <keyword>PDGF-B</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Varicose Ulcer</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

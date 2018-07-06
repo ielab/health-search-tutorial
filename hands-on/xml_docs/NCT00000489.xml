@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204488">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000489</url>
+  </required_header>
+  <id_info>
+    <org_study_id>8</org_study_id>
+    <nct_id>NCT00000489</nct_id>
+  </id_info>
+  <brief_title>Coronary Artery Surgery Study (CASS)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare coronary artery surgery with medical management in patients with coronary artery
+      disease and to maintain a registry on all patients undergoing coronary arteriography,
+      whether operatively or medically managed.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Although it was generally agreed that many patients with severe angina pectoris improved
+      symptomatically after coronary artery surgery, there was less consensus concerning, for
+      example, other effects of the procedure, such as its long-term benefit and the criteria for
+      patient selection. In addition, there were fewer data and less agreement on the effects and
+      proper role of this procedure in other clinical circumstances. Both the surgical procedure
+      and the prior diagnostic procedures represented substantial costs in both monetary and
+      manpower terms; moreover, they entailed morbidity and mortality risks.
+
+      There existed an urgent need for reliable and quantitative information regarding the effects
+      of coronary artery surgery in patients with ischemic heart disease. To be meaningful, these
+      data had to be set into the perspective of the clinical course of such patients under
+      medical treatment.
+
+      This assessment presupposed a meaningful classification of these patients and of the
+      therapeutic interventions as well as evaluations of the effects of surgical and medical
+      regimens in terms of mortality, the quality of life, and objective hemodynamic and other
+      physiological measurements. Only such information could provide sufficient background for
+      determining the suitability of coronary artery surgery for a particular patient.
+
+      In 1972, the National Heart and Lung Advisory Council identified these questions as topics
+      of high priority, and the National Heart and Lung Institute established an Ad Hoc Policy
+      Advisory Board on Coronary Artery Surgery to assist it in developing a program of research
+      activities. In its report, the Board noted a 'critical need for objective data on the long-
+      and short-term effects of coronary artery surgery.' Requests for proposals were issued to
+      carry out the recommendations of the Board.
+
+      Planning of the trial was conducted between June 1973 and April 1975 and included protocol
+      design, the development of a manual of operations, and a pilot study of the registry. In
+      August 1975, registry patients' entry and randomization began at the 11 clinical centers and
+      coordinating center. Initial projections of patient population numbers were underestimated;
+      therefore, five clinical centers were added to the trial in 1976.
+
+      The five clinical subgroups of patients in the randomized studies included: stable angina
+      with normal resting left ventricular function; stable angina with impaired left ventricular
+      function; post-myocardial infarction without angina; congestive heart failure due primarily
+      to ischemic heart disease; and patients previously asymptomatic who were discovered to have
+      serious coronary artery disease. All of the above subgroups must have met specifically
+      outlined clinical and angiographic criteria to be placed in the randomized subset. The other
+      two subsets (as distinguished from subgroups) of the study included those patients who were
+      unsuitable for randomization because surgery was the treatment of choice in the judgment of
+      many physicians and those patients for whom medical management was the treatment of choice.
+      The patients enrolled in both the registry and randomized trial were followed for a 10-year
+      period. This allowed evaluation of the primary endpoints, death and myocardial infarction,
+      and the secondary endpoints, angina, status, and quality of life.
+
+      A total of 24,959 patients were entered into the registry; 780 patients were entered into
+      the trial. Recruitment ended in 1979. Intervention ended in June 1983. Follow-up was
+      extended for an additional five years to June 1989. Data analysis continued through May 1995
+      with grant support.
+
+      DESIGN NARRATIVE:
+
+      Randomized, non-blind, sequential. Some 780 patients meeting the criteria of specific
+      subsets based on history, physical exam, laboratory tests, catheterization, and angiography
+      were randomized to either surgical or medical therapy. Primary endpoints included death and
+      myocardial infarction.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1973</start_date>
+  <completion_date>December 1996</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>coronary artery bypass</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, under 67 years old. Ischemic heart disease.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>66 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kathryn Davis</last_name>
+    <affiliation>University of Washington</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Foster ED, Fisher LD, Kaiser GC, Myers WO. Comparison of operative mortality and morbidity for initial and repeat coronary artery bypass grafting: The Coronary Artery Surgery Study (CASS) registry experience. Ann Thorac Surg. 1984 Dec;38(6):563-70.</citation>
+    <PMID>6391399</PMID>
+  </reference>
+  <reference>
+    <citation>Passamani E, Davis KB, Gillespie MJ, Killip T. A randomized trial of coronary artery bypass surgery. Survival of patients with a low ejection fraction. N Engl J Med. 1985 Jun 27;312(26):1665-71.</citation>
+    <PMID>3873614</PMID>
+  </reference>
+  <reference>
+    <citation>Ryan TJ, Weiner DA, McCabe CH, Davis KB, Sheffield LT, Chaitman BR, Tristani FE, Fisher LD. Exercise testing in the Coronary Artery Surgery Study randomized population. Circulation. 1985 Dec;72(6 Pt 2):V31-8.</citation>
+    <PMID>3905057</PMID>
+  </reference>
+  <reference>
+    <citation>Killip T. The coronary artery surgery study (CASS)--a randomized trial and a registry. Z Kardiol. 1985;74 Suppl 6:79-85.</citation>
+    <PMID>2869618</PMID>
+  </reference>
+  <reference>
+    <citation>Myers WO, Davis K, Foster ED, Maynard C, Kaiser GC. Surgical survival in the Coronary Artery Surgery Study (CASS) registry. Ann Thorac Surg. 1985 Sep;40(3):245-60.</citation>
+    <PMID>3876085</PMID>
+  </reference>
+  <reference>
+    <citation>Davis KB, Fisher L, Gillespie MJ, Pettinger M. A test of the National Death Index using the Coronary Artery Surgery Study (CASS). Control Clin Trials. 1985 Sep;6(3):179-91.</citation>
+    <PMID>4042662</PMID>
+  </reference>
+  <reference>
+    <citation>Bourassa MG, Fisher LD, Campeau L, Gillespie MJ, McConney M, Lespérance J. Long-term fate of bypass grafts: the Coronary Artery Surgery Study (CASS) and Montreal Heart Institute experiences. Circulation. 1985 Dec;72(6 Pt 2):V71-8. Review.</citation>
+    <PMID>3905060</PMID>
+  </reference>
+  <reference>
+    <citation>Killip T, Passamani E, Davis K. Coronary artery surgery study (CASS): a randomized trial of coronary bypass surgery. Eight years follow-up and survival in patients with reduced ejection fraction. Circulation. 1985 Dec;72(6 Pt 2):V102-9.</citation>
+    <PMID>3905050</PMID>
+  </reference>
+  <reference>
+    <citation>Kaiser GC, Davis KB, Fisher LD, Myers WO, Foster ED, Passamani ER, Gillespie MJ. Survival following coronary artery bypass grafting in patients with severe angina pectoris (CASS). An observational study. J Thorac Cardiovasc Surg. 1985 Apr;89(4):513-24.</citation>
+    <PMID>3884909</PMID>
+  </reference>
+  <reference>
+    <citation>Gersh BJ, Kronmal RA, Schaff HV, Frye RL, Ryan TJ, Mock MB, Myers WO, Athearn MW, Gosselin AJ, Kaiser GC, et al. Comparison of coronary artery bypass surgery and medical therapy in patients 65 years of age or older. A nonrandomized study from the Coronary Artery Surgery Study (CASS) registry. N Engl J Med. 1985 Jul 25;313(4):217-24.</citation>
+    <PMID>3874368</PMID>
+  </reference>
+  <reference>
+    <citation>Vlietstra RE, Kronmal RA, Oberman A, Frye RL, Killip T 3rd. Effect of cigarette smoking on survival of patients with angiographically documented coronary artery disease. Report from the CASS registry. JAMA. 1986 Feb 28;255(8):1023-7.</citation>
+    <PMID>3945013</PMID>
+  </reference>
+  <reference>
+    <citation>Kemp HG, Kronmal RA, Vlietstra RE, Frye RL. Seven year survival of patients with normal or near normal coronary arteriograms: a CASS registry study. J Am Coll Cardiol. 1986 Mar;7(3):479-83.</citation>
+    <PMID>3512658</PMID>
+  </reference>
+  <reference>
+    <citation>Foster ED, Davis KB, Carpenter JA, Abele S, Fray D. Risk of noncardiac operation in patients with defined coronary disease: The Coronary Artery Surgery Study (CASS) registry experience. Ann Thorac Surg. 1986 Jan;41(1):42-50.</citation>
+    <PMID>3484621</PMID>
+  </reference>
+  <reference>
+    <citation>Holmes DR Jr, Davis KB, Mock MB, Fisher LD, Gersh BJ, Killip T 3rd, Pettinger M. The effect of medical and surgical treatment on subsequent sudden cardiac death in patients with coronary artery disease: a report from the Coronary Artery Surgery Study. Circulation. 1986 Jun;73(6):1254-63.</citation>
+    <PMID>3486056</PMID>
+  </reference>
+  <reference>
+    <citation>Maynard C, Fisher LD, Passamani ER, Pullum T. Blacks in the Coronary Artery Surgery Study: risk factors and coronary artery disease. Circulation. 1986 Jul;74(1):64-71.</citation>
+    <PMID>3708780</PMID>
+  </reference>
+  <reference>
+    <citation>Maynard C, Fisher LD, Passamani ER, Pullum T. Blacks in the coronary artery surgery study (CASS): race and clinical decision making. Am J Public Health. 1986 Dec;76(12):1446-8.</citation>
+    <PMID>3490796</PMID>
+  </reference>
+  <reference>
+    <citation>Passamani ER: The Coronary Artery Surgery Study. Cardiol Pract, 3:7-15, 1986.</citation>
+  </reference>
+  <reference>
+    <citation>Faxon DP, Myers WO, McCabe CH, Davis KB, Schaff HV, Wilson JW, Ryan TJ. The influence of surgery on the natural history of angiographically documented left ventricular aneurysm: the Coronary Artery Surgery Study. Circulation. 1986 Jul;74(1):110-8.</citation>
+    <PMID>3708770</PMID>
+  </reference>
+  <reference>
+    <citation>Chaitman BR, Davis KB, Kaiser GC, Mudd G, Wiens RD, Ng GS, Passamani ER, Killip T. The role of coronary bypass surgery for 'left main equivalent' coronary disease: the Coronary Artery Surgery Study registry. Circulation. 1986 Nov;74(5 Pt 2):III17-25.</citation>
+    <PMID>3490329</PMID>
+  </reference>
+  <reference>
+    <citation>Maynard C, Fisher L, Alderman EL, Mock MB, Ringqvist I, Bourassa MG, Kaiser GC, Gillespie MJ. Institutional differences in therapeutic decision making in the Coronary Artery Surgery Study (CASS). Med Decis Making. 1986 Jul-Sep;6(3):127-35.</citation>
+    <PMID>3488487</PMID>
+  </reference>
+  <reference>
+    <citation>Weiner DA, Ryan TJ, McCabe CH, Chaitman BR, Sheffield LT, Fisher LD, Tristani F. Value of exercise testing in determining the risk classification and the response to coronary artery bypass grafting in three-vessel coronary artery disease: a report from the Coronary Artery Surgery Study (CASS) registry. Am J Cardiol. 1987 Aug 1;60(4):262-6.</citation>
+    <PMID>3303887</PMID>
+  </reference>
+  <reference>
+    <citation>Myers WO, Gersh BJ, Fisher LD, Mock MB, Holmes DR, Schaff HV, Gillispie S, Ryan TJ, Kaiser GC. Medical versus early surgical therapy in patients with triple-vessel disease and mild angina pectoris: a CASS registry study of survival. Ann Thorac Surg. 1987 Nov;44(5):471-86.</citation>
+    <PMID>3499880</PMID>
+  </reference>
+  <reference>
+    <citation>Myers WO, Gersh BJ, Fisher LD, Mock MB, Holmes DR, Schaff HV, Gillispie S, Ryan TJ, Kaiser GC. Time to first new myocardial infarction in patients with mild angina and three-vessel disease comparing medicine and early surgery: a CASS registry study of survival. Coronary Artery Surgery Study. Ann Thorac Surg. 1987 Jun;43(6):599-612.</citation>
+    <PMID>3496059</PMID>
+  </reference>
+  <reference>
+    <citation>Robertson T, Fisher L. Prognostic significance of coronary artery aneurysm and ectasia in the Coronary Artery Surgery Study (CASS) registry. Prog Clin Biol Res. 1987;250:325-39.</citation>
+    <PMID>3423046</PMID>
+  </reference>
+  <reference>
+    <citation>Chaitman BR, Davis KB, Dodge HT, Fisher LD, Pettinger M, Holmes DR, Kaiser GC. Should airline pilots be eligible to resume active flight status after coronary bypass surgery?: a CASS registry study. J Am Coll Cardiol. 1986 Dec;8(6):1318-24. Erratum in: J Am Coll Cardiol 1987 Mar;9(3):705.</citation>
+    <PMID>3491099</PMID>
+  </reference>
+  <reference>
+    <citation>Freedman RA, Alderman EL, Sheffield LT, Saporito M, Fisher LD. Bundle branch block in patients with chronic coronary artery disease: angiographic correlates and prognostic significance. J Am Coll Cardiol. 1987 Jul;10(1):73-80.</citation>
+    <PMID>3597997</PMID>
+  </reference>
+  <reference>
+    <citation>Ross DL, Davis KB, Pettinger MB, Alderman EL, Killip T, Mason JW. Features of cardiac arrest episodes with and without acute myocardial infarction in the Coronary Artery Surgery Study (CASS). Am J Cardiol. 1987 Dec 1;60(16):1219-24.</citation>
+    <PMID>3687773</PMID>
+  </reference>
+  <reference>
+    <citation>Maynard C, Fisher LD, Passamani ER. Survival of black persons compared with white persons in the Coronary Artery Surgery Study (CASS). Am J Cardiol. 1987 Sep 1;60(7):513-8.</citation>
+    <PMID>3498357</PMID>
+  </reference>
+  <reference>
+    <citation>Mock MB, Fisher LD, Holmes DR Jr, Gersh BJ, Schaff HV, McConney M, Rogers WJ, Kaiser GC, Ryan TJ, Myers WO, et al. Comparison of effects of medical and surgical therapy on survival in severe angina pectoris and two-vessel coronary artery disease with and without left ventricular dysfunction: a Coronary Artery Surgery Study Registry Study. Am J Cardiol. 1988 Jun 1;61(15):1198-203.</citation>
+    <PMID>3259831</PMID>
+  </reference>
+  <reference>
+    <citation>Weiner DA, Ryan TJ, McCabe CH, Chaitman BR, Sheffield LT, Ng G, Fisher LD, Tristini FE. Comparison of coronary artery bypass surgery and medical therapy in patients with exercised-induced silent myocardial ischemia: a report from the Coronary Artery Surgery Study (CASS) registry. J Am Coll Cardiol. 1988 Sep;12(3):595-9.</citation>
+    <PMID>3261305</PMID>
+  </reference>
+  <reference>
+    <citation>Cameron A, Davis KB, Green GE, Myers WO, Pettinger M. Clinical implications of internal mammary artery bypass grafts: the Coronary Artery Surgery Study experience. Circulation. 1988 Apr;77(4):815-9.</citation>
+    <PMID>3280159</PMID>
+  </reference>
+  <reference>
+    <citation>Hermanson B, Omenn GS, Kronmal RA, Gersh BJ. Beneficial six-year outcome of smoking cessation in older men and women with coronary artery disease. Results from the CASS registry. N Engl J Med. 1988 Nov 24;319(21):1365-9.</citation>
+    <PMID>3185646</PMID>
+  </reference>
+  <reference>
+    <citation>Weiner DA, Ryan TJ, McCabe CH, Ng G, Chaitman BR, Sheffield LT, Tristani FE, Fisher LD. Risk of developing an acute myocardial infarction or sudden coronary death in patients with exercise-induced silent myocardial ischemia. A report from the Coronary Artery Surgery Study (CASS) registry. Am J Cardiol. 1988 Dec 1;62(17):1155-8.</citation>
+    <PMID>3195475</PMID>
+  </reference>
+  <reference>
+    <citation>Cameron A, Schwartz MJ, Kronmal RA, Kosinski AS. Prevalence and significance of atrial fibrillation in coronary artery disease (CASS Registry). Am J Cardiol. 1988 Apr 1;61(10):714-7.</citation>
+    <PMID>3258467</PMID>
+  </reference>
+  <reference>
+    <citation>Ellis S, Alderman E, Cain K, Fisher L, Sanders W, Bourassa M. Prediction of risk of anterior myocardial infarction by lesion severity and measurement method of stenoses in the left anterior descending coronary distribution: a CASS Registry Study. J Am Coll Cardiol. 1988 May;11(5):908-16.</citation>
+    <PMID>3128587</PMID>
+  </reference>
+  <reference>
+    <citation>Myers WO, Schaff HV, Fisher LD, Gersh BJ, Mock MB, Holmes DR, Gillispie S, Ryan TJ, Kaiser GC. Time to first new myocardial infarction in patients with severe angina and three-vessel disease comparing medical and early surgical therapy: a CASS registry study of survival. J Thorac Cardiovasc Surg. 1988 Mar;95(3):382-9.</citation>
+    <PMID>3257799</PMID>
+  </reference>
+  <reference>
+    <citation>Myers WO, Schaff HV, Gersh BJ, Fisher LD, Kosinski AS, Mock MB, Holmes DR, Ryan TJ, Kaiser GC. Improved survival of surgically treated patients with triple vessel coronary artery disease and severe angina pectoris. A report from the Coronary Artery Surgery Study (CASS) registry. J Thorac Cardiovasc Surg. 1989 Apr;97(4):487-95.</citation>
+    <PMID>2648078</PMID>
+  </reference>
+  <reference>
+    <citation>Holmes DR Jr, Davis K, Gersh BJ, Mock MB, Pettinger MB. Risk factor profiles of patients with sudden cardiac death and death from other cardiac causes: a report from the Coronary Artery Surgery Study (CASS). J Am Coll Cardiol. 1989 Mar 1;13(3):524-30.</citation>
+    <PMID>2918155</PMID>
+  </reference>
+  <reference>
+    <citation>Eaker ED, Kronmal R, Kennedy JW, Davis K. Comparison of the long-term, postsurgical survival of women and men in the Coronary Artery Surgery Study (CASS). Am Heart J. 1989 Jan;117(1):71-81.</citation>
+    <PMID>2643286</PMID>
+  </reference>
+  <reference>
+    <citation>Taylor HA, Deumite NJ, Chaitman BR, Davis KB, Killip T, Rogers WJ. Asymptomatic left main coronary artery disease in the Coronary Artery Surgery Study (CASS) registry. Circulation. 1989 Jun;79(6):1171-9.</citation>
+    <PMID>2785870</PMID>
+  </reference>
+  <reference>
+    <citation>Fisher LD, Maynard C, Rademaker AW, Alderman EL, Mock M. Age variation in the association between angiographic coronary disease and angina from the Coronary Artery Surgery Study (CASS). Int J Cardiol. 1989 Sep;24(3):317-26.</citation>
+    <PMID>2767810</PMID>
+  </reference>
+  <reference>
+    <citation>Ellis S, Alderman EL, Cain K, Wright A, Bourassa M, Fisher L. Morphology of left anterior descending coronary territory lesions as a predictor of anterior myocardial infarction: a CASS Registry Study. J Am Coll Cardiol. 1989 Jun;13(7):1481-91.</citation>
+    <PMID>2656822</PMID>
+  </reference>
+  <reference>
+    <citation>Weiner DA, Ryan TJ, McCabe CH, Ng G, Chaitman BR, Sheffield LT, Tristani FE, Fisher LD. The role of exercise-induced silent myocardial ischemia in patients with abnormal left ventricular function. A report from the Coronary Artery Surgery Study (CASS) registry. Am Heart J. 1989 Oct;118(4):649-54.</citation>
+    <PMID>2801472</PMID>
+  </reference>
+  <reference>
+    <citation>Epstein AE, Davis KB, Kay GN, Plumb VJ, Rogers WJ. Significance of ventricular tachyarrhythmias complicating cardiac catheterization: a CASS Registry Study. Am Heart J. 1990 Mar;119(3 Pt 1):494-502.</citation>
+    <PMID>2178371</PMID>
+  </reference>
+  <reference>
+    <citation>Chaitman BR, Ryan TJ, Kronmal RA, Foster ED, Frommer PL, Killip T. Coronary Artery Surgery Study (CASS): comparability of 10 year survival in randomized and randomizable patients. J Am Coll Cardiol. 1990 Nov;16(5):1071-8.</citation>
+    <PMID>2229750</PMID>
+  </reference>
+  <reference>
+    <citation>Alderman EL, Bourassa MG, Cohen LS, Davis KB, Kaiser GG, Killip T, Mock MB, Pettinger M, Robertson TL. Ten-year follow-up of survival and myocardial infarction in the randomized Coronary Artery Surgery Study. Circulation. 1990 Nov;82(5):1629-46.</citation>
+    <PMID>2225367</PMID>
+  </reference>
+  <reference>
+    <citation>Rogers WJ, Coggin CJ, Gersh BJ, Fisher LD, Myers WO, Oberman A, Sheffield LT. Ten-year follow-up of quality of life in patients randomized to receive medical therapy or coronary artery bypass graft surgery. The Coronary Artery Surgery Study (CASS). Circulation. 1990 Nov;82(5):1647-58.</citation>
+    <PMID>1977531</PMID>
+  </reference>
+  <reference>
+    <citation>Weiner DA, Ryan TJ, Parsons L, Fisher LD, Chaitman BR, Sheffield LT, Tristani FE. Prevalence and prognostic significance of silent and symptomatic ischemia after coronary bypass surgery: a report from the Coronary Artery Surgery Study (CASS) randomized population. J Am Coll Cardiol. 1991 Aug;18(2):343-8.</citation>
+    <PMID>1856402</PMID>
+  </reference>
+  <reference>
+    <citation>Weiner DA, Ryan TJ, Parsons L, Fisher LD, Chaitman BR, Sheffield LT, Tristani FE. Significance of silent myocardial ischemia during exercise testing in patients with diabetes mellitus: a report from the Coronary Artery Surgery Study (CASS) Registry. Am J Cardiol. 1991 Sep 15;68(8):729-34.</citation>
+    <PMID>1892078</PMID>
+  </reference>
+  <reference>
+    <citation>Davis KB, Alderman EL, Kosinski AS, Passamani E, Kennedy JW. Early mortality of acute myocardial infarction in patients with and without prior coronary revascularization surgery. A Coronary Artery Surgery Study Registry Study. Circulation. 1992 Jun;85(6):2100-9.</citation>
+    <PMID>1591829</PMID>
+  </reference>
+  <reference>
+    <citation>Bell MR, Gersh BJ, Schaff HV, Holmes DR Jr, Fisher LD, Alderman EL, Myers WO, Parsons LS, Reeder GS. Effect of completeness of revascularization on long-term outcome of patients with three-vessel disease undergoing coronary artery bypass surgery. A report from the Coronary Artery Surgery Study (CASS) Registry. Circulation. 1992 Aug;86(2):446-57.</citation>
+    <PMID>1638714</PMID>
+  </reference>
+  <reference>
+    <citation>Cavender JB, Rogers WJ, Fisher LD, Gersh BJ, Coggin CJ, Myers WO. Effects of smoking on survival and morbidity in patients randomized to medical or surgical therapy in the Coronary Artery Surgery Study (CASS): 10-year follow-up. CASS Investigators. J Am Coll Cardiol. 1992 Aug;20(2):287-94.</citation>
+    <PMID>1634662</PMID>
+  </reference>
+  <reference>
+    <citation>Frye RL, Kronmal R, Schaff HV, Myers WO, Gersh BJ. Stroke in coronary artery bypass graft surgery: an analysis of the CASS experience. The participants in the Coronary Artery Surgery Study. Int J Cardiol. 1992 Aug;36(2):213-21.</citation>
+    <PMID>1512060</PMID>
+  </reference>
+  <reference>
+    <citation>Alderman EL, Corley SD, Fisher LD, Chaitman BR, Faxon DP, Foster ED, Killip T, Sosa JA, Bourassa MG. Five-year angiographic follow-up of factors associated with progression of coronary artery disease in the Coronary Artery Surgery Study (CASS). CASS Participating Investigators and Staff. J Am Coll Cardiol. 1993 Oct;22(4):1141-54.</citation>
+    <PMID>8409054</PMID>
+  </reference>
+  <reference>
+    <citation>Eagle KA, Rihal CS, Foster ED, Mickel MC, Gersh BJ. Long-term survival in patients with coronary artery disease: importance of peripheral vascular disease. The Coronary Artery Surgery Study (CASS) Investigators. J Am Coll Cardiol. 1994 Apr;23(5):1091-5.</citation>
+    <PMID>8144774</PMID>
+  </reference>
+  <reference>
+    <citation>Kronmal RA, Davis K, Fisher LD, Jones RA, Gillespie MJ. Data management for a large collaborative clinical trial (CASS: Coronary Artery Surgery Study). Comput Biomed Res. 1978 Dec;11(6):553-66.</citation>
+    <PMID>738032</PMID>
+  </reference>
+  <reference>
+    <citation>Weiner DA, Ryan TJ, McCabe CH, Kennedy JW, Schloss M, Tristani F, Chaitman BR, Fisher LD. Exercise stress testing. Correlations among history of angina, ST-segment response and prevalence of coronary-artery disease in the Coronary Artery Surgery Study (CASS). N Engl J Med. 1979 Aug 2;301(5):230-5.</citation>
+    <PMID>449990</PMID>
+  </reference>
+  <reference>
+    <citation>Davis K, Kennedy JW, Kemp HG Jr, Judkins MP, Gosselin AJ, Killip T. Complications of coronary arteriography from the Collaborative Study of Coronary Artery Surgery (CASS). Circulation. 1979 Jun;59(6):1105-12.</citation>
+    <PMID>436203</PMID>
+  </reference>
+  <reference>
+    <citation>Vlietstra RE, Frye RL, Kronmal RA, Sim DA, Tristani FE, Killip T 3rd. Risk factors and angiographic coronary artery disease: a report from the coronary artery surgery study (CASS). Circulation. 1980 Aug;62(2):254-61.</citation>
+    <PMID>7397967</PMID>
+  </reference>
+  <reference>
+    <citation>Gosselin AJ, Fisher L, Judkins MP, et al: An Estimate of the Number of Possible Candidates from the CASS Registry. Proceedings of the Workshop on Percutaneous Transluminal Coronary Angioplasty June l5-l6, l979, U.S. Department of Health, Education, and Welfare, NIH Publication No. 80-2030. March l980, pp 89-l00.</citation>
+  </reference>
+  <reference>
+    <citation>Chaitman BR, Rogers WJ, Davis K, Tyras DH, Berger R, Bourassa MG, Fisher L, StoverHertzberg V, Judkins MP, Mock MB, Killip T. Operative risk factors in patients with left main coronary-artery disease. N Engl J Med. 1980 Oct 23;303(17):953-7.</citation>
+    <PMID>7412850</PMID>
+  </reference>
+  <reference>
+    <citation>Kennedy JW, Kaiser GC, Fisher LD, Maynard C, Fritz JK, Myers W, Mudd JG, Ryan TJ, Coggin J. Multivariate discriminant analysis of the clinical and angiographic predictors of operative mortality from the Collaborative Study in Coronary Artery Surgery (CASS). J Thorac Cardiovasc Surg. 1980 Dec;80(6):876-87.</citation>
+    <PMID>6968859</PMID>
+  </reference>
+  <reference>
+    <citation>National Heart, Lung, and Blood Institute Coronary Artery Surgery Study. A multicenter comparison of the effects of randomized medical and surgical treatment of mildly symptomatic patients with coronary artery disease, and a registry of consecutive patients undergoing coronary angiography. Circulation. 1981 Jun;63(6 Pt 2):I1-81.</citation>
+    <PMID>7011591</PMID>
+  </reference>
+  <reference>
+    <citation>Chaitman BR, Bourassa MG, Davis K, Rogers WJ, Tyras DH, Berger R, Kennedy JW, Fisher L, Judkins MP, Mock MB, Killip T. Angiographic prevalence of high-risk coronary artery disease in patient subsets (CASS). Circulation. 1981 Aug;64(2):360-7.</citation>
+    <PMID>7249303</PMID>
+  </reference>
+  <reference>
+    <citation>Berger RL, Davis KB, Kaiser GC, Foster ED, Hammond GL, Tong TG, Kennedy JW, Sheffield T, Ringqvist I, Wiens RD, Chaitman BR, Mock M. Preservation of the myocardium during coronary artery bypass grafting. Circulation. 1981 Aug;64(2 Pt 2):II61-6.</citation>
+    <PMID>6972828</PMID>
+  </reference>
+  <reference>
+    <citation>Chaitman BR, Fisher LD, Bourassa MG, Davis K, Rogers WJ, Maynard C, Tyras DH, Berger RL, Judkins MP, Ringqvist I, Mock MB, Killip T. Effect of coronary bypass surgery on survival patterns in subsets of patients with left main coronary artery disease. Report of the Collaborative Study in Coronary Artery Surgery (CASS). Am J Cardiol. 1981 Oct;48(4):765-77.</citation>
+    <PMID>7025604</PMID>
+  </reference>
+  <reference>
+    <citation>Mock MB, Ringqvist I, Fisher LD, Davis KB, Chaitman BR, Kouchoukos NT, Kaiser GC, Alderman E, Ryan TJ, Russell RO Jr, Mullin S, Fray D, Killip T 3rd. Survival of medically treated patients in the coronary artery surgery study (CASS) registry. Circulation. 1982 Sep;66(3):562-8.</citation>
+    <PMID>6980062</PMID>
+  </reference>
+  <reference>
+    <citation>Fisher LD, Kennedy JW, Davis KB, Maynard C, Fritz JK, Kaiser G, Myers WO. Association of sex, physical size, and operative mortality after coronary artery bypass in the Coronary Artery Surgery Study (CASS). J Thorac Cardiovasc Surg. 1982 Sep;84(3):334-41.</citation>
+    <PMID>6981033</PMID>
+  </reference>
+  <reference>
+    <citation>Fisher LD, Lundberg ED, McBride R, et al: The Design of a Database Management System, C2, for Research Use in the Coronary Artery Surgery Study (CASS). Proceedings of the Fifteenth Hawaii International Conference on Systems Sciences, l982, Volume II, Software, Hardware, Decision Support Systems, Special Topics. Western Periodicals Co., North Hollywood, CA. Ed.W.</citation>
+  </reference>
+  <reference>
+    <citation>Lundberg ED, McBride R, Rawson TE, et al: A Data Base Management System Developed for the Coronary Artery Surgery Study (CASS) and other Clinical Studies. Proceedings of the Fifteenth Hawaii International Conference on Systems Sciences, l982, Volume II, Software, Hardware, Decision Support Systems, Special Topics. Western Periodicals Co., North Hollywood, CA. Ed.W. Riddle K, Thurber P, Keen P, et al: l982 pp. 484-500.</citation>
+  </reference>
+  <reference>
+    <citation>Vlietstra RE, Kronmal RA, Frye RL, Seth AK, Tristani FE, Killip T 3rd. Factors affecting the extent and severity of coronary artery disease in patients enrolled in the coronary artery surgery study. Arteriosclerosis. 1982 May-Jun;2(3):208-15.</citation>
+    <PMID>6979996</PMID>
+  </reference>
+  <reference>
+    <citation>Alderman EL, Fisher L, Maynard C, Mock MB, Ringqvist I, Bourassa MG, Kaiser GC, Gillespie MJ. Determinants of coronary surgery in a consecutive patient series from geographically dispersed medical centers. The coronary artery surgery study. Circulation. 1982 Aug;66(2 Pt 2):I6-15.</citation>
+    <PMID>7083548</PMID>
+  </reference>
+  <reference>
+    <citation>Davis KB, Kennedy JW, Berger RL, et al: Operative Mortality in the CASS Registry. Coronary Bypass Surgery, New York, Praeger Scientific. 99-127, 1983.</citation>
+  </reference>
+  <reference>
+    <citation>Davis KB, Chaitman BR, Killip T, et al: Effect of Coronary Bypass Surgery on Operative Mortality and Survival Patterns in Subsets of Patients with Left Main Coronary Artery Disease. In Hammermeister KE (Ed): Coronary Bypass Surgery, New York, Praeger Scientific, 99-127, 1983.</citation>
+  </reference>
+  <reference>
+    <citation>Frommer PL, Fisher LD, Mock MB, et al: The Coronary Artery Surgery Study: A Randomized Trial in the Context of the Registry. Ibid, 57-82, 1983.</citation>
+  </reference>
+  <reference>
+    <citation>Ringqvist I, Fisher LD, Mock M, Davis KB, Wedel H, Chaitman BR, Passamani E, Russell RO Jr, Alderman EL, Kouchoukas NT, Kaiser GC, Ryan TJ, Killip T, Fray D. Prognostic value of angiographic indices of coronary artery disease from the Coronary Artery Surgery Study (CASS). J Clin Invest. 1983 Jun;71(6):1854-66.</citation>
+    <PMID>6863543</PMID>
+  </reference>
+  <reference>
+    <citation>Gersh BJ, Kronmal RA, Frye RL, Schaff HV, Ryan TJ, Gosselin AJ, Kaiser GC, Killip T 3rd. Coronary arteriography and coronary artery bypass surgery: morbidity and mortality in patients ages 65 years or older. A report from the Coronary Artery Surgery Study. Circulation. 1983 Mar;67(3):483-91.</citation>
+    <PMID>6600417</PMID>
+  </reference>
+  <reference>
+    <citation>Ryan TJ, Bailey KR, McCabe CH, Luk S, Fisher LD, Mock MB, Killip T. The effects of digitalis on survival in high-risk patients with coronary artery disease. The Coronary Artery Surgery Study (CASS). Circulation. 1983 Apr;67(4):735-42.</citation>
+    <PMID>6825229</PMID>
+  </reference>
+  <reference>
+    <citation>Holmes DR Jr, Vlietstra RE, Fisher LD, Smith HC, Mock MB, Faxon DP, Gosselin AJ, Ryan TJ, Judkins MP, Pettinger M. Follow-up of patients from the coronary artery surgery study (CASS) potentially suitable for percutaneous transluminal coronary angioplasty. Am Heart J. 1983 Nov;106(5 Pt 1):981-8.</citation>
+    <PMID>6227227</PMID>
+  </reference>
+  <reference>
+    <citation>Coronary artery surgery study (CASS): a randomized trial of coronary artery bypass surgery. Survival data. Circulation. 1983 Nov;68(5):939-50.</citation>
+    <PMID>6137292</PMID>
+  </reference>
+  <reference>
+    <citation>Coronary artery surgery study (CASS): a randomized trial of coronary artery bypass surgery. Quality of life in patients randomly assigned to treatment groups. Circulation. 1983 Nov;68(5):951-60.</citation>
+    <PMID>6137293</PMID>
+  </reference>
+  <reference>
+    <citation>Chaitman BR, Davis K, Fisher LD, Bourassa MG, Mock MB, Lespérance J, Rogers WJ, Fray D, Tyras DH, Judkins MP, et al. A life table and Cox regression analysis of patients with combined proximal left anterior descending and proximal left circumflex coronary artery disease: non-left main equivalent lesions (CASS). Circulation. 1983 Dec;68(6):1163-70.</citation>
+    <PMID>6640869</PMID>
+  </reference>
+  <reference>
+    <citation>Coronary artery surgery study (CASS): a randomized trial of coronary artery bypass surgery. Comparability of entry characteristics and survival in randomized patients and nonrandomized patients meeting randomization criteria. J Am Coll Cardiol. 1984 Jan;3(1):114-28.</citation>
+    <PMID>6361099</PMID>
+  </reference>
+  <reference>
+    <citation>Cameron AA, Davis KB, Rogers WJ. Recurrence of angina after coronary artery bypass surgery: predictors and prognosis (CASS Registry). Coronary Artery Surgery Study. J Am Coll Cardiol. 1995 Oct;26(4):895-9.</citation>
+    <PMID>7560614</PMID>
+  </reference>
+  <reference>
+    <citation>Fisher LD, Kennedy JW, Chaitman BR, Ryan TJ, McCabe C, Weiner D, Tristani F, Schloss M, Warner HR Jr. Diagnostic quantification of CASS (coronary artery surgery study) clinical and exercise test results in determining presence and extent of coronary artery disease. A multivariate approach. Circulation. 1981 May;63(5):987-1000.</citation>
+    <PMID>7471382</PMID>
+  </reference>
+  <reference>
+    <citation>Kennedy JW, Kaiser GC, Fisher LD, Fritz JK, Myers W, Mudd JG, Ryan TJ. Clinical and angiographic predictors of operative mortality from the collaborative study in coronary artery surgery (CASS). Circulation. 1981 Apr;63(4):793-802.</citation>
+    <PMID>6970631</PMID>
+  </reference>
+  <reference>
+    <citation>Bruce RA, Fisher LD, Pettinger M, Weiner DA, Chaitman BR. ST segment elevation with exercise: a marker for poor ventricular function and poor prognosis. Coronary Artery Surgery Study (CASS) confirmation of Seattle Heart Watch results. Circulation. 1988 Apr;77(4):897-905.</citation>
+    <PMID>3349585</PMID>
+  </reference>
+  <reference>
+    <citation>Holloway JD, Schocken DD. CASS in retrospect: lessons from the randomized cohort and registry. Coronary Artery Surgery Study. Am J Med Sci. 1988 May;295(5):424-32.</citation>
+    <PMID>3259835</PMID>
+  </reference>
+  <reference>
+    <citation>Buffington CW, Davis KB, Gillispie S, Pettinger M. The prevalence of steal-prone coronary anatomy in patients with coronary artery disease: an analysis of the Coronary Artery Surgery Study Registry. Anesthesiology. 1988 Nov;69(5):721-7.</citation>
+    <PMID>3189919</PMID>
+  </reference>
+  <reference>
+    <citation>Ellis SG, Fisher L, Dushman-Ellis S, Pettinger M, King SB 3rd, Roubin GS, Alderman E. Comparison of coronary angioplasty with medical treatment for single- and double-vessel coronary disease with left anterior descending coronary involvement: long-term outcome based on an Emory-CASS registry study. Am Heart J. 1989 Aug;118(2):208-20.</citation>
+    <PMID>2568744</PMID>
+  </reference>
+  <reference>
+    <citation>Zack PM, Chaitman BR, Davis KB, Kaiser GC, Wiens RD, Ng G. Survival patterns in clinical and angiographic subsets of medically treated patients with combined proximal left anterior descending and proximal left circumflex coronary artery disease (CASS). Am Heart J. 1989 Aug;118(2):220-7.</citation>
+    <PMID>2665461</PMID>
+  </reference>
+  <reference>
+    <citation>Emond M, Mock MB, Davis KB, Fisher LD, Holmes DR Jr, Chaitman BR, Kaiser GC, Alderman E, Killip T 3rd. Long-term survival of medically treated patients in the Coronary Artery Surgery Study (CASS) Registry. Circulation. 1994 Dec;90(6):2645-57.</citation>
+    <PMID>7994804</PMID>
+  </reference>
+  <reference>
+    <citation>Weiner DA, Ryan TJ, Parsons L, Fisher LD, Chaitman BR, Sheffield LT, Tristani FE. Significance of silent myocardial ischemia during exercise testing in women: report from the Coronary Artery Surgery Study. Am Heart J. 1995 Mar;129(3):465-70.</citation>
+    <PMID>7872172</PMID>
+  </reference>
+  <reference>
+    <citation>Weiner DA, Ryan TJ, Parsons L, Fisher LD, Chaitman BR, Sheffield LT, Tristani FE. Long-term prognostic value of exercise testing in men and women from the Coronary Artery Surgery Study (CASS) registry. Am J Cardiol. 1995 May 1;75(14):865-70.</citation>
+    <PMID>7732991</PMID>
+  </reference>
+  <reference>
+    <citation>Davis KB, Chaitman B, Ryan T, Bittner V, Kennedy JW. Comparison of 15-year survival for men and women after initial medical or surgical treatment for coronary artery disease: a CASS registry study. Coronary Artery Surgery Study. J Am Coll Cardiol. 1995 Apr;25(5):1000-9.</citation>
+    <PMID>7897108</PMID>
+  </reference>
+  <reference>
+    <citation>Rihal CS, Eagle KA, Mickel MC, Foster ED, Sopko G, Gersh BJ. Surgical therapy for coronary artery disease among patients with combined coronary artery and peripheral vascular disease. Circulation. 1995 Jan 1;91(1):46-53.</citation>
+    <PMID>7805218</PMID>
+  </reference>
+  <reference>
+    <citation>Zimmerman FH, Cameron A, Fisher LD, Ng G. Myocardial infarction in young adults: angiographic characterization, risk factors and prognosis (Coronary Artery Surgery Study Registry). J Am Coll Cardiol. 1995 Sep;26(3):654-61.</citation>
+    <PMID>7642855</PMID>
+  </reference>
+  <reference>
+    <citation>Cameron A, Davis KB, Green G, Schaff HV. Coronary bypass surgery with internal-thoracic-artery grafts--effects on survival over a 15-year period. N Engl J Med. 1996 Jan 25;334(4):216-9.</citation>
+    <PMID>8531997</PMID>
+  </reference>
+  <reference>
+    <citation>Loop FD. Internal-thoracic-artery grafts. Biologically better coronary arteries. N Engl J Med. 1996 Jan 25;334(4):263-5.</citation>
+    <PMID>8532006</PMID>
+  </reference>
+  <reference>
+    <citation>Taylor HA Jr, Mickel MC, Chaitman BR, Sopko G, Cutter GR, Rogers WJ. Long-term survival of African Americans in the Coronary Artery Surgery Study (CASS). J Am Coll Cardiol. 1997 Feb;29(2):358-64.</citation>
+    <PMID>9014989</PMID>
+  </reference>
+  <reference>
+    <citation>Myers WO, Blackstone EH, Davis K, Foster ED, Kaiser GC. CASS Registry long term surgical survival. Coronary Artery Surgery Study. J Am Coll Cardiol. 1999 Feb;33(2):488-98. Erratum in: J Am Coll Cardiol 1999 Oct;34(4):1363.</citation>
+    <PMID>9973030</PMID>
+  </reference>
+  <reference>
+    <citation>Barzilay JI, Kronmal RA, Bittner V, Eaker E, Evans C, Foster ED. Coronary artery disease in diabetic patients with lower-extremity arterial disease: disease characteristics and survival. A report from the Coronary Artery Surgery Study (CASS) registry. Diabetes Care. 1997 Sep;20(9):1381-7.</citation>
+    <PMID>9283784</PMID>
+  </reference>
+  <reference>
+    <citation>Judge KW, Pawitan Y, Caldwell J, Gersh BJ, Kennedy JW. Congestive heart failure symptoms in patients with preserved left ventricular systolic function: analysis of the CASS registry. J Am Coll Cardiol. 1991 Aug;18(2):377-82.</citation>
+    <PMID>1856405</PMID>
+  </reference>
+  <verification_date>December 2005</verification_date>
+  <lastchanged_date>December 21, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

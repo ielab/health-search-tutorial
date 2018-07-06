@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204378">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000599</url>
+  </required_header>
+  <id_info>
+    <org_study_id>502</org_study_id>
+    <secondary_id>P01HL023619</secondary_id>
+    <nct_id>NCT00000599</nct_id>
+  </id_info>
+  <brief_title>Cholesterol-Lowering Atherosclerosis Study (CLAS)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether combined therapy with the lipid lowering agents colestipol
+      hydrochloride plus niacin would produce significant change in coronary, carotid, and femoral
+      artery atherosclerosis and coronary bypass graft lesions as determined by angiography. Also,
+      to determine possible correlations between lesion changes and plasma lipid and lipoprotein
+      cholesterol levels and to explore interrelationships of atherosclerosis change in femoral,
+      coronary, and carotid arteries.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The Lipid Research Clinics Coronary Primary Prevention Trial and the Coronary Drug Project
+      had shown that morbidity and mortality from ischemic heart disease were reduced by blood
+      cholesterol-lowering therapy. Although blood cholesterol reduction ameliorated experimental
+      atherosclerosis in animal models, the two largest human studies with angiographic
+      observation of arterial lesion change, the NHLBI Type II Coronary Intervention Study and a
+      study by Cohn et al, had not demonstrated significant treatment effects. Favorable, but
+      inconclusive, treatment trends were observed in four unrandomized angiographic trials and
+      one trial too small for evaluation of randomized groups.
+
+      The clinical trial was supported by a subproject within a program project grant.
+
+      DESIGN NARRATIVE:
+
+      CLAS-I was randomized and selectively-blinded. Screening for the trial consisted of five
+      clinic visits, at which baseline data, including angiographic data, were obtained and a
+      prerandomization trial of the study drugs was conducted. One hundred eighty-eighty subjects
+      were randomized to either 30 grams (g) of colestipol hydrochloride plus 3 to 12 g of niacin
+      daily or to placebo. Both groups received diet intervention. The drug group received less
+      than 125 milligrams (mg) of cholesterol daily, 22 percent of energy as fat, 10 percent as
+      polyunsaturated fat, and 4 percent as saturated fat. The placebo group received less than
+      250 mg of cholesterol per day, 26 percent of energy as fat, 10 percent as polyunsaturated
+      fat, and 5 percent as saturated fat. The different diet composition for drug and placebo
+      groups was to enhance the differential in blood cholesterol responses between the two
+      groups. Study subjects and clinic staff were blinded to the prerandomization study drug
+      trial lipid responses. Subjects were blinded to treatment assignments. Subjects and staff
+      were not blinded to on-trial lipid values. The primary endpoint, the global change score,
+      was change in atherosclerosis observed by angiography of native coronary arteries and aorta
+      coronary bypass grafts. Evaluation of study end-points was performed by staff and
+      consultants who were blinded to treatment group assignments, as well as to the temporal
+      ordering of angiographic data. Subjects were seen monthly for the first six months and then
+      at two-month intervals. A repeat angiogram was performed at two years. Of the 188 randomized
+      subjects, 162 completed the study.
+
+      On completion of CLAS-I, participants not requiring further bypass surgery were invited to
+      continue in CLAS-II for an additional two years on their previously assigned treatment.
+      Blinded study methods were maintained; there was no crossover between treatments. One
+      hundred thirty-eight subjects continued in CLAS-II; 103 completed a third angiogram before
+      the CLAS-I outcome was known and CLAS-II terminated. The CLAS-II clinical procedures, lipid,
+      lipoprotein-cholesterol, and apolipoprotein analyses were the same as in CLAS-I. The CLAS-II
+      angiographic and file evaluation procedures exactly replicated those in CLAS-I.
+
+      The study completion date listed in this record was obtained from the Query/View/Report
+      (QVR) System.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1980</start_date>
+  <completion_date type="Actual">November 1994</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Arterial Occlusive Diseases</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Carotid Artery Diseases</condition>
+  <condition>Cerebral Arteriosclerosis</condition>
+  <condition>Cerebrovascular Disorders</condition>
+  <condition>Coronary Arteriosclerosis</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <condition>Atherosclerosis</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>colestipol</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>niacin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, fat-restricted</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Non-smoking men, ages 40 to 59, with progressive atherosclerosis confirmed by angiography,
+        who had coronary bypass surgery at least three months prior to the study admission date,
+        and who had entry fasting blood cholesterol levels in the range of 185
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>59 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stanley Azen</last_name>
+    <affiliation>University of Southern California</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David Blankenhorn</last_name>
+    <affiliation>University of Southern California</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Azen SP, Cashin-Hemphill L, Pogoda J, Mack WJ, Sanmarco ME, Wickham E, Blankenhorn DH. Evaluation of human panelists in assessing coronary atherosclerosis. Arterioscler Thromb. 1991 Mar-Apr;11(2):385-94.</citation>
+    <PMID>1998656</PMID>
+  </reference>
+  <reference>
+    <citation>Blankenhorn DH, Azen SP, Crawford DW, Nessim SA, Sanmarco ME, Selzer RH, Shircore AM, Wickham EC. Effects of colestipol-niacin therapy on human femoral atherosclerosis. Circulation. 1991 Feb;83(2):438-47.</citation>
+    <PMID>1991366</PMID>
+  </reference>
+  <reference>
+    <citation>Blankenhorn DH, Selzer RH, Mack WJ, Crawford DW, Pogoda J, Lee PL, Shircore AM, Azen SP. Evaluation of colestipol/niacin therapy with computer-derived coronary end point measures. A comparison of different measures of treatment effect. Circulation. 1992 Dec;86(6):1701-9.</citation>
+    <PMID>1451241</PMID>
+  </reference>
+  <reference>
+    <citation>Mack WJ, Selzer RH, Pogoda JM, Lee PL, Shircore AM, Azen SP, Blankenhorn DH. Comparison of computer- and human-derived coronary angiographic end-point measures for controlled therapy trials. Arterioscler Thromb. 1992 Mar;12(3):348-56.</citation>
+    <PMID>1547194</PMID>
+  </reference>
+  <reference>
+    <citation>Mack WJ, Selzer RH, Hodis HN, Erickson JK, Liu CR, Liu CH, Crawford DW, Blankenhorn DH. One-year reduction and longitudinal analysis of carotid intima-media thickness associated with colestipol/niacin therapy. Stroke. 1993 Dec;24(12):1779-83.</citation>
+    <PMID>8248954</PMID>
+  </reference>
+  <reference>
+    <citation>Blankenhorn DH, Selzer RH, Crawford DW, Barth JD, Liu CR, Liu CH, Mack WJ, Alaupovic P. Beneficial effects of colestipol-niacin therapy on the common carotid artery. Two- and four-year reduction of intima-media thickness measured by ultrasound. Circulation. 1993 Jul;88(1):20-8.</citation>
+    <PMID>8319334</PMID>
+  </reference>
+  <reference>
+    <citation>Blankenhorn DH, Johnson RL, Nessim SA, Azen SP, Sanmarco ME, Selzer RH. The Cholesterol Lowering Atherosclerosis Study (CLAS): design, methods, and baseline results. Control Clin Trials. 1987 Dec;8(4):356-87.</citation>
+    <PMID>3327654</PMID>
+  </reference>
+  <reference>
+    <citation>Blankenhorn DH, Nessim SA, Johnson RL, Sanmarco ME, Azen SP, Cashin-Hemphill L. Beneficial effects of combined colestipol-niacin therapy on coronary atherosclerosis and coronary venous bypass grafts. JAMA. 1987 Jun 19;257(23):3233-40. Erratum in: JAMA 1988 May 13;259(18):2698.</citation>
+    <PMID>3295315</PMID>
+  </reference>
+  <reference>
+    <citation>Cashin-Hemphill L, Mack WJ, Pogoda JM, Sanmarco ME, Azen SP, Blankenhorn DH. Beneficial effects of colestipol-niacin on coronary atherosclerosis. A 4-year follow-up. JAMA. 1990 Dec 19;264(23):3013-7.</citation>
+    <PMID>2243429</PMID>
+  </reference>
+  <reference>
+    <citation>Mack WJ, Blankenhorn DH. Factors influencing the formation of new human coronary lesions: age, blood pressure, and blood cholesterol. Am J Public Health. 1991 Sep;81(9):1180-4.</citation>
+    <PMID>1951831</PMID>
+  </reference>
+  <reference>
+    <citation>Azen SP, Qian D, Mack WJ, Sevanian A, Selzer RH, Liu CR, Liu CH, Hodis HN. Effect of supplementary antioxidant vitamin intake on carotid arterial wall intima-media thickness in a controlled clinical trial of cholesterol lowering. Circulation. 1996 Nov 15;94(10):2369-72.</citation>
+    <PMID>8921775</PMID>
+  </reference>
+  <reference>
+    <citation>Hodis HN, Mack WJ, LaBree L, Cashin-Hemphill L, Sevanian A, Johnson R, Azen SP. Serial coronary angiographic evidence that antioxidant vitamin intake reduces progression of coronary artery atherosclerosis. JAMA. 1995 Jun 21;273(23):1849-54.</citation>
+    <PMID>7776501</PMID>
+  </reference>
+  <reference>
+    <citation>Azen SP, Mack WJ, Cashin-Hemphill L, LaBree L, Shircore AM, Selzer RH, Blankenhorn DH, Hodis HN. Progression of coronary artery disease predicts clinical coronary events. Long-term follow-up from the Cholesterol Lowering Atherosclerosis Study. Circulation. 1996 Jan 1;93(1):34-41.</citation>
+    <PMID>8616937</PMID>
+  </reference>
+  <verification_date>May 2000</verification_date>
+  <lastchanged_date>December 12, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arterial Occlusive Diseases</mesh_term>
+    <mesh_term>Arteriosclerosis</mesh_term>
+    <mesh_term>Atherosclerosis</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Carotid Artery Diseases</mesh_term>
+    <mesh_term>Cerebrovascular Disorders</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Intracranial Arteriosclerosis</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

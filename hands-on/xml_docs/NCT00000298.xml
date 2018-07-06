@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204674">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000298</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09260-1</org_study_id>
+    <secondary_id>P50-09260-1</secondary_id>
+    <nct_id>NCT00000298</nct_id>
+  </id_info>
+  <brief_title>Buprenorphine Combination Tablet Feasibility - 1</brief_title>
+  <official_title>Buprenorphine Combination Tablet Feasibility</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine target dose range of buprenorphine/naloxone
+      combination tablet that provides therapeutic response in opiate addicts with low to moderate
+      dependence, and to identify appropriate initial induction dose in opiate addicts with low to
+      moderate dependence.&quot;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1995</start_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Withdrawal symptoms</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Opiate use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Opiate craving</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Opioid-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Buprenorphine/naloxone</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Males/Females ages 21-50, opiate dependence according to DSM-IV criteria, self-reported
+        use within the last 30 days, agreeable to conditions of study and signed informed consent
+
+        Exclusion Criteria:
+
+        Psychiatric disorder that requires medication therapy, history of seizures, pregnant
+        and/or nursing women, dependence on etoh or benzodiazepines or other sedative-hypnotics,
+        acute hepatitis, other medical conditions that deem participation to be unsafe.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Walter Ling, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Friends Research Institute, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Friends Research Institute</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Buprenorphine/nalaxone cmbination tablet: First clinical experience (j. Add Dis 1997, in press). Buprenorphine/naloxone combination tablet: First clincial experience (J Add Dis 1997, in press).</citation>
+  </reference>
+  <verification_date>January 1996</verification_date>
+  <lastchanged_date>August 16, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Buprenorphine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

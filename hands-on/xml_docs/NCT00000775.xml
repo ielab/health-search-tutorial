@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204204">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000775</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AVEG 011</org_study_id>
+    <nct_id>NCT00000775</nct_id>
+  </id_info>
+  <brief_title>A Phase I Safety and Immunogenicity Trial of UBI SynVac (HIV-1 MN Octameric V3 Peptide Vaccine)</brief_title>
+  <official_title>A Phase I Safety and Immunogenicity Trial of UBI SynVac (HIV-1 MN Octameric V3 Peptide Vaccine)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the safety, immunogenicity, and optimal dose of rgp120/HIV-1MN octameric V3
+      peptide vaccine (SynVac) in healthy volunteers.
+
+      It is likely that the ultimate control of AIDS will depend on the development of safe and
+      effective vaccines against HIV-1. SynVac is a synthetic candidate vaccine based on eight
+      V3-derived peptides attached to a heptalysyl core to form radial octamers. In animal
+      studies, the vaccine appears safe and demonstrates the capability for producing immune
+      responses.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It is likely that the ultimate control of AIDS will depend on the development of safe and
+      effective vaccines against HIV-1. SynVac is a synthetic candidate vaccine based on eight
+      V3-derived peptides attached to a heptalysyl core to form radial octamers. In animal
+      studies, the vaccine appears safe and demonstrates the capability for producing immune
+      responses.
+
+      Twelve volunteers are entered at one of three dose levels of SynVac. At each dose level, 10
+      volunteers receive vaccine and two receive placebo. At least eight volunteers at each dose
+      level must be monitored for 1 week before subsequent volunteers are entered at the next
+      higher level. Intramuscular injections are given on day 0, 28, and 168. Approximately 12
+      clinic visits are required.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <enrollment>40</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rgp120/HIV-1MN Monovalent Octameric V3 Peptide Vaccine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Subjects must have:
+
+          -  Normal history and physical exam.
+
+          -  Negative for HIV by ELISA within 6 weeks of immunization.
+
+          -  CD4 count &gt;= 400 cells/mm3.
+
+          -  Normal urinalysis.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Subjects with the following conditions are excluded:
+
+          -  Medical or psychiatric condition or occupational responsibilities that preclude
+             compliance.
+
+          -  Active syphilis (volunteers are eligible if serology is documented to be a false
+             positive or due to a remote (&gt; 6 months) treated infection).
+
+          -  Active tuberculosis (volunteers with a positive PPD and normal chest x-ray showing no
+             evidence of TB and not requiring INH therapy are eligible).
+
+          -  Hepatitis B surface antigenemia.
+
+        Subjects with the following prior conditions are excluded:
+
+          -  History of immunodeficiency, chronic illness, autoimmune disease, or use of
+             immunosuppressive medications.
+
+          -  History of anaphylaxis or other serious adverse reactions to vaccines.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Live attenuated vaccines within the past 60 days. NOTE: Medically indicated subunit
+             or killed vaccines (e.g., influenza, pneumococcal) are permitted if received at least
+             2 weeks prior to first immunization.
+
+          -  Experimental agents within the past 30 days.
+
+          -  Prior HIV vaccines.
+
+        Prior Treatment:
+
+        Excluded:
+
+          -  Blood products or immunoglobulin within the past 6 months.
+
+        Identifiable high-risk behavior for HIV infection, including history of injection drug use
+        within the last 12 months prior to enrollment and higher or intermediate risk sexual
+        behavior.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gorse G</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>St Louis Univ School of Medicine</name>
+      <address>
+        <city>St Louis</city>
+        <state>Missouri</state>
+        <zip>63104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Rochester Med Ctr</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Gorse GJ, Keefer MC, Belshe RB, Matthews TJ, Forrest BD, Hsieh RH, Koff WC, Hanson CV, Dolin R, Weinhold KJ, Frey SE, Ketter N, Fast PE. A dose-ranging study of a prototype synthetic HIV-1MN V3 branched peptide vaccine. The National Institute of Allergy and Infectious Diseases AIDS Vaccine Evaluation Group. J Infect Dis. 1996 Feb;173(2):330-9.</citation>
+    <PMID>8568293</PMID>
+  </reference>
+  <verification_date>October 2002</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Vaccines, Synthetic</keyword>
+  <keyword>HIV-1</keyword>
+  <keyword>HIV Envelope Protein gp120</keyword>
+  <keyword>AIDS Vaccines</keyword>
+  <keyword>HIV Seronegativity</keyword>
+  <keyword>HIV Preventive Vaccine</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204224">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000755</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 209</org_study_id>
+    <secondary_id>11186</secondary_id>
+    <nct_id>NCT00000755</nct_id>
+  </id_info>
+  <brief_title>A Phase I/II Trial of Vaccine Therapy of HIV-1 Infected Individuals With 50-500 CD4 Cells/mm3</brief_title>
+  <official_title>A Phase I/II Trial of Vaccine Therapy of HIV-1 Infected Individuals With 50-500 CD4 Cells/mm3</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Glaxo Wellcome</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To examine the response of HIV-1 infected patients to vaccination with gp120/HIV-1MN
+      antigen. To determine the effect of antiretroviral therapy on vaccine responsiveness.
+
+      Fifty percent of HIV-1 infected individuals remain symptom free for 8-12 years. It has been
+      hypothesized that HIV-specific immune responses are responsible for the period of relative
+      quiescence of viral replication. Recent studies suggest that these immune functions can be
+      augmented by vaccination with HIV-derived antigens.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Fifty percent of HIV-1 infected individuals remain symptom free for 8-12 years. It has been
+      hypothesized that HIV-specific immune responses are responsible for the period of relative
+      quiescence of viral replication. Recent studies suggest that these immune functions can be
+      augmented by vaccination with HIV-derived antigens.
+
+      Patients are randomized to receive rgp120/HIV-1MN vaccine or alum adjuvant placebo by
+      intramuscular injection at weeks 0, 4, 8, 12, 16, and 20, with or without daily oral
+      zidovudine (AZT) or their current stable dose of antiretroviral therapy. After completing
+      the primary vaccination series, patients are permitted to continue into an extension phase,
+      in which they receive a booster vaccination at weeks 28, 36, and 44. Patients will be
+      stratified by CD4 count: 350-500, 200-349, and 50-199 cells/mm3. A fourth group with counts
+      of 350-500 cells/mm3 will serve as a pilot group and receive vaccine only.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">March 1993</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Parallel Assignment, Primary Purpose: Prevention</study_design>
+  <enrollment>168</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rgp120/HIV-1MN</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zidovudine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Required immediately prior to study entry:
+
+          -  A minimum of 2 and a maximum of 12 months of AZT therapy at 500-600 mg/day (does not
+             apply to the pilot group patients receiving vaccine only and to patients with CD4
+             counts of 50-199 cells/mm3).
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  PCP prophylaxis.
+
+          -  Rifabutin and clarithromycin (in patients with CD4 counts of 50-199 cells/mm3 only).
+
+          -  Short-term nonsteroidal anti-inflammatory therapy for acute conditions.
+
+          -  Short intermittent cycles of acyclovir.
+
+        Patients must have:
+
+          -  HIV infection, with CD4 count of 50-500 cells/mm3.
+
+          -  No active opportunistic infection (patients with CD4 counts of 50-199 cells/mm3 may
+             have a history of an opportunistic infection).
+
+          -  Consent of parent, guardian, or person with power of attorney, if less than 18 years
+             of age.
+
+          -  B-cell lines established in order to be vaccinated.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Known or suspected allergies to any vaccine components.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Agents with immunosuppressive activity.
+
+          -  Antiretroviral therapies other than AZT (except in patients with CD4 counts of 50-199
+             cells/mm3).
+
+          -  Interferon.
+
+          -  Parenteral therapies (including SC allergy medications and chemotherapy for Kaposi's
+             sarcoma).
+
+          -  Steroids.
+
+          -  Hematopoietins.
+
+        Prior Medication:
+
+        Excluded within 12 weeks prior to study entry:
+
+          -  Agents with immunosuppressive activity.
+
+          -  Antiretroviral therapies other than AZT (except in patients with CD4 counts of 50-349
+             cells/mm3).
+
+          -  Interferon.
+
+          -  Parenteral therapies (including SC allergy medications and chemotherapy for Kaposi's
+             sarcoma).
+
+          -  Steroids.
+
+          -  Hematopoietins.
+
+        Active drug abuse.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Schooley RT</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Walker B</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCLA CARE Center CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford CRS</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>943055107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ucsf Aids Crs</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>941102859</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital CRS</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess - East Campus A0102 CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Med. Ctr., ACTG CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bmc Actg Crs</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital ACTG CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NY Univ. HIV/AIDS CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington AIDS CRS</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>981224304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=4</url>
+    <description>Click here for more information about Zidovudine</description>
+  </link>
+  <reference>
+    <citation>Kuritzkes DR, Spino C, Valentine F, Schooley RT. Association of plasma HIV-1 RNA, CD4 count, and immune response in patients with 50-500 CD4 cells/ul. Conf Retroviruses Opportunistic Infect. 1997 Jan 22-26;4th:204 (abstract no 757)</citation>
+  </reference>
+  <reference>
+    <citation>Schooley RT, Spino C, Chiu S, DeGruttola V, Kuritzkes DR. Poor immunogenicity of HIV-1 envelope vaccines with alum or MF59 aduvant in HIV-infected individuals: results of two randomized trials. Conf Retroviruses Opportunistic Infect. 1997 Jan 22-26;4th:204 (abstract no 756)</citation>
+  </reference>
+  <reference>
+    <citation>Schooley RT, Spino C, Kuritzkes D, Walker BD, Valentine FA, Hirsch MS, Cooney E, Friedland G, Kundu S, Merigan TC Jr, McElrath MJ, Collier A, Plaeger S, Mitsuyasu R, Kahn J, Haslett P, Uherova P, deGruttola V, Chiu S, Zhang B, Jones G, Bell D, Ketter N, Twadell T, Chernoff D, Rosandich M. Two double-blinded, randomized, comparative trials of 4 human immunodeficiency virus type 1 (HIV-1) envelope vaccines in HIV-1-infected individuals across a spectrum of disease severity: AIDS Clinical Trials Groups 209 and 214. J Infect Dis. 2000 Nov;182(5):1357-64. Epub 2000 Oct 9.</citation>
+    <PMID>11023459</PMID>
+  </reference>
+  <verification_date>May 2012</verification_date>
+  <lastchanged_date>May 22, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaccines, Synthetic</keyword>
+  <keyword>HIV-1</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Zidovudine</keyword>
+  <keyword>HIV Envelope Protein gp120</keyword>
+  <keyword>AIDS Vaccines</keyword>
+  <keyword>HIV Therapeutic Vaccine</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Zidovudine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

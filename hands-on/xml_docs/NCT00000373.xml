@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204603">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000373</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01MH045802</org_study_id>
+    <secondary_id>R01MH045802</secondary_id>
+    <nct_id>NCT00000373</nct_id>
+  </id_info>
+  <brief_title>Treatment of Obsessive-Compulsive Disorder</brief_title>
+  <official_title>Neurobiology/Treatment of Obsessive-Compulsive Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Florida</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Florida</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to find the best treatment for Tourette's Syndrome
+      (TS)-spectrum obsessive-compulsive disorder (OCD), which includes symptoms of TS, e.g.,
+      repeated and involuntary body movements (tics).
+
+      There are 2 parts to this study: In Part 1, patients are placed into 1 of 2 groups based on
+      type of OCD, determined by medical history and family member interviews. In Part 2, patients
+      are treated with fluvoxamine (FVX) for 8 weeks. If patients do not respond to FVX alone,
+      either haloperidol or an inactive placebo will be added to the FVX regimen; patients will
+      take this drug combination for 4 weeks. Patients will be monitored throughout the trial.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To advance the neurobiology and treatment of obsessive-compulsive disorder (OCD) by focusing
+      on Tourette's Syndrome (TS)-spectrum OCD as a possible homogeneous form of OCD, and
+      investigating the relevance of intact 5-hydroxytryptamine (5-HT) function to the mechanism
+      of anti-OC drug action. The validity of TS-spectrum OCD as a distinct subtype is assessed
+      using a detailed clinical, family, drug treatment response profile in adult OCD patients.
+
+      In Study I, patients are divided prospectively into 2 putative subtypes (TS-spectrum and
+      non-TS-spectrum OCD) on the basis of clinical history and direct, structured interviews of
+      family members (approximately 400 interviews).
+
+      In Study II, patients enter an 8-week single-blind trial with the potent and selective 5-HT
+      reuptake inhibitor fluoxetine (FX). Patients with an incomplete response to FX alone
+      (approximately 64 patients) are randomized to a 4-week double-blind trial of FX in
+      combination with the dopamine (DA) 2 antagonist olanzapine (OLA) or placebo (PLA).
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1992</start_date>
+  <completion_date type="Actual">July 2003</completion_date>
+  <primary_completion_date type="Actual">January 2003</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Crossover Assignment, Masking: Single Blind (Subject), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>25% reduction in Yale-Brown Obsessive Compulsive Scale (Y-BOCS) score from baseline</measure>
+    <time_frame>Baseline, Week s 1, 2, 4, 6, 8, 10, 12, and 14</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">74</enrollment>
+  <condition>Obsessive-Compulsive Disorder</condition>
+  <arm_group>
+    <arm_group_label>olanzapine + fluoxetine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The specific aim was to determine whether combined treatment with fluoxetine plus olanzapine would be more effective than fluoxetine plus placebo in treating OCD subjects who were partial or nonresponders to a prospective, 8-week, open-label trial of fluoxetine.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo + fluoxetine</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The specific aim was to determine whether combined treatment with fluoxetine plus olanzapine would be more effective than fluoxetine plus placebo in treating OCD subjects who were partial or nonresponders to a prospective, 8-week, open-label trial of fluoxetine.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>olanzapine + fluoxetine</intervention_name>
+    <arm_group_label>placebo + fluoxetine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>placebo + fluoxetine</intervention_name>
+    <arm_group_label>olanzapine + fluoxetine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria required that subjects, ages 14-70 years, have at least a 1-year
+        duration of a current Diagnostic and Statistical Manual of Mental Disorders-IV (DSM-IV)
+        principal diagnosis of OCD. Furthermore, the OCD had to be defined by a rating of
+        &quot;moderate&quot; or greater on the global severity item of the Clinical Global Impressions (CGI)
+        scale and have a Yale-Brown Obsessive Compulsive Scale (Y-BOCS) score of 19 or greater.
+
+        Exclusion criteria included primary depression, schizophrenia, or other psychotic
+        disorders; active bipolar disorder; abuse of alcohol or other significant substance within
+        6 months; increased risk of seizures or history of neurosurgery, encephalitis, or
+        significant head trauma; or a significant medical condition, such as heart, liver, or
+        renal disease. Subjects with an intelligence quotient of less than 80 as determined with
+        the Kaufman Brief Intelligence Test (Kaufman and Kaufman 1990) were excluded.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wayne Goodman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Florida</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Psychiatric Specialty Clinic, Shands Hospital at the University of Florida</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida Behavioral Health Mandarin Clinic</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32257</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Shapira NA, Ward HE, Mandoki M, Murphy TK, Yang MC, Blier P, Goodman WK. A double-blind, placebo-controlled trial of olanzapine addition in fluoxetine-refractory obsessive-compulsive disorder. Biol Psychiatry. 2004 Mar 1;55(5):553-5.</citation>
+    <PMID>15023585</PMID>
+  </reference>
+  <verification_date>November 2013</verification_date>
+  <lastchanged_date>November 26, 2013</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Adolescence</keyword>
+  <keyword>Adult</keyword>
+  <keyword>Antipsychotic Agents</keyword>
+  <keyword>Dopamine Antagonists</keyword>
+  <keyword>Female</keyword>
+  <keyword>Fluvoxamine</keyword>
+  <keyword>Haloperidol</keyword>
+  <keyword>Human</keyword>
+  <keyword>Male</keyword>
+  <keyword>Middle Age</keyword>
+  <keyword>Obsessive-Compulsive Disorder</keyword>
+  <keyword>Placebos</keyword>
+  <keyword>Serotonin Uptake Inhibitors</keyword>
+  <keyword>Tourette Syndrome</keyword>
+  <keyword>Tryptophan</keyword>
+  <keyword>Drug Combinations</keyword>
+  <keyword>Antipsychotic Agents -- *therapeutic use</keyword>
+  <keyword>Fluvoxamine -- *therapeutic use</keyword>
+  <keyword>Haloperidol -- *therapeutic use</keyword>
+  <keyword>Obsessive-Compulsive Disorder -- *drug therapy</keyword>
+  <keyword>Obsessive-Compulsive Disorder -- physiopathology</keyword>
+  <keyword>Serotonin Uptake Inhibitors -- *therapeutic use</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Compulsive Personality Disorder</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Obsessive-Compulsive Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antipsychotic Agents</mesh_term>
+    <mesh_term>Fluoxetine</mesh_term>
+    <mesh_term>Olanzapine</mesh_term>
+    <mesh_term>Serotonin Uptake Inhibitors</mesh_term>
+    <mesh_term>Therapeutic Uses</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

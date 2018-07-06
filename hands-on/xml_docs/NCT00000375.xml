@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204601">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000375</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MH55495</org_study_id>
+    <nct_id>NCT00000375</nct_id>
+    <nct_alias>NCT00069394</nct_alias>
+  </id_info>
+  <brief_title>Continuation Electroconvulsive Therapy Vs Medication to Prevent Relapses in Patients With Major Depressive Disorder</brief_title>
+  <official_title>Continuation ECT Vs Pharmacotherapy--Efficacy And Safety</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Mental Health (NIMH)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the safety and effectiveness of two treatments to
+      prevent relapses in seriously ill patients with major depressive disorder (MDD) who have
+      responded to electroconvulsive therapy (ECT). Patients will either continue to receive ECT
+      (continuation electroconvulsive therapy [C-ECT]), or they will be treated with
+      antidepressant medications.
+
+      ECT is a highly effective treatment for MDD; however, relapses are a major concern. To
+      prevent relapse in patients who have responded to ECT, the common treatment is
+      antidepressants as continuation therapy (following the initial therapy in order to continue
+      treating the disorder). Relapses, however, can still occur even after antidepressant
+      continuation therapy. This study will evaluate a potent antidepressant combination in order
+      to prevent relapse. C-ECT is another option that needs to be tested.
+
+      If the patient responds to the first round of ECT, he/she will be assigned randomly (like
+      tossing a coin) to either continue receiving ECT or to receive an antidepressant combination
+      of nortriptyline plus lithium (NOR-Li) for 6 months. The patient will have psychological
+      tests before, shortly after, and 3 months after the first round of ECT, and at the end of
+      the 6-month continuation trial. Patients will be monitored for symptoms and side effects.
+      All patients will have urine tests to test for drug abuse.
+
+      An individual may be eligible for this study if he/she:
+
+      Has major depressive disorder and responds positively to ECT treatment and is 18 to 80 years
+      old.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To define the role of continuation electroconvulsive therapy (C-ECT) in relapse-prevention
+      of seriously ill patients with major depressive disorder (MDD). To determine the relative
+      efficacy and safety of C-ECT in comparison to the traditional approach of continuation
+      pharmacotherapy (C-PHARM) to prevent relapses of MDD.
+
+      Electroconvulsive therapy (ECT) is a highly effective treatment for MDD that is helpful for
+      patients with the most severe forms of affective illness; however, relapse after successful
+      acute phase ECT or pharmacotherapy remains a major public health problem. To prevent relapse
+      in patients with MDD who have responded to ECT, the common practice is to prescribe an
+      antidepressant (e.g., a tricyclic [TCA], a selective serotonin reuptake inhibitor [SSRI], or
+      lithium) as continuation therapy. Recent studies show an alarmingly high relapse rate after
+      ECT despite conventional continuation pharmacotherapy (C-PHARM). Continuation ECT (C-ECT) is
+      also in widespread clinical use; however, its efficacy and safety have never been rigorously
+      tested.
+
+      Investigators at four sites (Mayo Clinic, UMDNJ-New Jersey Medical School, Zucker Hillside
+      Hospital, and University of Texas SW Medical Center, Dallas) randomize patients to receive
+      either C-ECT or an aggressive pharmacological strategy (nortriptyline and lithium in
+      combination, [NOR-Li]) for 6 months following response to acute phase ECT. Raters at each
+      site evaluate symptoms and side effects. On the basis of edited videotapes obtained at
+      regular intervals, a site-independent, blinded evaluator also assesses symptoms. A
+      neuropsychological battery is administered prior to acute phase ECT, shortly after the ECT
+      course, 3 months after the end of the acute phase treatment, and at the end of the 6-month
+      continuation trial. These continuation therapies are compared in their effects on relapse,
+      cognitive performance, global functioning, side effects, and perceived health status. NOR
+      and Li levels are optimized by blood level monitoring. Bilateral ECT, at progressively
+      increasing intervals, are used for C-ECT. Methods are included to ensure the integrity of
+      clinical diagnoses, symptom severity assessment, data collection and entry, and treatment
+      delivery. In all patients, surreptitious use of prescription or recreational drugs is
+      monitored by urine testing.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 1997</start_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Single Blind, Primary Purpose: Treatment</study_design>
+  <condition>Major Depressive Disorder</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nortriptyline-lithium (NOR-Li)</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Bilateral electroconvulsive therapy (ECT)</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Continuation therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Continuation ECT</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients must have:
+
+        Major depressive disorder that is responsive to acute phase ECT.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charles Kellner, MD</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Mustafa Husain, MD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Teresa Rummans, MD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <overall_official>
+    <last_name>George Petrides</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>New Jersey Medical School</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2005</verification_date>
+  <lastchanged_date>December 19, 2005</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Adult</keyword>
+  <keyword>Antidepressive Agents</keyword>
+  <keyword>Depressive Disorder</keyword>
+  <keyword>Electroconvulsive Therapy</keyword>
+  <keyword>Female</keyword>
+  <keyword>Human</keyword>
+  <keyword>Lithium</keyword>
+  <keyword>Male</keyword>
+  <keyword>Nortriptyline</keyword>
+  <keyword>Serotonin Uptake Inhibitors</keyword>
+  <keyword>Antidepressive Agents -- *therapeutic use</keyword>
+  <keyword>Antidepressive Agents -- adverse effects</keyword>
+  <keyword>Lithium -- *therapeutic use</keyword>
+  <keyword>Lithium -- adverse effects</keyword>
+  <keyword>Nortriptyline -- *therapeutic use</keyword>
+  <keyword>Nortriptyline -- adverse effects</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antidepressive Agents</mesh_term>
+    <mesh_term>Lithium</mesh_term>
+    <mesh_term>Nortriptyline</mesh_term>
+    <mesh_term>Therapeutic Uses</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

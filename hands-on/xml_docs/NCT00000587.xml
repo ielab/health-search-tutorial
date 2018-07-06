@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204390">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000587</url>
+  </required_header>
+  <id_info>
+    <org_study_id>307</org_study_id>
+    <nct_id>NCT00000587</nct_id>
+  </id_info>
+  <brief_title>Erythropoietin for Anemia Due to Zidovudine in Human Immunodeficiency Virus Infection</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether administration of human recombinant erythropoietin (REPO) improved or
+      eliminated the anemia seen in human immunodeficiency virus (HIV) infected patients after
+      therapy with zidovudine (ZDV).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Reports had shown that between 24 and 78 percent of patients with Acquired Immune Deficiency
+      Syndrome treated with zidovudine for four to six months developed significant bone marrow
+      toxicity, requiring zidovudine dosage alterations, blood transfusions, or cessation of
+      therapy. While zidovudine efficacy had been demonstrated in patients with AIDS or ARC, it
+      was also evaluated in patients with AIDS-related illness, as well as in asymptomatic
+      HIV-infected individuals. The clinically significant zidovudine-induced anemia developing in
+      a substantial number of these patient groups and requiring blood transfusions could cause a
+      significant drain on the blood supply in the United States.
+
+      The project was part of an Institute-initiated study on the Pathobiology of Bone Marrow
+      Suppression in AIDS or AIDS-Related Complex. The concept was approved at the May 1987
+      National Heart, Lung, and Blood Advisory Council. The Request for Applications was released
+      in December 1987.
+
+      DESIGN NARRATIVE:
+
+      Double-blind, placebo-controlled. Patients received intravenous REPO (1000 IU/kg) or placebo
+      twice per week. The five patients in Group A had no transfusion history. The five patients
+      in Group B had a history of transfusions. Prior to the study, the authors determined that
+      treatment would continue for twelve weeks or until the hemoglobin reached 12.5 g/dl. After
+      the twelve week study period, patients were eligible to receive open label erythropoietin
+      (500 IU/kg, twice a week). For numerous reasons, recruitment of patients was a major problem
+      in this trial. The study originally estimated a total of 64 patients.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1988</start_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Acquired Immunodeficiency Syndrome</condition>
+  <condition>Anemia</condition>
+  <condition>Hematologic Diseases</condition>
+  <condition>HIV Infections</condition>
+  <condition>Blood Disease</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>erythropoietin, recombinant</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        No eligibility criteria
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephen Hauptman</last_name>
+    <affiliation>Jefferson Medical College of Thomas Jefferson University</affiliation>
+  </overall_official>
+  <verification_date>December 2005</verification_date>
+  <lastchanged_date>January 3, 2006</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Hematologic Diseases</mesh_term>
+    <mesh_term>Immunologic Deficiency Syndromes</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Epoetin alfa</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

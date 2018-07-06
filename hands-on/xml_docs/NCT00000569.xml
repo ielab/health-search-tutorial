@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204408">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000569</url>
+  </required_header>
+  <id_info>
+    <org_study_id>207</org_study_id>
+    <nct_id>NCT00000569</nct_id>
+  </id_info>
+  <brief_title>Lung Health Study II</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine if participants with chronic obstructive pulmonary disease, who were assigned
+      to inhaled corticosteroids had a lower rate of decline in lung function and lower incidence
+      of respiratory morbidity compared to participants assigned to placebo.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Chronic obstructive pulmonary disease (COPD), the fourth leading cause of death in the
+      United States and a major cause of morbidity, is a spectrum of chronic lung diseases
+      including clinical diagnoses of chronic bronchitis, emphysema, and combinations of both.
+      Varying degrees of bronchoreactivity occur over the entire spectrum. Asthma and COPD have
+      many features in common. Distinction is usually dependent on clinical features and clinical
+      course. The diagnosis of asthma will not exclude a patient from the designation of COPD for
+      this study, although criteria for exclusion include recent (within six months) use of
+      inhaled or oral steroid with the intent of excluding most of those who are clearly
+      predominantly bronchospastic. The morbid anatomy of COPD is well described and includes many
+      features of acute and chronic inflammation. There is well supported evidence in the
+      literature that this inflammatory process may be an important pathogenetic mechanism in the
+      development of emphysema. On this basis, the rationale for the use of corticosteroids is
+      well justified. There are various published studies suggesting that inhaled steroids reduce
+      bronchial lavage markers of inflammation, variously influence short-term bronchial
+      hyperreactivity, improve lung function acutely or short-term, and slow rate of decline in
+      lung function. Most studies have asked for improvement rather than stability. However,
+      despite the studies which do not support these contentions and the lack of long-term
+      information, inhaled steroids in COPD are becoming widely used in clinical practice. It was
+      the intent of this clinical trial to assess the long-term efficacy of this treatment before
+      such therapy became an accepted community practice, making it impractical or impossible to
+      conduct a clinical trial.
+
+      DESIGN NARRATIVE:
+
+      Subjects were recruited from the Lung Health Study I and randomized to 1200 micrograms of
+      triamcinolone in daily divided doses or to placebo. Pulmonary function was evaluated every
+      six months. Bronchial activity was tested at baseline, at nine months, and at
+      three-and-a-half years using a methacholine inhalation challenge. Mean duration of follow-up
+      was 40 months. The primary outcome measure was the rate of decline in pulmonary function as
+      assessed by the post-bronchodilator FEV1 value. Other outcome measures included death,
+      respiratory symptoms, quality of life, side-effects and toxicity, adherence, bronchial
+      hyperreactivity, atopic status, and smoking status. Recruitment was initiated in November
+      1994 and ended November 28, 1995 to allow 3.5 to 4.5 years of follow-up through April, 1999.
+
+      The investigators initiated a dose monitor (puff counter) protocol at nine of the centers
+      among the fair to satisfactory compliers (4 to 9 puffs versus the ideal of 12 puffs per day)
+      to test whether a memory aid would enhance inhaler compliance. Consenting participants were
+      randomized to Group 1 who could see the display on the puff counter for 12 months or to
+      Group 2 who had no counter for three months, a counter that recorded but did not display for
+      three months, and a counter with display for six months.
+
+      There were a bone densitometry and adrenal suppression ancillary studies, funded by
+      Rhone-Poulenc-Rorer, to assess the effect of inhaled corticosteroids on bone density and
+      adrenal function.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1993</start_date>
+  <completion_date>August 2000</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Lung Diseases</condition>
+  <condition>Lung Diseases, Obstructive</condition>
+  <condition>Chronic Obstructive Pulmonary Disease</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>triamcinolone</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, ages 40 to 69, with FEV1/FVC 70 percent and FEV1 that was 30 to 90 percent
+        predicted.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>69 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Connett</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Mapp CE. Inhaled glucocorticoids in chronic obstructive pulmonary disease. N Engl J Med. 2000 Dec 28;343(26):1960-1.</citation>
+    <PMID>11136268</PMID>
+  </reference>
+  <reference>
+    <citation>Lung Health Study Research Group. Effect of inhaled triamcinolone on the decline in pulmonary function in chronic obstructive pulmonary disease. N Engl J Med. 2000 Dec 28;343(26):1902-9.</citation>
+    <PMID>11136260</PMID>
+  </reference>
+  <reference>
+    <citation>Simmons MS, Nides MA, Rand CS, Wise RA, Tashkin DP. Unpredictability of deception in compliance with physician-prescribed bronchodilator inhaler use in a clinical trial. Chest. 2000 Aug;118(2):290-5.</citation>
+    <PMID>10936115</PMID>
+  </reference>
+  <reference>
+    <citation>Tashkin DP, Murray HE, Skeans M, Murray RP. Skin manifestations of inhaled corticosteroids in COPD patients: results from Lung Health Study II. Chest. 2004 Oct;126(4):1123-33.</citation>
+    <PMID>15486373</PMID>
+  </reference>
+  <reference>
+    <citation>Scanlon PD, Connett JE, Wise RA, Tashkin DP, Madhok T, Skeans M, Carpenter PC, Bailey WC, Buist AS, Eichenhorn M, Kanner RE, Weinmann G; Lung Health Study Research Group. Loss of bone density with inhaled triamcinolone in Lung Health Study II. Am J Respir Crit Care Med. 2004 Dec 15;170(12):1302-9. Epub 2004 Sep 16.</citation>
+    <PMID>15374846</PMID>
+  </reference>
+  <reference>
+    <citation>Eichenhorn MS, Wise RA, Madhok TC, Gerald LB, Bailey WC, Tashkin DP, Scanlon PD; Lung Health Study Research Group. Lack of long-term adverse adrenal effects from inhaled triamcinolone: Lung Health Study II. Chest. 2003 Jul;124(1):57-62.</citation>
+    <PMID>12853502</PMID>
+  </reference>
+  <verification_date>March 2005</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Triamcinolone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

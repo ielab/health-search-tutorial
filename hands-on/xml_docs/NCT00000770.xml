@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204209">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000770</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 241</org_study_id>
+    <secondary_id>11218</secondary_id>
+    <nct_id>NCT00000770</nct_id>
+  </id_info>
+  <brief_title>A Comparative Study of a Combination of Zidovudine, Didanosine, and Double-Blinded Nevirapine Versus a Combination of Zidovudine and Didanosine</brief_title>
+  <official_title>A Comparative Study of a Combination of Zidovudine, Didanosine, and Double-Blinded Nevirapine Versus a Combination of Zidovudine and Didanosine</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Glaxo Wellcome</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the safety and toxicity of zidovudine (AZT)/didanosine (ddI) versus AZT/ddI
+      combined with nevirapine in HIV-infected patients, and to obtain preliminary anti-HIV
+      activity data using immunologic and virologic markers.
+
+      Previous in vitro studies suggest that HIV that has already developed resistance to AZT and
+      ddI is less able to develop resistance to nevirapine, a non-nucleoside reverse transcriptase
+      inhibitor. Thus, convergent combination therapy with these three drugs in HIV-infected
+      patients may prove more effective.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Previous in vitro studies suggest that HIV that has already developed resistance to AZT and
+      ddI is less able to develop resistance to nevirapine, a non-nucleoside reverse transcriptase
+      inhibitor. Thus, convergent combination therapy with these three drugs in HIV-infected
+      patients may prove more effective.
+
+      Patients are randomized to receive AZT/ddI plus either nevirapine or placebo daily for 48
+      weeks, with possible extension for at least 12 weeks. At eight participating sites, ACTG 808
+      and 809 will be conducted as virologic and pharmacokinetic substudies.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">November 1994</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Pharmacokinetics Study, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>400</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nevirapine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zidovudine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Didanosine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Required:
+
+          -  PCP prophylaxis for patients with CD4 count &lt; 200 cells/mm3 or a prior history of
+             PCP.
+
+        Allowed:
+
+          -  Trimethoprim with sulfamethoxazole or dapsone, intravenous pentamidine, atovaquone,
+             primaquine-clindamycin or trimetrexate for acute PCP.
+
+          -  Topical antifungals, clotrimazole, ketoconazole, fluconazole, and amphotericin B for
+             treatment of mucosal and esophageal candidiasis.
+
+          -  Prophylaxis or therapy for opportunistic infections, as indicated, with other
+             medications such as itraconazole, isoniazid, pyrazinamide, clofazimine,
+             clarithromycin, azithromycin, ethambutol, amikacin, ciprofloxacin, ofloxacin,
+             pyrimethamine, sulfadiazine, and clindamycin.
+
+          -  Maintenance therapy for opportunistic infections as long as patients have been on a
+             stable dosage regimen for 1 month prior to study entry.
+
+          -  Ganciclovir for CMV retinitis or gastrointestinal disease as long as patients have
+             been on a stable dose for at least 1 month prior to study entry with no grade 3 or 4
+             neutropenia or dependence on G-CSF.
+
+          -  Acyclovir (&lt;= 1000 mg/day) for maintenance of herpes simplex virus infections.
+
+          -  Erythropoietin or G-CSF if clinically indicated.
+
+          -  Antibiotics for bacterial infections unless specifically excluded.
+
+          -  Rifampin or rifabutin.
+
+          -  Symptomatic treatments such as antipyretics, analgesics, and antiemetics.
+
+        Concurrent Treatment:
+
+        Allowed:
+
+          -  Local radiation therapy.
+
+        Prior Medication: Required:
+
+          -  At least 6 months of prior cumulative nucleoside therapy with AZT, ddI, or ddC, given
+             as monotherapy or in combination.
+
+        Patients must have:
+
+          -  Prior or current documentation of HIV seropositivity by ELISA confirmed by Western
+             blot, positive HIV antigen, or positive HIV culture, or a second antibody test by a
+             method other than ELISA.
+
+          -  CD4 count &lt;= 350 cells/mm3.
+
+          -  Prior cumulative nucleoside therapy of &gt;= 6 months.
+
+          -  Consent of parent or guardian if less than 18 years of age.
+
+        Exclusion Criteria
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Antiretroviral therapies other than study medications.
+
+          -  Systemic corticosteroids given consecutively for &gt; 21 days.
+
+          -  Induction or maintenance with foscarnet.
+
+          -  Systemic cytotoxic chemotherapy for a malignancy.
+
+          -  Erythromycin.
+
+          -  Coumadin/warfarin.
+
+          -  Phenytoin or phenobarbital.
+
+          -  Amoxicillin/clavulanate acid (Augmentin) or ticarcillin/clavulanate acid (Timentin).
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of pancreatitis.
+
+          -  History of intolerance to 500 or 600 mg/day AZT or to 400 mg/day ddI tablets or 500
+             mg/day ddI sachets.
+
+          -  History of grade 2 or worse peripheral neuropathy.
+
+        Prior Medication:
+
+        Excluded at any time:
+
+        Prior non-nucleoside reverse transcriptase inhibitors (NVP; L697,611; TIBO; atevirdine).
+
+        Excluded within 14 days prior to study entry:
+
+          -  Acute treatment for a serious infection or any opportunistic infection.
+
+          -  Biologic response modifiers such as interferon and IL-2.
+
+          -  Erythromycin.
+
+          -  Coumadin/warfarin.
+
+          -  Phenytoin or phenobarbital.
+
+          -  Ticarcillin/clavulanate acid (Timentin) or amoxicillin/clavulanate acid (Augmentin).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>D'Aquila R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Hirsch M</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Univ of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Southern California / LA County USC Med Ctr</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>900331079</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Highland Gen Hosp / San Francisco Gen Hosp</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>946021018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Summitt Med Ctr / San Francisco Gen Hosp</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of California / San Diego Treatment Ctr</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>921036325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Francisco AIDS Clinic / San Francisco Gen Hosp</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>941102859</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Francisco Gen Hosp</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>941102859</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Colorado Health Sciences Ctr</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Miami School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>331361013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook County Hosp</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern Univ Med School</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush Presbyterian - Saint Luke's Med Ctr</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana Univ Hosp</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>462025250</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Iowa Hosp and Clinic</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess - West Campus</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Med Ctr</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Med Ctr</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harvard (Massachusetts Gen Hosp)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hennepin County Med Clinic</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St Paul Ramsey Med Ctr</name>
+      <address>
+        <city>St Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Nebraska Med Ctr</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>681985130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Municipal Hosp Ctr/Jacobi Med Ctr</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Health Care Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jack Weiler Hosp / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10465</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Drug Treatment Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Family Health Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Med Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Central Bronx Hosp / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samaritan Village Inc / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>City Hosp Ctr at Elmhurst / Mount Sinai Hosp</name>
+      <address>
+        <city>Elmhurst</city>
+        <state>New York</state>
+        <zip>11373</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cornell Univ Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mem Sloan - Kettering Cancer Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Clare's Hosp and Health Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10019</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of North Carolina</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>275997215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Carolinas Med Ctr</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Moses H Cone Memorial Hosp</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake County Dept of Health</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Cincinnati</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>452670405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Girard Med Ctr</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191046073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson Univ Hosp</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191075098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Pennsylvania at Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=4</url>
+    <description>Click here for more information about Zidovudine</description>
+  </link>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=16</url>
+    <description>Click here for more information about Didanosine</description>
+  </link>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=116</url>
+    <description>Click here for more information about Nevirapine</description>
+  </link>
+  <reference>
+    <citation>D'Aquila RT, Hughes MD, Johnson VA, Fischl MA, Sommadossi JP, Liou SH, Timpone J, Myers M, Basgoz N, Niu M, Hirsch MS. Nevirapine, zidovudine, and didanosine compared with zidovudine and didanosine in patients with HIV-1 infection. A randomized, double-blind, placebo-controlled trial. National Institute of Allergy and Infectious Diseases AIDS Clinical Trials Group Protocol 241 Investigators. Ann Intern Med. 1996 Jun 15;124(12):1019-30.</citation>
+    <PMID>8633815</PMID>
+  </reference>
+  <reference>
+    <citation>Dusek A, Hall D, Lamson M, Myers M. Once-daily dosing of nevirapine: a retrospective, cross-study analysis. Int Conf AIDS. 1998;12:85 (abstract no 12360)</citation>
+  </reference>
+  <reference>
+    <citation>Leigh Brown AJ, D'Aquila RT, Johnson VA, Kuritzkes DR, Richman DD. Baseline sequence clusters predict response to combination therapy in ACTG 241. Conf Retroviruses Opportunistic Infect. 1998 Feb 1-5;5th:211 (abstract no 704)</citation>
+  </reference>
+  <reference>
+    <citation>Fiscus SA, Welles SL, Spector SA, Lathey JL. Length of incubation time for human immunodeficiency virus cultures. J Clin Microbiol. 1995 Jan;33(1):246-7.</citation>
+    <PMID>7699053</PMID>
+  </reference>
+  <reference>
+    <citation>D'Aquila RT, Sutton L, Savara A, Hughes MD, Johnson VA. CCR5/delta(ccr5) heterozygosity: a selective pressure for the syncytium-inducing human immunodeficiency virus type 1 phenotype. NIAID AIDS Clinical Trials Group Protocol 241 Virology Team. J Infect Dis. 1998 Jun;177(6):1549-53.</citation>
+    <PMID>9607832</PMID>
+  </reference>
+  <reference>
+    <citation>Virus sidesteps convergent therapy. GMHC Treat Issues. 1995 Jan;9(1):6.</citation>
+    <PMID>11367380</PMID>
+  </reference>
+  <reference>
+    <citation>Precious H, Leigh Brown AJ, Gunthard HF, Wong JK, D'Aquila RT, Johnson VA, Kuritzkes DR, Richman DD. A multiple regression model predicting response to combination therapy from baseline sequence data identifies amino acid sites not previously associated with resistance. Conf Retroviruses Opportunistic Infect. 1999 Jan 31-Feb 4;6th:69 (abstract no 14)</citation>
+  </reference>
+  <reference>
+    <citation>Zhou XJ, Sheiner LB, D'Aquila RT, Hughes MD, Hirsch MS, Fischl MA, Johnson VA, Myers M, Sommadossi JP. Population pharmacokinetics of nevirapine, zidovudine, and didanosine in human immunodeficiency virus-infected patients. The National Institute of Allergy and Infectious Diseases AIDS Clinical Trials Group Protocol 241 Investigators. Antimicrob Agents Chemother. 1999 Jan;43(1):121-8.</citation>
+    <PMID>9869576</PMID>
+  </reference>
+  <reference>
+    <citation>Hall D, Robinson P, Cort S, Kohlbrenner V, Leitz G, Myers M. Duration of effect of nevirapine (NVP), a cross-trial analysis of three controlled studies. Conf Retroviruses Opportunistic Infect. 1996 Jan 28-Feb 1;3rd:79</citation>
+  </reference>
+  <reference>
+    <citation>Hughes MD, Johnson VA, Hirsch MS, Bremer JW, Elbeik T, Erice A, Kuritzkes DR, Scott WA, Spector SA, Basgoz N, Fischl MA, D'Aquila RT. Monitoring plasma HIV-1 RNA levels in addition to CD4+ lymphocyte count improves assessment of antiretroviral therapeutic response. ACTG 241 Protocol Virology Substudy Team. Ann Intern Med. 1997 Jun 15;126(12):929-38.</citation>
+    <PMID>9182469</PMID>
+  </reference>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 30, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Didanosine</keyword>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Zidovudine</keyword>
+  <keyword>Nevirapine</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Didanosine</mesh_term>
+    <mesh_term>Nevirapine</mesh_term>
+    <mesh_term>Zidovudine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

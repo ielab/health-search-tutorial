@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204396">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000581</url>
+  </required_header>
+  <id_info>
+    <org_study_id>301</org_study_id>
+    <secondary_id>N01-HB-6-2970</secondary_id>
+    <secondary_id>N01-HB-6-2971</secondary_id>
+    <secondary_id>N01-HB-6-2972</secondary_id>
+    <secondary_id>N01-HB-6-2973</secondary_id>
+    <nct_id>NCT00000581</nct_id>
+  </id_info>
+  <brief_title>Granulocyte Transfusion Study</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate granulocyte transfusion therapy with respect to its prophylactic and therapeutic
+      effectiveness to prevent and aid recovery from infection. The study trials were conducted
+      simultaneously.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Infection remains a major cause of death in patients receiving chemotherapy for malignant
+      diseases. One approach to the problem of septicemia and high mortality in these patients was
+      the therapeutic use of granulocyte transfusions. Improvements in collection techniques,
+      employing continuous flow centrifugation, permitted the collection of granulocytes from a
+      single, normal donor in sufficient numbers to study their application in the treatment of
+      infections in granulocytopenic patients. Studies had demonstrated the efficacy of
+      granulocyte transfusions as an adjunct in the therapy of septicemia due to gram negative
+      microorganisms associated with granulocytopenia.
+
+      The aims of the study were to determine (1) whether infections could be prevented in
+      patients who received granulocytes prophylactically and (2) whether recovery from infection
+      was aided in patients who received granulocytes therapeutically. Both trials utilized
+      controls who received no granulocytes.
+
+      Four contracts were awarded in September 1976. The protocol designed to evaluate the
+      efficacy of prophylactic granulocyte transfusions was completed at the close of 1977. The
+      protocol for the therapeutic trial was completed in April 1978. Approximately 90 patients
+      were randomized in the prophylactic trial and 51 in the therapeutic trial. The Recruitment
+      and Intervention Phase ended in February 1980. The trial has concluded.
+
+      DESIGN NARRATIVE:
+
+      Prophylactic Trial and Therapeutic Trial: randomized, non-blind, sequential. Eligible
+      patients were randomized to daily granulocyte transfusions or no granulocyte transfusions.
+
+      The study completion date listed in this record was inferred from the first publication
+      listed in the Citations section of this study record.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1976</start_date>
+  <completion_date type="Actual">September 1981</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Blood Transfusion</condition>
+  <condition>Infection</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>leukocyte transfusions</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Prophylactic Trial: males and females, 12 years or older, who were in the first induction
+        phase of chemotherapy for acute leukemia, who had severe neutropenia, and who did not have
+        documented infection.
+
+        Therapeutic Trial: males and females, any
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert Gale</last_name>
+    <affiliation>University of California</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Geoffrey Herzig</last_name>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ronald Strauss</last_name>
+    <affiliation>University of Iowa</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Strauss RG, Connett JE, Gale RP, Bloomfield CD, Herzig GP, McCullough J, Maguire LC, Winston DJ, Ho W, Stump DC, Miller WV, Koepke JA. A controlled trial of prophylactic granulocyte transfusions during initial induction chemotherapy for acute myelogenous leukemia. N Engl J Med. 1981 Sep 10;305(11):597-603.</citation>
+    <PMID>6790985</PMID>
+  </reference>
+  <reference>
+    <citation>Winston DJ, Ho WG, Gale RP. Prophylactic granulocyte transfusions during chemotherapy of acute nonlymphocytic leukemia. Ann Intern Med. 1981 May;94(5):616-22.</citation>
+    <PMID>6263139</PMID>
+  </reference>
+  <verification_date>January 2000</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204520">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000457</url>
+  </required_header>
+  <id_info>
+    <org_study_id>972-95</org_study_id>
+    <secondary_id>R01AA011219</secondary_id>
+    <nct_id>NCT00000457</nct_id>
+  </id_info>
+  <brief_title>Pharmacologic Relapse Prevention for Alcoholic Smokers</brief_title>
+  <official_title>Pharmacologic Relapse Prevention for Alcoholic Smokers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will compare the long-term use of bupropion (Wellbutrin) and placebo for reducing
+      the rate of smoking relapse in recovering alcoholics who achieved initial abstinence from
+      smoking with nicotine patch therapy. The study will also determine the cessation rate in the
+      8th week of treatment among recovering alcoholics using a nicotine patch. The patch dose is
+      projected to serve as a 100-percent replacement.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this trial was to recruit 292 recovering alcoholic smokers (abstinent from
+      alcohol for a minimum of 1 year), who want to stop smoking and provide them with 100%
+      nicotine replacement. The 100% nicotine replacement will be undertaken using a nicotine
+      patch. By measuring their nicotine levels at study entry we can determine the patch dosing
+      needed. The patch dosing will vary from 22 mg to 44 mg. Those who are able to achieve
+      tobacco abstinence by week 8 will enter a relapse prevention phase for the remaining 44
+      weeks. In this phase, they will be randomized to active or placebo bupropion (300 mg/day).
+      After 44 weeks of the relapse prevention trial (at week 52 of study participation), they
+      will enter a post medication follow up for 6 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1998</start_date>
+  <completion_date type="Actual">August 2007</completion_date>
+  <primary_completion_date type="Actual">April 2002</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Will bupropion reduce relapse to smoking compared to placebo</measure>
+    <time_frame>52 weeks and 76 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Determine if long-term use of bupropion will reduce the rate of relapse to smoking compared to placebo in recovering alcoholics who achieved initial abstinence from smoking with nicotine patch therapy projected to achieve 100% replacement.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Does matching the dose of nicotine patches to nicotine levels help increase smoking abstinence</measure>
+    <time_frame>8 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Determine the week 8 smoking cessation rate in recovering alcoholics provided a nicotine patch dose projected to achieve 100% replacement.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">195</enrollment>
+  <condition>Alcoholism</condition>
+  <condition>Smoking</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects who achieved smoking abstinence and give a bupropion-placebo (sugar) pill for 44 weeks in order to prevent relapse to smoking. Brief Behavioral Counseling is also given during this time.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bupropion</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects who achieved smoking abstinence and give bupropion (300 mg/day) for 44 weeks in order to prevent relapse to smoking. Brief Behavioral Counseling is also given during this time.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>bupropion (Wellbutrin)</intervention_name>
+    <description>1 pill in the am of 150 mg of Bupropion
+1 pill (150 mg) in the AM and one in the PM for a total of 300 mg per day for subsequent 44 weeks.</description>
+    <arm_group_label>Bupropion</arm_group_label>
+    <other_name>bupropion</other_name>
+    <other_name>zyban</other_name>
+    <other_name>wellbutrin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>placebo pill to match (look alike) the 150 mg pill of the bupropion given in the am for 3 days and then two pills (one in the morning and one at night) for the subsequent 44 mg.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>bupropion</other_name>
+    <other_name>zyban</other_name>
+    <other_name>wellbutrin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  History of alcohol dependence and at least one year of abstinence from alcohol
+             intake.
+
+          -  Has a history of smoking 20 or more cigarettes per day for the prior year.
+
+          -  Can read and write English.
+
+          -  Stated ability to fully participate in the study and keep all scheduled appointments.
+
+          -  Has provided written informed consent.
+
+          -  General good health.
+
+        Exclusion Criteria:
+
+          -  Recent history (within three months) of a clinically significant myocardial
+             infarction, unstable angina pectoris, serious cardiac arrhythmia or any other medical
+             condition which the physician investigator deems incompatible with study
+             participation.
+
+          -  Current major depression. A past history of major depression will not be an
+             exclusionary criteria.
+
+          -  Current or previous use of bupropion (Wellbutrin).
+
+          -  Active non- nicotine drug dependence.
+
+          -  Past or current history of bipolar disorder, pain disorder or psychosis,
+             schizophrenia, or other major psychiatric disorders.
+
+          -  Current medically indicated use of psychiatric drugs.
+
+          -  Females who are pregnant, lactating, or likely to become pregnant during the first
+             year which includes the nicotine patch and bupropion (Wellbutrin) phase.
+
+          -  History of severe skin allergies or evidence of severe chronic skin disorders.
+
+          -  Current use of nicotine containing medication or tobacco products other than
+             cigarettes.
+
+          -  Current use (within 30 days of initiation of patch therapy) of the following
+             medications for smoking cessation: clonidine, buspirone, or doxepin.
+
+          -  A predisposition to seizures.
+
+          -  A history of or current diagnosis of anorexia nervosa or bulimia.
+
+          -  Medical disorder that would interfere with the absorption, metabolism, or excretion
+             of bupropion (Wellbutrin).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard D Hurt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Hurt RD, Patten CA, Offord KP, Croghan IT, Decker PA, Morris RA, Hays JT. Treating nondepressed smokers with alcohol dependence in sustained full remission: nicotine patch therapy tailored to baseline serum cotinine. J Stud Alcohol. 2005 Jul;66(4):506-16.</citation>
+    <PMID>16240558</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hays JT, Hurt RD, Decker PA, Croghan IT, Offord KP, Patten CA. A randomized, controlled trial of bupropion sustained-release for preventing tobacco relapse in recovering alcoholics. Nicotine Tob Res. 2009 Jul;11(7):859-67. doi: 10.1093/ntr/ntp077. Epub 2009 May 29.</citation>
+    <PMID>19483180</PMID>
+  </results_reference>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 18, 2013</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <name_title>Richard D. Hurt, MD</name_title>
+    <organization>Mayo Clinic</organization>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bupropion</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204650">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000322</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-10739-1</org_study_id>
+    <secondary_id>R01-10739-1</secondary_id>
+    <nct_id>NCT00000322</nct_id>
+  </id_info>
+  <brief_title>Tyrosine for Methamphetamine Dependence - 1</brief_title>
+  <official_title>Tyrosine for Methamphetamine Dependence</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate efficacy of tyrosine as a treatment for
+      methamphetamine dependence in an outpatient treatment setting providing group psychosocial
+      interventions. Examine effect of tyrosine on abstinence, retention in treatment, and
+      craving.&quot;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Evaluate efficacy of tyrosine as a treatment for methamphetamine dependence in an outpatient
+      treatment setting providing group psychosocial interventions. Examine effect of tyrosine on
+      abstinence, retention in treatment and craving.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1997</start_date>
+  <completion_date>December 2001</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Craving</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Drug use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Retention</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Functioning</measure>
+  </primary_outcome>
+  <enrollment>89</enrollment>
+  <condition>Amphetamine-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Tyrosine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        18-65 years of age. Able to provide informed consent. Desire to reduce/eliminate
+        methamphetamine use. Used within the past two weeks. Meet DSM criteria for methamphetamine
+        dependence.
+
+        Exclusion Criteria:
+
+        No dependence (within the past 12 months) for other durgs except nicotine. No history or
+        family history of tyrosine intolerance.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gantt Galloway, Pharm.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Haight Ashbury Free Clinics</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Haight Ashbury Free Clinics</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94117</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 1997</verification_date>
+  <lastchanged_date>August 16, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Amphetamine-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Methamphetamine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

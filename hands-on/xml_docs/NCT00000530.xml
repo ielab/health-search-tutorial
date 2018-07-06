@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204447">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000530</url>
+  </required_header>
+  <id_info>
+    <org_study_id>73</org_study_id>
+    <nct_id>NCT00000530</nct_id>
+  </id_info>
+  <brief_title>Raynaud's Treatment Study (RTS)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the relative efficacy of usual medical care and a course of treatment by
+      thermal biofeedback in reducing vasospastic attacks characteristic of Raynaud's syndrome.
+      Also, to confirm the frequency and severity of attacks, examine the role of
+      psychophysiological factors in precipitating attacks, and assess the influence of treatment
+      on health quality of life.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Primary Raynaud's phenomenon is a peripheral vascular disorder resulting in vasospastic
+      attacks provoked by cold and/or emotional stress. Attacks most often occur in the fingers,
+      but may occur in other extremities as well.
+
+      DESIGN NARRATIVE:
+
+      Randomized. Patients were assigned to one of four treatment groups: slow release Nifedipine,
+      a calcium channel blocker; pill placebo; temperature biofeedback; or electromyograph
+      biofeedback from the frontalis muscle. The primary endpoint was reduction in number of
+      vasospastic attacks. Other endpoints included: other measures of Raynaud's attacks including
+      frequency, severity, duration, response to laboratory-based cold challenge, and quality of
+      life.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1992</start_date>
+  <completion_date>June 1998</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Raynaud's Disease</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>nifedipine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>biofeedback (psychology)</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>electromyography</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with documented primary or secondary Raynaud's syndrome.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bruce Thompson</last_name>
+    <affiliation>Clinical Trials &amp; Surveys Corp (C-TASC)</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Jennings JR, Maricq HR, Canner J, Thompson B, Freedman RR, Wise R, Kaufmann PG. A thermal vascular test for distinguishing between patients with Raynaud's phenomenon and healthy controls. Raynaud's Treatment Study Investigators. Health Psychol. 1999 Jul;18(4):421-6.</citation>
+    <PMID>10431945</PMID>
+  </reference>
+  <reference>
+    <citation>Comparison of sustained-release nifedipine and temperature biofeedback for treatment of primary Raynaud phenomenon. Results from a randomized clinical trial with 1-year follow-up. Arch Intern Med. 2000 Apr 24;160(8):1101-8.</citation>
+    <PMID>10789602</PMID>
+  </reference>
+  <reference>
+    <citation>Brown KM, Middaugh SJ, Haythornthwaite JA, Bielory L. The effects of stress, anxiety, and outdoor temperature on the frequency and severity of Raynaud's attacks: the Raynaud's Treatment Study. J Behav Med. 2001 Apr;24(2):137-53.</citation>
+    <PMID>11392916</PMID>
+  </reference>
+  <reference>
+    <citation>Maricq HR, Jennings JR, Valter I, Frederick M, Thompson B, Smith EA, Hill R; Raynaud's Treatment Study Investigators. Evaluation of treatment efficacy of Raynaud phenomenon by digital blood pressure response to cooling. Raynaud's Treatment Study Investigators. Vasc Med. 2000;5(3):135-40.</citation>
+    <PMID>11104295</PMID>
+  </reference>
+  <reference>
+    <citation>Middaugh SJ, Haythornthwaite JA, Thompson B, Hill R, Brown KM, Freedman RR, Attanasio V, Jacob RG, Scheier M, Smith EA. The Raynaud's Treatment Study: biofeedback protocols and acquisition of temperature biofeedback skills. Appl Psychophysiol Biofeedback. 2001 Dec;26(4):251-78.</citation>
+    <PMID>11802676</PMID>
+  </reference>
+  <verification_date>August 2004</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Raynaud Disease</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

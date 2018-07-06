@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204200">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000779</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 214</org_study_id>
+    <secondary_id>11191</secondary_id>
+    <nct_id>NCT00000779</nct_id>
+  </id_info>
+  <brief_title>A Phase I Comparative Blinded Trial of Several HIV-1 Derived Immunogens in Infected Individuals With &gt;= 500 CD4 Cells/mm3</brief_title>
+  <official_title>A Phase I Comparative Blinded Trial of Several HIV-1 Derived Immunogens in Infected Individuals With &gt;= 500 CD4 Cells/mm3</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      PRIMARY: To compare the immunogenicity and safety of each of several HIV-1 derived
+      immunogens versus control in HIV-infected individuals with CD4 counts greater than or equal
+      to 500 cells/mm3.
+
+      SECONDARY: To determine whether significant advantages to any one vaccine exist.
+
+      Before large clinical trials of anti-HIV vaccines are undertaken, it is important to
+      determine whether there are significant advantages to any one of the vaccines currently
+      offered for such studies.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Before large clinical trials of anti-HIV vaccines are undertaken, it is important to
+      determine whether there are significant advantages to any one of the vaccines currently
+      offered for such studies.
+
+      Patients are randomized to receive one of four vaccines or one of two placebo controls. The
+      vaccines are: rgp 120/HIV-1IIIB, rgp 120/HIV-1MN, rgp 120/HIV-1SF, and env 2-3. The two
+      control immunogens are aluminum hydroxide (alum) and BIOCINE Placebo Vaccine 2 (MF-59
+      adjuvant emulsion in citrate buffer). Patients are vaccinated at weeks 0, 4, 8, 12, 16, 20,
+      28, and 36. If significant benefit is seen among vaccine patients, then placebo patients may
+      receive vaccination with one of the immunogens producing an immune response.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">September 1996</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety Study, Primary Purpose: Prevention</study_design>
+  <enrollment>130</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Aluminum hydroxide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MF59</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rgp120/HIV-1IIIB</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rgp120/HIV-1MN</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rgp120/HIV-1 SF-2</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Env 2-3</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  Short-term nonsteroidal anti-inflammatory therapy.
+
+        Patients must have:
+
+          -  HIV seropositivity.
+
+          -  CD4 count &gt;= 500 cells/mm3.
+
+          -  Successful establishment of EBV-transformed B-cell lines at study entry.
+
+          -  Consent of parent or guardian if &lt; 18 years of age.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Suspected or known allergies to any vaccine components.
+
+          -  Medical contraindication.
+
+          -  Problem with compliance.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Antiretroviral therapy (e.g., AZT, ddI, or ddC).
+
+          -  Agents with putative immunomodulating activity (e.g., interferon, steroids,
+             hematopoietin).
+
+          -  Parenteral therapies (including SC allergy sensitization).
+
+          -  Other investigational HIV drugs or therapies.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Any prior vaccinations against HIV.
+
+          -  Antiretroviral therapy (e.g., AZT, ddI, or ddC) within the past 6 months.
+
+          -  Agents with putative immunomodulating activity (e.g., interferon, steroids,
+             hematopoietin) within the past 3 months.
+
+          -  Parenteral therapies (including SC allergy sensitization) within the past 3 months.
+
+          -  Other investigational HIV drugs or therapies within the past 3 months.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Schooley RT</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Walker B</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCLA CARE Center CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford CRS</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Clara Valley Med. Ctr.</name>
+      <address>
+        <city>San Jose</city>
+        <state>California</state>
+        <zip>951282699</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Mateo County AIDS Program</name>
+      <address>
+        <city>San Mateo</city>
+        <state>California</state>
+        <zip>943055107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital CRS</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Med. Ctr., ACTG CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bmc Actg Crs</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital ACTG CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NY Univ. HIV/AIDS CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington AIDS CRS</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>981224304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Schooley RT, Spino C, Chiu S, DeGruttola V, Kuritzkes DR. Poor immunogenicity of HIV-1 envelope vaccines with alum or MF59 aduvant in HIV-infected individuals: results of two randomized trials. Conf Retroviruses Opportunistic Infect. 1997 Jan 22-26;4th:204 (abstract no 756)</citation>
+  </reference>
+  <reference>
+    <citation>Schooley RT, Spino C, Kuritzkes D, Walker BD, Valentine FA, Hirsch MS, Cooney E, Friedland G, Kundu S, Merigan TC Jr, McElrath MJ, Collier A, Plaeger S, Mitsuyasu R, Kahn J, Haslett P, Uherova P, deGruttola V, Chiu S, Zhang B, Jones G, Bell D, Ketter N, Twadell T, Chernoff D, Rosandich M. Two double-blinded, randomized, comparative trials of 4 human immunodeficiency virus type 1 (HIV-1) envelope vaccines in HIV-1-infected individuals across a spectrum of disease severity: AIDS Clinical Trials Groups 209 and 214. J Infect Dis. 2000 Nov;182(5):1357-64. Epub 2000 Oct 9.</citation>
+    <PMID>11023459</PMID>
+  </reference>
+  <verification_date>May 2012</verification_date>
+  <lastchanged_date>May 23, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaccines, Synthetic</keyword>
+  <keyword>HIV-1</keyword>
+  <keyword>Adjuvants, Immunologic</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>HIV Envelope Protein gp120</keyword>
+  <keyword>AIDS Vaccines</keyword>
+  <keyword>HIV Therapeutic Vaccine</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Aluminum Hydroxide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

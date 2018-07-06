@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204533">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000443</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAAJOH10522</org_study_id>
+    <nct_id>NCT00000443</nct_id>
+  </id_info>
+  <brief_title>Ondansetron Treatment for Alcoholism</brief_title>
+  <official_title>Pharmacological Treatment for Alcoholism</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to: a) evaluate the effectiveness of ondansetron (Zofran) in
+      the treatment of alcohol dependent patients; b) investigate whether early versus late onset
+      alcoholism predicts treatment outcome; and c) determine whether the early and late onset
+      groups respond differently to treatment. Individuals will be &quot;typed&quot; into early onset and
+      late onset alcoholism groups. Individuals will be randomly assigned to a 12-week outpatient
+      treatment program.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <completion_date>April 2000</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Alcoholism</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ondansetron (Zofran)</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meet criteria for alcohol dependence.
+
+          -  Subjects with early onset alcoholism must also have a diagnosis of antisocial
+             personality disorder.
+
+          -  Understand the requirements of the study and be able to complete the questionnaires
+             and rating scales.
+
+        Exclusion Criteria:
+
+          -  Current diagnosis of substance dependence or self-report of having used narcotics
+             (opiates, cocaine, amphetamine-like substances, and hallucinogens) in the 30 day
+             period prior to study.
+
+          -  Positive urine drug screen test for narcotics, barbiturates, or benzodiazepines.
+
+          -  Receiving current psychotropic medications.
+
+          -  Current history of other psychiatric disorders excluding nicotine dependence.
+
+          -  Hepatocellular disease.
+
+          -  Pregnant females.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>25 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Substance Abuse Research Center, University of Texas Health Science Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2002</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Alcoholism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Ondansetron</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

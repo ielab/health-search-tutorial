@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204487">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000490</url>
+  </required_header>
+  <id_info>
+    <org_study_id>9</org_study_id>
+    <nct_id>NCT00000490</nct_id>
+  </id_info>
+  <brief_title>Program on Surgical Control of Hyperlipidemias (POSCH)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether a profound reduction in serum cholesterol level, induced and maintained
+      by partial ileal bypass, would prevent a second heart attack among men and women who had one
+      myocardial infarction and whose blood cholesterol could not be reduced sufficiently by diet.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The correlative evidence linking elevated cholesterol to increased risk of cardiovascular
+      disease is incontrovertible. Animal studies have shown that significant reductions in
+      disease in humans may be forthcoming if blood lipids are reduced from elevated levels.
+      Beginning in the 1960s, some patients had undergone a surgical bypass procedure for
+      hyperlipidemia. Patients were selected for surgery after dietary management had been carried
+      out for three years. The average serum cholesterol concentrations decreased markedly and the
+      decrease was sustained.
+
+      This grant-supported clinical trial attempted to determine the effect on cardiovascular
+      morbidity and mortality of the partial ileal bypass in patients who had suffered a
+      myocardial infarction within the previous 5 years and who had serum cholesterol over 220 mg
+      deciliter (200 mg if LDL cholesterol was over l40 mg).
+
+      DESIGN NARRATIVE:
+
+      Randomized, non-blind, fixed sample study with a control group and an experimental group of
+      equal size. The experimental group received a partial ileal bypass and diet therapy to
+      reduce serum cholesterol and triglycerides. The control group was given conventional medical
+      therapy exclusive of cholesterol-lowering drugs. The primary endpoint was death due to any
+      cause. Secondary endpoints included death due to atherosclerosis and morbidity from
+      recurrent myocardial infarction, unstable angina, cerebrovascular accident. Other secondary
+      endpoints included coronary artery bypass surgery, percutaneous transluminal coronary
+      angioplasty, cardiac transplantation, and peripheral vascular surgery.
+
+      Beginning in January 1993, long-term morbidity and mortality follow-up are continuing
+      through December 1997 under grant support (R01HL49522). Follow-up includes tracking
+      morbidity and mortality by an annual telephone survey and review of patient records,
+      including death and autopsy results. In addition, mortality and morbidity will be correlated
+      with lipid changes and existing arteriographic results. The long-term course of control
+      patients treated with the AHA Phase II Diet counseling will be assessed and the long-term
+      side effects of partial ileal bypass will be evaluated.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1973</start_date>
+  <completion_date>December 1997</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>jejunoileal bypass</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, fat-restricted</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, ages 30 to 64. Had one myocardial infarction. Had hyperlipoproteinemia.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Henry Buchwald</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Buchwald H, Bourdages HR, Campos CT, Nguyen P, Williams SE, Boen JR. Impact of cholesterol reduction on peripheral arterial disease in the Program on the Surgical Control of the Hyperlipidemias (POSCH). Surgery. 1996 Oct;120(4):672-9.</citation>
+    <PMID>8862377</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Campos CT, Boen JR, Nguyen P, Williams SE, Lau J, Chalmers TC. Gender-based mortality follow-up from the Program on the Surgical Control of the Hyperlipidemias (POSCH) and meta-analysis of lipid intervention trials. Women in POSCH and other lipid trials. Ann Surg. 1996 Oct;224(4):486-98; discussion 498-500.</citation>
+    <PMID>8857853</PMID>
+  </reference>
+  <reference>
+    <citation>Long, JM, Brashear JR: Database Management for Clinical Trials. AFIPS Conference Proceedings: l977 National Computer Conference. AFIPS Press, Montvale, New Jersey, l977, 59-62.</citation>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Moore RB, Varco RL. Maximum lipid reduction by partial ileal bypass: a test of the lipid-atherosclerosis hypothesis. Lipids. 1977 Jan;12(1):53-8.</citation>
+    <PMID>834123</PMID>
+  </reference>
+  <reference>
+    <citation>Long, JM, Brashear JR: Experience Using Standard Software to Provide a Comprehensive Information Processing System for a Large and Complex Clinical Study. Proceedings of the Second Annual Symposium on Computer Application in Medical Care. IEEE, New York, New York, l978, 563-565.</citation>
+  </reference>
+  <reference>
+    <citation>Jelovsek FR, Bolinger RE, Davis RE, et al: Guidelines for User Access to Computerized Medical Records. J Med Systems, 2:24l-248, l978.</citation>
+  </reference>
+  <reference>
+    <citation>Matts JP, McHugh RB. Analysis of accrual randomized clinical trials with balanced groups in strata. J Chronic Dis. 1978;31(12):725-40.</citation>
+    <PMID>748369</PMID>
+  </reference>
+  <reference>
+    <citation>Moore RB, Long JM, Matts JP, Amplatz K, Varco RL, Buchwald H. Plasma lipoproteins and coronary arteriography in subjects in the program on the surgical control of the hyperlipidemias. Preliminary report. Atherosclerosis. 1979 Feb;32(2):101-19.</citation>
+    <PMID>222301</PMID>
+  </reference>
+  <reference>
+    <citation>Moore RB, Buchwald H, Varco RL. The effect of partial ileal bypass on plasma lipoproteins. Circulation. 1980 Sep;62(3):469-76.</citation>
+    <PMID>7398005</PMID>
+  </reference>
+  <reference>
+    <citation>Long JM, Brashear JR, Matts JP, Bearman JE. The POSCH Information Management System: experience with alternative approaches. J Med Syst. 1980;4(3-4):355-66.</citation>
+    <PMID>7264481</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Moore RB, Matts JP, Long JM, Varco RL, Campbell GS, Pearce MB, Yellin AE, Blankenhorn DH, Holmes WL, Smink RD Jr, Sawin HS Jr. The Program on the Surgical Control of the Hyperlipidemias: a status report. Surgery. 1982 Oct;92(4):654-62.</citation>
+    <PMID>6750834</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Rucker RD Jr., Moore RB, et al: Regression of Atherosclerosis by Surgical Cholesterol Reduction. In Noseda G et al (Eds): Lipoproteins and Coronary Atherosclerosis. Elsevier Biomedical Press, 417, 1982.</citation>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Moore RB, Varco, RL: Surgery in the Therapy of Atherosclerosis: Partial Ileal Bypass. In Atherosclerosis: Clinical Evaluation and Therapy. MTP Press Limited, International Medical Publication, 1982.</citation>
+  </reference>
+  <reference>
+    <citation>Long JM, Brashear JR, Matts JP, et al: The Evolution of a Large Clinical Database. Proceedings of Medcomp, 82:224-229, 1982.</citation>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Fitch L, Moore RB. Overview of randomized clinical trials of lipid intervention for atherosclerotic cardiovascular disease. Control Clin Trials. 1982 Sep;3(3):271-83.</citation>
+    <PMID>6759035</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Moore RB, Rucker RD Jr, Amplatz K, Castaneda WR, Francoz RA, Pasternak RC, Varco RL. Clinical angiographic regression of atherosclerosis after partial ileal bypass. Atherosclerosis. 1983 Jan;46(1):117-28.</citation>
+    <PMID>6838688</PMID>
+  </reference>
+  <reference>
+    <citation>Karnegis JN, Matts J, Tuna N, Amplatz K, Moore RB, Buchwald H. Directional ST-segment deviation in graded exercise tests correlated with motion of the individual segments of the left ventricular wall. Am J Cardiol. 1983 Sep 1;52(5):449-52.</citation>
+    <PMID>6613866</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H: Intestinal Bypass for Hypercholesterolemia. In Nyhus LM (Ed.). Mastery of Surgery. Little Brown and Co., Vol II, 901-907, 1984.</citation>
+  </reference>
+  <reference>
+    <citation>Buchwald H: Partial Ileal Bypass: A Surgical Approach to Cholesterol Lowering. In Perspectives in Lipid Disorders. McGraw-Hill Pub. Co., New York, Vol. 3, 1985.</citation>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Fitch L, Varco RL. Ileal bypass for hyperlipidemia. World J Surg. 1985 Dec;9(6):850-9.</citation>
+    <PMID>4082609</PMID>
+  </reference>
+  <reference>
+    <citation>Karnegis JN, Matts J, Tuna N. Development and evolution of electrocardiographic Minnesota Q-QS codes in patients with acute myocardial infarction. Am Heart J. 1985 Aug;110(2):452-9.</citation>
+    <PMID>4025120</PMID>
+  </reference>
+  <reference>
+    <citation>Karnegis JN, Matts J, Tuna N, Amplatz K, Moore RB, Buchwald H. Quantitative assessment of left ventricular function after myocardial infarction using the minnesota Q-QS codes for resting electrocardiograms. Cathet Cardiovasc Diagn. 1985;11(4):393-400.</citation>
+    <PMID>3899372</PMID>
+  </reference>
+  <reference>
+    <citation>Long JM: The POSCH Secondary Intervention Trial. Proc Int Cong Prev Cardiology, Moscow, 1985.</citation>
+  </reference>
+  <reference>
+    <citation>Long JM: Discovery and Confirmation of Causal Relationships in a Large Medical Record Database: A POSCH Experiment. Society for Clinical Trials, Annual Conference, 1985.</citation>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Fitch L, Varco RL. Surgical intervention in atherosclerosis: partial ileal bypass and the Program on Surgical Control of the Hyperlipidemias (POSCH). Pharmacol Ther. 1985;29(1):93-109. Review.</citation>
+    <PMID>3914647</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Fitch L, Varco RL: Partial Ileal Bypass; Hypercholesterolemia; Atherosclerosis. In Nyhus LM, Nelson RL (Eds.): Blackwell Scientific Publ Inc, Boston, MA, 1985, in press.</citation>
+  </reference>
+  <reference>
+    <citation>Karnegis JN, Matts J, Tuna N, Amplatz K. Relation between Q-QS changes on the rest electrocardiogram and left ventricular function with healed myocardial infarction. Am J Cardiol. 1986 Sep 1;58(6):399-405.</citation>
+    <PMID>3751907</PMID>
+  </reference>
+  <reference>
+    <citation>Long JM. The POSCH data processing experience. The problem of metadata. J Med Syst. 1986 Apr;10(2):173-83.</citation>
+    <PMID>3528373</PMID>
+  </reference>
+  <reference>
+    <citation>Karnegis JN, Matts J, Tuna N, Amplatz K. Comparison of exercise-positive with recovery-positive treadmill graded exercise tests. Am J Cardiol. 1987 Sep 1;60(7):544-7.</citation>
+    <PMID>3307368</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Matts JP, Hansen BJ, Long JM, Fitch LL. Program on Surgical Control of the Hyperlipidemias (POSCH): recruitment experience. Control Clin Trials. 1987 Dec;8(4 Suppl):94S-104S.</citation>
+    <PMID>3440393</PMID>
+  </reference>
+  <reference>
+    <citation>Bissett JK, Matts J, Sharma B. Residual myocardial jeopardy in patients with Q-wave and non-Q-wave infarctions. Br Heart J. 1987 Nov;58(5):460-4.</citation>
+    <PMID>2890362</PMID>
+  </reference>
+  <reference>
+    <citation>Campos CT, Matts JP, Fitch LL, Speech JC, Long JM, Buchwald H. Lipoprotein modification achieved by partial ileal bypass: five-year results of The Program on the Surgical Control of the Hyperlipidemias. Surgery. 1987 Aug;102(2):424-32.</citation>
+    <PMID>3303402</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Campos CT. Partial ileal bypass in the therapy of familial hypercholesterolemia. The POSCH Group. Beitr Infusionsther. 1988;23:47-60. Review.</citation>
+    <PMID>2484782</PMID>
+  </reference>
+  <reference>
+    <citation>Campos CT, Matts JP, Santilli SM, Fitch LL, Long JM, Speech JC, Buchwald H. Predictors of total and low-density lipoprotein cholesterol change after partial ileal bypass. Am J Surg. 1988 Jan;155(1):138-46.</citation>
+    <PMID>3341527</PMID>
+  </reference>
+  <reference>
+    <citation>Campos CT, Matts JP, Fitch LL, Speech JC, Long JM, Buchwald H. Normalization of lipoproteins following partial ileal bypass in individual WHO lipoprotein phenotypes. Curr Surg. 1988 Sep-Oct;45(5):380-2. Review.</citation>
+    <PMID>3073042</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Matts JP, Fitch LL, Varco RL, Campbell GS, Pearce M, Yellin A, Smink RD Jr, Sawin HS Jr, Campos CT, et al. Program on the Surgical Control of the Hyperlipidemias (POSCH): design and methodology. POSCH Group. J Clin Epidemiol. 1989;42(12):1111-27.</citation>
+    <PMID>2685177</PMID>
+  </reference>
+  <reference>
+    <citation>Irani EA, Matts JP, Long JM, Slagle JR, and the POSCH Group: Using Artificial Neural Nets for Statistical Discovery: Observations After Using Back-Propagation, Expert Systems, and Multiple Linear Regression on Clinical Trial Data. Complex Systems, 3:295-311, 1989.</citation>
+  </reference>
+  <reference>
+    <citation>Campos CT, Matts JP, Fitch LL, et al: Modification of Plasma Lipoproteins Following Partial Ileal Bypass. Five-Year Results of the Program of the Surgical Control of the Hyperlipidemias. In: Atherosclerosis VIII, Proceedings of the 8th International Symposium on Atherosclerosis, Rome, 9-13, October 1988; G. Crepaldi et al, (Eds), Elsevier Science Publishers B.V., Amsterdam, pp 769-774, 1989.</citation>
+  </reference>
+  <reference>
+    <citation>Karnegis JN, Matts JP, Tuna N, Amplatz K. Estimation of left ventricular ejection fraction with healed myocardial infarction by multiple regression analysis of electrocardiographic Minnesota Q-QS codes. POSCH Group. J Electrocardiol. 1990 Jan;23(1):1-7.</citation>
+    <PMID>2406359</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Campos CT: Partial Ileal Bypass for Control of Hyperlipidemia and Atherosclerosis. Chapter in: Gibbon's Surgery of the Chest, Fifth Edition; Sabiston DC Jr., Spencer FC (Eds); W.B. Saunders Company, Philadelphia, PA, pp 1799-1820, 1990.</citation>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Campos CT, and the POSCH Group: Preliminary Results of the Program on the Surgical Control of the Hyperlipidemias (POSCH). Chapter in: Proceedings of the 7th International Atherosclerosis and Cardiovascular Disease Meeting. Dordrecht: Kluwer Academic Publishers, in press, 1990.</citation>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Varco RL, Matts JP, Long JM, Fitch LL, Campbell GS, Pearce MB, Yellin AE, Edmiston WA, Smink RD Jr, et al. Effect of partial ileal bypass surgery on mortality and morbidity from coronary heart disease in patients with hypercholesterolemia. Report of the Program on the Surgical Control of the Hyperlipidemias (POSCH). N Engl J Med. 1990 Oct 4;323(14):946-55.</citation>
+    <PMID>2205799</PMID>
+  </reference>
+  <reference>
+    <citation>Bissett JK, Ngo WL, Wyeth RP, Matts JP. Angiographic progression to total coronary occlusion in hyperlipidemic patients after acute myocardial infarction. POSCH Group. Am J Cardiol. 1990 Dec 1;66(19):1293-7.</citation>
+    <PMID>2244557</PMID>
+  </reference>
+  <reference>
+    <citation>Campos CT, Matts JP, Fitch LL, Speech JC, Long JM, Buchwald H. Lipid results of partial ileal bypass in patients with heterozygous, type II-A hyperlipoproteinemia. Program on the Surgical Control of the Hyperlipidemias. Surgery. 1990 Oct;108(4):601-10; discussion 610-1.</citation>
+    <PMID>2120785</PMID>
+  </reference>
+  <reference>
+    <citation>Karnegis JN, Matts JP, Tuna N, Amplatz K. Positive and negative exercise test results with and without exercise-induced angina in patients with one healed myocardial infarction: analysis of baseline variables and long-term prognosis. Am Heart J. 1991 Sep;122(3 Pt 1):701-8.</citation>
+    <PMID>1877445</PMID>
+  </reference>
+  <reference>
+    <citation>Obialo CI, Clayman RV, Matts JP, Fitch LL, Buchwald H, Gillis M, Hruska KA. Pathogenesis of nephrolithiasis post-partial ileal bypass surgery: case-control study. The POSCH Group. Kidney Int. 1991 Jun;39(6):1249-54.</citation>
+    <PMID>1895677</PMID>
+  </reference>
+  <reference>
+    <citation>Matts JP, Buchwald H, Fitch LL, Campos CT, Varco RL, Campbell GS, Pearce MB, Yellin AE, Edmiston WA, Smink RD Jr, et al. Program on the Surgical Control of the Hyperlipidemias (POSCH): patient entry characteristics. The POSCH Group. Control Clin Trials. 1991 Apr;12(2):314-39.</citation>
+    <PMID>1645643</PMID>
+  </reference>
+  <reference>
+    <citation>Long JM, Slagle JR. Expert systems, clinical data analyses, and knowledge discovery: the POSCH AI project. Ann N Y Acad Sci. 1992 Dec 17;670:146-54.</citation>
+    <PMID>1309084</PMID>
+  </reference>
+  <reference>
+    <citation>Karnegis JN, Matts JP, Tuna N, Hunter D, Amplatz K. Correlation of coronary with peripheral arterial stenosis. The POSCH Group. Atherosclerosis. 1992 Jan;92(1):25-30.</citation>
+    <PMID>1575819</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Campos CT, Matts JP, Fitch LL, Long JM, Varco RL. Women in the POSCH trial. Effects of aggressive cholesterol modification in women with coronary heart disease. The POSCH Group. Program on the Surgical Control of the Hyperlipidemias. Ann Surg. 1992 Oct;216(4):389-98; discussion 398-400.</citation>
+    <PMID>1417188</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Matts JP, Fitch LL, Campos CT, Sanmarco ME, Amplatz K, Castaneda-Zuniga WR, Hunter DW, Pearce MB, Bissett JK, et al. Changes in sequential coronary arteriograms and subsequent coronary events. Surgical Control of the Hyperlipidemias (POSCH) Group. JAMA. 1992 Sep 16;268(11):1429-33.</citation>
+    <PMID>1512911</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Fitch LL, Matts JP, Johnson JW, Hansen BJ, Stuenkel MR, Brooks HB. Perception of quality of life before and after disclosure of trial results: a report from the Program on the Surgical Control of the Hyperlipidemias (POSCH). Control Clin Trials. 1993 Dec;14(6):500-10.</citation>
+    <PMID>8119065</PMID>
+  </reference>
+  <reference>
+    <citation>Matts JP, Karnegis JN, Campos CT, Fitch LL, Johnson JW, Buchwald H. Serum creatinine as an independent predictor of coronary heart disease mortality in normotensive survivors of myocardial infarction. POSCH Group. J Fam Pract. 1993 May;36(5):497-503.</citation>
+    <PMID>8482933</PMID>
+  </reference>
+  <reference>
+    <citation>Bissett JK, Wyeth RP, Matts JP, Johnson JW. Plasma lipid concentrations and subsequent coronary occlusion after a first myocardial infarction. The POSCH Group. Am J Med Sci. 1993 Mar;305(3):139-44.</citation>
+    <PMID>8447332</PMID>
+  </reference>
+  <reference>
+    <citation>Fitch LL, Buchwald H, Matts JP, Johnson JW, Campos CT, Long JM. Effect of aspirin use on death and recurrent myocardial infarction in current and former cigarette smokers. Program on the Surgical Control of the Hyperlipidemias Group. Am Heart J. 1995 Apr;129(4):656-62.</citation>
+    <PMID>7900613</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Campos CT. Control of risk factors in atherosclerosis. POSCH Report. Ann N Y Acad Sci. 1995 Jan 17;748:342-55; discussion 355-6.</citation>
+    <PMID>7695177</PMID>
+  </reference>
+  <reference>
+    <citation>Matts JP, Buchwald H, Fitch LL, Campos CT, Varco RL, Campbell GS, Pearce MB, Yellin AE, Smink RD Jr, Sawin HS Jr, et al. Subgroup analyses of the major clinical endpoints in the Program on the Surgical Control of the Hyperlipidemias (POSCH): overall mortality, atherosclerotic coronary heart disease (ACHD) mortality, and ACHD mortality or myocardial infarction. J Clin Epidemiol. 1995 Mar;48(3):389-405.</citation>
+    <PMID>7897460</PMID>
+  </reference>
+  <reference>
+    <citation>Campos CT, Buchwald H, and the POSCH Group: The Program on the Surgical Control of the Hyperlipidemias (POSCH): Demonstration of the Beneficial Effects of Treatment of Hypercholesterolemia. Cardiovasc Risk Factors, 2:261-275, 1992.</citation>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Campos CT, Boen JR, Nguyen PA, Williams SE. Disease-free intervals after partial ileal bypass in patients with coronary heart disease and hypercholesterolemia: report from the Program on the Surgical Control of the Hyperlipidemias (POSCH). J Am Coll Cardiol. 1995 Aug;26(2):351-7.</citation>
+    <PMID>7608434</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Varco RL, Boen JR, Williams SE, Hansen BJ, Campos CT, Campbell GS, Pearce MB, Yellin AE, Edmiston WA, Smink RD Jr, Sawin HS Jr. Effective lipid modification by partial ileal bypass reduced long-term coronary heart disease mortality and morbidity: five-year posttrial follow-up report from the POSCH. Program on the Surgical Control of the Hyperlipidemias. Arch Intern Med. 1998 Jun 8;158(11):1253-61.</citation>
+    <PMID>9625405</PMID>
+  </reference>
+  <reference>
+    <citation>Gould AL, Cariski AT. Meta-analysis by the Program on the Surgical Control of the Hyperlipidemias (POSCH) investigators. Ann Surg. 1998 Feb;227(2):314-6.</citation>
+    <PMID>9488536</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Hunter DW, Tuna N, Williams SE, Boen JR, Hansen BJ, Titus JL, Campos CT. Myocardial infarction and percent arteriographic stenosis of culprit lesion: report from the Program on the Surgical Control of the Hyperlipidemias (POSCH). Atherosclerosis. 1998 Jun;138(2):391-401.</citation>
+    <PMID>9690924</PMID>
+  </reference>
+  <reference>
+    <citation>Buchwald H, Boen JR, Nguyen PA, Williams SE, Matts JP. Plasma lipids and cardiovascular risk: a POSCH report. Program on the Surgical Control of the Hyperlipidemias. Atherosclerosis. 2001 Jan;154(1):221-7.</citation>
+    <PMID>11137103</PMID>
+  </reference>
+  <verification_date>June 2001</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

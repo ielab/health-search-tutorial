@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204634">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000338</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-3-0010-3</org_study_id>
+    <secondary_id>Y01-3-0010-3</secondary_id>
+    <nct_id>NCT00000338</nct_id>
+  </id_info>
+  <brief_title>Infusion Laboratory: Protocol 2 (Lisuride) - 3</brief_title>
+  <official_title>Infusion Laboratory: Protocol 2 (Lisuride)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate clinical safety issues pertaining to lisuride, to
+      cocaine, and to its interaction in a chronic, crack dependent population, and to determine
+      how pretreatment with lisuride modifies the subjective as well as physiological effects of
+      cocaine.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>March 1996</start_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Degree of drug craving</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>History, incidence and amount of drug use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Type and severity of stimulant withdrawal symptoms</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Characterization of study population</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Population incidence of symptoms of depression, po</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency and intensity of drug use and sexual beh</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evidence of change in neurophysiology and brain ac</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evidence of change in subjective responses to coca</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical physiological response to cocaine challen</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Degree to which study medication influences change</measure>
+  </primary_outcome>
+  <enrollment>2</enrollment>
+  <condition>Cocaine-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lisuride</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        M/F ages 21-50. Meet DSM-IV criteria for cocaine dependence. Agree to conditions of the
+        study and sign informed consent.
+
+        Exclusion Criteria:
+
+        Psychiatric disorder that requires medication therapy. History of seizures. Pregnant
+        and/or nuring women. Dependence on ETOH or benzodiazepines or other sedative/hypnotics.
+        Acute hepatitis. Other medical condtions that deem participation to be unsafe.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Walter Ling, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Friends Research Institute, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Friends Research Institute</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 1996</verification_date>
+  <lastchanged_date>August 16, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cocaine-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lisuride</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

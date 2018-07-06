@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204207">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000772</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 231</org_study_id>
+    <secondary_id>11208</secondary_id>
+    <nct_id>NCT00000772</nct_id>
+  </id_info>
+  <brief_title>A Phase I Open-Label Study of the Safety, Tolerance, and Pharmacokinetic Interactions of Combination Didanosine and Ribavirin in HIV-Positive Individuals</brief_title>
+  <official_title>A Phase I Open-Label Study of the Safety, Tolerance, and Pharmacokinetic Interactions of Combination Didanosine and Ribavirin in HIV-Positive Individuals</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ICN Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety and tolerance of concurrent administration of standard-dose
+      didanosine (ddI) with low-dose ribavirin in HIV-positive patients. To determine the
+      pharmacokinetic interactions of concurrent administration of ddI and ribavirin and correlate
+      pharmacokinetic parameters with toxicity. To investigate antiviral activity of the combined
+      regimen.
+
+      Combination ddI/ribavirin therapy, if safe and effective, offers an alternative combination
+      antiretroviral regimen for patients unable to tolerate regimens containing zidovudine (AZT).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Combination ddI/ribavirin therapy, if safe and effective, offers an alternative combination
+      antiretroviral regimen for patients unable to tolerate regimens containing zidovudine (AZT).
+
+      Patients receive ddI alone for 4 weeks, followed by 8 weeks of combination ddI/ribavirin.
+      Patients who complete the first 12 weeks without major toxicity may receive an additional 12
+      weeks of combination therapy on an optional basis. Patients are followed for 60 days after
+      the last treatment visit.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">February 1995</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <enrollment>15</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ribavirin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Didanosine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  Stable maintenance or prophylaxis therapy for opportunistic infection, if such
+             therapy was administered for at least 30 days prior to study entry.
+
+          -  Isoniazid for chemoprophylaxis against Mycobacterium tuberculosis.
+
+          -  Fluconazole for mucosal candidiasis or cryptococcosis.
+
+          -  Acyclovir (up to 1.0 g/day).
+
+          -  Dapsone.
+
+          -  Ketoconazole.
+
+          -  Quinolones.
+
+          -  Tetracycline.
+
+          -  Vitamins and herbal therapies.
+
+          -  Antibiotics as clinically indicated.
+
+          -  Systemic corticosteroids for &lt; 21 days for acute problems.
+
+          -  Regularly prescribed medications.
+
+        Patients must have:
+
+          -  HIV positivity by ELISA confirmed by Western blot.
+
+          -  CD4 count &lt; 500 cells/mm3 within 30 days prior to study entry.
+
+          -  No active opportunistic infections requiring treatment (patients on stable
+             maintenance and prophylaxis therapy for opportunistic infections for at least 30 days
+             are permitted).
+
+        NOTE:
+
+          -  Enrollment of women is encouraged.
+
+        Prior Medication:
+
+        Allowed:
+
+          -  Prior stable maintenance or prophylaxis therapy for opportunistic infection, if
+             administered for at least 30 days prior to study entry.
+
+        Exclusion Criteria
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Concurrent rifampin or rifabutin.
+
+          -  Other anti-HIV drugs and investigational agents.
+
+          -  Biological response modifiers.
+
+          -  Ganciclovir or foscarnet.
+
+          -  Systemic cytotoxic chemotherapy.
+
+        Concurrent Treatment:
+
+        Excluded:
+
+          -  Concurrent radiation therapy other than limited localized therapy to the skin.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of peripheral neuropathy.
+
+          -  History of pancreatitis or active liver disease.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Prior ddI.
+
+          -  Ribavirin within 60 days prior to study entry.
+
+          -  AZT or ddC within 2 weeks prior to study entry.
+
+        Prior Treatment:
+
+        Excluded:
+
+          -  Transfusion within 2 weeks prior to study entry.
+
+        Active alcohol abuse.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Japour AJ</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Lertora JJ</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Crumpacker C</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess - East Campus A0102 CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota, ACTU</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=16</url>
+    <description>Click here for more information about Didanosine</description>
+  </link>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=28</url>
+    <description>Click here for more information about Ribavirin</description>
+  </link>
+  <reference>
+    <citation>Japour AJ, et al. A Phase I study of the safety, tolerance, &amp; pharmacokinetics of combination didanosine/ribavirin for HIV disease (ACTG 231). Natl Conf Hum Retroviruses Relat Infect (2nd). 1995 Jan 29-Feb 2:103</citation>
+  </reference>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 30, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Ribavirin</keyword>
+  <keyword>Didanosine</keyword>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Didanosine</mesh_term>
+    <mesh_term>Ribavirin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

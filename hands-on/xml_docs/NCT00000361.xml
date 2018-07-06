@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204612">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000361</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDCD-1158</org_study_id>
+    <secondary_id>UO1 DC 03209</secondary_id>
+    <nct_id>NCT00000361</nct_id>
+  </id_info>
+  <brief_title>Autoimmunity in Inner Ear Disease</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Deafness and Other Communication Disorders (NIDCD)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Deafness and Other Communication Disorders (NIDCD)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether prednisone, methotrexate, and
+      cyclophosphamide are effective in the treatment of rapidly progressive sensorineural hearing
+      loss in both ears. This condition is called autoimmune inner ear disease (AIED), because it
+      is thought that the hearing loss is triggered by an autoimmune process. Treatment attempts
+      to suppress or control this process with powerful anti-inflammatory drugs. This is a Phase
+      III, outpatient study. All study participants will be assigned to one of four different
+      groups testing the experimental use of drugs. The study is scheduled to run for 18 months,
+      with a minimum of 11 visits per participant.
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <start_date>March 1998</start_date>
+  <completion_date>November 2002</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Hearing Loss, Sensorineural</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Corticosteroids</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methotrexate</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Have sensorineural (nerve/inner ear) hearing loss of at least 30 dB in each ear,
+             which has rapidly progressed.
+
+          -  Are in good general health.
+
+          -  Are sterile or use contraception (if a woman of child-bearing age).
+
+          -  Are able to speak and understand English or Spanish.
+
+        Exclusion Criteria:
+
+          -  Have had any previous reaction to prednisone, or history of psychiatric reaction to
+             corticosteroids.
+
+          -  Have used corticosteroids for more than 30 days within the past 90 days. Patients who
+             have been off corticosteroids for at least 30 days may be eligible.
+
+          -  Have any significant heart, lung, digestive, blood, or neurologic disorders.
+
+          -  Have tuberculosis (TB), brittle or unstable insulin-dependent diabetes mellitus,
+             active malignancy or prior chemotherapy, pancreatitis, active peptic ulcer disease,
+             kidney failure, history of shingles, or known (other) autoimmune disease.
+
+          -  Have had a positive test for HIV, hepatitis C or B.
+
+          -  Have any type of middle ear disorder.
+
+          -  Are breast-feeding or pregnant.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr. Jeffrey Harris</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Dr. Patrick Brookhouser</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>House Ear Institute</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSD Medical Center</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103-8895</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Iowa Hosp and Clinic</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242-1078</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Univ</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287-0008</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts Eye and Ear Infirmary</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109-0005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195-5245</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas, Southwestern Medical Center at Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2006</verification_date>
+  <lastchanged_date>April 21, 2006</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Autoimmune Diseases</keyword>
+  <keyword>Cyclophosphamide</keyword>
+  <keyword>Hearing</keyword>
+  <keyword>Labyrinth Diseases</keyword>
+  <keyword>Methotrexate</keyword>
+  <keyword>Prednisone</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hearing Loss</mesh_term>
+    <mesh_term>Hearing Loss, Sensorineural</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Methotrexate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>
