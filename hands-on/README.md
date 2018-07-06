@@ -15,26 +15,21 @@ This tutorial demostrates using a number of different tools to implement a searc
 
 ## Setup
 
-First, Download and install docker for your operating system.
+1) First, **download and install docker** for your operating system.
 
 Now we need two docker images: one for elastic and the other for this tutorial.
 
-For elastic:
+2) For elastic:
 
 `docker pull docker.elastic.co/elasticsearch/elasticsearch:6.3.1`
 
-For this tutorial:
+3) For this tutorial:
 
-`docker pull ielab/health-search-tutorial`
+`docker pull ielabgroup/health-search-tutorial`
 
-**Altnernative**: 
+( **Alternative**: If the docker image was saved to file via `docker save -o <path for generated tar file> health-search-tutorial`. Then it can be loaded via: `docker load -i <path to image tar file>`.)
 
-If the docker image was saved to file via `docker save -o <path for generated tar file> health-search-tutorial`
-
-Then it can be loaded via:
-
-`docker load -i <path to image tar file>`
-
+---
 
 ### Details of the task
 
@@ -99,7 +94,7 @@ This will annotated each document and write the output to `annotated_docs` as in
 
 **Note**: this process can be very slow on docker. You can Ctrl C to cancel it if its taking too long. We have already run this and the output is all in `annotated_docs`.
 
-Now, take a look in some files (e.g., `less docs/NCT02631304`) and you will see the document now has three fields:
+Now, take a look in some files (e.g., `less annotated_docs/NCT02631304.json`) and you will see the document now has three fields:
 
 * `text` containing the original test;
 * `cuis` contained the UMLS concept ids for concepts found in the text; and 
@@ -110,13 +105,17 @@ Now, take a look in some files (e.g., `less docs/NCT02631304`) and you will see 
 
 #### Starting Elastic
 
-First, start Elastic. We will the standard docker images provided by elastic to do this:
+First, start Elastic. We will use the standard docker images provided by elastic to do this. 
+
+Open a new terminal window and make sure you run this not in the tutorial docker but on your host machine:
 
 `docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:6.3.1`
 
 Ensure that the docker service is up and running by visiting: [http://localhost:9200/](http://localhost:9200/)
 
 #### Indexing
+
+Return to your tutorial docker shell.
 
 Now we want to index all the annotated documents to Elastic:
 
