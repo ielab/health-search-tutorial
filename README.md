@@ -76,11 +76,15 @@ This session will cover methods across different health search tasks, including:
 
 ### Session 3: Practical
 
-#### Use of clinical NLP tools for medical IR: Hands-on session}% Hands-on session on tools for medical IR
+#### Use of clinical NLP tools for medical IR: Hands-on session on tools for medical IR
 
 The clinical informatics and clinical natural language processing community have developed a number of tools for extracting clinical information free text. For example, statistical and dictionary-based named entity recognition systems have been developed to identify medical entities; algorithms have been developed to extract associations, relationships and contexts and to enhance textual content with semantic information.
 
 This part of the tutorial presents an overview of such techniques, providing a hands-on demonstration of how these tools work. In addition, the tutorial provides an outlook at how these tools have been used in the literature or can be integrated to enhance information representation and the whole information retrieval process.
+
+**All details for the hands on session are at:**
+
+[https://github.com/ielab/health-search-tutorial/tree/master/hands-on](https://github.com/ielab/health-search-tutorial/tree/master/hands-on).
 
 
 *Duration: 90m*
