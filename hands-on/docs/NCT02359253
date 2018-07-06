@@ -1,0 +1,222 @@
+TITLE:
+      Robot Aided Rehabilitation - Intervention
+SUMMARY:
+      The purpose of this study is to address the allocation of therapy resources between the arm
+      and the hand as well as to examine the benefits of combining passive stretching with active
+      movement training.
+DETAILED DESCRIPTION:
+      Aim 1 and Hypothesis 1 are included in a separate submission and will not be included in
+      this protocol and consent
+
+      Aim 2. To compare the efficacy of training the arm versus the hand in promoting upper
+      extremity rehabilitation.
+
+      Hypothesis 2: Combining treatment of the arm and hand, even at the cost of decreasing the
+      total amount of time which can be spent on either, will lead to greater improvement than
+      focusing primarily on the arm or on the hand alone.
+
+      Aim 3. To examine the efficacy of combining passive stretching with active-assistive
+      (resistive training for the shoulder, elbow, wrist, and hand.
+
+      Hypothesis 3: Multi-joint intelligent stretching followed by active (assistive or resistive)
+      movement facilitated by use of the IntelliArm and X-Glove will improve motor control of the
+      upper extremity more than standard movement therapy alone.
+
+      BACKGROUND AND SIGNIFICANCE
+
+      Stoke is the leading cause of adult disability and the third leading cause of death (killing
+      160,000 Americans/year) in the United States; about 750,000 first ever and recurrent strokes
+      occur in the United States each year. The economic burden is huge with estimated costs for
+      medical expenses and lost wages totaling $62.7 billion in the U.S. Stroke is commonly
+      associated with motor-related disabilities, typically affecting the shoulder, elbow, wrist,
+      and fingers of the arm simultaneously. Patients may develop spastic hypertonia and reduced
+      range of motion (ROM) at multiple joints. Several stereotypical patterns of arm impairment
+      with multiple joints involved are commonly seen in stroke survivors, including
+      adducted/internally rotated shoulder, flexed elbow, pronated forearm, flexed wrist, and
+      clenched fist. Furthermore, impaired arms of stroke survivors commonly develop abnormal
+      coupling among the multiple joints and among the multiple DOFs (e.g. shoulder abduction,
+      flexion, and rotation) at a given joint. Stroke survivors may exhibit a limited capacity to
+      create independent movements of individual joints or to coordinate the activity of multiple
+      joints. There is a strong need to treat this hypertonia, involuntary coactivation, and poor
+      coordination on a frequent basis to reduce spasticity/contracture and increase mobility in
+      those who have had a stroke. This is the goal of the proposed study.
+
+      METHODS Aims 2 and 3 will be addressed through a longitudinal intervention trial. Outcomes
+      data for each subject will be collected at multiple time points during the study.
+      Specifically, evaluation sessions will be conducted two times within the two weeks prior to
+      initiation of therapy (Pre 1 and Pre 2) two times within the two weeks after the conclusion
+      of therapy (Post 1 and Post 2), and two months later (Follow-up).
+
+      Selection of Subjects 72 subacute stroke survivors will be recruited according to the
+      inclusion and exclusion criteria listed over 5 years.
+
+      Intervention Each subject will complete 22 therapy sessions over 6 weeks, in addition to 5
+      evaluation sessions and 1 screening session. Subjects will be assigned evenly to one of six
+      groups. Groups are split into 2 conditions based on stretching and 3 conditions based on
+      target of intervention (arm, hand, or both arm and hand). Half of the 72 subjects will be
+      assigned to the stretching groups and the other half to the no-stretching groups. One third
+      of the subjects will be assigned to each of the arm-alone, hand-alone, and arm-and-hand
+      conditions. Arm-alone groups will use the IntelliArm, hand-alone groups will use the
+      X-Glove, and arm-and-hand groups will use both the IntelliArm and the X-Glove by alternating
+      sessions with each robot (11 sessions with the IntelliArm, 11 sessions with the X-Glove).
+      For those assigned to the stretching groups, subjects will complete 30 minutes of passive
+      stretching with the IntelliArm or X-Glove. For those assigned to the no-stretching
+      condition, subjects will don the robot according to their group assignment and wear it for
+      30 minutes preceding the active therapy session. For each group, the initial 30 minutes of
+      stretching or relaxing will be followed by 45-60 minutes of active therapy with the
+      IntelliArm or X-Glove (depending on group assignment), for a total session time of 75-90
+      minutes.
+
+      The subjects participating in Aims 2 and 3 will be asked to come to our labs at the
+      Rehabilitation Institute of Chicago to provide informed consent and then complete a
+      screening, which will take approximately 30 minutes and include a basic questionnaire and
+      some clinical evaluations. If qualified and enrolled, subjects will complete 5 evaluation
+      sessions and 22 training sessions.
+
+      Training
+
+      The training in this study will last for 6 weeks with about 4 visits per week for 22
+      sessions in total. At the beginning of each training session, the subject will be asked
+      about any muscle or joint soreness in the hemiparetic arm and hand since the last session.
+      If the subject has persistent or severe pain, he/she will not continue until he/she feels
+      sufficiently recovered and the clinician agrees.
+
+      IntelliArm Training During the training, the subject will sit upright on a barber's chair
+      with his/her trunk strapped to the backrest of the chair. The subject's arm, forearm and
+      hand will be strapped to braces that are connected to a robotic arm; adjustments will be
+      made to customize the robotic arm for each subject. Once adjustments are completed, the
+      training will begin, consisting of passive stretching (for half of the subjects) followed by
+      active movement therapy. . Each training session should last between one and one and a half
+      hours.
+
+      In the stretching mode, the robotic arm will move the subject's shoulder, elbow and wrist.
+      Sometimes these joints will be moved one at a time and sometimes they will be moved
+      together. The joints/DOFs with excessive coupling and/or increased stiffness and the
+      associated arm postures will be identified and will be targeted for particular attention..
+      The IntelliArm will stretch the impaired arm under novel multi-joint intelligent control to
+      stretch the joints forcefully and safely in well-coordinated patterns. On the one hand, for
+      safe treatment, the stretching velocities will decrease with increased resistance torques at
+      the multiple joints involved and each joint will be stretched according to its own condition
+      and the condition of the coupled joints. On the other hand, for effective treatment, the
+      stretching will not stop until pre-specified peak resistance torque is reached at the
+      joints/DOFs involved. The stretched arm will be held at the extreme positions for a period
+      of time to let stress relaxation occur before the joints are moved to other extreme
+      positions.
+
+      In the active training mode, the subject will be asked to move the robotic arm around to
+      interact with virtual targets and objects. For example, target points will be displayed and
+      the subject will be asked to move the hand from the current position to the target, while
+      matching the individual joints angles as well. A circle in the virtual hand needs to overlap
+      the red-dot targets on the computer monitor for successful match. The IntelliArm can be made
+      backdrivable by implementing zero-torque control with six-DOF force/torque sensors at each
+      joint. Alternatively, assistance (or resistance) can be provided by the IntelliArm to the
+      impaired arm during the voluntary movement in training to help subjects with arm impairments
+      reach the target. The level of assistance will be adjusted depending on the severity of the
+      impairment. Subjects will also move the IntelliArm in order to play computer games such as
+      catching a baseball or football, and to transport virtual objects from one location to
+      another in the display. As the user progresses in motor control capability, the workspace
+      will be increased and resistance instead of assistance may be provided during the movement
+      to make it more challenging to the patients.
+
+      X-Glove Training Two-thirds of the subjects will utilize the X-Glove in their therapy. This
+      actuated glove provides independent extension force to each digit. Cables run from linear
+      actuators located on the forearm through cable guides located on the back side of the digits
+      to the fingertips (Fig. 3). A wrist splint keeps the wrist in the neutral position such that
+      movement of the cable translates into corresponding movement of the digit. Force in each
+      cable is measured with an in-line sensor, while cable position can be estimated from the
+      motor displacement. As with the IntelliArm, the X-Glove will be operated in two modes, one
+      of which will provide stretching while the other provides assistance for hand opening during
+      active training. For subjects assigned to stretching groups, the X-Glove will first run in a
+      mode that provides cyclic stretching at a rate of approximately 90 repetitions of passive
+      range of motion over 30 minutes. The motors will move the digits from an initial flexed
+      resting posture to the subject's extension limit, as determined by force sensors and range
+      of motion limits set by the therapist daily. The subject will remain relaxed throughout the
+      stretching period.
+
+      Evaluation and Measurement In an initial screening session, a clinician will check the
+      subject's health status and conduct clinical examinations in order to determine if the
+      subject fits the inclusion and exclusion criteria. During the screening session the subject
+      will participate in several clinical assessments. The screening evaluations will take about
+      one half hour.
+
+      For each evaluation session he/she will be asked to come to our laboratories on the 13th
+      floor of the Rehabilitation Institute of Chicago. Evaluation of subjects will have
+      neuromechanical and clinical components; both the neuromechanical and clinical components of
+      evaluation will take approximately two hours each and occur two times, once per week for the
+      two weeks prior to treatment, two times, once per week for the two weeks following treatment
+      and at the 2 month follow-up. .
+
+      Protection Against Risk:
+
+      A number of safeguards have been implemented. Mechanical/electrical stops will be used to
+      restrict the motion of the robots to safe ranges. Velocity limits will also be set to
+      restrict the speed of the movement. Joint angle, velocity, and force will be monitored
+      continuously to ensure they fall within the appropriate range. Exceeding the thresholds will
+      result in motor shut-down. Additionally, the motors can be turned off at any time using an
+      accessible on/off switch to protect from discomfort or potential injuries. The IntelliArm
+      and X-Glove have previously been used safely with a number of stroke survivors. Rest breaks
+      will be provided as needed during therapy to prevent excessive muscle soreness and fatigue.
+
+      A cast saw will be used to remove the fiberglass cast used in evaluations. Improper use of
+      the saw could produce a burn. Project staff has been trained in the operation of the saw and
+      proper procedures to follow. Adhesive used to secure the surface electrode could irritate
+      the skin. The skin will be carefully prepared before applying the electrode and then cleaned
+      when the electrode is removed.
+
+      Specific to TMS, although rare instances of seizure have been reported when long trains of
+      high frequency excitatory TMS were applied, these events have not been reported when
+      recommended guidelines originally published in 1996 and updated by Rossi et al. 2009 Clin.
+      Neurophysiol. 120:2008-2039, have been followed. The parameters proposed in this study are
+      well within these published safety guidelines, and individuals who have suffered a stroke
+      are one of the most commonly requited populations for TMS studies. Providing they have never
+      had a seizure and do not meet any of the other exclusion criteria listed above, they are a
+      clinical population to which TMS can be safely applied.
+
+      Data Analysis:
+
+      To relate and find the relationship between physiological data and functional performance
+      the data will be evaluated using a) biomechanics data analysis, b) correlation and principle
+      component analysis, c) regression, d) Rasch analysis, and e) structural equation modeling.
+      Physiological data obtained from the IntelliArm (e.g. abnormal coupling of between the
+      joints/DOFs, passive workspace and active workspace, multiple joint DOF/stiffness) will be
+      analyzed to describe and characterize the arm impairment. The physiological data will also
+      be compared to the therapist-rated data (WMFT, ARAT, CAHAI, FMUE) to investigate their
+      relationship. To determine the proper physiological measurements in rehabilitation of stroke
+      and relate them to functional performances, correlation analysis and principal component
+      analysis will be conducted as initial steps to find which physiological variables have high
+      correlations with functional measures and cluster together as similar indicators. Those
+      potential indicators will be filters for a data reduction procedure. The selected data will
+      then be used in a multiple regression analysis to predict functional outcomes at the
+      activity level (assessed by WMFT, ARAT, and CAHAI) and participation level (assessed by the
+      datalogger) with adjusted person information and environmental factors serving as
+      categorical variables. Rasch analysis will be used to evaluate the item difficulty hierarchy
+      and item fit to link subject's functional ability level with specific functional tasks,
+      which allows us to find the clinical potential thresholds/cut-off points if there is a
+      consistent pattern between exists the physiological data and functional measures.
+      Furthermore, an ICF model will be evaluated using structural equation modeling, which can
+      test a set of regression equations simultaneously and exam the relationship among the
+      impairment ability, participation variables with the personal and environmental factors
+      taken into consideration. Two months after the 22 sessions training, the subject will be
+      asked to return to our lab for a follow-up evaluation. The same evaluations as described
+      above will be done in this session. The subjects, who participated in the training, will
+      fill out a form, which may be sent to them by email, about his/her health status and injury
+      history three month after the training period to evaluated changes in performance in the
+      hemiparetic arm.
+ELIGIBILITY CRITERIA:
+      Inclusion Criteria:
+
+          -  First focal unilateral lesion, ischemic or hemorrhagic
+
+          -  Had a stroke less than a month prior to enrollment
+
+          -  Rated between stages 1-4 on the Chedoke McMaster Stroke Assessment Impairment
+             Inventory: Stage of Recovery of the Arm
+
+          -  Rated between stages 1-4 on the Chedoke McMaster Stroke Assessment Impairment
+             Inventory: Stage of Recovery of the Hand
+
+        Exclusion Criteria:
+
+          -  Apraxia
+
+          -  Subjects who have other unrelated or musculoskeletal injuries

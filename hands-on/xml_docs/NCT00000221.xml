@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204749">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000221</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-06969-3</org_study_id>
+    <secondary_id>R01-06969-3</secondary_id>
+    <nct_id>NCT00000221</nct_id>
+  </id_info>
+  <brief_title>Alternate-Day Buprenorphine Administration. Phase I - 3</brief_title>
+  <official_title>Alternate-Day Buprenorphine Administration. Phase I</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Vermont</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine if two times a subject's daily maintenance dose
+      will hold for 48 hours without changes in agonist and antagonist effects.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1992</start_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Crossover Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Drug use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Opioid withdrawal</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Opioid agonist effects</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dose identification</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pupil diameter</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Opioid-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Buprenorphine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Please contact site for information.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>28 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Warren Bickel, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Vermont</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Treatment Research Center</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Amass L, Bickel WK, Higgins ST, Badger GJ. Alternate-day dosing during buprenorphine treatment of opioid dependence. Life Sci. 1994;54(17):1215-28.</citation>
+    <PMID>8164503</PMID>
+  </reference>
+  <verification_date>November 1993</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Buprenorphine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

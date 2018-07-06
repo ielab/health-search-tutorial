@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204399">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000578</url>
+  </required_header>
+  <id_info>
+    <org_study_id>216</org_study_id>
+    <nct_id>NCT00000578</nct_id>
+  </id_info>
+  <brief_title>NHLBI/NICHD Collaborative Studies of Asthma in Pregnancy</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To conduct a collaborative program of research on asthma and pregnancy consisting of two
+      studies: the Asthma in Pregnancy Study (APS) was an observational study to evaluate
+      relationships between asthma severity and treatment programs and perinatal outcome, and the
+      Asthma Therapy in Pregnancy Trial (ATPT) was a randomized clinical trial of inhaled
+      beclomethasone versus theophylline in the treatment of moderate asthma during pregnancy.
+      Both studies were conducted in the Maternal-Fetal Medicine Unit (MFMU) Network, an ongoing
+      group of participating obstetric centers supported by the National Institute of Child Health
+      and Human Development. Studies were co-funded by the NHLBI.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Asthma is one of the most common illnesses that complicates pregnancy. Asthma complicates at
+      least 4 percent of all pregnancies; however, because at least 10 percent of the population
+      appears to have nonspecific airway hyper-responsiveness, the true prevalence may be much
+      higher.
+
+      Asthma can produce serious maternal and fetal complications. A number of investigators have
+      reported an increased incidence of pre-eclampsia, gestational hypertension, hyperemesis
+      gravidarum, vaginal hemorrhage, toxemia, and induced and complicated labor. Fetal
+      complications include increased risk of perinatal mortality, prematurity, low birth weight,
+      and neonatal hypoxia. In contrast, several studies have failed to confirm some or all of
+      these previous observations. Patients with severe asthma may have the greatest risk for
+      complications during pregnancy, in addition to the risk of maternal morbidity from the
+      asthma. For example, it has been shown that reduced pulmonary function in asthmatic women is
+      associated with an increased likelihood of intrauterine growth retardation. On the other
+      hand, studies in which asthma was successfully controlled have resulted in pregnancy
+      outcomes similar to the general population.
+
+      The mechanisms by which asthma may have adverse perinatal effects are not well known. Poor
+      control of asthma leading to chronic or episodic fetal hypoxia is thought to be important.
+      Medications used in asthma treatment may also play a role, although the limited data
+      suggests minimal or no effects. In addition, it is possible that extrapulmonary autonomic
+      nervous system abnormalities, such as uterine muscle hyperreactivity, could contribute to
+      pre-term delivery or gestational hypertension independent of asthma control or therapy.
+
+      Unfortunately, previous studies have been limited by relatively small numbers. Few studies
+      have controlled for factors known to affect infant birth weight, such as maternal race,
+      height, weight, parity, nutrition, and cigarette smoking. Particularly, race may be an
+      important contributing factor in assessing the relationship between asthma and pregnancy
+      outcomes, since Blacks of both sexes are twice as likely to be hospitalized from asthma and
+      three times as likely to die from asthma as whites.
+
+      Under the auspices of the National Asthma Education Program (NAEP), a Working Group on
+      Asthma and Pregnancy developed a statement regarding the treatment of asthma during
+      pregnancy. In its deliberations, the Working Group noted the paucity of data on the relative
+      contributions of biological, social, and environmental factors on asthma in pregnant women,
+      as well as the lack of data on the efficacy and safety of commonly used asthma therapies in
+      pregnancy.
+
+      DESIGN NARRATIVE:
+
+      The Asthma in Pregnancy Study evaluated the relationship between maternal asthma severity
+      and control. The primary objective was to determine the frequency of preterm delivery &lt;32
+      weeks among moderate and severe asthmatics compared to non-asthmatic controls. The incidence
+      of small-for-gestational-age infants in women with mild and moderate asthma was a secondary
+      outcome. Other independent variables included type of medications used, race, socioeconomic
+      status, height, weight, parity, nutrition, smoking, other substance abuse, and prenatal
+      care. Secondary outcomes included birth weight and prematurity, maternal pre-eclampsia,
+      gestational hypertension, and asthma morbidity. The study began February 1,1995 and patient
+      recruitment continued for 46 months or less.
+
+      The Asthma Therapy in Pregnancy Trial was a randomized, double-blind, controlled clinical
+      trial which began recruitment in November, 1996, with enrollment lasting 44 months. Patients
+      were randomized to receive either active oral theophylline and a placebo beclomethasone
+      inhaler or an active beclomethasone inhaler and placebo oral theophylline. Albuterol was
+      used for relief of symptoms. The primary outcome measure was incidence of Emergency
+      Department visits or hospitalizations during pregnancy. Secondary outcome measures included
+      birth weight, incidence of small-for-gestational-age infants, gestational hypertension,
+      pre-eclampsia, lung function, daily peak flow, and quality of life. Patients were seen
+      monthly for measurements of fetal growth, morbidity, and lung function. Extensive interviews
+      were conducted with each patient at the first prenatal visit, in the third trimester, and
+      shortly before birth.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1994</start_date>
+  <completion_date>October 2000</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Asthma</condition>
+  <condition>Lung Diseases</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>theophylline</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>beclomethasone</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Asthmatic pregnant women.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Wright LL, McNellis D. National Institute of Child Health and Human Development (NICHD)-sponsored Perinatal Research Networks. Semin Perinatol. 1995 Apr;19(2):112-23. Review.</citation>
+    <PMID>7604302</PMID>
+  </reference>
+  <reference>
+    <citation>Dombrowski MP, Schatz M, Wise R, Momirova V, Landon M, Mabie W, Newman RB, McNellis D, Hauth JC, Lindheimer M, Caritis SN, Leveno KJ, Meis P, Miodovnik M, Wapner RJ, Paul RH, Varner MW, O'Sullivan MJ, Thurnau GR, Conway DL; National Institute of Child Health and Human Development Maternal-Fetal Medicine Units Network and the National Heart, Lung, and Blood Institute. Asthma during pregnancy. Obstet Gynecol. 2004 Jan;103(1):5-12.</citation>
+    <PMID>14704237</PMID>
+  </reference>
+  <reference>
+    <citation>Dombrowski MP, Schatz M, Wise R, Thom EA, Landon M, Mabie W, Newman RB, McNellis D, Hauth JC, Lindheimer M, Caritis SN, Leveno KJ, Meis P, Miodovnik M, Wapner RJ, Varner MW, O'Sullivan MJ, Conway DL; National Institute of Child Health and Human Development Maternal-Fetal Medicine Units Network; National Heart, Lung, and Blood Institute. Randomized trial of inhaled beclomethasone dipropionate versus theophylline for moderate asthma during pregnancy. Am J Obstet Gynecol. 2004 Mar;190(3):737-44.</citation>
+    <PMID>15042007</PMID>
+  </reference>
+  <verification_date>February 2005</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Beclomethasone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

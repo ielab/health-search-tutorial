@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204191">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000789</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 240</org_study_id>
+    <secondary_id>11217</secondary_id>
+    <nct_id>NCT00000789</nct_id>
+  </id_info>
+  <brief_title>A Randomized, Comparative Trial of Zidovudine (AZT) Versus 2',3'-Didehydro-3'-Deoxythymidine (Stavudine; d4T) in Children With HIV Infection</brief_title>
+  <official_title>A Randomized, Comparative Trial of Zidovudine (AZT) Versus 2',3'-Didehydro-3'-Deoxythymidine (Stavudine; d4T) in Children With HIV Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Glaxo Wellcome</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      PRIMARY: To compare the relative safety and tolerance of oral zidovudine (AZT) versus oral
+      stavudine (d4T) in symptomatic HIV-infected children.
+
+      SECONDARY: To compare the clinical, virologic, and immunologic responses between the two
+      treatment groups, and to obtain pharmacokinetic data for both drugs.
+
+      At present, AZT is considered the drug of choice for initial treatment of most children with
+      HIV infection, although disease progression or drug intolerance is associated with its
+      long-term use. In preliminary studies in children, d4T, another HIV inhibitor, has been well
+      tolerated, although an optimum dose has not been determined.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      At present, AZT is considered the drug of choice for initial treatment of most children with
+      HIV infection, although disease progression or drug intolerance is associated with its
+      long-term use. In preliminary studies in children, d4T, another HIV inhibitor, has been well
+      tolerated, although an optimum dose has not been determined.
+
+      Patients are randomized to receive either oral AZT or oral d4T. Treatment continues until
+      the last patient enrolled has received 52 weeks of therapy, or until the study is
+      terminated.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">July 1998</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Pharmacokinetics Study, Intervention Model: Parallel Assignment, Primary Purpose: Treatment</study_design>
+  <enrollment>230</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Stavudine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zidovudine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Recommended:
+
+          -  PCP prophylaxis.
+
+        Allowed:
+
+          -  Immunoglobulin.
+
+          -  Erythropoietin, G-CSF, and GM-CSF.
+
+          -  Corticosteroids.
+
+          -  Ethionamide or isoniazid for TB if no alternative is available.
+
+          -  Pyridoxine (up to 50 mg/day) as vitamin supplement.
+
+        Patients must have:
+
+          -  Symptomatic HIV infection.
+
+          -  No more than 6 weeks of prior antiretroviral or immunomodulator therapy (other than
+             steroids and IVIG).
+
+          -  Consent of parent or guardian.
+
+        NOTE:
+
+          -  Coenrollment on another ACTG protocol not involving antiretroviral therapy is
+             permitted.
+
+        Prior Medication:
+
+        Allowed:
+
+          -  Maternal immunomodulator or antiretroviral therapy (including during pregnancy).
+
+          -  Antiretroviral therapy prior to 2 months.
+
+          -  Up to 6 weeks of prior antiretroviral therapy or specific immunomodulator therapy
+             (other than corticosteroids and IVIG).
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Current grade 3 or worse neuropathy / lower motor neuropathy.
+
+          -  Other grade 3 or worse clinical or laboratory toxicities.
+
+          -  Known intolerance to either AZT or d4T.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Chemotherapy for active malignancy.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of grade 3 or worse neuropathy/lower motor neuropathy.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  More than 6 weeks of prior antiretroviral or immunomodulator therapy.
+
+          -  Antiretroviral or immunomodulator therapy within 7 days prior to study entry. Ongoing
+             drug or alcohol abuse.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>3 Months</minimum_age>
+    <maximum_age>6 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kline M</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Van Dyke R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Long Beach Memorial Med. Ctr., Miller Children's Hosp.</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA-Los Angeles/Brazil AIDS Consortium (LABAC) CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Usc La Nichd Crs</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp. &amp; Research Ctr. Oakland, Ped. Clinical Research Ctr. &amp; Research Lab.</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSD Maternal, Child, and Adolescent HIV CRS</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Pediatric AIDS CRS</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harbor - UCLA Med. Ctr. - Dept. of Peds., Div. of Infectious Diseases</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Colorado Denver NICHD CRS</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Connecticut Health Ctr., Dept. of Ped.</name>
+      <address>
+        <city>Farmington</city>
+        <state>Connecticut</state>
+        <zip>06032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale Univ. School of Medicine - Dept. of Peds., Div. of Infectious Disease</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's National Med. Ctr., ACTU</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Howard Univ. Washington DC NICHD CRS</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Florida Jacksonville NICHD CRS</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Miami Ped. Perinatal HIV/AIDS CRS</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33161</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory Univ. School of Medicine, Dept. of Peds., Div. of Infectious Diseases</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30306</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chicago Children's CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook County Hosp.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Chicago - Dept. of Peds., Div. of Infectious Disease</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Illinois College of Medicine at Chicago, Dept. of Peds.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane/LSU Maternal/Child CRS</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Maryland Med. Ctr., Div. of Ped. Immunology &amp; Rheumatology</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BMC, Div. of Ped Infectious Diseases</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HMS - Children's Hosp. Boston, Div. of Infectious Diseases</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baystate Health, Baystate Med. Ctr.</name>
+      <address>
+        <city>Springfield</city>
+        <state>Massachusetts</state>
+        <zip>01199</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>WNE Maternal Pediatric Adolescent AIDS CRS</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Michigan NICHD CRS</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cooper Univ. Hosp.</name>
+      <address>
+        <city>Camden</city>
+        <state>New Jersey</state>
+        <zip>08103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UMDNJ - Robert Wood Johnson</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's Hosp. &amp; Med. Ctr. of New Jersey</name>
+      <address>
+        <city>Paterson</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital at Albany Medical Center, Dept. of Peds.</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx-Lebanon Hosp. IMPAACT CRS</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10457</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Downstate Med. Ctr., Children's Hosp. at Downstate NICHD CRS</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore-Long Island Jewish Health System, Dept. of Peds.</name>
+      <address>
+        <city>Great Neck</city>
+        <state>New York</state>
+        <zip>11021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Schneider Children's Hosp., Div. of Infectious Diseases</name>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia IMPAACT CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harlem Hosp. Ctr. NY NICHD CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Incarnation Children's Ctr.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Metropolitan Hosp. NICHD CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Med. Ctr., Dept. of Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Rochester ACTG CRS</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Stony Brook NICHD CRS</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Med. Univ., Dept. of Peds.</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UNC at Chapel Hill School of Medicine - Dept. of Peds., Div. of Immunology &amp; Infectious Diseases</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DUMC Ped. CRS</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Christopher's Hosp. for Children</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Hosp. of Philadelphia IMPAACT CRS</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Med. Univ. of South Carolina, Div. of Ped. Infectious Diseases</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Jude/UTHSC CRS</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Med. Ctr. Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Children's Hosp. CRS</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UW School of Medicine - CHRMC</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. Hosp. Ramón Ruiz Arnau, Dept. of Peds.</name>
+      <address>
+        <city>Bayamon</city>
+        <zip>00956</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Juan City Hosp. PR NICHD CRS</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00936</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Puerto Rico Ped. HIV/AIDS Research Program CRS</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00936</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=4</url>
+    <description>Click here for more information about Zidovudine</description>
+  </link>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=43</url>
+    <description>Click here for more information about Stavudine</description>
+  </link>
+  <reference>
+    <citation>Kline MW, Fletcher CV, Federici ME, Harris AT, Evans KD, Rutkiewicz VL, Shearer WT, Dunkle LM. Combination therapy with stavudine and didanosine in children with advanced human immunodeficiency virus infection: pharmacokinetic properties, safety, and immunologic and virologic effects. Pediatrics. 1996 Jun;97(6 Pt 1):886-90.</citation>
+    <PMID>8657531</PMID>
+  </reference>
+  <reference>
+    <citation>McKinney RE Jr. Ongoing and future trials of antiretroviral therapy in the pediatric AIDS clinical trials group (PACTG). Conf Retroviruses Opportunistic Infect. 1996 Jan 28-Feb 1;3rd:173</citation>
+  </reference>
+  <reference>
+    <citation>Kline MW, Van Dyke RB, Lindsey JC, Gwynne M, Culnane M, McKinney RE Jr, Nichols S, Mitchell WG, Yogev R, Hutcheon N. A randomized comparative trial of stavudine (d4T) versus zidovudine (ZDV, AZT) in children with human immunodeficiency virus infection. AIDS Clinical Trials Group 240 Team. Pediatrics. 1998 Feb;101(2):214-20.</citation>
+    <PMID>9445494</PMID>
+  </reference>
+  <reference>
+    <citation>Perrier M, Schwarz T, Gonzalez O, Brounts S. Squamous cell carcinoma invading the right temporomandibular joint in a Belgian mare. Can Vet J. 2010 Aug;51(8):885-7.</citation>
+    <PMID>21037891</PMID>
+  </reference>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 30, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Zidovudine</keyword>
+  <keyword>Stavudine</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Stavudine</mesh_term>
+    <mesh_term>Zidovudine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204521">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000456</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAAANT09568</org_study_id>
+    <secondary_id>R01AA009568</secondary_id>
+    <nct_id>NCT00000456</nct_id>
+  </id_info>
+  <brief_title>Behavioral Therapy Plus Naltrexone for Alcoholism</brief_title>
+  <official_title>Comparison of Cognitive Behavioral Therapy and Motivational Enhancement Therapy Plus Naltrexone for Alcoholism</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of South Carolina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medical University of South Carolina</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will compare cognitive behavioral therapy with a time-limited motivational
+      enhancement therapy to which naltrexone (Revia) or placebo medication is added. In this
+      randomized clinical trial, 160 alcohol-dependent outpatients, after 5 days of abstinence,
+      will receive one of the two psychosocial therapies and either naltrexone (Revia) or placebo
+      for a 12-week treatment period. Abstinence rates, alcohol use, and time to alcohol relapse
+      will be evaluated in all four groups along with measures of alcohol craving, biological
+      measures of alcohol consumption, drinking consequences, changes in self-confidence for
+      avoiding alcohol, and medication compliance. All study participants will be assessed for
+      measures of outcome variables at 3 and 6 months after completing the treatment protocol.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1992</start_date>
+  <completion_date type="Actual">August 2002</completion_date>
+  <primary_completion_date type="Actual">August 2002</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">160</enrollment>
+  <condition>Alcoholism</condition>
+  <condition>Alcohol Dependence</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>naltrexone (Revia)</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>cognitive behavior therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>motivational enhancement therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets criteria for alcohol dependence, has not had more than one previous inpatient
+             medical detoxification.
+
+          -  Consumes on average five standard drinks per day.
+
+          -  Able to maintain sobriety for five days (with or without the aid of detoxification
+             medications) as determined by self-report, collateral report, and breathalyzer
+             measurements.
+
+          -  Able to read and understand questionnaires and informed consent.
+
+          -  Lives within 50 miles of the study site.
+
+        Exclusion Criteria:
+
+          -  Currently meets criteria for any other psychoactive substance dependency disorder.
+
+          -  Ever abused opiates.
+
+          -  Used psychoactive substance abuse, except marijuana, within the last 30 days as
+             evidenced by patient report, collateral report, and urine drug screen.
+
+          -  Meets criteria for disorders of major depression, panic disorder,
+             obsessive-compulsive disorder, post-traumatic stress syndrome, bipolar affective
+             disorder, schizophrenia, or any other psychotic disorder or organic mental disorder.
+
+          -  Meets criteria for dissociate disorder or eating disorders.
+
+          -  Has current suicidal or homicidal ideation.
+
+          -  Need for maintenance or acute treatment with any psychoactive medication including
+             antiseizure medications.
+
+          -  Current use of disulfiram (Antabuse).
+
+          -  Clinically significant medical problems that would impair participation or limit
+             medication ingestion.
+
+          -  Hepatocellular disease.
+
+          -  Sexually active females of child bearing potential who are pregnant, nursing, or who
+             are not using a reliable form of birth control.
+
+          -  Have current charges pending for a violent crime.
+
+          -  Does not have a stable living situation and a reliable source of collateral
+             reporting.
+
+          -  Has taken an opiate antagonist drug in the last month.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ray Anton, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of South Carolina</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Medical Univ. of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Anton RF, Moak DH, Latham P, Waid LR, Myrick H, Voronin K, Thevos A, Wang W, Woolson R. Naltrexone combined with either cognitive behavioral or motivational enhancement therapy for alcohol dependence. J Clin Psychopharmacol. 2005 Aug;25(4):349-57.</citation>
+    <PMID>16012278</PMID>
+  </results_reference>
+  <verification_date>October 2010</verification_date>
+  <lastchanged_date>October 1, 2010</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Alcoholism</keyword>
+  <keyword>Alcohol Dependence</keyword>
+  <keyword>Naltrexone</keyword>
+  <keyword>Cognitive Behavioral Therapy</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Alcoholism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Naltrexone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

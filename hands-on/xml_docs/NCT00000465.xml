@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204512">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000465</url>
+  </required_header>
+  <id_info>
+    <org_study_id>54</org_study_id>
+    <nct_id>NCT00000465</nct_id>
+  </id_info>
+  <brief_title>Emory Angioplasty Versus Surgery Trial (EAST)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare the efficacy of coronary artery bypass graft (CABG) surgery with percutaneous
+      transluminal coronary angioplasty (PTCA) in patients with multiple vessel coronary heart
+      disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      PTCA is widely practiced as the procedure of choice for revascularization of the myocardium
+      in patients with single-vessel disease who are deemed to need intervention and is probably
+      more widely applied than surgery would be in the same group of patients. No study has shown
+      improved survival by intervention in such patients. The early natural history study by
+      Oberman showed survival experience of patients with single-vessel disease, including the
+      anterior descending, to resemble more closely patients with no coronary artery disease than
+      those with multivessel disease. Quality of life studies including the CASS randomized study,
+      which included 27 percent single-vessel disease patients, showed improved exercise tolerance
+      and less need for medication in patients who received PTCA For single-vessel disease.
+      Balloon angioplasty in single-vessel disease thus appears justified for the treatment of
+      angina pectoris.
+
+      In multivessel disease the CASS randomized trial has shown an improved survival at seven
+      years in the subset of patients with three-vessel disease and impaired ventricular function.
+      However, seven years may prove to be the point of widest separation between the medical and
+      surgical survival curves, based on the experience of the VA study which has presented
+      results to 11 years showing convergence of survival experience. Data from the Montreal Heart
+      Institute also indicate accelerated deterioration of venous grafts five to seven years after
+      surgery. The late failure of grafts is a potent argument for delaying CABG as long as
+      possible in the patients with multivessel disease. Should PTCA prove to be only a delaying
+      action in multivessel disease patients, a delay of several years until the first CABG
+      operation would confer an obvious advantage, even if repeat PTCA's were required. Repeat
+      CABG may carry an increased risk and presumably the possibility of inadequate
+      revascularization as autologous graft material is used up.
+
+      As long as treatment for coronary artery disease is only palliative, management for the
+      individual patient requires a long-term (a lifetime) strategy, beginning with medical
+      management. PTCA could occupy an intermediate position in the time line of management of
+      multivessel disease patients if its relative efficiency in providing relief of ischemia and
+      ability to avoid or delay CABG were known. Most centers performing PTCA now have expanded
+      the indications for the procedure to patients with multivessel disease. However, its
+      efficacy in those patients has not been proven. Although data from the NHLBI PTCA Registry
+      do include patients with multivessel disease, most of those patients underwent only single
+      PTCA procedures even though they may have had stenoses in other vessels. Hence, a number of
+      questions must be raised concerning the usefulness of PTCA in patients with multivessel
+      disease.
+
+      DESIGN NARRATIVE:
+
+      Randomized, single-center. A total of 198 patients were randomized to the PTCA group and 194
+      to the CABG group. As initial treatment, one patient in the CABG group underwent angioplasty
+      and two patients in the PTCA group underwent surgery, but the groups were followed according
+      to an intention-to-treat analysis. Randomization was performed on the basis of four
+      angiographic strata. Data were collected at baseline, and the patients were contacted every
+      six months for follow-up information. Coronary arteriography and thallium stress scanning
+      were performed at one and three years. All patients were followed for the duration of the
+      trial. Repeat angiographic studies were performed in 87 percent of the eligible patients at
+      one year and in 76 percent at three years. Thallium scans were obtained in 88 percent of the
+      patients at one year and in 77 percent at three years. The primary endpoint was a composite
+      of death, Q-wave myocardial infarction within the previous three years, and detection of a
+      large ischemic defect on thallium scanning at three years. Secondary endpoints involved the
+      degree of revascularization at one and three years, ventricular function, exercise
+      performance, the need for subsequent revascularization procedures, the quality of life, and
+      costs. All patients admitted to Emory University Hospital and Crawford Long Memorial
+      Hospital for cardiac catheterization, whether entered into the study or not, were entered
+      into a study registry as were patients who were referred for a revascularization procedure
+      but who had their initial catheterization performed elsewhere. Recruitment ended in April
+      1990. The trial has been extended through August 1997 to allow a minimum of eight years and
+      a maximum of ten years of followup for the registry patients as well as for the main cohort
+      of randomized patients. Telephone contact is established annually with study participants in
+      order to determine rates of survival, rehospitalization, repeat revascularization
+      procedures, and functional status. The justification for the long-term followup is the
+      evidence that CABG begins to increase its failure rates between five and ten years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1987</start_date>
+  <completion_date>August 1998</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>angioplasty, transluminal, percutaneous coronary</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>coronary artery bypass</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with multivessel coronary artery disease whose symptoms were refractory to
+        medical treatment.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>King SB 3rd, Lembo NJ, Weintraub WS, Kosinski AS, Barnhart HX, Kutner MH, Alazraki NP, Guyton RA, Zhao XQ. A randomized trial comparing coronary angioplasty with coronary bypass surgery. Emory Angioplasty versus Surgery Trial (EAST). N Engl J Med. 1994 Oct 20;331(16):1044-50.</citation>
+    <PMID>8090163</PMID>
+  </reference>
+  <reference>
+    <citation>King SB 3rd, Lembo NJ, Weintraub WS, Kosinski AS, Barnhart HX, Kutner MH. Emory Angioplasty Versus Surgery Trial (EAST): design, recruitment, and baseline description of patients. Am J Cardiol. 1995 Mar 23;75(9):42C-59C.</citation>
+    <PMID>7892822</PMID>
+  </reference>
+  <reference>
+    <citation>Zhao XQ, Brown BG, Stewart DK, Hillger LA, Barnhart HX, Kosinski AS, Weintraub WS, King SB 3rd. Effectiveness of revascularization in the Emory angioplasty versus surgery trial. A randomized comparison of coronary angioplasty with bypass surgery. Circulation. 1996 Jun 1;93(11):1954-62.</citation>
+    <PMID>8640968</PMID>
+  </reference>
+  <reference>
+    <citation>Weintraub WS, Mauldin PD, Becker E, Kosinski AS, King SB 3rd. A comparison of the costs of and quality of life after coronary angioplasty or coronary surgery for multivessel coronary artery disease. Results from the Emory Angioplasty Versus Surgery Trial (EAST). Circulation. 1995 Nov 15;92(10):2831-40.</citation>
+    <PMID>7586249</PMID>
+  </reference>
+  <reference>
+    <citation>King SB 3rd, Barnhart HX, Kosinski AS, Weintraub WS, Lembo NJ, Petersen JY, Douglas JS Jr, Jones EL, Craver JM, Guyton RA, Morris DC, Liberman HA. Angioplasty or surgery for multivessel coronary artery disease: comparison of eligible registry and randomized patients in the EAST trial and influence of treatment selection on outcomes. Emory Angioplasty versus Surgery Trial Investigators. Am J Cardiol. 1997 Jun 1;79(11):1453-9.</citation>
+    <PMID>9185632</PMID>
+  </reference>
+  <reference>
+    <citation>Hodakowski GT, Craver JM, Jones EL, King SB 3rd, Guyton RA. Clinical significance of perioperative Q-wave myocardial infarction: the Emory Angioplasty versus Surgery Trial. J Thorac Cardiovasc Surg. 1996 Dec;112(6):1447-53; discussion 1453-4.</citation>
+    <PMID>8975835</PMID>
+  </reference>
+  <reference>
+    <citation>King SB 3rd. The impact of performing a clinical trial on patient outcomes: lessons from the Emory Angioplasty vs. Surgery Trial. Trans Am Clin Climatol Assoc. 1996;107:68-77; discussion 77-8.</citation>
+    <PMID>8725561</PMID>
+  </reference>
+  <reference>
+    <citation>Alazraki NP, Krawczynska EG, Kosinski AS, DePuey EG 3rd, Ziffer JA, Taylor AT Jr, Pettigrew RI, Vansant JP, Shaw LJ, Weintraub WS, King SB 3rd. Prognostic value of thallium-201 single-photon emission computed tomography for patients with multivessel coronary artery disease after revascularization (the Emory Angioplasty versus Surgery Trial [EAST]). Am J Cardiol. 1999 Dec 15;84(12):1369-74.</citation>
+    <PMID>10606106</PMID>
+  </reference>
+  <reference>
+    <citation>King SB 3rd, Kosinski AS, Guyton RA, Lembo NJ, Weintraub WS. Eight-year mortality in the Emory Angioplasty versus Surgery Trial (EAST). J Am Coll Cardiol. 2000 Apr;35(5):1116-21.</citation>
+    <PMID>10758949</PMID>
+  </reference>
+  <reference>
+    <citation>King SB 3rd. The Emory Angioplasty vs Surgery Trial (EAST). Semin Interv Cardiol. 1999 Dec;4(4):185-90.</citation>
+    <PMID>10738351</PMID>
+  </reference>
+  <reference>
+    <citation>Weintraub WS, Becker ER, Mauldin PD, Culler S, Kosinski AS, King SB 3rd. Costs of revascularization over eight years in the randomized and eligible patients in the Emory Angioplasty versus Surgery Trial (EAST). Am J Cardiol. 2000 Oct 1;86(7):747-52.</citation>
+    <PMID>11018194</PMID>
+  </reference>
+  <reference>
+    <citation>Becker ER, Mauldin PD, Culler SD, Kosinski AS, Weintraub WS, King SB. Applying the resource-based relative value scale to the Emory angioplasty versus surgery trial. Am J Cardiol. 2000 Mar 15;85(6):685-91.</citation>
+    <PMID>12004793</PMID>
+  </reference>
+  <verification_date>September 2002</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

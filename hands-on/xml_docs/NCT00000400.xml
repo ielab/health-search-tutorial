@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204576">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000400</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P50 AR44855 NIAMS-023</org_study_id>
+    <secondary_id>P50AR044855</secondary_id>
+    <nct_id>NCT00000400</nct_id>
+  </id_info>
+  <brief_title>Alendronate and/or Parathyroid Hormone for Osteoporosis</brief_title>
+  <official_title>Bone Formation-Resorption Coupling and Osteoporosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study looks at the effects of two medications, alendronate and parathyroid hormone, on
+      bone mass and on bone formation and bone breakdown in women with osteoporosis. We will
+      randomly select postmenopausal women who have osteoporosis to receive laboratory-produced
+      human parathyroid hormone (hPTH), or alendronate, or both for 2.5 years. Study participants
+      will return to the study center periodically to have their bone mass measured and to give
+      blood and urine samples for tests of bone formation and breakdown and for other laboratory
+      tests. Those who complete the study are eligible for one or two 12 month extension studies.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, prospective, open-label study in which osteoporotic postmenopausal
+      women self-administer synthetic hPTH-(1-34), alendronate, or both, every day for 2.5 years.
+      Participants initially come to Massachusetts General Hospital once a month, and subsequently
+      once every 3-6 months, for measurements of serum and urine indices of bone formation and
+      resorption, serum and urine toxicity tests, and DXA/QCT measurements of bone mass. One-third
+      of the participants take hPTH-(1-34) daily, one-third take alendronate once daily, and
+      one-third take both daily (Phase A, months 0-30).
+
+      Participants who complete Phase A are eligible for a 12 month extension study (Phase B,
+      months 30-42), during which any alendronate treatment is continued without change and any
+      hPTH 1-34 treatment is stopped.
+
+      Participants who complete Phase B are eligible for a second 12 month extension study (Phase
+      C, months 42-54), during which any alendronate treatment is continued without change and
+      every participant takes hPTH 1-34.
+
+      During Phases B and C, these participants come to Massachusetts General Hospital once every
+      6 months for measurements of serum and urine indices of bone formation and resorption, serum
+      and urine toxicity tests, and DXA/QCT measurements of bone mass.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1999</start_date>
+  <completion_date type="Actual">June 2006</completion_date>
+  <primary_completion_date type="Actual">April 2006</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>change in spine bone mineral density</measure>
+    <time_frame>study months 30 (phase A), 42 (phase B), 54 (phase C)</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>change in hip bone mineral density</measure>
+    <time_frame>study months 30 (phase A), 42 (phase B), 54 (phase C)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in forearm bone mineral density</measure>
+    <time_frame>study months 30 (phase A), 42 (phase B), 54 (phase C)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in total body bone mineral</measure>
+    <time_frame>study months 30 (phase A), 42 (phase B), 54 (phase C)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in femoral shaft bone mineral density</measure>
+    <time_frame>study months 30 (phase A), 42 (phase B), 54 (phase C)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in serum PINP</measure>
+    <time_frame>study months 0-30 (phase A), 30-42 (phase B), 42-54 (phase C)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in serum osteocalcin</measure>
+    <time_frame>study months 0-30 (phase A), 30-42 (phase B), 42-54 (phase C)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in serum NTX</measure>
+    <time_frame>study months 0-30 (phase A), 30-42 (phase B), 42-54 (phase C)</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>incidence of hypercalcemia</measure>
+    <time_frame>study months 0-30 (phase A), 30-42 (phase B), 42-54 (phase C)</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>incidence of hypercalciuria</measure>
+    <time_frame>study months 0-30 (phase A), 30-42 (phase B), 42-54 (phase C)</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>incidence of symptoms</measure>
+    <time_frame>study months 0-30 (phase A), 30-42 (phase B), 42-54 (phase C)</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">176</enrollment>
+  <condition>Osteoporosis</condition>
+  <arm_group>
+    <arm_group_label>PTH</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Human parathyroid hormone [hPTH-(1-34)]</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ALN</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Alendronate</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PTH+ALN</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Human parathyroid hormone [hPTH-(1-34)] plus alendronate</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Human parathyroid hormone [hPTH-(1-34)]</intervention_name>
+    <description>37 mcg once daily by self-administered sc injection</description>
+    <arm_group_label>PTH</arm_group_label>
+    <arm_group_label>PTH+ALN</arm_group_label>
+    <other_name>teriparatide</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>alendronate</intervention_name>
+    <description>70 mg/week by oral route</description>
+    <arm_group_label>ALN</arm_group_label>
+    <arm_group_label>PTH+ALN</arm_group_label>
+    <other_name>Fosamax</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Lumbar spine or hip BMD T-score less than or equal to minus 2.0
+
+          -  Postmenopausal at least 5 years
+
+          -  Fully ambulatory
+
+          -  Able to give informed consent
+
+        Exclusion Criteria:
+
+          -  No concurrent illnesses that cause bone loss
+
+          -  No recent drug treatment for osteoporosis
+
+          -  No recent fracture
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert M. Neer, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mgh.harvard.edu</url>
+    <description>Click here for more information about this study.</description>
+  </link>
+  <verification_date>December 2013</verification_date>
+  <lastchanged_date>December 6, 2013</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Robert M. Neer, MD</investigator_full_name>
+    <investigator_title>Physician</investigator_title>
+  </responsible_party>
+  <keyword>Osteoporosis</keyword>
+  <keyword>Bone formation</keyword>
+  <keyword>Bone resorption</keyword>
+  <keyword>Parathyroid hormone (PTH)</keyword>
+  <keyword>Postmenopause</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Osteoporosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Alendronate</mesh_term>
+    <mesh_term>Hormones</mesh_term>
+    <mesh_term>Teriparatide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

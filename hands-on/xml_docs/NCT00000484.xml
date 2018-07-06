@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204493">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000484</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3</org_study_id>
+    <nct_id>NCT00000484</nct_id>
+  </id_info>
+  <brief_title>Treatment of Hypertension</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether the long-term treatment of essential hypertension without significant
+      target organ disease materially influenced mortality and/or cardiovascular renal morbidity.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      This grant-supported, cooperative, fixed-protocol clinical study was initiated in 1966 and
+      followed a cooperative study of the treatment of renal hypertension initiated in 1960 to
+      evaluate the relative efficacy of several recognized drug regimens for reduction of blood
+      pressure. Six centers (USPHS hospitals) and a coordinating center were involved in the
+      trial.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind, fixed sample. Three hundred and eighty nine eligible patients were
+      assigned to drug therapy consisting of chlorothiazide plus Rauwolfia serpentina or to
+      placebo.
+
+      The study completion date listed in this record was inferred from last publication listed in
+      the Citations section of this study record.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1966</start_date>
+  <completion_date type="Actual">January 1979</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>chlorothiazide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rauwolfia alkaloids</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, ages 21-55. Mild essential hypertension (diastolic blood pressure over 90
+        mm Hg.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony Damato</last_name>
+    <affiliation>USPHS Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Richard Thurm</last_name>
+    <affiliation>USPHS Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Christfried Urner</last_name>
+    <affiliation>USPHS Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Vaillancourt</last_name>
+    <affiliation>USPHS Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>J. Warbasse</last_name>
+    <affiliation>USPHS Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Wells</last_name>
+    <affiliation>USPHS Hospital</affiliation>
+  </overall_official>
+  <reference>
+    <citation>U.S. Public Health Service Hospitals Cooperative Study Group. Smith WM, et al: Intervention Trial in Mild Hypertension. Epidemiology and Control of Hypertension. Paul, O (Ed.), Symposia Specialists, Miami, l975, pp. 46l-483.</citation>
+  </reference>
+  <reference>
+    <citation>Smith WM. Mild essential hypertension: benefit of treatment: discussion. Ann N Y Acad Sci. 1978 Mar 30;304:74-80.</citation>
+    <PMID>360933</PMID>
+  </reference>
+  <reference>
+    <citation>Smith WM, Edlavitch SA, and Krushat WM: U.S. Public Health Service Hospitals Intervention Trial in Mild Hypertension. Hypertension, Determinants, Complications, and Intervention. Onesti G, and Klimt C, (Eds.), Grune &amp; Stratton, New York, l979, pp. 38l-399.</citation>
+  </reference>
+  <reference>
+    <citation>Smith WM: Hypertension--Effectiveness of Early Treatment in Preventing Sequellae. Proceedings of the Eisenhower Medical Center. Preventive Interventions in the Practice of Medicine, Spring, l979, pp. 8l-87.</citation>
+  </reference>
+  <reference>
+    <citation>Smith WM, Edlavitch SA, and Krushat WM: Prevention of Stroke in Mild Hypertension: Public Health Service Hospitals Trial. Perspectives in Cardiovascular Research, Vol. 4. Prophylactic Approach to Hypertensive Diseases, Yamori Y, Lovenberg W, and Freis ED, (Eds.), Raven Press, New York, l979, pp. 53-62.</citation>
+  </reference>
+  <verification_date>January 2000</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Chlorothiazide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

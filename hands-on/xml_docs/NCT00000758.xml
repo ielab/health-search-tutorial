@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204221">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000758</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 200</org_study_id>
+    <secondary_id>11176</secondary_id>
+    <nct_id>NCT00000758</nct_id>
+  </id_info>
+  <brief_title>A Phase III Randomized Trial of Topical Vaginal Fluorouracil (5-Fluorouracil, 5-FU) Maintenance Therapy Versus Observation After Standard Treatment for High-Grade Cervical Dysplasia in HIV-Infected Women</brief_title>
+  <official_title>A Phase III Randomized Trial of Topical Vaginal Fluorouracil (5-Fluorouracil, 5-FU) Maintenance Therapy Versus Observation After Standard Treatment for High-Grade Cervical Dysplasia in HIV-Infected Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the efficacy and safety of intravaginal fluorouracil administered as
+      prophylaxis in HIV-infected women who have received standard ablative therapy (surgery) for
+      high-grade cervical dysplasia (pre-cancer of the cervix; cervical intraepithelial
+      neoplasia). To correlate time to recurrence of cervical dysplasia with T-cell function.
+
+      Women with HIV infection are at greater risk for cervical dysplasia. Because of the
+      likelihood that untreated or recurrent cervical dysplasia may progress to invasive cancer,
+      there is an urgent need to develop appropriate therapies.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Women with HIV infection are at greater risk for cervical dysplasia. Because of the
+      likelihood that untreated or recurrent cervical dysplasia may progress to invasive cancer,
+      there is an urgent need to develop appropriate therapies.
+
+      Patients are randomized to receive either intravaginal fluorouracil or no treatment
+      (observation only). Fluorouracil cream is self-administered via applicator at biweekly
+      intervals for 6 months. Patients are evaluated for recurrent cervical dysplasia by cytology
+      and colposcopy with or without biopsy.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">April 1998</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Primary Purpose: Prevention</study_design>
+  <enrollment>158</enrollment>
+  <condition>HIV Infections</condition>
+  <condition>Cervix, Dysplasia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluorouracil</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  Antiretrovirals (AZT, ddI, ddC) and immunomodulators (interferon and interleukin).
+
+          -  Prophylaxis or treatment for opportunistic infections.
+
+          -  Vaginal antifungal agents or other indicated vaginal medications (although not
+             permitted on day of fluorouracil application).
+
+          -  Contraceptives.
+
+          -  Acyclovir (prophylaxis or treatment) in patients with a history of primary or
+             recurrent genital herpes.
+
+        Patients must have:
+
+          -  HIV infection.
+
+          -  Prior cervical dysplasia (grade II or III cervical intraepithelial neoplasia)
+             successfully treated with an ablative procedure within the past 12 weeks.
+
+          -  Patients less than 18 years of age must have consent of parent or guardian.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms and conditions are excluded:
+
+          -  Untreated or persistent vaginal or vulvar dysplasia.
+
+          -  Colposcopy or biopsy inconclusive or positive for dysplasia.
+
+          -  Active genital ulcerative disease such as syphilitic chancre or herpes ulcer.
+
+          -  Adenocarcinoma in situ.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Cytotoxic chemotherapy for malignancy.
+
+          -  High-dose steroids (&gt; 10 mg/day prednisone or its steroid equivalent).
+
+        Patients with the following prior conditions are excluded:
+
+          -  Malignancy requiring cytotoxic chemotherapy within the 3 months prior to study entry.
+
+          -  Prior hysterectomy.
+
+          -  History of allergic reaction or severe hypersensitivity to fluorouracil.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Fluorouracil (systemic or topical) within 3 months prior to study entry.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maiman M</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Watts DH</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Usc La Nichd Crs</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Miami AIDS CRS</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook County Hosp. CORE Ctr.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Chicago - Dept. of Peds., Div. of Infectious Disease</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane/LSU Maternal/Child CRS</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Adult AIDS CRS</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Med. Ctr., ACTG CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bmc Actg Crs</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Michigan NICHD CRS</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NJ Med. School CRS</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx-Lebanon Hosp. IMPAACT CRS</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10457</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY - Buffalo, Erie County Medical Ctr.</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Ctr.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Rochester ACTG CRS</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Med. Univ., Dept. of Peds.</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unc Aids Crs</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Cincinnati CRS</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UW School of Medicine - CHRMC</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Puerto Rico-AIDS CRS</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00936</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Juan City Hosp. PR NICHD CRS</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00936</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Robinson WR, Morris CB. Cervical neoplasia. Pathogenesis, diagnosis, and management. Hematol Oncol Clin North Am. 1996 Oct;10(5):1163-76. Review.</citation>
+    <PMID>8880203</PMID>
+  </reference>
+  <reference>
+    <citation>Maiman M, Watts DH, Andersen J. A phase three randomized trial of topical vaginal 5-fluorouracil maintenance therapy versus observation after standard treatment for high grade cervical dysplasia in HIV-infected women: ACTG 200. Conf Retroviruses Opportunistic Infect. 1999 Jan 31-Feb 4;6th:155 (abstract no 466)</citation>
+  </reference>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 30, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Fluorouracil</keyword>
+  <keyword>Cervix Dysplasia</keyword>
+  <keyword>Cervix Diseases</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cervical Intraepithelial Neoplasia</mesh_term>
+    <mesh_term>Uterine Cervical Dysplasia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Fluorouracil</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

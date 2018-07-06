@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204529">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000447</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAA-SCHMITZ-11216-04</org_study_id>
+    <secondary_id>R01AA011216</secondary_id>
+    <secondary_id>NIH Grant 5R01AA011216-04</secondary_id>
+    <nct_id>NCT00000447</nct_id>
+  </id_info>
+  <brief_title>Behavioral/Drug Therapy for Alcohol-Nicotine Dependence (Naltrexone/Nicotine Patch)</brief_title>
+  <official_title>Behavioral/Pharmacological Treatments for Alcohol-Nicotine Dependence</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Texas Health Science Center, Houston</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The University of Texas Health Science Center, Houston</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will develop a behavioral and drug relapse prevention program for individuals who
+      are dependent on both alcohol and tobacco. The study's goal is to show that individuals
+      receiving nicotine replacement therapy and naltrexone (Revia) with behavior therapy will
+      have higher rates of abstinence from both smoking and drinking than individuals who do not
+      receive the drug therapies. Individuals will be placed in a 12-week outpatient treatment
+      program with followup assessments 1, 3, and 6 months after treatment.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1998</start_date>
+  <completion_date type="Actual">May 2003</completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Factorial Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>200</enrollment>
+  <condition>Alcoholism</condition>
+  <condition>Smoking</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>naltrexone (Revia)</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>nicotine replacement patch</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets criteria for alcohol and nicotine dependence.
+
+          -  Individuals will be outpatients with alcohol and nicotine dependence who have
+             completed detoxification (medicated or nonmedicated) within the past 48-120 hours.
+
+          -  Smoking no less than 10 cigarettes/day and no greater than 50 cigarettes/day.
+
+          -  Motivated to quit smoking.
+
+          -  Willing and able to participate in the 12 week outpatient treatment.
+
+          -  Acceptable health.
+
+          -  Able to provide a collateral informant.
+
+          -  Willing to be followed for 6 months after treatment ends.
+
+          -  Willing and able to provide the names of three family members or friends to aid in
+             locating participants for follow-up.
+
+        Exclusion Criteria:
+
+          -  Current diagnosis of dependence on other substances except nicotine and alcohol.
+
+          -  Having moderately severe or severe alcohol withdrawal symptoms.
+
+          -  Recent (less than 48 hours) evidence of hazardous drinking (more than 2 drinks/day
+             for females; 3 drinks/day for males).
+
+          -  History of opioid abuse.
+
+          -  Recent use of cocaine.
+
+          -  Not desiring to quit smoking.
+
+          -  Recent past or current pharmacotherapy involving naltrexone or transdermal nicotine
+             systems.
+
+          -  History of psychosis.
+
+          -  Current suicidality, homicidally or psychiatric symptoms requiring other medications.
+
+          -  Presence of medical abnormalities that contraindicate naltrexone or nicotine
+             replacement therapy.
+
+          -  Current treatment with psychotropic medications.
+
+          -  Pregnancy or nursing for female patients. Inability or unwillingness to participate
+             in the 12-week outpatient treatment.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joy Schmitz</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Texas Health Science Center, Houston</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Department of Psychiatry and Behavioral Sciences, University of Texas Health Science Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2010</verification_date>
+  <lastchanged_date>September 30, 2010</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Naltrexone</mesh_term>
+    <mesh_term>Nicotine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

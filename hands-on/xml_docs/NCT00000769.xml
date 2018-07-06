@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204210">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000769</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 224</org_study_id>
+    <secondary_id>11201</secondary_id>
+    <nct_id>NCT00000769</nct_id>
+  </id_info>
+  <brief_title>A Phase I/II Study of Recombinant Interleukin-4 in AIDS and Kaposi's Sarcoma</brief_title>
+  <official_title>A Phase I/II Study of Recombinant Interleukin-4 in AIDS and Kaposi's Sarcoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the safety and tolerance of interleukin-4 (IL-4) in patients with AIDS-related
+      Kaposi's sarcoma. To determine the effects of IL-4 on tumor growth in patients with
+      AIDS-related Kaposi's sarcoma.
+
+      IL-4 exhibits a variety of beneficial effects on the immune system and is a potent inhibitor
+      of Kaposi's sarcoma cells in vitro.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      IL-4 exhibits a variety of beneficial effects on the immune system and is a potent inhibitor
+      of Kaposi's sarcoma cells in vitro.
+
+      Patients are stratified into two groups according to CD4 count (less than 100 cells/mm3 and
+      greater than or equal to 100 cells/mm3) and are enrolled in cohorts of four patients at each
+      of four dose levels of IL-4 per stratum. Within each stratum, if patients at a given dose
+      level have received at least 2 weeks of study therapy and no more than two patients
+      experienced grade 3 or 4 drug-related toxicity, dose escalation in subsequent patients may
+      begin. The MTD is defined as the dose at which 50 percent of patients develop grade 3 or
+      worse toxicity. Patients with CD4 count less than 500 cells/mm3 (per 12/30/94 amendment)
+      must be on antiretroviral therapy during study treatment.
+
+      PER AMENDMENT 11/20/95: Group I - enrollment is closed, the objective has been defined.
+      Group II - patients must have CD4 cells greater than or equal to 100/mm3 and less than
+      500/mm3.
+
+      PER AMENDMENT 11/20/95: All patients will receive antiretroviral therapy.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">April 1998</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <enrollment>48</enrollment>
+  <condition>Sarcoma, Kaposi</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Interleukin-4</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Required:
+
+          -  Antiretroviral therapy during study treatment only in patients with CD4 count &lt; 500
+             cells/mm3 (per 12/30/94 amendment).
+
+        Allowed:
+
+          -  G-CSF for a second occurrence of grade 3 or 4 neutropenia (per 12/30/94 amendment).
+
+          -  Nonsteroidal anti-inflammatory agents including acetaminophen for drug-related
+             fevers.
+
+          -  Systemic steroids for no more than 1 week in any 30-day period.
+
+          -  PCP prophylaxis with TMP/SMX, dapsone, or inhaled pentamidine, if patient has a
+             history of PCP or a CD4 count &lt; 250 cells/mm3.
+
+        Allowed only in patients with CD4 count &lt; 100 cells/mm3:
+
+          -  Maintenance doses of ganciclovir, pyrimethamine/sulfa and TMP/SMX for stable,
+             well-controlled opportunistic infections.
+
+          -  Non-myelosuppressive treatment IND medications.
+
+        Prior Medication: Required: PER AMENDMENT 11/20/95:
+
+          -  Stable dose of antiretroviral therapy required for at least 21 days prior to study
+             entry for all patients. (Changed from - Stable dose of antiretroviral therapy for at
+             least 21 days prior to study entry in patients with CD4 count &lt; 500 cells/mm3 (per
+             12/30/94 amendment).
+
+        Patients must have:
+
+          -  AIDS-related Kaposi's sarcoma.
+
+          -  PER AMENDMENT 11/20/95: CD4 lymphocyte count &gt;= 100 but &lt; 500 cells/mm3. (Changed
+             from - HIV infection.)
+
+          -  PER AMENDMENT 11/20/95: All Patients will receive antiretroviral therapy. (Changed
+             from - Current antiretroviral therapy IF CD4 count &lt; 500 cells/mm3 (per 12/30/94
+             amendment).)
+
+          -  No active opportunistic infections requiring induction therapy.
+
+          -  Consent of parent or guardian if less than 18 years of age.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Other active malignancies (except basal cell carcinoma of the skin and in situ
+             cervical cancer).
+
+          -  Alteration in mental status that may prevent compliance.
+
+          -  Cardiac functional capacity of Class II or worse OR regional wall abnormalities or
+             abnormal ejection fraction on two-dimensional echocardiogram, if performed.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Chemotherapy, interferons, or immune modulators for Kaposi's sarcoma.
+
+          -  Myelosuppressive agents such as induction doses of ganciclovir, Fansidar
+             (pyrimethamine/sulfadoxine), or any other investigational drugs (with the exception
+             of non-myelosuppressive treatment IND medications in specific patients).
+
+          -  GM-CSF or erythropoietin (except for a second grade 3/4 neutropenia or anemia).
+
+          -  G-CSF.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of myocardial infarction or significant arrhythmias.
+
+          -  History of symptomatic hypoglycemia.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Systemic therapy (including chemotherapy, interferons, and immune modulators) for
+             Kaposi's sarcoma within 4 weeks prior to study entry.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Miles S</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Scadden D</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCLA CARE Center CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Med. Ctr., ACTG CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital ACTG CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Miles SA, Mitsuyasu R, LaFleur F, Ryback M, Kasden P, Suckow C, Groopman J, Scadden D. Phase I/II trial of interleukin-4 in KS (ACTG 224). Int Conf AIDS. 1994 Aug 7-12;10(1):46 (abstract no 159B)</citation>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>April 27, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Sarcoma, Kaposi</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Interleukin-4</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Sarcoma</mesh_term>
+    <mesh_term>Sarcoma, Kaposi</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Interleukin-4</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

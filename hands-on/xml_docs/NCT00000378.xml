@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204598">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000378</url>
+  </required_header>
+  <id_info>
+    <org_study_id>#3105</org_study_id>
+    <secondary_id>R01MH055716</secondary_id>
+    <nct_id>NCT00000378</nct_id>
+  </id_info>
+  <brief_title>Antidepressant Treatment of Melancholia in Late Life</brief_title>
+  <official_title>Antidepressant Treatment of Melancholia in Late :Ife</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York State Psychiatric Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York State Psychiatric Institute</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the safety and effectiveness of a select serotonin
+      re-uptake inhibitor (SSRI, sertraline) and a tricyclic antidepressant (TCA, nortriptyline)
+      in outpatients over the age of 60 who have major depression.
+
+      SSRIs are effective in the treatment of major depression. However, there is also evidence
+      that SSRIs may be significantly less effective than TCAs for patients with late-life major
+      depression with melancholia. Since SSRIs seem to be easier to take than TCAs and are more
+      widely prescribed, it is important to determine which of these types of antidepressants
+      works best to treat these patients.
+
+      Patients will be assigned randomly to receive either sertraline (a SSRI) or nortriptyline (a
+      TCA) for 12 weeks. Patients will be monitored for symptoms, side effects, and quality of
+      life. If a patient responds to treatment, he/she will participate in a 6-month continuation
+      phase in which he/she will continue to receive the same medication.
+
+      An individual may be eligible for this study if he/she:
+
+      Has unipolar major depression (with some exceptions) and is over 60 years old.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To compare the efficacy and safety of a select serotonin re-uptake inhibitor (SSRI,
+      sertraline) and a tricyclic antidepressant (TCA, nortriptyline) in outpatients over the age
+      of 60 who meet Diagnostic and Statistical Manuel-IV criteria for unipolar major depression,
+      excluding patients who meet criteria for psychotic or atypical subtype. To test the
+      hypothesis that medication condition interacts with diagnostic subtype (melancholic vs
+      non-melancholic) in determining antidepressant response. To examine the roles of symptom
+      severity and alternative diagnostic subtyping in contributing to this pattern.
+
+      SSRIs are effective in the treatment of major depression. However, there is also evidence
+      that SSRIs may be significantly less effective than TCAs for depressed patients with
+      melancholia. This issue is of particular concern in late-life major depression. SSRIs have
+      important safety advantages with respect to overdose and a benign cardiovascular profile.
+      Furthermore, the SSRIs do not have significant anticholinergic effects, and appear to be
+      better tolerated than the TCAs. Perhaps most important, the SSRIs currently are prescribed
+      widely as the medication treatment of first choice for major depression in late life.
+      Therefore, if it were determined that SSRIs are considerably less effective than TCAs in the
+      treatment of melancholia in the elderly, there would be significant ramifications for
+      clinical practice.
+
+      Randomization to sertraline (a SSRI) or nortriptyline (a TCA) is stratified by the presence
+      or absence of melancholia. Outcome measures for the 12-week acute phase include clinician
+      and patient ratings of symptoms, side effects, and an evaluation of the health-related
+      quality of life (HRQOL). At the end of the acute treatment phase, patients who meet criteria
+      for clinical response participate in a 6-month continuation phase.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1997</start_date>
+  <completion_date type="Actual">June 2002</completion_date>
+  <primary_completion_date type="Actual">June 2002</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>HAMILTON Rating Scale for DEPRESSION Range</measure>
+    <time_frame>BASELINE COMPARED TO 12 WEEK MEASUREMENT</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Hamilton scale range 0-40, values below 7 are considered normal. the higher the number the more severe the depression weekly assessments, The primary outcome is a comparison of the baseline Hamilton to the 12 week measurement</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">110</enrollment>
+  <condition>Depression</condition>
+  <condition>Melancholia</condition>
+  <arm_group>
+    <arm_group_label>sertaline</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>patients randomized to sertraline 12 week trial does up to 200mgs</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>nortriptyline</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>patients randomized to nortriptyline dose adjusted to therapeutic level</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sertraline</intervention_name>
+    <description>12 week trial dose up to 200mgs</description>
+    <arm_group_label>sertaline</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nortriptyline</intervention_name>
+    <description>12 week trial dose adjusted to therapeutic level</description>
+    <arm_group_label>nortriptyline</arm_group_label>
+    <other_name>nortiptyline</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients must have:
+
+        Unipolar major depression (per Diagnostic and Statistical Manuel-IV criteria) with or
+        without melancholia.
+
+        Exclusion Criteria:
+
+        Patients with the following symptoms or conditions are excluded:
+
+        Psychotic or atypical subtype of unipolar major depression.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steven P. Roose, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>New York State Psychiatric Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>1051 Riverside Drive</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2008</verification_date>
+  <lastchanged_date>October 6, 2015</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <firstreceived_results_date>April 2, 2015</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Aged</keyword>
+  <keyword>Antidepressive Agents, Tricyclic</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Female</keyword>
+  <keyword>Human</keyword>
+  <keyword>Male</keyword>
+  <keyword>Middle Age</keyword>
+  <keyword>Nortriptyline</keyword>
+  <keyword>Sertraline</keyword>
+  <keyword>Serotonin Uptake Inhibitors</keyword>
+  <keyword>Antidepressive Agents, Tricyclic -- *therapeutic use</keyword>
+  <keyword>Antidepressive Agents, Tricyclic -- adverse effects</keyword>
+  <keyword>Depression -- *drug therapy</keyword>
+  <keyword>Nortriptyline -- *therapeutic use</keyword>
+  <keyword>Nortriptyline -- adverse effects</keyword>
+  <keyword>Sertraline -- *therapeutic use</keyword>
+  <keyword>Sertraline -- adverse effects</keyword>
+  <keyword>Serotonin Uptake Inhibitors -- *therapeutic use</keyword>
+  <keyword>Serotonin Uptake Inhibitors -- adverse effects</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Depression</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antidepressive Agents</mesh_term>
+    <mesh_term>Antidepressive Agents, Tricyclic</mesh_term>
+    <mesh_term>Nortriptyline</mesh_term>
+    <mesh_term>Serotonin Uptake Inhibitors</mesh_term>
+    <mesh_term>Sertraline</mesh_term>
+    <mesh_term>Therapeutic Uses</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

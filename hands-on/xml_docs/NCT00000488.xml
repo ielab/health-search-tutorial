@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204489">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000488</url>
+  </required_header>
+  <id_info>
+    <org_study_id>7</org_study_id>
+    <nct_id>NCT00000488</nct_id>
+  </id_info>
+  <brief_title>Lipid Research Clinics Coronary Primary Prevention Trial (CPPT)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether reduction of cholesterol by drug therapy significantly lowered the
+      atherosclerotic coronary heart disease rate in a group of hypercholesterolemic but otherwise
+      healthy men.
+
+      Total dollars spent on the CPPT from June 1973 were $142,250,000. We do not have a
+      year-by-year breakdown.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Numerous prospective epidemiologic studies have demonstrated that hypercholesterolemia is a
+      major risk factor for atherosclerotic coronary heart disease. Research on animals indicating
+      that the reduction of serum cholesterol prevented or reversed atherosclerosis had not been
+      shown convincingly in humans. The Coronary Primary Prevention Trial tested the hypothesis
+      that lowering the serum cholesterol in patients who had no existing evidence of coronary
+      heart disease would reduce the subsequent rate of coronary heart disease in those persons.
+
+      Coronary heart disease is the leading cause of death and a major cause of morbidity in the
+      United States. The very slow development of the underlying arterial disease and its
+      frequently sudden onset and quickly fatal course necessitate a preventive approach if
+      substantial inroads are to be made. The positive result from the Coronary Primary Prevention
+      Trial (CPPT) has done much to resolve the controversy regarding the benefits of
+      lipid-lowering, and should lead to firm advice for high-risk hypercholesterolemic subjects
+      and for the population as a whole.
+
+      The CPPT was part of the Institute's Lipid Research Clinic Program under the Lipid
+      Metabolism Branch, DHVD, NHLBI. Twelve lipid research clinics in the United States and
+      Canada participated in this trial, as well as a coordinating center, a central
+      electrocardiographic laboratory, central lipid and clinical chemistry laboratories, a
+      nutrition coding center, and a group of consultants on recruitment and adherence. This
+      program's objectives included the development of standardized methods and definitions for
+      the diagnosis of hyperlipoproteinemia and the performance of a series of collaborative
+      studies of the prevalence and natural history of this disorder, as well as the design and
+      implementation of the Coronary Primary Prevention Trial.
+
+      The protocol for the trial was approved in November 1972. Beginning in July 1973, men with
+      hypercholesterolemia were recruited as potential trial subjects from such diverse sources as
+      physician referrals, blood bank donor lists, and mass screening programs. Each subject was
+      screened further in a series of four visits, the purpose of which was to select only men (1)
+      whose lipid abnormality was of the primary Type II phenotype, (2) who were free of
+      clinically manifest coronary heart disease, and (3) whose excellent overall health and
+      reliability made 7-10 years of follow-up a realistic objective. Additionally, a standardized
+      limited-cholesterol/saturated fat diet was initiated at the second of these visits in order
+      to exclude men whose cholesterol levels were highly responsive to diet. Subjects who met all
+      the selection criteria were randomly assigned, in a double-blind fashion, to receive either
+      the cholesterol-lowering drug cholestyramine or a placebo at their fifth visit.
+
+      Recruitment of the 3,806 CPPT subjects was completed in July 1976. After randomization into
+      the study, each subject visited his clinic at bimonthly intervals. At these visits,
+      adherence to drug and diet were assessed, the study medication was supplied, general health
+      and potential toxic side effects were monitored, and intervening cardiovascular events were
+      recorded. Counseling in drug and dietary adherence were given at each visit, and medical
+      advice was given when a problem was identified. Trial data were collected and analyzed at
+      the Central Patient Registry and reviewed periodically by a Safety and Data Monitoring
+      Board. Intervention ceased between May and August 1983. A five-year follow-up was initiated
+      in November 1984 to detect possible toxicity in the CPPT participants following ingestion of
+      cholestyramine (or placebo) for 7 to 10 years. Follow-up was completed in October 1989.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind, fixed sample size with one experimental group and one control
+      group of equal size. Experimental group on diet and lipid-lowering drug regimen; control
+      group on diet and placebo regimen.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1973</start_date>
+  <completion_date type="Actual">October 1989</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cholestyramine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, fat-restricted</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men, ages 35-59. Type II hyperlipoproteinemia. Free from coronary heart disease.
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>59 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francois Abboud</last_name>
+    <affiliation>University of Iowa</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Elizabeth Barrett-Connor</last_name>
+    <affiliation>University of California, San Diego</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Reagan Bradford</last_name>
+    <affiliation>Oklahoma Medical Research Foundation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marilyn Buzzard</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gerald Cooper</last_name>
+    <affiliation>Centers for Disease Control and Prevention</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Farquhar</last_name>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ivan Frantz</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Anne Goldberg</last_name>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Frank Ibbott</last_name>
+    <affiliation>Bio-Science Laboratories</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>William, Insull</last_name>
+    <affiliation>Baylor College of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Knoop</last_name>
+    <affiliation>University of Washington</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Peter Kwiterovich</last_name>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John LaRosa</last_name>
+    <affiliation>George Washington University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>J. Little</last_name>
+    <affiliation>University of Toronto</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>L. Sheffield</last_name>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Dennis Sprecher</last_name>
+    <affiliation>University of Cincinnati</affiliation>
+  </overall_official>
+  <reference>
+    <citation>The coronary primary prevention trial: design and implementation: the Lipid Research Clinics Program. J Chronic Dis. 1979;32(9-10):609-31.</citation>
+    <PMID>489702</PMID>
+  </reference>
+  <reference>
+    <citation>Agras WS, Marshall G. Recruitment for the Coronary Primary Prevention Trial. Clin Pharmacol Ther. 1979 May;25(5 Pt 2):688-90.</citation>
+    <PMID>373955</PMID>
+  </reference>
+  <reference>
+    <citation>Rifkind B, Goor R: The Lipid Research Clinics Coronary Primary Prevention Trial (LRC-CPPT). Drugs Affecting Lipid Metabolism, l5l-l57, Fumagalli R, Kritchevsky D, Paoletti R (Eds): Elsevier/North-Holland Biomedical Press, l980.</citation>
+  </reference>
+  <reference>
+    <citation>Knopp RH: Test of the Lipid Hypothesis: The Coronary Primary Prevention Trial (CPPT) of the Lipid Research Clinics Program. Proceedings of the Fifth International Symposium on Atherosclerosis, 509-512, Gotto, AM, Jr. (Ed.): Springer-Verlag, 1980.</citation>
+  </reference>
+  <reference>
+    <citation>Recruitment for clinical trials: the Lipid Research Clinics Coronary Primary Prevention Trial experience. Its implications for future trials. Circulation. 1982 Dec;66(6 Pt 2):IV1-78.</citation>
+    <PMID>7127710</PMID>
+  </reference>
+  <reference>
+    <citation>Gordon DJ, Salz KM, Roggenkamp KJ, Franklin FA Jr. Dietary determinants of plasma cholesterol change in the recruitment phase of the Lipid Research Clinics Coronary Primary Prevention Trial. Arteriosclerosis. 1982 Nov-Dec;2(6):537-48.</citation>
+    <PMID>7181738</PMID>
+  </reference>
+  <reference>
+    <citation>Gordon DJ, Witztum JL, Hunninghake D, Gates S, Glueck CJ. Habitual physical activity and high-density lipoprotein cholesterol in men with primary hypercholesterolemia. The Lipid Research Clinics Coronary Primary Prevention Trial. Circulation. 1983 Mar;67(3):512-20.</citation>
+    <PMID>6821893</PMID>
+  </reference>
+  <reference>
+    <citation>Pre-entry characteristics of participants in the Lipid Research Clinics' Coronary Primary Prevention Trial. J Chronic Dis. 1983;36(6):467-79.</citation>
+    <PMID>6863470</PMID>
+  </reference>
+  <reference>
+    <citation>The Lipid Research Clinics Coronary Primary Prevention Trial results. I. Reduction in incidence of coronary heart disease. JAMA. 1984 Jan 20;251(3):351-64.</citation>
+    <PMID>6361299</PMID>
+  </reference>
+  <reference>
+    <citation>The Lipid Research Clinics Coronary Primary Prevention Trial results. II. The relationship of reduction in incidence of coronary heart disease to cholesterol lowering. JAMA. 1984 Jan 20;251(3):365-74.</citation>
+    <PMID>6361300</PMID>
+  </reference>
+  <reference>
+    <citation>Rifkind BM. Lipid Research Clinics Coronary Primary Prevention Trial: results and implications. Am J Cardiol. 1984 Aug 27;54(5):30C-34C.</citation>
+    <PMID>6382999</PMID>
+  </reference>
+  <reference>
+    <citation>Gordon DJ, Probstfield JL, Rubenstein C, Bremner WF, Leon AS, Karon JM, Third J, Bryan H, Schwartz L, Insull W, et al. Coronary risk factors and exercise test performance in asymptomatic hypercholesterolemic men: application of proportional hazards analysis. Am J Epidemiol. 1984 Aug;120(2):210-24.</citation>
+    <PMID>6465119</PMID>
+  </reference>
+  <reference>
+    <citation>NHLBI workshop on the Lipid Research Clinics Coronary Primary Prevention Trial. Arteriosclerosis. 1985 Jul-Aug;5(4):397-403.</citation>
+    <PMID>3893403</PMID>
+  </reference>
+  <reference>
+    <citation>Rifkind BM: The Lipid Research Clinics Coronary Primary Prevention Trial (CPPT). Heartbeat, 1:7-8, 1985.</citation>
+  </reference>
+  <reference>
+    <citation>Rifkind BM: The Lipid Research Clinics Coronary Primary Prevention Trial. In Shepherd G, et al (Eds). Lipoproteins and Coronary Heart Disease. London and Glasgow. Blantyre Printing Ltd.:109, 1986.</citation>
+  </reference>
+  <reference>
+    <citation>Gordon DJ, Knoke J, Probstfield JL, Superko R, Tyroler HA. High-density lipoprotein cholesterol and coronary heart disease in hypercholesterolemic men: the Lipid Research Clinics Coronary Primary Prevention Trial. Circulation. 1986 Dec;74(6):1217-25.</citation>
+    <PMID>3536151</PMID>
+  </reference>
+  <reference>
+    <citation>Glueck CJ, Gordon DJ, Nelson JJ, Davis CE, Tyroler HA. Dietary and other correlates of changes in total and low density lipoprotein cholesterol in hypercholesterolemic men: the lipid research clinics coronary primary prevention trial. Am J Clin Nutr. 1986 Oct;44(4):489-500.</citation>
+    <PMID>3532756</PMID>
+  </reference>
+  <reference>
+    <citation>Gordon DJ, Leon AS, Ekelund LG, Sopko G, Probstfield JL, Rubenstein C, Sheffield LT. Smoking, physical activity, and other predictors of endurance and heart rate response to exercise in asymptomatic hypercholesterolemic men. The Lipid Research Clinics Coronary Primary Prevention Trial. Am J Epidemiol. 1987 Apr;125(4):587-600.</citation>
+    <PMID>3826039</PMID>
+  </reference>
+  <reference>
+    <citation>Knoke JD, Hunninghake DB, Heiss G. Physiological markers of smoking and their relation to coronary heart disease. The Lipid Research Clinics Coronary Primary Prevention Trial. Arteriosclerosis. 1987 Sep-Oct;7(5):477-82.</citation>
+    <PMID>3675307</PMID>
+  </reference>
+  <reference>
+    <citation>Bradford RH. Participant recruitment to the Lipid Research Clinics Coronary Primary Prevention Trial. Control Clin Trials. 1987 Dec;8(4 Suppl):31S-40S.</citation>
+    <PMID>3440388</PMID>
+  </reference>
+  <reference>
+    <citation>Gordon DJ, Trost DC, Hyde J, Whaley FS, Hannan PJ, Jacobs DR Jr, Ekelund LG. Seasonal cholesterol cycles: the Lipid Research Clinics Coronary Primary Prevention Trial placebo group. Circulation. 1987 Dec;76(6):1224-31.</citation>
+    <PMID>3315294</PMID>
+  </reference>
+  <reference>
+    <citation>Gordon DJ, Hyde J, Trost DC, Whaley FS, Hannan PJ, Jacobs DR, Ekelund LG. Cyclic seasonal variation in plasma lipid and lipoprotein levels: the Lipid Research Clinics Coronary Primary Prevention Trial Placebo Group. J Clin Epidemiol. 1988;41(7):679-89.</citation>
+    <PMID>3294350</PMID>
+  </reference>
+  <reference>
+    <citation>Brook JG, Rifkind BM: The Lipid Research Clinics Primary Prevention Trial and its Aftermath. In: Recent Aspects of Diagnosis and Treatment of Lipoprotein Disorders: Impact on Prevention of Atherosclerotic Disease. Alan R Liss Inc., 7-14, 1988.</citation>
+  </reference>
+  <reference>
+    <citation>Siscovick DS, Ekelund LG, Hyde JS, Johnson JL, Gordon DJ, LaRosa JC. Physical activity and coronary heart disease among asymptomatic hypercholesterolemic men (the Lipid Research Clinics Coronary Primary Prevention Trial). Am J Public Health. 1988 Nov;78(11):1428-31.</citation>
+    <PMID>3052114</PMID>
+  </reference>
+  <reference>
+    <citation>Ekelund LG, Suchindran CM, McMahon RP, Heiss G, Leon AS, Romhilt DW, Rubenstein CL, Probstfield JL, Ruwitch JF. Coronary heart disease morbidity and mortality in hypercholesterolemic men predicted from an exercise test: the Lipid Research Clinics Coronary Primary Prevention Trial. J Am Coll Cardiol. 1989 Sep;14(3):556-63.</citation>
+    <PMID>2768706</PMID>
+  </reference>
+  <reference>
+    <citation>Probstfield JL, Rifkind BM. The Lipid Research Clinics Coronary Primary Prevention Trial: design, results, and implications. Eur J Clin Pharmacol. 1991;40 Suppl 1:S69-75.</citation>
+    <PMID>2044648</PMID>
+  </reference>
+  <reference>
+    <citation>The Lipid Research Clinics Coronary Primary Prevention Trial. Results of 6 years of post-trial follow-up. The Lipid Research Clinics Investigators. Arch Intern Med. 1992 Jul;152(7):1399-410.</citation>
+    <PMID>1627020</PMID>
+  </reference>
+  <reference>
+    <citation>Schaefer EJ, Lamon-Fava S, Jenner JL, McNamara JR, Ordovas JM, Davis CE, Abolafia JM, Lippel K, Levy RI. Lipoprotein(a) levels and risk of coronary heart disease in men. The lipid Research Clinics Coronary Primary Prevention Trial. JAMA. 1994 Apr 6;271(13):999-1003.</citation>
+    <PMID>8139085</PMID>
+  </reference>
+  <reference>
+    <citation>Morris DL, Kritchevsky SB, Davis CE. Serum carotenoids and coronary heart disease. The Lipid Research Clinics Coronary Primary Prevention Trial and Follow-up Study. JAMA. 1994 Nov 9;272(18):1439-41.</citation>
+    <PMID>7933426</PMID>
+  </reference>
+  <reference>
+    <citation>Participant recruitment to the Coronary Primary Prevention Trial. J Chronic Dis. 1983;36(6):451-65.</citation>
+    <PMID>6863469</PMID>
+  </reference>
+  <reference>
+    <citation>Probstfield JL, Russell ML, Henske JC, Reardon RJ, Insull W Jr. Successful program for recovery of dropouts to a clinical trial. Am J Med. 1986 May;80(5):777-84.</citation>
+    <PMID>3706364</PMID>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>November 9, 2015</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204198">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000781</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 193A</org_study_id>
+    <secondary_id>11169</secondary_id>
+    <nct_id>NCT00000781</nct_id>
+  </id_info>
+  <brief_title>A Randomized, Double-Blind, Four-Arm Study Comparing Combination Nucleoside, Alternating Nucleoside, and Triple-Drug Therapy for the Treatment of Advanced HIV Disease (CD4 &lt;= 50/mm3)</brief_title>
+  <official_title>A Randomized, Double-Blind, Four-Arm Study Comparing Combination Nucleoside, Alternating Nucleoside, and Triple-Drug Therapy for the Treatment of Advanced HIV Disease (CD4 &lt;= 50/mm3)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bristol-Myers Squibb</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Glaxo Wellcome</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the relative clinical efficacy of zidovudine ( AZT ) plus didanosine (ddI), AZT
+      plus zalcitabine ( ddC ), AZT alternating monthly with ddI, and AZT/ddI plus nevirapine in
+      HIV-infected patients with advanced disease.
+
+      The rapid emergence of resistant HIV strains has been observed in patients receiving
+      monotherapy with a nucleoside analog or non-nucleoside reverse transcriptase inhibitor. Use
+      of combination therapy with two nucleoside drugs or convergent combination therapy with two
+      nucleosides and a non-nucleoside RT inhibitor may minimize the evolution of these resistant
+      HIV strains. Since toxicity is a major problem in patients with advanced disease who are
+      receiving combination nucleoside therapy, alternating the two drugs may provide a way of
+      retaining several benefits of combination therapy while minimizing the increased toxicity.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The rapid emergence of resistant HIV strains has been observed in patients receiving
+      monotherapy with a nucleoside analog or non-nucleoside reverse transcriptase inhibitor. Use
+      of combination therapy with two nucleoside drugs or convergent combination therapy with two
+      nucleosides and a non-nucleoside RT inhibitor may minimize the evolution of these resistant
+      HIV strains. Since toxicity is a major problem in patients with advanced disease who are
+      receiving combination nucleoside therapy, alternating the two drugs may provide a way of
+      retaining several benefits of combination therapy while minimizing the increased toxicity.
+
+      Patients are randomized to receive either AZT/ddC, AZT/ddI, AZT alternating monthly with
+      ddI, or AZT/ddI/nevirapine. Patients are evaluated at week 0 and every 4 weeks thereafter
+      for 2 years. Pharmacologic, virologic, and macroneurologic substudies will be conducted.
+      Patients who are already enrolled on protocol ACTG 193 will be given the option of
+      continuing on their originally assigned ACTG 193 therapy for an additional 6 months or
+      undergoing re-randomization to one of the four treatment arms on ACTG 193A.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">September 1996</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>1292</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nevirapine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zidovudine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zalcitabine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Didanosine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Required:
+
+          -  PCP prophylaxis.
+
+        Allowed:
+
+          -  Erythropoietin maintenance.
+
+          -  G-CSF and GM-CSF.
+
+          -  Prophylaxis for Mycobacterium avium intracellulare.
+
+          -  Antifungal prophylaxis or treatment with specific drugs.
+
+          -  Maintenance therapy for opportunistic infection.
+
+          -  Over-the-counter medications or alternative therapies such as vitamins and herbs.
+
+          -  Antibiotics as clinically indicated.
+
+          -  Steroids for &lt; 21 days for acute problems.
+
+          -  Antipyretics, analgesics, allergy medication, antidepressants, sleep medications,
+             oral contraceptives, or other appropriate medications.
+
+        Concurrent Treatment:
+
+        Allowed:
+
+          -  Radiation therapy for cutaneous Kaposi's sarcoma.
+
+          -  Acupuncture.
+
+        Patients must have:
+
+          -  Documented HIV infection.
+
+          -  CD4 count &lt;= 50 cells/mm3.
+
+          -  Either no prior nucleoside therapy OR a history of prior nucleoside therapy in the
+             absence of high-grade intolerance.
+
+          -  Life expectancy of at least 6 months.
+
+          -  Consent of parent or guardian if &lt; 18 years of age.
+
+          -  Normal chest x-ray at baseline or within 6 months prior to study entry in the absence
+             of new pulmonary or cardiac symptoms (per 12/28/94 amendment).
+
+        NOTE:
+
+          -  Patients who withdrew from protocol ACTG 193 therapy prior to activation of ACTG 193A
+             are not eligible.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Abnormal baseline chest x-ray.
+
+          -  New pulmonary or cardiac symptoms.
+
+          -  Psychological or emotional problems sufficient to prevent compliance with study
+             medication.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Systemic chemotherapy for malignancy.
+
+          -  Acute or induction therapy for opportunistic infection.
+
+          -  Antiretroviral drugs other than study drugs.
+
+          -  Biological response modifiers.
+
+          -  Erythromycin, phenytoin, phenobarbital, warfarin, or coumadin.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of recurrent grade 3 or greater toxicity to AZT, ddI, or ddC on two or more
+             occasions.
+
+          -  Evidence of active pulmonary disease within 6 months prior to study entry.
+
+          -  History of grade 3 or worse peripheral neuropathy.
+
+          -  History of acute or chronic pancreatitis.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Prior nevirapine.
+
+        Excluded within 7 days prior to study entry:
+
+          -  Acute therapy for opportunistic infection (maintenance therapy is permitted).
+
+          -  Acute systemic therapy for a nonopportunistic infection or other medical condition.
+
+          -  Antiretroviral drugs other than AZT, ddI, or ddC.
+
+          -  Biological response modifiers.
+
+          -  d4T therapy.
+
+          -  Nucleosides other than those used in the study.
+
+          -  Antibiotics containing clavulanate potassium.
+
+        Prior Treatment:
+
+        Excluded:
+
+          -  More than 4 units of blood in a 30-day period.
+
+        Active alcohol or drug abuse.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Henry WK</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Kahn JO</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Balfour HH</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Univ of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Southern California / LA County USC Med Ctr</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>900331079</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Huntington Memorial Hosp / Children's Hosp of Los Angeles</name>
+      <address>
+        <city>Pasadena</city>
+        <state>California</state>
+        <zip>91105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of California / San Diego Treatment Ctr</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>921036325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Francisco AIDS Clinic / San Francisco Gen Hosp</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>941102859</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Francisco Gen Hosp</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>941102859</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford at Kaiser / Kaiser Permanente Med Ctr</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Clara Valley Med Ctr / AIDS Community Rsch Consortium</name>
+      <address>
+        <city>San Jose</city>
+        <state>California</state>
+        <zip>951282699</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Mateo AIDS Program / Stanford Univ</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>943055107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Univ Med Ctr</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>943055107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Olive View Med Ctr</name>
+      <address>
+        <city>Sylmar</city>
+        <state>California</state>
+        <zip>91342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harbor UCLA Med Ctr</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Denver Dept of Health and Hosps</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mountain States Reg Hemo Ctr / Univ of Colorado</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rose Med Ctr</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Colorado Health Sciences Ctr</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale Univ / New Haven</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>065102483</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>George Washington Univ / Hershey Med Ctr</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown Univ Med Ctr</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HIV Ctr - District of Columbia Gen Hosp</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>200072197</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Howard Univ</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20059</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Whitman - Walker Clinic / Georgetown Univ Med Ctr</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>200072197</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Miami School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>331361013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of South Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Hawaii</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96816</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook County Hosp</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Louis A Weiss Memorial Hosp</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern Univ Med School</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush Presbyterian - Saint Luke's Med Ctr</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana Univ Hosp</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>462025250</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Hosp of Indiana / Life Care Clinic</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Louisville / East Tennesee Comprehensive Hem Ctr</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess - West Campus</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Med Ctr</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harvard (Massachusetts Gen Hosp)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Worcester Memorial Hosp / Med Ctr of Cntrl MA-Memorial</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hennepin County Med Clinic</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St Paul Ramsey Med Ctr</name>
+      <address>
+        <city>St Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St Louis Regional Hosp / St Louis Regional Med Ctr</name>
+      <address>
+        <city>St Louis</city>
+        <state>Missouri</state>
+        <zip>63112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Nebraska Med Ctr</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>681985130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth - Hitchcock Med Ctr / Med Ctr Cntrl Massachusetts</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Robert Wood Johnson Med School / Hershey Med Ctr</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Medicine &amp; Dentistry of New Jersey / Univ Hosp</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>071032714</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Adirondack Med Ctr at Saranac Lake</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>122083479</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Albany Med College / Division of HIV Medicine A158</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>122083479</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mid - Hudson Care Ctr</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>122083479</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Municipal Hosp Ctr/Jacobi Med Ctr</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Veterans Administration / Mount Sinai Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10468</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Health Care Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jack Weiler Hosp / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10465</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Drug Treatment Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Family Health Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Med Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Med Ctr Adolescent AIDS Program</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Central Bronx Hosp / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samaritan Village Inc / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY / Health Sciences Ctr at Brooklyn</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>112032098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY / Erie County Med Ctr at Buffalo</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>City Hosp Ctr at Elmhurst / Mount Sinai Hosp</name>
+      <address>
+        <city>Elmhurst</city>
+        <state>New York</state>
+        <zip>11373</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore Univ Hosp</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bellevue Hosp / New York Univ Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia Presbyterian Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>100323784</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cornell Univ Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harlem Hosp Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mem Sloan - Kettering Cancer Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Med Ctr / Hemophilia Treatment Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Clare's Hosp and Health Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10019</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Rochester Medical Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY / State Univ of New York</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of North Carolina</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>275997215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Moses H Cone Memorial Hosp</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Cincinnati</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>452670405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Kentucky Lexington</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Case Western Reserve Univ</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MetroHealth Med Ctr</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>441091998</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbus Children's Hosp</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>432052696</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Med College of Ohio</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43699</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Milton S Hershey Med Ctr</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>170330850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Michael's Med Ctr / Milton S Hershey Med Ctr</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>170330850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Girard Med Ctr</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191046073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson Univ Hosp</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191075098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Pennsylvania at Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Med Univ of South Carolina / UNC</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Julio Arroyo</name>
+      <address>
+        <city>West Columbia</city>
+        <state>South Carolina</state>
+        <zip>29169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Tennessee / E Tennessee Comprehensive Hemophilia Ctr</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meharry Med College</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Texas Galveston</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>775550435</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ Texas Health Science Ctr / Univ Texas Med School</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Washington</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>981224304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northern Wisconsin Hemophilia Ctr / Saint Vincent's Hosp</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Hemophilia Foundation</name>
+      <address>
+        <city>Wauwatosa</city>
+        <state>Wisconsin</state>
+        <zip>532130127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Puerto Rico</name>
+      <address>
+        <city>San Juan</city>
+        <zip>009365067</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=4</url>
+    <description>Click here for more information about Zidovudine</description>
+  </link>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=16</url>
+    <description>Click here for more information about Didanosine</description>
+  </link>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=116</url>
+    <description>Click here for more information about Nevirapine</description>
+  </link>
+  <reference>
+    <citation>Henry K, Erice A, Tierney C, Balfour HH Jr, Fischl MA, Kmack A, Liou SH, Kenton A, Hirsch MS, Phair J, Martinez A, Kahn JO. A randomized, controlled, double-blind study comparing the survival benefit of four different reverse transcriptase inhibitor therapies (three-drug, two-drug, and alternating drug) for the treatment of advanced AIDS. AIDS Clinical Trial Group 193A Study Team. J Acquir Immune Defic Syndr Hum Retrovirol. 1998 Dec 1;19(4):339-49.</citation>
+    <PMID>9833742</PMID>
+  </reference>
+  <reference>
+    <citation>Price RW, Yiannoutsos C, Zaborski L, Kmack A, Henry K, Tierney C, Clifford D. Neurological substudies of ACTG protocol 193A: quantitative neurological performance measures and treatment outcomes. Conf Retroviruses Opportunistic Infect. 1998 Feb 1-5;5th:176 (abstract no 516)</citation>
+  </reference>
+  <reference>
+    <citation>Robinson P, Cotton D, Curry R, Henry K, Hall D, Myers M. Analysis of nevirapine (NVP) effect on clinical endpoints (CEs) of HIV progression or death in ACTG trial 193A. Conf Retroviruses Opportunistic Infect. 1998 Feb 1-5;5th:210 (abstract no 700)</citation>
+  </reference>
+  <reference>
+    <citation>Henry K, Tierney C, Kahn J, Balfour H, Jiang Q, Kmack A, Fischl M. A randomized, double-blind, placebo-controlled study comparing combination nucleoside and triple therapy for the treatment of advanced HIV disease (CD4 less than or equal to 50/mm(3)). Conf Retroviruses Opportunistic Infect. 1997 Jan 22-26;4th:207 (abstract no LB6)</citation>
+  </reference>
+  <reference>
+    <citation>Coplan P, Nikas A, Saah A, Nessly M, Doll L, Leavitt R, Benson J, Guess H. No association observed between indinavir therapy for HIV/AIDS and myocardial infarction in 4 clinical trials with 2,825 subjects. Conf Retroviruses Opportunistic Infect. 1999 Jan 31-Feb 4;6th:191 (abstract no 658)</citation>
+  </reference>
+  <reference>
+    <citation>Erice A, Tierney C, Balfour HH Jr, Liou S, Kahn JO, Henry WK. Virologlc effect of therapy with reverse transcriptase inhibitors (RTIs) in patients with AIDS and less than 50 CD4+ T cells per mm(3): a substudy of ACTG 193a. Conf Retroviruses Opportunistic Infect. 1998 Feb 1-5;5th:204 (abstract no 662)</citation>
+  </reference>
+  <reference>
+    <citation>Price RW, Yiannoutsos CT, Clifford DB, Zaborski L, Tselis A, Sidtis JJ, Cohen B, Hall CD, Erice A, Henry K. Neurological outcomes in late HIV infection: adverse impact of neurological impairment on survival and protective effect of antiviral therapy. AIDS Clinical Trial Group and Neurological AIDS Research Consortium study team. AIDS. 1999 Sep 10;13(13):1677-85.</citation>
+    <PMID>10509569</PMID>
+  </reference>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 30, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Zalcitabine</keyword>
+  <keyword>Didanosine</keyword>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Zidovudine</keyword>
+  <keyword>Nevirapine</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Didanosine</mesh_term>
+    <mesh_term>Nevirapine</mesh_term>
+    <mesh_term>Zalcitabine</mesh_term>
+    <mesh_term>Zidovudine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

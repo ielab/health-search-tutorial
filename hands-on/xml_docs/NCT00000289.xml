@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204683">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000289</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09259-6</org_study_id>
+    <secondary_id>P50-09259-6</secondary_id>
+    <nct_id>NCT00000289</nct_id>
+  </id_info>
+  <brief_title>Role of Metabolites in Nicotine Dependence (3) - 6</brief_title>
+  <official_title>Role of Metabolites in Nicotine Dependence (3)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Minnesota - Clinical and Translational Science Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the effects of various doses of ondansetron
+      transdermal nicotine replacement on tobacco withdrawal symptoms.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Previous studies have shown that cotinine, a metabolite of nicotine, antagonizes the
+      beneficial effects of the nicotine patch in redugin withdrawal symptoms. Studies have also
+      shown that cotinine enhances serotonin levels. This study examined the effects of several
+      doses of a 5HT3 antagonist, ondanstron, in combination with the nicotine patch. This
+      medication has been observed to reduce nicotine withdrawal symptoms in rats. These effects
+      were compared to the nicotine patch alone. The results of this study produced some modest
+      effects showing that the 8mg dose of ondansetron suppressed tobacco withdrawal symptoms to a
+      greater extent than the nicotine patch alone.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1998</start_date>
+  <completion_date>December 2001</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Subjective effects</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physiological effects</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Performance effects</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Tobacco Use Disorder</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ondansetron</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Male/Female subjects ages 21-45 years inclusive, with a smoking history of at least 15
+        cigarettes daily (greater than or equal to 50) for at least 1 yr. Subject is in good
+        health as verified by medical history, screening examination, and screening laboratory
+        tests as outlined above. Subject has provided written informed consent to participate in
+        the study and is motivated to stop smoking. Subject has experienced at least 4 withdrawal
+        symptoms upon abstinence.
+
+        Exclusion Criteria:
+
+        History of myocardial infarction, angina pectoris, sustained or episodic cardiac
+        arrhythmias, symptomatic peripheral vascular disease, current peptic ulcer disease or any
+        other medical condition which the physician investigator deems inappropriate for subject
+        participation. Insulin-dependent diabetes. Pregnant or lactating, or not using adequate
+        birth control methods. Requirement of any form of regular psychotropic medication
+        (antidepressants, antipsychotics, or anxiolytics) and recent psychiatric history (less
+        than 1yr). Chronic use of systemic steroids or antihistamines. Abuse of alcohol or any
+        other recreational or prescription drug (more than 3 drinks per day or 21 drinks per wk).
+        use of any other nicotine products, including smokeless tobacco, cigars and nicotine
+        replacement products. Inability to fulfill all scheduled visits and examination procedures
+        throughout the study period. History of schizophrenia or manic depressive disorder. Recent
+        history of other psychiatric illness (less than 1yr since last episode of major depressive
+        episode).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dorothy Hatsukami, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 1998</verification_date>
+  <lastchanged_date>June 2, 2015</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Tobacco Use Disorder</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

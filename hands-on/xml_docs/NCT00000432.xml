@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204544">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000432</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P60 AR36308 NIAMS-017</org_study_id>
+    <secondary_id>P60AR036308</secondary_id>
+    <nct_id>NCT00000432</nct_id>
+  </id_info>
+  <brief_title>Lyme Disease Prevention Program</brief_title>
+  <official_title>A Controlled Trial of a Primary and Secondary Program for Lyme Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centers for Disease Control and Prevention</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a large study of an educational program on Lyme disease prevention for passengers on
+      ferry boats going to Nantucket Island during the period from Memorial Day until Labor Day.
+      Some boats provide passengers with the experimental program and the other boats provide a
+      &quot;control&quot; program that the researchers can compare to the experimental program. The
+      experimental program uses live performances by entertainers to teach people about Lyme
+      disease prevention, and also uses additional printed materials. People on the control boats
+      receive education on injury prevention and road safety while bicycling, rollerblading, and
+      using mopeds. The main result we will look for is Lyme disease identified by a followup
+      survey and confirmed by reviewing medical records. We will also ask some people to take part
+      in a smaller study of behavior change. In this study, we will ask people to complete forms
+      on self-efficacy (a person's belief in his or her ability to reach a certain goal), their
+      plans to take preventive steps, and actual prevention behaviors. We also ask participants
+      who report doctor visits or illness to provide confirmation of their use of health services.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a large, randomized trial of a Lyme disease primary prevention program for
+      passengers on ferry boats going to Nantucket Island for the period from Memorial Day until
+      Labor Day. Boats are randomized to experimental or control interventions.
+
+      The experimental intervention is a performance-based educational program on Lyme disease
+      prevention, and uses supplemental materials. An entertainment troupe delivers the
+      intervention using comedy, theater, and vaudevillian techniques. The entertainers present
+      three shows in different locations on the boat. Each show is about 10 minutes and covers the
+      severity and likelihood of acquiring Lyme disease and the benefits of tick avoidance and
+      search and removal behaviors. When people on experimental boats enroll in the study they
+      receive the following free materials: a wallet-sized tick ID card, a laminated shower card
+      with tick-removal instructions, a map showing tick habitats, a tick-feeling card, and an
+      educational pamphlet. Control boats do not have performers. Participants on control boats
+      receive education on road safety and injury prevention from rollerblade, bicycle, and
+      skateboard accidents.
+
+      We will collect baseline data at enrollment, including name, address, demographics,
+      resident/visitor status, length of stay on island, frequency of exposure to tick areas,
+      history of tick-transmitted disease, and exposure to intervention. We will enroll a random
+      subsample of participants in a study of behavior, and will ask them additional questions on
+      self-efficacy, intention to perform prevention behaviors and attitude about or social
+      support for practicing prevention behaviors while on the island.
+
+      We will follow people in the behavioral subsample at 1 week to find out their actual
+      behaviors. We will follow all subjects at 2 months to find out self-reported disease status.
+      We ask persons reporting a visit to an M.D. for illness to mail a form to their physician
+      for confirmation of diagnosis and to provide information about health-care use. The main
+      outcome is Lyme disease. Intermediate outcomes include change in self-efficacy, behavioral
+      intention, and health behaviors.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1997</start_date>
+  <completion_date type="Actual">March 2001</completion_date>
+  <primary_completion_date type="Actual">March 2001</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <enrollment>20000</enrollment>
+  <condition>Lyme Disease</condition>
+  <condition>Tick-Borne Diseases</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Education about disease prevention</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Ferry passengers traveling to Nantucket Island
+
+        Exclusion Criteria:
+
+          -  Foreign (non-U.S.) residence
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew H. Liang, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Steamship Authority ferry boats to Nantucket Island</name>
+      <address>
+        <city>Hyannis</city>
+        <state>Massachusetts</state>
+        <zip>02601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Shadick NA, Daltroy LH, Phillips CB, Liang US, Liang MH. Determinants of tick-avoidance behaviors in an endemic area for Lyme disease. Am J Prev Med. 1997 Jul-Aug;13(4):265-70.</citation>
+    <PMID>9236962</PMID>
+  </reference>
+  <reference>
+    <citation>Phillips CB, Liang MH, Sangha O, Wright EA, Fossel AH, Lew RA, Fossel KK, Shadick NA. Lyme disease and preventive behaviors in residents of Nantucket Island, Massachusetts. Am J Prev Med. 2001 Apr;20(3):219-24.</citation>
+    <PMID>11275450</PMID>
+  </reference>
+  <verification_date>December 2013</verification_date>
+  <lastchanged_date>December 23, 2013</lastchanged_date>
+  <firstreceived_date>January 18, 2000</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Matthew H. Liang, MD</investigator_full_name>
+    <investigator_title>Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Lyme disease</keyword>
+  <keyword>Education evaluation</keyword>
+  <keyword>Communicable disease control</keyword>
+  <keyword>Outcomes research</keyword>
+  <keyword>Tick-transmitted diseases</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lyme Disease</mesh_term>
+    <mesh_term>Tick-Borne Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

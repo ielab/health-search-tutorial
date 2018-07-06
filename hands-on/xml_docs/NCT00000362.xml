@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204611">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000362</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDCD-1159</org_study_id>
+    <secondary_id>Protocol 201</secondary_id>
+    <secondary_id>UO1 DC 03206</secondary_id>
+    <nct_id>NCT00000362</nct_id>
+  </id_info>
+  <brief_title>Randomized Study of Two Interventions for Liquid Aspiration: Short-Term and Long-Term Effects</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Deafness and Other Communication Disorders (NIDCD)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Deafness and Other Communication Disorders (NIDCD)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether chin-down posture or use of a thickened
+      liquid diet is more effective in the prevention of aspiration and aspiration pneumonia in
+      patients with Parkinson's disease and/or dementia. Liquid aspiration is the most common type
+      of aspiration in older populations, especially those suffering from debilitation, dementia,
+      and depression. Pneumonia may develop as a consequence of aspiration and is the fifth
+      leading cause of death in the US among persons age 65 years and over. Current treatment
+      involves either use of chin-down position with swallowing or use of thickened liquids in the
+      diet, without any clear evidence supporting the use of one treatment over the other. This is
+      a Phase III inpatient and/or outpatient study in which all participants will be randomly
+      assigned to either the chin-down position or the thickened liquid treatment group based on
+      swallowing function during a modified barium swallow. This study is scheduled to recruit
+      patients for a three-year period; participation by each individual patient spans no more
+      than three months after entry.
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <completion_date>January 2006</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention</study_design>
+  <enrollment>600</enrollment>
+  <condition>Pneumonia, Aspiration</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Chin-down position</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Thickened liquid administration</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Have dementia or Parkinson's disease and are found to aspirate on thin liquid during
+             a set of qualifying swallows.
+
+        Exclusion Criteria:
+
+          -  Have smoked more than a pack of cigarettes per day in the last year.
+
+          -  Drink more than 3 alcoholic beverages per day on a regular basis.
+
+          -  Have had any head and neck cancer treatment.
+
+          -  Have any head and neck anatomic deformities.
+
+          -  Have a history of 20 years or longer of insulin-dependent diabetes.
+
+          -  Have other exclusionary neurologic diagnoses.
+
+          -  Have had pneumonia within 6 weeks of screening.
+
+          -  Currently have a nasogastric tube.
+
+          -  Currently have a tracheotomy.
+
+          -  Are a resident in non-participating nursing home or assisted living environment.
+
+          -  Live alone.
+
+          -  Have no regular care provider present at meals.
+
+          -  Have no Speech-Language Pathologist to provide a 3-month follow-up.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr. Joanne Robbins</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Dr. Jeri Logemann</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Wisconsin at Madison &amp; multiple other U.S. locations</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2006</verification_date>
+  <lastchanged_date>April 21, 2006</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Deglutition Disorders</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Parkinson Disease</keyword>
+  <keyword>Pneumonia, Aspiration</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pneumonia, Aspiration</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

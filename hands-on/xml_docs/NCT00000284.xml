@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204688">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000284</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09259-1</org_study_id>
+    <secondary_id>P50-09259-1</secondary_id>
+    <nct_id>NCT00000284</nct_id>
+  </id_info>
+  <brief_title>Role of Metabolites in Nicotine Dependence (1) - 1</brief_title>
+  <official_title>Role of Metabolites in Nicotine Dependence (1)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Minnesota - Clinical and Translational Science Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the effects of cotinine with or without a
+      transdermal nicotine replacement on tobacco withdrawal symptoms.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study was to determine the effects of a metabolite of nicotine,
+      cotinine, on tobacco withdrawal symptoms. Cotinine has been shown to have psychoactive
+      effects that are similar as well as different from those of nicotine, however, little
+      research has been conducted examining the role cotinine plays in nicotine addiction. This
+      study compared the effects of cotinine with the nicotine patch, and a combination thereof on
+      tobacco withdrawal symptoms. The results showed that cotinine antagonizes the beneficial
+      effects of the nicotine patch in reducing withdrawal symptoms.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 1995</start_date>
+  <completion_date>December 2001</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Subjective effects</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physiological effects</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Performance effects</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Tobacco Use Disorder</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cotinine fumarate</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Male or female subjects, aged 21-45 yrs inclusive, with a smoking history of at least 1
+        pack of cigarettes daily for at least 1 year. Subject must be in good health as verified
+        by medical history, screening exam, and screening laboratory tests. Subject must provide
+        written informed consent to participate in the study and be motivated to stop smoking for
+        a short term.
+
+        Exclusion Criteria:
+
+        History of myocardial infarction, angina pectoris, sustained or episodic cardiac
+        arrhythmias, symptomatic peripheral vascular disease, peptic ulcer disease or any other
+        medical condition which the physician or investigator deems inappropriate for
+        participation, insulin-dependent diabetes; pregnant or lactating or not using adequate
+        birth control methods; requirement of any form of regular psychotropic medication
+        (antidepressants, antipsychotics, or anxiolytics) and recent psychiatric history; chronic
+        use of systemic steroids or antihistamines; skin sensitivity which would preclude use of a
+        transdermal system; abuse of alcohol or any other recreational or prescription drug; use
+        of any other tobacco products, including smokeless tobacco and nicotine products; previous
+        use of transdermal nicotine system; inability to fulfill all scheduled visits and
+        examination procedures throughout the study period.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dorothy Hatsukami, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 1996</verification_date>
+  <lastchanged_date>November 3, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Tobacco Use Disorder</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

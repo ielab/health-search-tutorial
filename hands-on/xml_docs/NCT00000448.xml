@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204528">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000448</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAAOMA10225</org_study_id>
+    <secondary_id>R01AA010225</secondary_id>
+    <nct_id>NCT00000448</nct_id>
+  </id_info>
+  <brief_title>Naltrexone Treatment for Alcoholic Women</brief_title>
+  <official_title>Naltrexone: Consummatory Behaviors in Alcoholic Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Yale University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will assess naltrexone's effectiveness in treating alcoholism in women and
+      provide information on its potential value in treating eating disorders common among
+      alcoholic women. Alcoholic women with and without both eating disorders and depression will
+      be randomly assigned to placebo or naltrexone treatment. Each group will receive behavioral
+      therapy for 12 weeks, with followup 6 months after treatment.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background: Despite important gender differences in drinking patterns, physiological effects
+      of alcohol, and co-occurring psychiatric conditions, relatively little is known about the
+      efficacy of naltrexone for the treatment of alcohol dependence in women. This study
+      investigated the safety and efficacy of naltrexone in combination with Cognitive Behavioral
+      Coping Skills Therapy (CBCST) in a sample of alcohol-dependent women, some with comorbid
+      eating pathology.
+
+      Methods: One hundred three women meeting DSM-IV criteria for alcohol dependence (29 with
+      comorbid eating disturbances) were randomized to receive either naltrexone or placebo for 12
+      weeks in addition to weekly group CBCST.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 1995</start_date>
+  <completion_date type="Actual">December 2000</completion_date>
+  <primary_completion_date type="Actual">December 2000</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Time to first day of drinking</measure>
+    <time_frame>12 week treatment period</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to first day of heavy drinking</measure>
+    <time_frame>12 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Defined as consuming 4 or more drinks during the 12-week period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of days abstinent</measure>
+    <time_frame>12 weeks of treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of heavy drinking days</measure>
+    <time_frame>12 weeks of treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Beck Depression Index</measure>
+    <time_frame>12 weeks of treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Beck Depression Inventory (BDI, BDI-1A, BDI-II), created by Dr. Aaron T. Beck, is a 21-question multiple-choice self-report inventory. Higher total scores indicate more severe depressive symptoms. This was administered bi-weekly throughout the treatment period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obsessive Compulsive Drinking Scale (OCDS)</measure>
+    <time_frame>Baseline, Month 1, 2, 3</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The OCDS was developed to reflect obsessionality and compulsivity related to craving and drinking behavior.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eating Disorder Examination (EDE)</measure>
+    <time_frame>baseline, month 1, 2, 3</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Eating Disorder Examination Interview (EDE) devised by Cooper &amp; Fairburn (1987) is a semi-structured interview conducted by a clinician in the assessment of an eating disorder. The questions concern the frequency in which the patient engages in behaviors indicative of an eating disorder over a 28 day period. The test is scored on a 7 point scale from 0-6. With a zero score indicating not having engaged in the questioned behavior.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">160</enrollment>
+  <condition>Alcoholism</condition>
+  <condition>Eating Disorder</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects were given an inert placebo for 2 days, followed by daily doses of matching placebo for a total of 12 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Naltrexone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects were prescribed 25 mg naltrexone for 2 days, followed by daily doses of 50 mg of naltrexone for a total of 12 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>naltrexone</intervention_name>
+    <description>Naltrexone is an opioid receptor antagonist used primarily in the management of alcohol dependence and opioid dependence.</description>
+    <arm_group_label>Naltrexone</arm_group_label>
+    <other_name>Revia</other_name>
+    <other_name>Depade</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>A placebo is a simulated or otherwise medically ineffectual treatment for a disease or other medical condition intended to deceive the recipient.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets criteria for alcohol dependence. Abstinent from alcohol for a period of at
+             least 5 days.
+
+          -  Able to read English and complete study evaluations.
+
+          -  A stable residence and a telephone to ensure that subjects can be located during the
+             study.
+
+        Exclusion Criteria:
+
+          -  Meets criteria for dependence on another psychoactive substance besides alcohol or
+             nicotine.
+
+          -  Regular use of psychoactive drugs except antidepressants.
+
+          -  Current use of disulfiram (Antabuse).
+
+          -  Psychotic or otherwise severely psychiatrically disabled.
+
+          -  Significant underlying medical conditions such as cerebral, renal, thyroid, or
+             cardiac pathology.
+
+          -  Abstinent longer than 30 days prior to admission to program.
+
+          -  Hepatocellular disease or elevated bilirubin levels.
+
+          -  Individuals with present history of opiate abuse or who require the use of opioid
+             analgesics.
+
+          -  Women who are pregnant, nursing, or not using a reliable method of birth control.
+
+          -  Women who are significantly overweight or significantly underweight.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephanie S O'Malley, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Yale School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Substance Abuse Treatment Unit, Yale University</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06511</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://onlinelibrary.wiley.com/doi/10.1111/j.1530-0277.2007.00347.x/abstract;jsessionid=18A7C01A7A320EC10B8553D84B4C4A1F.f02t03</url>
+    <description>Published paper</description>
+  </link>
+  <results_reference>
+    <citation>O'Malley SS, Sinha R, Grilo CM, Capone C, Farren CK, McKee SA, Rounsaville BJ, Wu R. Naltrexone and cognitive behavioral coping skills therapy for the treatment of alcohol drinking and eating disorder features in alcohol-dependent women: a randomized controlled trial. Alcohol Clin Exp Res. 2007 Apr;31(4):625-34.</citation>
+    <PMID>17374042</PMID>
+  </results_reference>
+  <verification_date>May 2014</verification_date>
+  <lastchanged_date>May 6, 2014</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Eating Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Naltrexone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

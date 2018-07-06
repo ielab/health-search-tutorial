@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204459">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000518</url>
+  </required_header>
+  <id_info>
+    <org_study_id>37</org_study_id>
+    <nct_id>NCT00000518</nct_id>
+  </id_info>
+  <brief_title>Electrophysiologic Study Versus Electrocardiographic Monitoring (ESVEM)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether electrophysiologic study (EPS) or Holter monitoring (HM) was the better
+      method for selecting effective long-term antiarrhythmic drug therapy in patients with
+      sustained ventricular tachycardia, ventricular fibrillation, or an episode of aborted sudden
+      death.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      There had been no prospective, randomized studies that compared the accuracy of EPS versus
+      HM in guiding long-term drug therapy for ventricular tachycardia or ventricular
+      fibrillation. Success had been reported using both techniques. Using a rigorous ECG
+      monitoring protocol in patients, a less than five percent per year incidence of sudden death
+      had been reported. Several investigators reported that the results of electropharmacologic
+      testing were predictive of clinical response. One of the largest studies, by Mason and
+      Winkle, reported that, in 51 patients with recurrent ventricular tachycardia who were
+      treated with drugs predicted to be effective based on the results of electropharmacologic
+      testing, ventricular tachycardia did not recur in 68 percent at 18 months of follow-up. In
+      contrast, ventricular tachycardia did not recur in only 11 percent of patients treated with
+      drugs predicted to be ineffective.
+
+      Two prior studies had compared, in a non-randomized fashion, the predictive accuracy of EPS
+      and HM in treating patients with ventricular tachycardia/ ventricular fibrillation. A
+      retrospective analysis of 44 patients with ventricular tachycardia/ventricular fibrillation
+      who underwent both HM and EPS was performed in which the elimination of ventricular
+      tachycardia on the HM and the suppression of ventricular tachycardia induced during
+      programmed stimulation was the therapeutic goal. The positive and negative predictive value
+      of EPS was found to be 88 percent and 94 percent, respectively. The corresponding values for
+      ECG monitoring were found to be 70 percent and 50 percent, respectively. It was concluded
+      that EPS provided a higher degree of accuracy than HM in predicting the long-term clinical
+      response to drug therapy, over a mean follow-up of 18 months. However, in this study the
+      criterion for judging efficacy by HM was a liberal one and involved only the elimination of
+      ventricular tachycardia.
+
+      A second study examined the results of HM in 19 patients with ventricular tachycardia who
+      were treated based on EPS. Among eight patients, in whom inducible ventricular tachycardia
+      was suppressed during electrophysiologic testing, six had no change or worsening of
+      premature ventricular contractions on the HM. These patients had a benign follow-up despite
+      the continued presence of frequent or complex ventricular ectopy. It was concluded that EPS
+      was superior to HM in predicting successful drug therapy.
+
+      Existing data suggested that both electrophysiologic testing and Holter monitoring might be
+      effective techniques for determining effective drug therapy for ventricular
+      tachycardia/ventricular fibrillation. However, there was not enough data available to assess
+      which technique was more effective. A prospective, randomized comparison of the two
+      techniques would be a very significant contribution which could potentially have a major
+      impact on the medical community.
+
+      DESIGN NARRATIVE:
+
+      Randomized, fixed sample, multicenter trial conducted at 14 institutions. Patients meeting
+      clinical criteria underwent Holter monitoring. Those having an average of 30 premature
+      ventricular contractions per hour underwent EPS. Those having inducible ventricular
+      tachycardia were randomized into an EPS arm or to a Holter exercise treadmill arm of drug
+      testing. Each patient received, in random sequences, up to six antiarrhythmic drugs. When an
+      effective drug was found, patients underwent a predischarge HM and exercise test. Follow-up
+      continued for one year after the last subject had been randomized. The primary endpoint in
+      the trial was time to arrhythmia recurrence during therapy with a drug predicted to be
+      effective by either EPS or HM.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1985</start_date>
+  <completion_date>December 1992</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Arrhythmia</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Death, Sudden, Cardiac</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Tachycardia, Ventricular</condition>
+  <condition>Ventricular Arrhythmia</condition>
+  <condition>Ventricular Fibrillation</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>electrophysiology</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>electrocardiography, ambulatory</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>imipramine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>mexiletine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>procainamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>quinidine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>sotalol</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with documented ventricular tachycardia and those resuscitated from sudden
+        death.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>The ESVEM trial. Electrophysiologic Study Versus Electrocardiographic Monitoring for selection of antiarrhythmic therapy of ventricular tachyarrhythmias. The ESVEM Investigators. Circulation. 1989 Jun;79(6):1354-60.</citation>
+    <PMID>2655967</PMID>
+  </reference>
+  <reference>
+    <citation>Freedman RA, Steinberg JS. Selective prolongation of QRS late potentials by sodium channel blocking antiarrhythmic drugs: relation to slowing of ventricular tachycardia. Electrophysiologic Study Versus Electrocardiographic Monitoring Trial (ESVEM) Investigators. J Am Coll Cardiol. 1991 Apr;17(5):1017-25.</citation>
+    <PMID>1848871</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr, Fleiss JL, Rolnitzky LM, Steinman RC. Stability over time of heart period variability in patients with previous myocardial infarction and ventricular arrhythmias. The CAPS and ESVEM investigators. Am J Cardiol. 1992 Mar 15;69(8):718-23.</citation>
+    <PMID>1546643</PMID>
+  </reference>
+  <reference>
+    <citation>Determinants of predicted efficacy of antiarrhythmic drugs in the electrophysiologic study versus electrocardiographic monitoring trial. The ESVEM Investigators. Circulation. 1993 Feb;87(2):323-9.</citation>
+    <PMID>8425281</PMID>
+  </reference>
+  <reference>
+    <citation>Mason JW. A comparison of electrophysiologic testing with Holter monitoring to predict antiarrhythmic-drug efficacy for ventricular tachyarrhythmias. Electrophysiologic Study versus Electrocardiographic Monitoring Investigators. N Engl J Med. 1993 Aug 12;329(7):445-51.</citation>
+    <PMID>8332149</PMID>
+  </reference>
+  <reference>
+    <citation>Mason JW. A comparison of seven antiarrhythmic drugs in patients with ventricular tachyarrhythmias. Electrophysiologic Study versus Electrocardiographic Monitoring Investigators. N Engl J Med. 1993 Aug 12;329(7):452-8.</citation>
+    <PMID>8332150</PMID>
+  </reference>
+  <reference>
+    <citation>Lazzara R. Results of Holter ECG guided therapy for ventricular arrhythmias: the ESVEM trial. Pacing Clin Electrophysiol. 1994 Mar;17(3 Pt 2):473-7.</citation>
+    <PMID>7513876</PMID>
+  </reference>
+  <reference>
+    <citation>Mason JW. Implications of the ESVEM trial for use of antiarrhythmic drugs that prolong cardiac repolarization. Am J Cardiol. 1993 Nov 26;72(16):59F-61F. Review.</citation>
+    <PMID>8237831</PMID>
+  </reference>
+  <reference>
+    <citation>Omoigui NA, Marcus FI, Mason JW, Hahn EA, Hartz VL, Hlatky MA. Cost of initial therapy in the Electrophysiological Study Versus ECG Monitoring trial (ESVEM). Circulation. 1995 Feb 15;91(4):1070-6.</citation>
+    <PMID>7850943</PMID>
+  </reference>
+  <reference>
+    <citation>Biblo LA, Carlson MD, Waldo AL. Insights into the Electrophysiology Study Versus Electrocardiographic Monitoring Trial: its programmed stimulation protocol may introduce bias when assessing long-term antiarrhythmic drug therapy. J Am Coll Cardiol. 1995 Jun;25(7):1601-4.</citation>
+    <PMID>7759711</PMID>
+  </reference>
+  <reference>
+    <citation>Anderson KP, Walker R, Dustman T, Fuller M, Mori M. Spontaneous sustained ventricular tachycardia in the Electrophysiologic Study Versus Electrocardiographic Monitoring (ESVEM) Trial. J Am Coll Cardiol. 1995 Aug;26(2):489-96.</citation>
+    <PMID>7541813</PMID>
+  </reference>
+  <reference>
+    <citation>Steinbeck G, Greene HL. Management of patients with life-threatening sustained ventricular tachyarrhythmias--the role of guided antiarrhythmic drug therapy. Prog Cardiovasc Dis. 1996 May-Jun;38(6):419-28.</citation>
+    <PMID>8638023</PMID>
+  </reference>
+  <reference>
+    <citation>Saksena S, Breithardt G, Dorian P, Greene HL, Madan N, Block M. Nonpharmacological therapy for malignant ventricular arrhythmias: implantable defibrillator trials. Prog Cardiovasc Dis. 1996 May-Jun;38(6):429-44. Review.</citation>
+    <PMID>8638024</PMID>
+  </reference>
+  <reference>
+    <citation>Saksena S, Madan N, Lewis C. Implanted cardioverter-defibrillators are preferable to drugs as primary therapy in sustained ventricular tachyarrhythmias. Prog Cardiovasc Dis. 1996 May-Jun;38(6):445-54. Review.</citation>
+    <PMID>8638025</PMID>
+  </reference>
+  <reference>
+    <citation>Garan H. A perspective on the ESVEM trial current knowledge: sotalol should not be the first-line agent in the management of ventricular arrhythmias. Prog Cardiovasc Dis. 1996 May-Jun;38(6):455-6.</citation>
+    <PMID>8638026</PMID>
+  </reference>
+  <reference>
+    <citation>Garan H. A perspective on the ESVEM trial and current knowledge: catheter ablation for ventricular tachyarrhythmias. Prog Cardiovasc Dis. 1996 May-Jun;38(6):457-62.</citation>
+    <PMID>8638027</PMID>
+  </reference>
+  <reference>
+    <citation>Anderson KP, Bigger JT Jr, Freedman RA. Electrocardiographic predictors in the ESVEM trial: unsustained ventricular tachycardia, heart period variability, and the signal-averaged electrocardiogram. Prog Cardiovasc Dis. 1996 May-Jun;38(6):463-88. Review.</citation>
+    <PMID>8638028</PMID>
+  </reference>
+  <reference>
+    <citation>Anderson KP, Hartz VL, Hahn EA, Moon TE. Design and analysis of the ESVEM Trial. Prog Cardiovasc Dis. 1996 May-Jun;38(6):489-502.</citation>
+    <PMID>8638029</PMID>
+  </reference>
+  <reference>
+    <citation>Winters SL, Curwin JH. Sotalol and the management of ventricular arrhythmias: implications of ESVEM. Pacing Clin Electrophysiol. 1995 Mar;18(3 Pt 1):377-8.</citation>
+    <PMID>7770355</PMID>
+  </reference>
+  <reference>
+    <citation>Reiter MJ, Mann DE, Reiffel JE, Hahn E, Hartz V. Significance and incidence of concordance of drug efficacy predictions by Holter monitoring and electrophysiological study in the ESVEM Trial. Electrophysiologic Study Versus Electrocardiographic Monitoring. Circulation. 1995 Apr 1;91(7):1988-95.</citation>
+    <PMID>7895357</PMID>
+  </reference>
+  <reference>
+    <citation>Gettes LS. ESVEM and the hazards of clinical trials. Circulation. 1995 Apr 1;91(7):1908-9.</citation>
+    <PMID>7895345</PMID>
+  </reference>
+  <reference>
+    <citation>Campbell RW. Interpretation of the results of the Electrophysiologic Study Versus Electrocardiographic Monitoring (ESVEM) study: impact on algorithm for drug selection. Coron Artery Dis. 1994 Aug;5(8):682-5. Review.</citation>
+    <PMID>8000621</PMID>
+  </reference>
+  <reference>
+    <citation>d'Avila A, Fenelon G, Nellens P, Brugada P. Interpretation of the results of the Electrophysiologic Study Versus Electrocardiographic Monitoring (ESVEM) study: electrocardiographic monitoring advocates' view. Coron Artery Dis. 1994 Aug;5(8):677-81. Review.</citation>
+    <PMID>8000620</PMID>
+  </reference>
+  <reference>
+    <citation>Mitchell LB, Wyse DG. Interpretation of the results of the Electrophysiologic Study Versus Electrocardiographic Monitoring (ESVEM) study: programmed ventricular stimulation advocates view. Coron Artery Dis. 1994 Aug;5(8):671-6. Review.</citation>
+    <PMID>8000619</PMID>
+  </reference>
+  <reference>
+    <citation>Klein RC. Comparative efficacy of sotalol and class I antiarrhythmic agents in patients with ventricular tachycardia or fibrillation: results of the Electrophysiology Study Versus Electrocardiographic Monitoring (ESVEM) Trial. Eur Heart J. 1993 Nov;14 Suppl H:78-84.</citation>
+    <PMID>8293756</PMID>
+  </reference>
+  <reference>
+    <citation>Monograph on Lessons Learned from ESVEM I. Mason JW, Guest Editor. Publications in the monograph are the results of a meeting in August 1995 of the ESVEM investigators and a number of non-ESVEM investigators prominent in the field of electrophysiology. The purpose of the meeting was to discuss the impact of ESVEM and developments in the field.</citation>
+  </reference>
+  <reference>
+    <citation>Mason JW, Marcus FI, Bigger JT, Lazzara R, Reiffel JA, Reiter MJ, Mann D. A summary and assessment of the findings and conclusions of the ESVEM trial. Prog Cardiovasc Dis. 1996 Mar-Apr;38(5):347-58.</citation>
+    <PMID>8604439</PMID>
+  </reference>
+  <reference>
+    <citation>Reiffel JA, Reiter MJ, Freedman RA, Mann D, Huang SK, Hahn E, Hartz V, Mason J; ESVEM Investigators. Influence of Holter monitor and electrophysiologic study methods and efficacy criteria on the outcome of patients with ventricular tachycardia and ventricular fibrillation in the ESVEM trial. Prog Cardiovasc Dis. 1996 Mar-Apr;38(5):359-70.</citation>
+    <PMID>8604440</PMID>
+  </reference>
+  <reference>
+    <citation>Hlatky MA. Cost and efficacy analysis in the ESVEM trial: implications for diagnosis and therapy for ventricular tachyarrhythmias. Prog Cardiovasc Dis. 1996 Mar-Apr;38(5):371-6.</citation>
+    <PMID>8604441</PMID>
+  </reference>
+  <reference>
+    <citation>Mitchell LB, Duff HJ, Gillis AM, Ramadan D, Wyse DG. A randomized clinical trial of the noninvasive and invasive approaches to drug therapy for ventricular tachycardia: long-term follow-up of the Calgary trial. Prog Cardiovasc Dis. 1996 Mar-Apr;38(5):377-84.</citation>
+    <PMID>8604442</PMID>
+  </reference>
+  <reference>
+    <citation>Takami Y, Ohtsuka G, Mueller J, Ebner M, Tayama E, Ohashi Y, Taylor D, Fernandes J, Schima H, Schmallegger H, Wolner E, Nosé Y. Current progress in the development of a totally implantable Gyro centrifugal artificial heart. ASAIO J. 1998 May-Jun;44(3):207-11.</citation>
+    <PMID>9617953</PMID>
+  </reference>
+  <reference>
+    <citation>Anderson J. Implantable defibrillators are preferable to pharmacologic therapy for patients with ventricular tachyarrhythmias: an antagonist's viewpoint. Prog Cardiovasc Dis. 1996 Mar-Apr;38(5):393-400. Review.</citation>
+    <PMID>8604444</PMID>
+  </reference>
+  <reference>
+    <citation>Cannom DS, Ruggio J. Specialty care at the crossroads: electrophysiology practice in the managed-care era. Prog Cardiovasc Dis. 1996 Mar-Apr;38(5):401-6.</citation>
+    <PMID>8604445</PMID>
+  </reference>
+  <reference>
+    <citation>Reiter MJ, Karagounis LA, Mann DE, Reiffel JA, Hahn E, Hartz V. Reproducibility of drug efficacy predictions by Holter monitoring in the electrophysiologic study versus electrocardiographic monitoring (ESVEM) trial. ESVEM Investigators. Am J Cardiol. 1997 Feb 1;79(3):315-22.</citation>
+    <PMID>9036751</PMID>
+  </reference>
+  <reference>
+    <citation>Prystowsky EN. Electrophysiologic Study versus Electrocardiographic Monitoring (ESVEM): a critical appraisal. Control Clin Trials. 1996 Jun;17(3 Suppl):28S-36S.</citation>
+    <PMID>8877265</PMID>
+  </reference>
+  <reference>
+    <citation>Reiffel JA. Implications of the Electrophysiologic Study versus Electrocardiographic Monitoring trial for controlling ventricular tachycardia and fibrillation. Am J Cardiol. 1996 Aug 29;78(4A):34-40.</citation>
+    <PMID>8780327</PMID>
+  </reference>
+  <reference>
+    <citation>Karagounis LA, Stein KM, Bair T, Albright D, Anderson JL. Fractal dimension predicts arrhythmia recurrence in patients being treated for life-threatening ventricular arrhythmias. ESVEM Investigators. J Electrocardiol. 1995;28 Suppl:71-3.</citation>
+    <PMID>8656133</PMID>
+  </reference>
+  <reference>
+    <citation>Reiffel JA, Hahn E, Hartz V, Reiter MJ. Sotalol for ventricular tachyarrhythmias: beta-blocking and class III contributions, and relative efficacy versus class I drugs after prior drug failure. ESVEM Investigators. Electrophysiologic Study Versus Electrocardiographic Monitoring. Am J Cardiol. 1997 Apr 15;79(8):1048-53.</citation>
+    <PMID>9114762</PMID>
+  </reference>
+  <reference>
+    <citation>Caruso AC, Marcus FI, Hahn EA, Hartz VL, Mason JW. Predictors of arrhythmic death and cardiac arrest in the ESVEM trial. Electrophysiologic Study Versus Electromagnetic Monitoring. Circulation. 1997 Sep 16;96(6):1888-92.</citation>
+    <PMID>9323077</PMID>
+  </reference>
+  <reference>
+    <citation>Mann DE, Hartz V, Hahn EA, Reiter MJ. Effect of reproducibility of baseline arrhythmia induction on drug efficacy predictions and outcome in the Electrophysiologic Study Versus Electrocardiographic Monitoring (ESVEM) trial. Am J Cardiol. 1997 Dec 1;80(11):1448-52.</citation>
+    <PMID>9399720</PMID>
+  </reference>
+  <reference>
+    <citation>Olshansky B, Hartz V, Hahn E, Mason J, Weaver MD; ESVEM Investigators. Location of death (in-hospital or out-of-hospital) and type of death (arrhythmic, nonarrhythmic, noncardiac) after inducible sustained ventricular tachyarrhythmias after syncope, sustained ventricular tachycardia, or nonfatal cardiac arrest (the ESVEM trial). Am J Cardiol. 2000 Oct 15;86(8):846-51.</citation>
+    <PMID>11024399</PMID>
+  </reference>
+  <reference>
+    <citation>Olshansky B, Hahn EA, Hartz VL, Prater SP, Mason JW. Clinical significance of syncope in the electrophysiologic study versus electrocardiographic monitoring (ESVEM) trial. The ESVEM Investigators. Am Heart J. 1999 May;137(5):878-86.</citation>
+    <PMID>10220637</PMID>
+  </reference>
+  <verification_date>October 2000</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Death, Sudden</mesh_term>
+    <mesh_term>Death, Sudden, Cardiac</mesh_term>
+    <mesh_term>Tachycardia</mesh_term>
+    <mesh_term>Tachycardia, Ventricular</mesh_term>
+    <mesh_term>Ventricular Fibrillation</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Procainamide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204506">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000471</url>
+  </required_header>
+  <id_info>
+    <org_study_id>60</org_study_id>
+    <secondary_id>R01HL042554</secondary_id>
+    <nct_id>NCT00000471</nct_id>
+  </id_info>
+  <brief_title>Lifestyle Heart Trial</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess long-term effects of a strict lifestyle change program on lipids, blood pressure,
+      myocardial perfusion, and coronary atherosclerosis.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The trial was the first randomized, controlled trial to determine whether patients outside a
+      hospital could be motivated to make and sustain comprehensive lifestyle changes and whether
+      coronary disease regression could occur as a result of lifestyle changes alone.
+
+      DESIGN NARRATIVE:
+
+      Patients were randomly assigned to an experimental group or to a usual-care group.
+      Experimental-group patients were prescribed a lifestyle program including a low-fat
+      vegetarian diet, moderate aerobic exercise, stress management training, stopping smoking,
+      and group support. No animal products were allowed in the vegetarian diet except egg white
+      and one cup per day of non-fat milk or yogurt. The diet contained approximately 10 percent
+      of calories as fat. Control-group patients were not asked to make lifestyle changes.
+      Coronary angiography was performed at baseline and at one year to assess progression or
+      regression of disease. Patients were recruited into the trial between January 1986 and
+      November 1988. The trial was supported prior to April 1989 from various sources other than
+      the National Heart, Lung, and Blood Institute. Follow-up continued for four years.
+
+      The study completion date listed in this record was obtained from the Query/View/Report
+      (QVR) System.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1989</start_date>
+  <completion_date type="Actual">March 1993</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Arteriosclerosis</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypercholesterolemia</condition>
+  <condition>Hypertension</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, vegetarianism</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, fat-restricted</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>exercise</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>smoking cessation</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, ages 35 to 75, with angiographically documented one, two, or three vessel
+        coronary disease; no myocardial infarction during the preceeding six weeks; and not
+        receiving streptokinase, alteplase, or lipid-lowering drugs.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>K. Gould</last_name>
+    <affiliation>University of Texas</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Dean Ornish</last_name>
+    <affiliation>University of California School of Medicine</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Ornish D, Brown SE, Scherwitz LW, Billings JH, Armstrong WT, Ports TA, McLanahan SM, Kirkeeide RL, Brand RJ, Gould KL. Can lifestyle changes reverse coronary heart disease? The Lifestyle Heart Trial. Lancet. 1990 Jul 21;336(8708):129-33.</citation>
+    <PMID>1973470</PMID>
+  </reference>
+  <reference>
+    <citation>Gould KL, Ornish D, Kirkeeide R, Brown S, Stuart Y, Buchi M, Billings J, Armstrong W, Ports T, Scherwitz L. Improved stenosis geometry by quantitative coronary arteriography after vigorous risk factor modification. Am J Cardiol. 1992 Apr 1;69(9):845-53.</citation>
+    <PMID>1550011</PMID>
+  </reference>
+  <reference>
+    <citation>Gould KL, Ornish D, Scherwitz L, Brown S, Edens RP, Hess MJ, Mullani N, Bolomey L, Dobbs F, Armstrong WT, et al. Changes in myocardial perfusion abnormalities by positron emission tomography after long-term, intense risk factor modification. JAMA. 1995 Sep 20;274(11):894-901.</citation>
+    <PMID>7674504</PMID>
+  </reference>
+  <verification_date>January 2000</verification_date>
+  <lastchanged_date>December 12, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arteriosclerosis</mesh_term>
+    <mesh_term>Atherosclerosis</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Hypercholesterolemia</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

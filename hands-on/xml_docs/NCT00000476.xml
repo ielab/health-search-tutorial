@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204501">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000476</url>
+  </required_header>
+  <id_info>
+    <org_study_id>65</org_study_id>
+    <nct_id>NCT00000476</nct_id>
+  </id_info>
+  <brief_title>Digitalis Investigation Group (DIG)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine if digitalis had a beneficial, harmful, or no effect on total mortality in
+      patients with clinical heart failure and sinus rhythm.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Despite widespread use of digitalis and its availability for nearly two centuries,
+      uncertainty surrounded the appropriateness of its role and value in treating congestive
+      heart failure patients in sinus rhythm. The study was a multicenter collaborative effort
+      with the Department of Veteran Affairs Cooperative Studies Program which provided support
+      for a data coordinating center and a pharmacy coordinating center.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind, simple, multicenter, international trial with 186 centers in the
+      United States and 116 in Canada. In the main trial, patients with left ventricular ejection
+      fractions of 0.45 or less were randomly assigned to digoxin (3397 patients) or placebo (3403
+      patients) in addition to diuretics and ACE inhibitors. In an ancillary trial of patients
+      with ejection fractions greater than 0.45, 492 patients were randomly assigned to digoxin
+      and 496 to placebo. Patients were recruited over a three-year period at the 302 centers and
+      followed for a minimum of two years. Patient enrollment began in February 1991 and ended in
+      September 1993. Follow-up ended in December 1995. The main results paper was published in
+      1997.
+
+      Three substudies were conducted. The quality of life/6-minute walk test substudy determined
+      the effect of treatment on a patient's well-being, daily activities, and functional status.
+      The Holter/signal averaging electrocardiogram substudy examined the pathophysiology of
+      sudden cardiac death. The neurohormonal substudy determined whether long-term administration
+      of digoxin attenuated the neuroendocrine response in patients with heart failure.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1990</start_date>
+  <completion_date>June 1998</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Arrhythmia</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Heart Failure, Congestive</condition>
+  <condition>Sinus Arrhythmia</condition>
+  <condition>Heart Failure</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>digitalis</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with clinical heart failure, sinus rhythm, and an ejection fraction less
+        than or equal to 45 percent.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>No Collins</last_name>
+    <affiliation>Veterans Administration Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>No Fye</last_name>
+    <affiliation>Veterans Administration Medical Center</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Collins JF, Cline DR, Garg R, and the DIG Study Group . Protecting patient's rights: the DIG study experience. Controlled Clin Trials 1994;15:135S.</citation>
+  </reference>
+  <reference>
+    <citation>Egan D, Garg R, Horney A for the Digitalis Investigation Group. Differences in patient populations between cardiovascular and noncardiovascular specialties: the DIG experience. Controlled Clin Trials 15:128S, 1994.</citation>
+  </reference>
+  <reference>
+    <citation>Garg R, Yusuf S, Gorlin R on behalf of the Digitalis Investigation Group. Inclusion of patients only with low ejection fraction in heart failure trial biases the population against women and the elderly. J Am Coll Cardiol Feb, 429A, 1994.</citation>
+  </reference>
+  <reference>
+    <citation>Digitalis Investigation Group. The effect of digoxin on mortality and morbidity in patients with heart failure. N Engl J Med. 1997 Feb 20;336(8):525-33.</citation>
+    <PMID>9036306</PMID>
+  </reference>
+  <reference>
+    <citation>Packer M. End of the oldest controversy in medicine. Are we ready to conclude the debate on digitalis? N Engl J Med. 1997 Feb 20;336(8):575-6.</citation>
+    <PMID>9023096</PMID>
+  </reference>
+  <reference>
+    <citation>Gheorghiade M, Pitt B. Digitalis Investigation Group (DIG) trial: a stimulus for further research. Am Heart J. 1997 Jul;134(1):3-12. Review.</citation>
+    <PMID>9266777</PMID>
+  </reference>
+  <reference>
+    <citation>Philbin EF, Garg R, Danisa K, Denny M, Gosselin G, Hassapoyannes C, Horney A, Johnstone DE, Lang RM, Ramanathan K, Safford RE, Sarma RJ, Weiss R, Williford WO, Fleg JL. The relationship between cardiothoracic ratio and left ventricular ejection fraction in congestive heart failure. Digitalis Investigation Group. Arch Intern Med. 1998 Mar 9;158(5):501-6.</citation>
+    <PMID>9508228</PMID>
+  </reference>
+  <reference>
+    <citation>Hobbs RE. Digoxin's effect on mortality and hospitalization in heart failure: implications of the DIG study. Digitalis Investigation Group. Cleve Clin J Med. 1997 May;64(5):234-7.</citation>
+    <PMID>9149472</PMID>
+  </reference>
+  <reference>
+    <citation>Rationale, design, implementation, and baseline characteristics of patients in the DIG trial: a large, simple, long-term trial to evaluate the effect of digitalis on mortality in heart failure. Control Clin Trials. 1996 Feb;17(1):77-97.</citation>
+    <PMID>8721804</PMID>
+  </reference>
+  <reference>
+    <citation>Rich MW, McSherry F, Williford WO, Yusuf S; Digitalis Investigation Group. Effect of age on mortality, hospitalizations and response to digoxin in patients with heart failure: the DIG study. J Am Coll Cardiol. 2001 Sep;38(3):806-13.</citation>
+    <PMID>11527638</PMID>
+  </reference>
+  <reference>
+    <citation>Philbin EF, Hunsberger S, Garg R, Lader E, Thadani U, McSherry F, Silver MA; Digitalis Investigation Group. Usefulness of clinical information to distinguish patients with normal from those with low ejection fractions in heart failure. Am J Cardiol. 2002 May 15;89(10):1218-21.</citation>
+    <PMID>12008182</PMID>
+  </reference>
+  <reference>
+    <citation>Rathore SS, Wang Y, Krumholz HM. Sex-based differences in the effect of digoxin for the treatment of heart failure. N Engl J Med. 2002 Oct 31;347(18):1403-11.</citation>
+    <PMID>12409542</PMID>
+  </reference>
+  <reference>
+    <citation>Fye CL, Gagne WH, Raisch DW, Jones MS, Sather MR, Buchanan SL, Chacon FR, Garg R, Yusuf S, Williford WO; DIG Investigators. The role of the pharmacy coordinating center in the DIG trial. Control Clin Trials. 2003 Dec;24(6 Suppl):289S-297S.</citation>
+    <PMID>14643075</PMID>
+  </reference>
+  <reference>
+    <citation>Williford WO, Collins JF, Horney A, Kirk G, McSherry F, Spence E, Stinnett S, Howell CL, Garg R, Egan D, Yusuf S; DIG Investigators. The role of the data coordinating center in the DIG trial. Control Clin Trials. 2003 Dec;24(6 Suppl):277S-288S.</citation>
+    <PMID>14643074</PMID>
+  </reference>
+  <reference>
+    <citation>Collins JF, Egan D, Yusuf S, Garg R, Williford WO, Geller N; DIG Investigators. Overview of the DIG trial. Control Clin Trials. 2003 Dec;24(6 Suppl):269S-276S.</citation>
+    <PMID>14643073</PMID>
+  </reference>
+  <reference>
+    <citation>Collins JF, Howell CL, Horney RA; Digitalis Investigation Group Investigators. Determination of vital status at the end of the DIG trial. Control Clin Trials. 2003 Dec;24(6):726-30.</citation>
+    <PMID>14662278</PMID>
+  </reference>
+  <reference>
+    <citation>Egan D, Geller N, Yusuf S, Garg R, Collins JF, Mathew J, Philbin E; DIG Investigators. Lessons learned from the DIG trial. Control Clin Trials. 2003 Dec;24(6 Suppl):316S-326S.</citation>
+    <PMID>14643078</PMID>
+  </reference>
+  <reference>
+    <citation>Collins JF, Martin S, Kent E, Liuni C, Garg R, Egan D; DIG Investigators. The use of regional coordinating centers in large clinical trials: the DIG trial. Control Clin Trials. 2003 Dec;24(6 Suppl):298S-305S.</citation>
+    <PMID>14643076</PMID>
+  </reference>
+  <reference>
+    <citation>Jones RC, Francis GS, Lauer MS. Predictors of mortality in patients with heart failure and preserved systolic function in the Digitalis Investigation Group trial. J Am Coll Cardiol. 2004 Sep 1;44(5):1025-9.</citation>
+    <PMID>15337214</PMID>
+  </reference>
+  <reference>
+    <citation>Adams KF Jr, Patterson JH, Gattis WA, O'Connor CM, Lee CR, Schwartz TA, Gheorghiade M. Relationship of serum digoxin concentration to mortality and morbidity in women in the digitalis investigation group trial: a retrospective analysis. J Am Coll Cardiol. 2005 Aug 2;46(3):497-504.</citation>
+    <PMID>16053964</PMID>
+  </reference>
+  <reference>
+    <citation>Mathew J, Wittes J, McSherry F, Williford W, Garg R, Probstfield J, Yusuf S; Digitalis Investigation Group. Racial differences in outcome and treatment effect in congestive heart failure. Am Heart J. 2005 Nov;150(5):968-76.</citation>
+    <PMID>16290973</PMID>
+  </reference>
+  <verification_date>November 2005</verification_date>
+  <lastchanged_date>December 1, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arrhythmia, Sinus</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Heart Failure</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

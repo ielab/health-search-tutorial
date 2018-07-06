@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204531">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000445</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAABRA11747</org_study_id>
+    <nct_id>NCT00000445</nct_id>
+  </id_info>
+  <brief_title>Use of Naltrexone in a Clinical Setting</brief_title>
+  <official_title>Effectiveness of Naltrexone in a Community Setting</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This 12-week trial will compare individuals receiving naltrexone or placebo plus substance
+      abuse counseling therapy versus those receiving only substance abuse counseling therapy in a
+      rural, nonacademic setting. A followup period of 12 months is included. The effect on
+      service utilization and the cost of the addition of naltrexone to treatment services for
+      alcohol dependence also will be assessed. The study will expand existing research concerning
+      the effectiveness of naltrexone in clinical trials versus a clinical setting.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <completion_date>September 2002</completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <enrollment>300</enrollment>
+  <condition>Alcoholism</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>naltrexone (Revia)</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets criteria for alcohol dependence (within the past 3 months).
+
+          -  Meets criteria for another substance use disorder (except narcotic dependence) but
+             must identify alcohol as the primary substance of abuse.
+
+          -  Must be able to provide an informed consent.
+
+          -  Consent to random assignment and be willing to commit to possible medication
+             treatment and research follow-up.
+
+          -  Must be eligible for treatment at the Dorchester Alcohol and Drug Commission.
+
+        Exclusion Criteria:
+
+          -  Meets criteria for opiate dependence.
+
+          -  Clinically significant medical problems such as collagen-vascular disease,
+             cardiovascular, renal, gastrointestinal or endocrine problem that would impair
+             participation or limit medication ingestion.
+
+          -  Hepatocellular disease.
+
+          -  Women who are pregnant, nursing, or not practicing an effective means of birth
+             control.
+
+          -  Currently being prescribed naltrexone.
+
+          -  Known sensitivity or allergy to naltrexone.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Center for Drug and Alcohol Programs, Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2003</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Naltrexone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

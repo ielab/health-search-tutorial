@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204409">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000568</url>
+  </required_header>
+  <id_info>
+    <org_study_id>206</org_study_id>
+    <nct_id>NCT00000568</nct_id>
+  </id_info>
+  <brief_title>Lung Health Study (LHS) I and III</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the Lung Health Study I, to determine the effects of Special Care, compared to Usual
+      Care, on rate of decline in pulmonary function in a group of cigarette smokers identified as
+      having mild abnormalities in pulmonary function.
+
+      In the Lung Health Study III, to determine the long-term effects of smoking cessation and
+      continued smoking, on cardiopulmonary morbidity, mortality, and the rate of decline in the
+      one second forced expiratory volume (FEV1) in men and women with early chronic obstructive
+      lung disease who have been followed prospectively for 12 to 15 years.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Chronic obstructive pulmonary disease (COPD) is a major cause of mortality and morbidity in
+      the United States, affecting nearly 10 million persons. COPD accounts for 60,000 deaths
+      yearly and ranks as the fourth leading cause of death. If current trends continue, it may
+      become the nation's fourth or even third leading cause of death by the year 2000.
+
+      Epidemiological studies consistently indicated that smoking was the over-whelming risk
+      factor for accelerated decline in pulmonary function and subsequent development of COPD.
+      Furthermore, evidence from several studies indicated that the rate of decline in pulmonary
+      function approached a more normal rate of decline upon cessation of cigarette smoking.
+
+      Another presumed risk factor for accelerated decline in pulmonary function was the presence
+      of hyperreactive airways, although it was not clear whether the mere presence of
+      hyperreactive airways contributed to the accelerated decline, or whether the decline
+      resulted from the reaction of the airways to various irritants over a long period of time.
+      It is possible that if the hyperreactive airway was kept non-reactive by pharmacological
+      means over a period of years, the expected abnormal decline might be lessened. This effect
+      might be enhanced by the cessation of cigarette smoking.
+
+      Although the evidence was strong that smoking and hyperreactive airways were risk factors
+      for COPD, it had not been demonstrated whether removal of risk factors at a stage when mild
+      dysfunction had already occurred would effectively modify the course of COPD.
+
+      DESIGN NARRATIVE:
+
+      Lung Health Study I
+
+      Randomized and controlled. Cigarette smokers with evidence of airways obstruction underwent
+      baseline testing that included spirometric responses to isoproterenol and methacholine and
+      were then randomly assigned to one of three groups: a no intervention or usual care group; a
+      group receiving a smoking cessation program and bronchodilator therapy; a group receiving a
+      smoking cessation program and a placebo bronchodilator. The placebo/bronchodilator therapy
+      was double-blind. The smoking intervention consisted of an intensive 12-session smoking
+      cessation program combining behavior modification and use of nicotine gum, with a continuing
+      five-year maintenance program to minimize relapse. The bronchodilator consisted of
+      ipratropium bromide prescribed three times daily, two puffs per time, from a metered-dose
+      inhaler. All groups were followed yearly for five years. The primary endpoint was the rate
+      of change of FEV1. Respiratory morbidity was a secondary endpoint. Recruitment began in
+      November 1986 and was completed in January 1989. The clinical phase of the trial ended in
+      April 1994. The study continues under contract N01-HR-46002 through September, 2004 for data
+      analysis and dissemination of research results.
+
+      Lung Health Study III
+
+      Beginning in fiscal year 1998, all surviving participants of LHS I are invited to
+      participate in the long-term followup. The study will determine, using an intent-to-treat
+      analysis, whether the LHS I smoking intervention significantly reduces the incidence of
+      clinically important respiratory and cardiovascular disease over a 12- to 15-year period
+      following study enrollment. The study will also estimate the magnitude of the effects of
+      FEV1 and FVC on the risks of cardiovascular and respiratory morbidity and mortality, after
+      controlling for smoking history. Studies will be conducted on the role of other factors such
+      as gender, airways reactivity, weight gain, and co-morbidities in determining the rate of
+      decline in pulmonary function and the risks of cardiovascular and respiratory morbidity and
+      mortality. A determination will also be made as to whether the improvement in lung function
+      and reduction in respiratory symptoms associated with smoking cessation result in improved
+      health-related quality of life (HRQL) and less depression over an extended follow-up period.
+      The LHS III, an investigator initiated long-term follow-up study, is not an NIH- defined
+      clinical trial.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1984</start_date>
+  <completion_date>January 2005</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Lung Diseases</condition>
+  <condition>Lung Diseases, Obstructive</condition>
+  <condition>Chronic Obstructive Pulmonary Disease</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>smoking cessation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ipratropium</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women who were cigarette smokers and between the ages of 35 and 60.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Connett</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <reference>
+    <citation>The Lung Health Study: Design of the Trial and Recruitment of Participants. Controlled Clin Trials, 14(2):1S-83S, 1993.</citation>
+  </reference>
+  <reference>
+    <citation>Lung Health Study Research Group: The Lung Health Study: Introduction. Controlled Clin Trials, 14(2):1S-2S, 1993.</citation>
+  </reference>
+  <reference>
+    <citation>Connett JE, Kusek JW, Bailey WC, O'Hara P, Wu M. Design of the Lung Health Study: a randomized clinical trial of early intervention for chronic obstructive pulmonary disease. Control Clin Trials. 1993 Apr;14(2 Suppl):3S-19S.</citation>
+    <PMID>8500311</PMID>
+  </reference>
+  <reference>
+    <citation>Durkin DA, Kjelsberg MO, Buist AS, Connett JE, Owens GR. Recruitment of participants in the Lung Health Study, I: Description of methods. Control Clin Trials. 1993 Apr;14(2 Suppl):20S-37S.</citation>
+    <PMID>8500310</PMID>
+  </reference>
+  <reference>
+    <citation>Connett JE, Bjornson-Benson WM, Daniels K. Recruitment of participants in the Lung Health Study, II: Assessment of recruiting strategies. Control Clin Trials. 1993 Apr;14(2 Suppl):38S-51S.</citation>
+    <PMID>8500312</PMID>
+  </reference>
+  <reference>
+    <citation>Bjornson-Benson WM, Stibolt TB, Manske KA, Zavela KJ, Youtsey DJ, Buist AS. Monitoring recruitment effectiveness and cost in a clinical trial. Control Clin Trials. 1993 Apr;14(2 Suppl):52S-67S.</citation>
+    <PMID>8500313</PMID>
+  </reference>
+  <reference>
+    <citation>Rudick C, Anthonisen NR, Manfreda J. Recruiting healthy participants for a large clinical trial. Control Clin Trials. 1993 Apr;14(2 Suppl):68S-79S.</citation>
+    <PMID>8500314</PMID>
+  </reference>
+  <reference>
+    <citation>Hurd SS. Lung Health Study: pulmonary function testing. Am Rev Respir Dis. 1991 Jun;143(6):1211.</citation>
+    <PMID>2048801</PMID>
+  </reference>
+  <reference>
+    <citation>Tashkin DP, Altose MD, Bleecker ER, Connett JE, Kanner RE, Lee WW, Wise R. The lung health study: airway responsiveness to inhaled methacholine in smokers with mild to moderate airflow limitation. The Lung Health Study Research Group. Am Rev Respir Dis. 1992 Feb;145(2 Pt 1):301-10.</citation>
+    <PMID>1736734</PMID>
+  </reference>
+  <reference>
+    <citation>Bjornson-Benson W, Nides M, Dolce J, Rand C, Lindgren P, O'Hara P, Buist AS. Nicotine gum use in the first year of the Lung Health Study. Addict Behav. 1993 Jul-Aug;18(4):491-502.</citation>
+    <PMID>8213303</PMID>
+  </reference>
+  <reference>
+    <citation>Buist AS, Connett JE, Miller RD, Kanner RE, Owens GR, Voelker HT. Chronic Obstructive Pulmonary Disease Early Intervention Trial (Lung Health Study). Baseline characteristics of randomized participants. Chest. 1993 Jun;103(6):1863-72.</citation>
+    <PMID>8404115</PMID>
+  </reference>
+  <reference>
+    <citation>Buist AS, Connett JE. The Lung Health Study. Baseline characteristics of randomized participants. Chest. 1993 Jun;103(6):1644.</citation>
+    <PMID>8404077</PMID>
+  </reference>
+  <reference>
+    <citation>Istvan JA, Nides MA, Buist AS, Greene P, Voelker H. Salivary cotinine, frequency of cigarette smoking, and body mass index: findings at baseline in the Lung Health Study. Am J Epidemiol. 1994 Mar 15;139(6):628-36.</citation>
+    <PMID>8172174</PMID>
+  </reference>
+  <reference>
+    <citation>Anthonisen NR, Connett JE, Kiley JP, Altose MD, Bailey WC, Buist AS, Conway WA Jr, Enright PL, Kanner RE, O'Hara P, et al. Effects of smoking intervention and the use of an inhaled anticholinergic bronchodilator on the rate of decline of FEV1. The Lung Health Study. JAMA. 1994 Nov 16;272(19):1497-505.</citation>
+    <PMID>7966841</PMID>
+  </reference>
+  <reference>
+    <citation>Gross NJ. The lung health study. Disappointment and triumph. JAMA. 1994 Nov 16;272(19):1539-41.</citation>
+    <PMID>7966848</PMID>
+  </reference>
+  <reference>
+    <citation>Enright PL, Johnson LR, Connett JE, Voelker H, Buist AS. Spirometry in the Lung Health Study. 1. Methods and quality control. Am Rev Respir Dis. 1991 Jun;143(6):1215-23.</citation>
+    <PMID>2048803</PMID>
+  </reference>
+  <reference>
+    <citation>Kanner RE, Connett JE, Altose MD, Buist AS, Lee WW, Tashkin DP, Wise RA. Gender difference in airway hyperresponsiveness in smokers with mild COPD. The Lung Health Study. Am J Respir Crit Care Med. 1994 Oct;150(4):956-61.</citation>
+    <PMID>7921469</PMID>
+  </reference>
+  <reference>
+    <citation>Murray RP, Connett JE, Lauger GG, Voelker HT. Error in smoking measures: effects of intervention on relations of cotinine and carbon monoxide to self-reported smoking. The Lung Health Study Research Group. Am J Public Health. 1993 Sep;83(9):1251-7.</citation>
+    <PMID>8363000</PMID>
+  </reference>
+  <reference>
+    <citation>O'Hara P, Grill J, Rigdon MA, Connett JE, Lauger GA, Johnston JJ. Design and results of the initial intervention program for the Lung Health Study. The Lung Health Study Research Group. Prev Med. 1993 May;22(3):304-15.</citation>
+    <PMID>8327414</PMID>
+  </reference>
+  <reference>
+    <citation>Nides MA, Rakos RF, Gonzales D, Murray RP, Tashkin DP, Bjornson-Benson WM, Lindgren P, Connett JE. Predictors of initial smoking cessation and relapse through the first 2 years of the Lung Health Study. J Consult Clin Psychol. 1995 Feb;63(1):60-9.</citation>
+    <PMID>7896992</PMID>
+  </reference>
+  <reference>
+    <citation>Bjornson W, Rand C, Connett JE, Lindgren P, Nides M, Pope F, Buist AS, Hoppe-Ryan C, O'Hara P. Gender differences in smoking cessation after 3 years in the Lung Health Study. Am J Public Health. 1995 Feb;85(2):223-30.</citation>
+    <PMID>7856782</PMID>
+  </reference>
+  <reference>
+    <citation>Enright PL, Connett JE, Kanner RE, Johnson LR, Lee WW. Spirometry in the Lung Health Study: II. Determinants of short-term intraindividual variability. Am J Respir Crit Care Med. 1995 Feb;151(2 Pt 1):406-11.</citation>
+    <PMID>7842199</PMID>
+  </reference>
+  <reference>
+    <citation>Wise RA, Connett J, Kurnow K, Grill J, Johnson L, Kanner R, Enright P. Selection of spirometric measurements in a clinical trial, the Lung Health Study. Am J Respir Crit Care Med. 1995 Mar;151(3 Pt 1):675-81.</citation>
+    <PMID>7881655</PMID>
+  </reference>
+  <reference>
+    <citation>Nides M, Rand C, Dolce J, Murray R, O'Hara P, Voelker H, Connett J. Weight gain as a function of smoking cessation and 2-mg nicotine gum use among middle-aged smokers with mild lung impairment in the first 2 years of the Lung Health Study. Health Psychol. 1994 Jul;13(4):354-61.</citation>
+    <PMID>7957014</PMID>
+  </reference>
+  <reference>
+    <citation>Owens GR: Lung Health Study: Assessing the Impact of Early Intervention. Monograph. Chronic Bronchitis: Time to Act, Strategies for Prevention and Intervention. From the Proceedings of the Boehringer Ingelheim Ireland Symposium. Killarney, Ireland, July 1988.</citation>
+  </reference>
+  <reference>
+    <citation>Connett JE, Lee WW. Estimation of the coefficient of variation from laboratory analysis of split specimens for quality control in clinical trials. Control Clin Trials. 1990 Feb;11(1):24-36.</citation>
+    <PMID>2157578</PMID>
+  </reference>
+  <reference>
+    <citation>Owens GR: Pulmonary Function Tests as Guides in the Differential Physiologic Comparisons of Obstructive Pulmonary Diseases. J Respir Dis, II(6):S23-S29, 1990.</citation>
+  </reference>
+  <reference>
+    <citation>Tashkin DP, Rand C, Nides M, Simmons M, Wise R, Coulson AH, Li V, Gong H Jr. A nebulizer chronolog to monitor compliance with inhaler use. Am J Med. 1991 Oct 21;91(4A):33S-36S.</citation>
+    <PMID>1951401</PMID>
+  </reference>
+  <reference>
+    <citation>Owens GR. Public screening for lung disease: experience with the NIH Lung Health Study. Am J Med. 1991 Oct 21;91(4A):37S-40S.</citation>
+    <PMID>1835293</PMID>
+  </reference>
+  <reference>
+    <citation>Rand CS, Wise RA, Nides M, Simmons MS, Bleecker ER, Kusek JW, Li VC, Tashkin DP. Metered-dose inhaler adherence in a clinical trial. Am Rev Respir Dis. 1992 Dec;146(6):1559-64.</citation>
+    <PMID>1456575</PMID>
+  </reference>
+  <reference>
+    <citation>Nides MA, Tashkin DP, Simmons MS, Wise RA, Li VC, Rand CS. Improving inhaler adherence in a clinical trial through the use of the nebulizer chronolog. Chest. 1993 Aug;104(2):501-7.</citation>
+    <PMID>8339641</PMID>
+  </reference>
+  <reference>
+    <citation>Wu MC, Lan KK, Connett JE. Use of surrogate information time for monitoring the effect of treatment on the change in a response variable in clinical trials. Stat Med. 1994 May 15;13(9):945-53.</citation>
+    <PMID>8047746</PMID>
+  </reference>
+  <reference>
+    <citation>Johnson LR, Enright PL, Voelker HT, Tashkin DP. Volume spirometers need automated internal temperature sensors. Am J Respir Crit Care Med. 1994 Dec;150(6 Pt 1):1575-80.</citation>
+    <PMID>7952617</PMID>
+  </reference>
+  <reference>
+    <citation>Istvan JA, Buist AS, Hess DL, Voelker H. Relationship of smoking cessation and nicotine gum use to salivary androstenedione and testosterone in middle-aged men. Metabolism. 1995 Jan;44(1):90-5.</citation>
+    <PMID>7854172</PMID>
+  </reference>
+  <reference>
+    <citation>Murray RP, Istvan JA, Voelker HT, Rigdon MA, Wallace MD. Level of involvement with alcohol and success at smoking cessation in the lung health study. J Stud Alcohol. 1995 Jan;56(1):74-82.</citation>
+    <PMID>7752637</PMID>
+  </reference>
+  <reference>
+    <citation>Tashkin DP, Altose MD, Connett JE, et al and the Lung Health Study Research Group: Airway Hyperresponsiveness in &quot;Irreversible&quot; Chronic Obstructive Pulmonary Disease. In: Spector SL, (Ed). Provocation Testing in Clinical Practice. New York, Marcel Dekker, Inc. ,575-598, 1995.</citation>
+  </reference>
+  <reference>
+    <citation>Murray RP, Johnston JJ, Dolce JJ, Lee WW, O'Hara P. Social support for smoking cessation and abstinence: the Lung Health Study. Lung Health Study Research Group. Addict Behav. 1995 Mar-Apr;20(2):159-70.</citation>
+    <PMID>7484310</PMID>
+  </reference>
+  <reference>
+    <citation>Murray RP, Bailey WC, Daniels K, Bjornson WM, Kurnow K, Connett JE, Nides MA, Kiley JP. Safety of nicotine polacrilex gum used by 3,094 participants in the Lung Health Study. Lung Health Study Research Group. Chest. 1996 Feb;109(2):438-45.</citation>
+    <PMID>8620719</PMID>
+  </reference>
+  <reference>
+    <citation>Pope CA 3rd, Kanner RE. Acute effects of PM10 pollution on pulmonary function of smokers with mild to moderate chronic obstructive pulmonary disease. Am Rev Respir Dis. 1993 Jun;147(6 Pt 1):1336-40.</citation>
+    <PMID>8503541</PMID>
+  </reference>
+  <reference>
+    <citation>Utell MJ, Samet JM. Particulate air pollution and health. New evidence on an old problem. Am Rev Respir Dis. 1993 Jun;147(6 Pt 1):1334-5.</citation>
+    <PMID>8503540</PMID>
+  </reference>
+  <reference>
+    <citation>Owens G. Editorial: Obstructive, Occupational, and Environmental Diseases: Editorial Overview. Current Opinion in Pul Med, 1:73-75, 1995.</citation>
+  </reference>
+  <reference>
+    <citation>Istvan J, Murray R, Voelker H. The relationship between patterns of alcohol consumption and body weight. Lung Health Study Research Group. Int J Epidemiol. 1995 Jun;24(3):543-6.</citation>
+    <PMID>7672894</PMID>
+  </reference>
+  <reference>
+    <citation>Rand CS, Nides M, Cowles MK, Wise RA, Connett J. Long-term metered-dose inhaler adherence in a clinical trial. The Lung Health Study Research Group. Am J Respir Crit Care Med. 1995 Aug;152(2):580-8.</citation>
+    <PMID>7633711</PMID>
+  </reference>
+  <reference>
+    <citation>Murray RP, Istvan JA, Voelker HT. Does cessation of smoking cause a change in alcohol consumption? Evidence from the Lung Health Study. Subst Use Misuse. 1996 Jan;31(2):141-56.</citation>
+    <PMID>8834004</PMID>
+  </reference>
+  <reference>
+    <citation>Cowles MK, Carlin BP, Conett JE: Bayesian Tobit Modeling of Longitudinal Ordinal Clinical Trial Compliance Data with Nonignorable Missingness. J Am Stat Assoc, 92(433):86-98, 1996.</citation>
+  </reference>
+  <reference>
+    <citation>Simmons MS, Nides MA, Rand CS, Wise RA, Tashkin DP. Trends in compliance with bronchodilator inhaler use between follow-up visits in a clinical trial. Chest. 1996 Apr;109(4):963-8.</citation>
+    <PMID>8635378</PMID>
+  </reference>
+  <reference>
+    <citation>Kanner RE. Early intervention in chronic obstructive pulmonary disease. A review of the Lung Health Study results. Med Clin North Am. 1996 May;80(3):523-47.</citation>
+    <PMID>8637302</PMID>
+  </reference>
+  <reference>
+    <citation>Tashkin DP, Altose MD, Connett JE, Kanner RE, Lee WW, Wise RA. Methacholine reactivity predicts changes in lung function over time in smokers with early chronic obstructive pulmonary disease. The Lung Health Study Research Group. Am J Respir Crit Care Med. 1996 Jun;153(6 Pt 1):1802-11.</citation>
+    <PMID>8665038</PMID>
+  </reference>
+  <reference>
+    <citation>Murray RP, Voelker HT, Rakos RF, Nides MA, McCutcheon VJ, Bjornson W. Intervention for relapse to smoking: the Lung Health Study restart programs. Addict Behav. 1997 Mar-Apr;22(2):281-6.</citation>
+    <PMID>9113223</PMID>
+  </reference>
+  <reference>
+    <citation>Bjornson W: Early Chronic Obstructive Pulmonary Disease: Results from the Lung Health Study. Am J Health Behav, 20(5):270-278, 1996.</citation>
+  </reference>
+  <reference>
+    <citation>Wise RA, Enright PL, Connett JE, Anthonisen NR, Kanner RE, Lindgren P, O'Hara P, Owens GR, Rand CS, Tashkin DP. Effect of weight gain on pulmonary function after smoking cessation in the Lung Health Study. Am J Respir Crit Care Med. 1998 Mar;157(3 Pt 1):866-72.</citation>
+    <PMID>9517604</PMID>
+  </reference>
+  <reference>
+    <citation>Murray RP, Istvan JA, Daniels K, Beaudoin CM. Alcohol and morbidity in the Lung Health Study. J Stud Alcohol. 1998 May;59(3):250-7.</citation>
+    <PMID>9598705</PMID>
+  </reference>
+  <reference>
+    <citation>O'Hara P, Connett JE, Lee WW, Nides M, Murray R, Wise R. Early and late weight gain following smoking cessation in the Lung Health Study. Am J Epidemiol. 1998 Nov 1;148(9):821-30.</citation>
+    <PMID>9801011</PMID>
+  </reference>
+  <reference>
+    <citation>Thun MJ, Colditz GA. Invited commentary on &quot;early and late weight gain following smoking cessation in the Lung Health Study&quot;. Am J Epidemiol. 1998 Nov 1;148(9):831-2. Review.</citation>
+    <PMID>9801012</PMID>
+  </reference>
+  <reference>
+    <citation>Scanlon PD, Connett JE, Waller LA, Altose MD, Bailey WC, Buist AS, Tashkin DP; Lung Health Study Research Group. Smoking cessation and lung function in mild-to-moderate chronic obstructive pulmonary disease. The Lung Health Study. Am J Respir Crit Care Med. 2000 Feb;161(2 Pt 1):381-90.</citation>
+    <PMID>10673175</PMID>
+  </reference>
+  <reference>
+    <citation>Istvan JA, Lee WW, Buist AS, Connett JE. Relation of salivary cotinine to blood pressure in middle-aged cigarette smokers. Am Heart J. 1999 May;137(5):928-31.</citation>
+    <PMID>10220643</PMID>
+  </reference>
+  <reference>
+    <citation>Kanner RE, Connett JE, Williams DE, Buist AS. Effects of randomized assignment to a smoking cessation intervention and changes in smoking habits on respiratory symptoms in smokers with early chronic obstructive pulmonary disease: the Lung Health Study. Am J Med. 1999 Apr;106(4):410-6.</citation>
+    <PMID>10225243</PMID>
+  </reference>
+  <reference>
+    <citation>Sandford AJ, Chagani T, Weir TD, Connett JE, Anthonisen NR, Paré PD. Susceptibility genes for rapid decline of lung function in the lung health study. Am J Respir Crit Care Med. 2001 Feb;163(2):469-73.</citation>
+    <PMID>11179124</PMID>
+  </reference>
+  <reference>
+    <citation>Kanner RE, Anthonisen NR, Connett JE; Lung Health Study Research Group. Lower respiratory illnesses promote FEV(1) decline in current smokers but not ex-smokers with mild chronic obstructive pulmonary disease: results from the lung health study. Am J Respir Crit Care Med. 2001 Aug 1;164(3):358-64.</citation>
+    <PMID>11500333</PMID>
+  </reference>
+  <reference>
+    <citation>Murray RP, Connett JE, Buist AS, Gerald LB, Eichenhorn MS. Experience of Black participants in the Lung Health Study smoking cessation intervention program. Nicotine Tob Res. 2001 Nov;3(4):375-82.</citation>
+    <PMID>11694205</PMID>
+  </reference>
+  <reference>
+    <citation>Murray RP, Gerald LB, Lindgren PG, Connett JE, Rand CS, Anthonisen NR. Characteristics of participants who stop smoking and sustain abstinence for 1 and 5 years in the Lung Health Study. Prev Med. 2000 May;30(5):392-400.</citation>
+    <PMID>10845748</PMID>
+  </reference>
+  <reference>
+    <citation>Anthonisen NR, Connett JE, Enright PL, Manfreda J; Lung Health Study Research Group. Hospitalizations and mortality in the Lung Health Study. Am J Respir Crit Care Med. 2002 Aug 1;166(3):333-9.</citation>
+    <PMID>12153966</PMID>
+  </reference>
+  <reference>
+    <citation>Anthonisen NR, Connett JE, Murray RP. Smoking and lung function of Lung Health Study participants after 11 years. Am J Respir Crit Care Med. 2002 Sep 1;166(5):675-9.</citation>
+    <PMID>12204864</PMID>
+  </reference>
+  <reference>
+    <citation>Connett JE, Murray RP, Buist AS, Wise RA, Bailey WC, Lindgren PG, Owens GR; Lung Health Study Research Group. Changes in smoking status affect women more than men: results of the Lung Health Study. Am J Epidemiol. 2003 Jun 1;157(11):973-9.</citation>
+    <PMID>12777360</PMID>
+  </reference>
+  <reference>
+    <citation>Anthonisen NR, Skeans MA, Wise RA, Manfreda J, Kanner RE, Connett JE; Lung Health Study Research Group. The effects of a smoking cessation intervention on 14.5-year mortality: a randomized clinical trial. Ann Intern Med. 2005 Feb 15;142(4):233-9.</citation>
+    <PMID>15710956</PMID>
+  </reference>
+  <reference>
+    <citation>Samet JM. Smoking kills: experimental proof from the Lung Health Study. Ann Intern Med. 2005 Feb 15;142(4):299-301.</citation>
+    <PMID>15710963</PMID>
+  </reference>
+  <verification_date>August 2005</verification_date>
+  <lastchanged_date>August 17, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204415">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000562</url>
+  </required_header>
+  <id_info>
+    <org_study_id>200</org_study_id>
+    <secondary_id>R01HL016154-05</secondary_id>
+    <nct_id>NCT00000562</nct_id>
+  </id_info>
+  <brief_title>Extracorporeal Support for Respiratory Insufficiency (ECMO)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate indications for the use and efficacy of extracorporeal membrane oxygenators
+      (ECMO's) for the support of patients with potentially reversible acute respiratory failure.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The report of the Task Force on Respiratory Diseases identified a clinical syndrome of acute
+      respiratory insufficiency (ARI) and estimated that approximately 60,000 Americans die of ARI
+      yearly. ARI was not precisely defined; indeed, the Task Force realized that pathologists do
+      not recognize ARI. The Task Force pointed out that no diagnostic tests for early detection
+      of ARI exist, that the incidence and prevalence of the disease are not known, and that
+      existing therapy is supportive and nonspecific (diuretics, corticosteroids, etc.). The
+      pathogenesis of the syndrome, the mechanism of interstitial edema, the defenses of the lung
+      against agents causing ARI, and the ultrastructural pathology and natural history of the
+      disease were virtually unknown. The Task Force indicated a need for Respiratory Care Centers
+      with highly trained personnel that could reduce mortality from ARI.
+
+      This clinical trial grew out of the Task Force report. Nine participating centers defined
+      ARI in clinical and physiological terms and agreed to a prospective randomized study for 3
+      years to compare treatment of severe ARI by conventional means with treatment by
+      extracorporeal membrane oxygenators.
+
+      Animal studies have shown that ECMO's can provide one to two weeks' support for the lungs
+      without serious blood damage, in contrast to bubble oxygenators, which allow complete
+      pulmonary bypass for approximately 6 hours, after which severe blood damage occurs at the
+      direct blood-gas interface. If patients with hypoxia secondary to acute reversible lung
+      injury can be supported with ECMO's until the lung lesion heals, improvement in survival
+      rates and avoidance of the hazards of conventional therapy may result. The trial, now
+      completed, was conducted at nine clinical centers in the United States.
+
+      DESIGN NARRATIVE:
+
+      Randomized, non-blind, fixed sample; 90 eligible patients were randomly assigned to a group
+      receiving extracorporeal membrane oxygenation plus conventional therapy or to a group
+      receiving conventional therapy.
+
+      The study completion date listed in this record was obtained from the Query/View/Report
+      (QVR) System.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1974</start_date>
+  <completion_date type="Actual">November 1979</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Acute Respiratory Failure</condition>
+  <condition>Lung Diseases</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>extracorporeal membrane oxygenation</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, ages 12 to 65, not stratified as to ethnic group, who had potentially
+        reversible acute respiratory failure.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert Bartlett</last_name>
+    <affiliation>University of California, Irvine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Philip Drinker</last_name>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>L. Edmunds</last_name>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alan Morris</last_name>
+    <affiliation>University of Utah</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>E. Pierce</last_name>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Herbert Proctor</last_name>
+    <affiliation>University of North Carolina</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Arthur Thomas</last_name>
+    <affiliation>University of California</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Warren Zapol</last_name>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <reference>
+    <citation>National Heart, Lung, and Blood Institute, Extracorporeal Support for Respiratory Insufficiency, A Collaborative Study. December 1979.</citation>
+  </reference>
+  <reference>
+    <citation>Zapol WM, Snider MT, Hill JD, Fallat RJ, Bartlett RH, Edmunds LH, Morris AH, Peirce EC 2nd, Thomas AN, Proctor HJ, Drinker PA, Pratt PC, Bagniewski A, Miller RG Jr. Extracorporeal membrane oxygenation in severe acute respiratory failure. A randomized prospective study. JAMA. 1979 Nov 16;242(20):2193-6.</citation>
+    <PMID>490805</PMID>
+  </reference>
+  <verification_date>January 2000</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

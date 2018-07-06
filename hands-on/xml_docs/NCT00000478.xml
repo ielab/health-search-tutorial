@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204499">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000478</url>
+  </required_header>
+  <id_info>
+    <org_study_id>67</org_study_id>
+    <nct_id>NCT00000478</nct_id>
+  </id_info>
+  <brief_title>Asymptomatic Cardiac Ischemia Pilot (ACIP) Study</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the feasibility of and test the methodology for a full-scale clinical trial of
+      therapies for asymptomatic cardiac ischemia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Asymptomatic cardiac ischemia, frequently designated as silent myocardial ischemia, refers
+      to episodes of objectively demonstrable transient ischemia in the absence of symptoms.
+      Annually, more than one million patients suffer acute myocardial infarction. Of the
+      approximately 700,000 who are discharged alive from the hospital, as many as 180,000 will be
+      asymptomatic but have evidence of myocardial ischemia on a pre-discharge exercise test.
+      Asymptomatic ischemia has been linked with sudden death or myocardial infarction. It is
+      estimated that in the United States over six million patients have chronic, symptomatic
+      coronary heart disease and up to three million of these may exhibit transient asymptomatic
+      myocardial ischemia. Asymptomatic ischemia is thought to be present in the majority of
+      coronary heart disease patients with stable angina pectoris, over 70 percent of all ischemic
+      episodes being asymptomatic. Asymptomatic ischemia following myocardial infarction or in the
+      presence of chronic stable angina may be associated with substantially increased morbidity
+      and mortality
+
+      Traditionally, treatment of patients with coronary heart disease has been given for and
+      guided by patients' symptoms. There was a growing trend toward recognizing asymptomatic
+      cardiac ischemia and according it importance equal to that of symptomatic ischemia. Many
+      physicians believed that suppression of asymptomatic ischemia in patients with coronary
+      heart disease would reduce morbidity and mortality. This was leading to rapidly increasing
+      and widespread applications of both medical and revascularization therapies.
+
+      In 1989, there was a lack of knowledge as to the relative efficacy of different treatment
+      strategies to control asymptomatic cardiac ischemia. Given the estimated high prevalence of
+      asymptomatic cardiac ischemia in patients with coronary heart disease and evidence of
+      increased risk of untoward outcome, the public health problem was of sufficient magnitude to
+      warrant a pilot study to determine to what extent asymptomatic ischemia could be controlled.
+      If the pilot study demonstrated feasibility, a full-scale clinical trial would then be
+      considered to evaluate the impact of effective treatment of asymptomatic ischemia on
+      survival and cardiovascular morbidity in patients with coronary heart disease.
+
+      DESIGN NARRATIVE:
+
+      A total of 1,959 patients were screened by AECG monitoring; 49 percent had asymptomatic
+      ischemia, and 65 percent were enrolled in the study. The 618 patients were randomized to one
+      of the three treatment strategies: 202 to angina-guided medical strategy with titration of
+      anti-ischemic medication to relieve angina; 202 to angina-guided plus AECG ischemia-guided
+      medical strategy with titration of anti-ischemic medication to eliminate both angina and
+      AECG ischemia; and 212 to revascularization by angioplasty or bypass surgery. Patients able
+      to take either beta-adrenergic blocking agents or calcium antagonists were also randomized
+      to receive one of two medical combination regimens: atenolol plus nifedipine or diltiazem
+      plus isosorbide dinitrate. Those who could be treated with only one regimen, such as
+      asthmatic patients, were assigned to the appropriate regimen. The primary outcome was the
+      absence of ischemia at twelve weeks. Recruitment ended in January 1993. Clinical based
+      follow-up was completed for 18 months and survival status free of MI was completed for 24
+      months
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 1990</start_date>
+  <completion_date>June 1997</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>atenolol</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>nifedipine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>diltiazem</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>isosorbide dinitrate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>coronary artery bypass coronary artery bypass</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>angioplasty, transluminal, percutaneous coronary</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men aand women with angiographically documented coronary artery disease, ischemia on both
+        stress (exercise) testing and 48-hour ambulatory electrocardiogram monitoring, and who
+        were amenable to revascularization.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jerome Cohen</last_name>
+    <affiliation>St. Louis University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Richard Davies</last_name>
+    <affiliation>University of Ottawa</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Deanfield</last_name>
+    <affiliation>St. Bartholomew's Hospital, University of London</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mark Ketterer</last_name>
+    <affiliation>Henry Ford Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Genell Knatterud</last_name>
+  </overall_official>
+  <overall_official>
+    <last_name>Hiltrud Mueller</last_name>
+    <affiliation>Montefiore Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pamela Ouyang</last_name>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Carl Pepine</last_name>
+    <affiliation>University of Florida</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Craig Pratt</last_name>
+    <affiliation>Baylor College of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>William Rogers</last_name>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Andrew Selwyn</last_name>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Pepine CJ, Geller NL, Knatterud GL, Bourassa MG, Chaitman BR, Davies RF, Day P, Deanfield JE, Goldberg AD, McMahon RP, et al. The Asymptomatic Cardiac Ischemia Pilot (ACIP) study: design of a randomized clinical trial, baseline data and implications for a long-term outcome trial. J Am Coll Cardiol. 1994 Jul;24(1):1-10. Erratum in: J Am Coll Cardiol 1995 Sep;26(3):842.</citation>
+    <PMID>8006249</PMID>
+  </reference>
+  <reference>
+    <citation>Knatterud GL, Bourassa MG, Pepine CJ, Geller NL, Sopko G, Chaitman BR, Pratt C, Stone PH, Davies RF, Rogers WJ, et al. Effects of treatment strategies to suppress ischemia in patients with coronary artery disease: 12-week results of the Asymptomatic Cardiac Ischemia Pilot (ACIP) study. J Am Coll Cardiol. 1994 Jul;24(1):11-20. Erratum in: J Am Coll Cardiol 1995 Sep;26(3):842.</citation>
+    <PMID>8006252</PMID>
+  </reference>
+  <reference>
+    <citation>Deedwania PC. Is there evidence in support of the ischemia suppression hypothesis? J Am Coll Cardiol. 1994 Jul;24(1):21-4.</citation>
+    <PMID>8006267</PMID>
+  </reference>
+  <reference>
+    <citation>McMahon RP, Proschan M, Geller NL, Stone PH, Sopko G. Sample size calculation for clinical trials in which entry criteria and outcomes are counts of events. ACIP Investigators. Asymptomatic Cardiac Ischemia Pilot. Stat Med. 1994 Apr 30;13(8):859-70.</citation>
+    <PMID>8047740</PMID>
+  </reference>
+  <reference>
+    <citation>Tamesis B, Stelken A, Byers S, Shaw L, Younis L, Miller DD, Chaitman BR. Comparison of the Asymptomatic Cardiac Ischemia Pilot and modified Asymptomatic Cardiac Ischemia Pilot versus Bruce and Cornell exercise protocols. Am J Cardiol. 1993 Sep 15;72(9):715-20.</citation>
+    <PMID>8249851</PMID>
+  </reference>
+  <reference>
+    <citation>Chaitman BR, Stone PH, Knatterud GL, Forman SA, Sopko G, Bourassa MG, Pratt C, Rogers WJ, Pepine CJ, Conti CR. Asymptomatic Cardiac Ischemia Pilot (ACIP) study: impact of anti-ischemia therapy on 12-week rest electrocardiogram and exercise test outcomes. The ACIP Investigators. J Am Coll Cardiol. 1995 Sep;26(3):585-93.</citation>
+    <PMID>7642847</PMID>
+  </reference>
+  <reference>
+    <citation>Bourassa MG, Pepine CJ, Forman SA, Rogers WJ, Dyrda I, Stone PH, Chaitman BR, Sharaf B, Mahmarian J, Davies RF, et al. Asymptomatic Cardiac Ischemia Pilot (ACIP) study: effects of coronary angioplasty and coronary artery bypass graft surgery on recurrent angina and ischemia. The ACIP investigators. J Am Coll Cardiol. 1995 Sep;26(3):606-14.</citation>
+    <PMID>7642849</PMID>
+  </reference>
+  <reference>
+    <citation>Conti RC, Kantterud GL, Sopko G: Correction. Letter to Editor. J Am Coll Cardiol 26:842, 1995</citation>
+  </reference>
+  <reference>
+    <citation>Caracciolo EA, Chaitman BR, Forman SA, Stone PH, Bourassa MG, Sopko G, Geller NL, Conti CR. Diabetics with coronary disease have a prevalence of asymptomatic ischemia during exercise treadmill testing and ambulatory ischemia monitoring similar to that of nondiabetic patients. An ACIP database study. ACIP Investigators. Asymptomatic Cardiac Ischemia Pilot Investigators. Circulation. 1996 Jun 15;93(12):2097-105.</citation>
+    <PMID>8925577</PMID>
+  </reference>
+  <reference>
+    <citation>Bourassa MG, Knatterud GL, Pepine CJ, Sopko G, Rogers WJ, Geller NL, Dyrda I, Forman SA, Chaitman BR, Sharaf B, et al. Asymptomatic Cardiac Ischemia Pilot (ACIP) Study. Improvement of cardiac ischemia at 1 year after PTCA and CABG. Circulation. 1995 Nov 1;92(9 Suppl):II1-7.</citation>
+    <PMID>7586390</PMID>
+  </reference>
+  <reference>
+    <citation>Pratt CM, McMahon RP, Goldstein S, Pepine CJ, Andrews TC, Dyrda I, Frishman WH, Geller NL, Hill JA, Morgan NA, Stone PH, Knatterud GL, Sopko G, Conti CR. Comparison of subgroups assigned to medical regimens used to suppress cardiac ischemia (the Asymptomatic Cardiac Ischemia Pilot [ACIP] Study). Am J Cardiol. 1996 Jun 15;77(15):1302-9.</citation>
+    <PMID>8677870</PMID>
+  </reference>
+  <reference>
+    <citation>Pepine CJ, Andrews T, Deanfield JE, Forman S, Geller N, Hill JA, Pratt C, Rogers WJ, Sopko G, Steingart R, Stone PH, Conti CR. Relation of patient characteristics to cardiac ischemia during daily life activity (an Asymptomatic Cardiac Ischemia Pilot Data Bank Study). Am J Cardiol. 1996 Jun 15;77(15):1267-72.</citation>
+    <PMID>8677864</PMID>
+  </reference>
+  <reference>
+    <citation>Conti CR, Bourassa MG, Chaitman BR, Geller NL, Knatterud GL, Pepine CJ, Pratt C, Sopko G. Asymptomatic cardiac ischemia pilot (ACIP). Trans Am Clin Climatol Assoc. 1995;106:77-83; discussion 83-4.</citation>
+    <PMID>7483181</PMID>
+  </reference>
+  <reference>
+    <citation>Stone PH, Chaitman BR, McMahon RP, Andrews TC, MacCallum G, Sharaf B, Frishman W, Deanfield JE, Sopko G, Pratt C, Goldberg AD, Rogers WJ, Hill J, Proschan M, Pepine CJ, Bourassa MG, Conti CR. Asymptomatic Cardiac Ischemia Pilot (ACIP) Study. Relationship between exercise-induced and ambulatory ischemia in patients with stable coronary disease. Circulation. 1996 Oct 1;94(7):1537-44.</citation>
+    <PMID>8840841</PMID>
+  </reference>
+  <reference>
+    <citation>Sharaf BL, Williams DO, Miele NJ, McMahon RP, Stone PH, Bjerregaard P, Davies R, Goldberg AD, Parks M, Pepine CJ, Sopko G, Conti CR. A detailed angiographic analysis of patients with ambulatory electrocardiographic ischemia: results from the Asymptomatic Cardiac Ischemia Pilot (ACIP) study angiographic core laboratory. J Am Coll Cardiol. 1997 Jan;29(1):78-84.</citation>
+    <PMID>8996298</PMID>
+  </reference>
+  <reference>
+    <citation>Davies RF, Goldberg AD, Forman S, Pepine CJ, Knatterud GL, Geller N, Sopko G, Pratt C, Deanfield J, Conti CR. Asymptomatic Cardiac Ischemia Pilot (ACIP) study two-year follow-up: outcomes of patients randomized to initial strategies of medical therapy versus revascularization. Circulation. 1997 Apr 15;95(8):2037-43.</citation>
+    <PMID>9133513</PMID>
+  </reference>
+  <reference>
+    <citation>Conti CR, Geller NL, Knatterud GL, Forman SA, Pratt CM, Pepine CJ, Sopko G. Anginal status and prediction of cardiac events in patients enrolled in the asymptomatic cardiac ischemia pilot (ACIP) study. ACIP investigators. Am J Cardiol. 1997 Apr 1;79(7):889-92.</citation>
+    <PMID>9104900</PMID>
+  </reference>
+  <reference>
+    <citation>Pepine CJ, Sharaf B, Andrews TC, Forman S, Geller N, Knatterud G, Mahmarian J, Ouyang P, Rogers WJ, Sopko G, Steingart R, Stone PH, Conti CR. Relation between clinical, angiographic and ischemic findings at baseline and ischemia-related adverse outcomes at 1 year in the Asymptomatic Cardiac Ischemia Pilot study. ACIP Study Group. J Am Coll Cardiol. 1997 Jun;29(7):1483-9.</citation>
+    <PMID>9180108</PMID>
+  </reference>
+  <reference>
+    <citation>Steingart RM, Forman S, Coglianese M, Bittner V, Mueller H, Frishman W, Handberg E, Gambino A, Knatterud G, Conti CR. Factors limiting the enrollment of women in a randomized coronary artery disease trial. The Asymptomatic Cardiac Ischemia Pilot Study (ACIP) Investigators. Clin Cardiol. 1996 Aug;19(8):614-8.</citation>
+    <PMID>8864334</PMID>
+  </reference>
+  <reference>
+    <citation>Stone PH, Chaitman BR, Forman S, Andrews TC, Bittner V, Bourassa MG, Davies RF, Deanfield JE, Frishman W, Goldberg AD, MacCallum G, Ouyang P, Pepine CJ, Pratt CM, Sharaf B, Steingart R, Knatterud GL, Sopko G, Conti CR. Prognostic significance of myocardial ischemia detected by ambulatory electrocardiography, exercise treadmill testing, and electrocardiogram at rest to predict cardiac events by one year (the Asymptomatic Cardiac Ischemia Pilot [ACIP] study). Am J Cardiol. 1997 Dec 1;80(11):1395-401.</citation>
+    <PMID>9399710</PMID>
+  </reference>
+  <reference>
+    <citation>Mahmarian JJ, Steingart RM, Forman S, Sharaf BL, Coglianese ME, Miller DD, Pepine CJ, Goldberg AD, Bloom MF, Byers S, Dvorak L, Pratt CM. Relation between ambulatory electrocardiographic monitoring and myocardial perfusion imaging to detect coronary artery disease and myocardial ischemia: an ACIP ancillary study. The Asymptomatic Cardiac Ischemia Pilot (ACIP) Investigators. J Am Coll Cardiol. 1997 Mar 15;29(4):764-9.</citation>
+    <PMID>9091522</PMID>
+  </reference>
+  <reference>
+    <citation>Rogers WJ, Bourassa MG, Andrews TC, Bertolet BD, Blumenthal RS, Chaitman BR, Forman SA, Geller NL, Goldberg AD, Habib GB, et al. Asymptomatic Cardiac Ischemia Pilot (ACIP) study: outcome at 1 year for patients with asymptomatic cardiac ischemia randomized to medical therapy or revascularization. The ACIP Investigators. J Am Coll Cardiol. 1995 Sep;26(3):594-605.</citation>
+    <PMID>7642848</PMID>
+  </reference>
+  <reference>
+    <citation>Pepine CJ, Bourassa MG, Chaitman BR, Davies RF, Kerensky RA, Sharaf B, Knatterud GL, Forman SA, Pratt CM, Staples ED, Sopko G, Conti CR. Factors influencing clinical outcomes after revascularization in the asymptomatic cardiac ischemia pilot (ACIP). ACIP Study Group. J Card Surg. 1999 Jan-Feb;14(1):1-8.</citation>
+    <PMID>10678439</PMID>
+  </reference>
+  <reference>
+    <citation>Pepine CJ, Mark DB, Bourassa MG, Chaitman BR, Davies RF, Knatterud GL, Forman S, Pratt CM, Sopko G, Conti CR. Cost estimates for treatment of cardiac ischemia (from the Asymptomatic Cardiac Ischemia Pilot [ACIP] study). Am J Cardiol. 1999 Dec 1;84(11):1311-6.</citation>
+    <PMID>10614796</PMID>
+  </reference>
+  <reference>
+    <citation>Frishman WH, Gomberg-Maitland M, Hirsch H, Catanese J, Furia-Palazzo S, Mueller H, Steingart R, Forman S. Differences between male and female patients with regard to baseline demographics and clinical outcomes in the Asymptomatic Cardiac Ischemia Pilot (ACIP) Trial. Clin Cardiol. 1998 Mar;21(3):184-90.</citation>
+    <PMID>9541762</PMID>
+  </reference>
+  <reference>
+    <citation>Handberg-Thurmond E, Baker A, Coglianese ME, Forman S, Pepine CJ, Geller N, Chaitman B. Identifying high yield sources of patients with coronary artery disease for clinical trials: lessons from the Asymptomatic Cardiac Ischemia Pilot (ACIP) experience. The ACIP Study Group. Clin Cardiol. 1998 Mar;21(3):177-82.</citation>
+    <PMID>9541761</PMID>
+  </reference>
+  <reference>
+    <citation>Davies RF. The need for a prognosis trial of revascularization and aggressive medical therapy in patients with asymptomatic cardiac ischemia. ACIP Investigators. Asymptomatic Cardiac Ischemia Pilot. Clin Cardiol. 1998 Mar;21(3):154-6.</citation>
+    <PMID>9541757</PMID>
+  </reference>
+  <reference>
+    <citation>Sharaf BL, Bourassa MG, McMahon RP, Pepine CJ, Chaitman BR, Williams DO, Davies RF, Proschan M, Conti CR. Clinical and detailed angiographic findings in patients with ambulatory electrocardiographic ischemia without critical coronary narrowing: results from the Asymptomatic Cardiac Ischemia Pilot (ACIP) Study. Clin Cardiol. 1998 Feb;21(2):86-92.</citation>
+    <PMID>9491946</PMID>
+  </reference>
+  <verification_date>February 2002</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Ischemia</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Isosorbide</mesh_term>
+    <mesh_term>Isosorbide Dinitrate</mesh_term>
+    <mesh_term>Isosorbide-5-mononitrate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

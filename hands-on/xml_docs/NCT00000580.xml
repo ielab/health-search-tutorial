@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204397">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000580</url>
+  </required_header>
+  <id_info>
+    <org_study_id>300</org_study_id>
+    <secondary_id>P01HL009011-18A1</secondary_id>
+    <nct_id>NCT00000580</nct_id>
+  </id_info>
+  <brief_title>Interruption of Maternal-to-Infant Transmission of Hepatitis B by Means of Hepatitis B Immune Globulin</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate whether hepatitis B immune globulin with a high level of antibody against the
+      hepatitis B antigen would be capable of interrupting maternal-fetal transmission of
+      hepatitis B virus, the single most important route of hepatitis spread in the entire Third
+      World.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      A baseline study on the vertical transmission of hepatitis B virus in Taiwan revealed that
+      15 percent of all pregnant women were persistent carriers of hepatitis B antigen and that 40
+      percent of their new babies developed a protracted antigenemia during the first 6 months of
+      life. The incidence of acute hepatitis, cirrhosis, and hepatoma was high in Taiwan, and
+      patients with these disorders had a fivefold to sixfold higher prevalence of hepatitis B
+      antigen than healthy persons. Given the important public health problems of this disease in
+      Taiwan and the rest of the Third World, this trial sought to answer the important question
+      of whether hepatitis B immune globulin with a high level of antibody against the antigen
+      would be of utility in combating the problem.
+
+      Two hundred and five babies were accepted into the study, which was actually conducted on
+      Taiwan through a contract to the Community Blood Council of Greater New York. Only those
+      babies born of mothers who had HBsAg complement fixation titers of 1:8 or greater were
+      included in these studies. At birth, blood was obtained from the mothers and cord blood from
+      the infants. Follow-up bloods were obtained from both the mother and baby when the infants
+      were 1, 3, 6, 12, 24 and 36 months of age. In addition, all household family contacts were
+      bled at least once during this period.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind, fixed sample. A total of 205 neonates were assigned to treatment
+      with high-titer hepatitis B immune globulin, standard immune globulin, or albumin placebo
+      within 72 hours of delivery.
+
+      The study completion date listed in this record was obtained from the Query/View/Report
+      (QVR) System.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 1975</start_date>
+  <completion_date type="Actual">June 1986</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Hepatitis B</condition>
+  <condition>Hepatitis, Viral, Human</condition>
+  <condition>Liver Diseases</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>immunoglobulins, intravenous</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Boy and girl infants, birth to 3 years, born to mothers who were hepatitis B surface
+        antigen carriers.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>3 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Beasley RP, Stevens CE: Vertical Transmission of HBV and Interruption with Globulin, in Vyas GN, Cohen SN, Schmid R (eds.), Viral Hepatitis: A Contemporary Assessment of Etiology, Epidemiology, Pathogenesis and Prevention. Philadelphia, Franklin Institute Press, 1978, 333-345.</citation>
+  </reference>
+  <reference>
+    <citation>Stevens CE, Neurath RA, Beasley RP, Szmuness W. HBeAg and anti-HBe detection by radioimmunoassay: correlation with vertical transmission of hepatitis B virus in Taiwan. J Med Virol. 1979;3(3):237-41.</citation>
+    <PMID>479860</PMID>
+  </reference>
+  <verification_date>January 2000</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hepatitis</mesh_term>
+    <mesh_term>Hepatitis A</mesh_term>
+    <mesh_term>Hepatitis B</mesh_term>
+    <mesh_term>Liver Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+    <mesh_term>Rho(D) Immune Globulin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204197">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000782</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 221</org_study_id>
+    <secondary_id>11198</secondary_id>
+    <nct_id>NCT00000782</nct_id>
+  </id_info>
+  <brief_title>A Phase I/II Study of Delayed-Type Hypersensitivity (DTH) Reactions to Intradermal HIV Envelope Antigen</brief_title>
+  <official_title>A Phase I/II Study of Delayed-Type Hypersensitivity (DTH) Reactions to Intradermal HIV Envelope Antigen</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the frequency of delayed-type hypersensitivity (DTH) reactions in HIV-positive
+      patients to two doses of two envelope glycoprotein antigens prepared differently. To
+      determine whether patients who have previously demonstrated a DTH response to intradermal
+      MGStage HIV-1 gp160 IIIB baculovirus (MicroGeneSys) have a reproducible response to a repeat
+      injection of gp160 and whether there is cross-reactivity to intradermal HIV-1 rgp160 IIIB
+      vero cell expressed (Immuno-AG).
+
+      PER 4/5/95 AMENDMENT: To also determine whether patients who respond to HIV-1 rgp160 IIIB
+      baculovirus (MicroGeneSys) have cross-reactivity to intradermal skin tests of HIV-1 rgp160
+      MN (Immuno-AG).
+
+      Previous studies in individuals immunized with gp160 suggest that a skin test response in
+      immunized patients can be used as a surrogate marker for new proliferative and cytotoxic
+      responses induced by vaccination.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Previous studies in individuals immunized with gp160 suggest that a skin test response in
+      immunized patients can be used as a surrogate marker for new proliferative and cytotoxic
+      responses induced by vaccination.
+
+      Patients are stratified into three groups. Fifteen patients previously immunized with
+      MicroGeneSys rgp160 antigen in ACTG 137 and not on antiretroviral therapy will receive
+      intradermal injections of Immuno-AG rgp160 IIIB (vero cell expressed) in one arm, followed 1
+      week later by intradermal injections of MicroGeneSys rgp160 IIIB (baculovirus expressed) in
+      the opposite arm (stratum 1). Forty patients who are not previously immunized with rgp160
+      will receive intradermal injections of Immuno-AG gp160 IIIB in one arm simultaneously with
+      MicroGeneSys gp160 IIIB in the opposite arm; these patients are either not on antiretroviral
+      therapy (stratum 2) or currently on antiretroviral therapy (stratum 3). All patients return
+      48 hours after each injection for skin test reading.
+
+      PER 4/5/95 AMENDMENT: Patients on all strata will re-enroll to receive Immuno-AG rgp160 MN
+      in one arm simultaneously with MicroGeneSys rgp160 IIIB in the opposite arm.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">October 1996</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>50</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>gp160 Vaccine (Immuno-AG)</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>gp160 Vaccine (MicroGeneSys)</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed in Step 2 (PER 4/5/95 AMENDMENT):
+
+          -  Approved antiretroviral drugs.
+
+        Patients must have:
+
+          -  Documented HIV infection.
+
+          -  CD4 count &gt;= 400 cells/mm3.
+
+          -  NO current active opportunistic infection or neoplasm (other than stable cutaneous
+             Kaposi's sarcoma).
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Known hypersensitivity to insect proteins.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Antihistamine or anti-inflammatory medications for the 48-hour period between
+             injection and skin test reading.
+
+          -  Topical steroids.
+
+        Prior Medication:
+
+        PER 4/5/95 AMENDMENT -
+
+        Excluded:
+
+          -  Prior immunization with experimental HIV vaccines (strata 2 and 3 only).
+
+          -  Systemic corticosteroids, topical corticosteroids on the arms, or other systemic
+             immunosuppressant agents or antineoplastic agents within 30 days prior to study
+             entry.
+
+          -  Antihistamine or anti-inflammatory medications within 72 hours prior to intradermal
+             injections.
+
+        PREVIOUS VERSION -
+
+        Excluded within 30 days prior to study entry:
+
+          -  Any antiretroviral drugs (other than AZT, ddI, ddC, or d4T for patients in stratum
+             3).
+
+          -  Systemic corticosteroids, topical corticosteroids on the arms, or other systemic
+             immunosuppressant agents or antineoplastic agents.
+
+        Excluded within 72 hours prior to intradermal injections:
+
+          -  Antihistamine or anti-inflammatory medications.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Katzenstein D</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford CRS</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>943055107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Clara Valley Med. Ctr.</name>
+      <address>
+        <city>San Jose</city>
+        <state>California</state>
+        <zip>951282699</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Mateo County AIDS Program</name>
+      <address>
+        <city>San Mateo</city>
+        <state>California</state>
+        <zip>943055107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NY Univ. HIV/AIDS CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Katzenstein DA, Kundu S, Spritzler J, Smoller BR, Haszlett P, Valentine F, Merigan TC. Delayed-type hypersensitivity to recombinant HIV envelope glycoprotein (rgp160) after immunization with homologous antigen. J Acquir Immune Defic Syndr. 1999 Dec 1;22(4):341-7.</citation>
+    <PMID>10634195</PMID>
+  </reference>
+  <verification_date>May 2012</verification_date>
+  <lastchanged_date>May 23, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaccines, Synthetic</keyword>
+  <keyword>Injections, Intradermal</keyword>
+  <keyword>HIV Antigens</keyword>
+  <keyword>HIV-1</keyword>
+  <keyword>HIV Envelope Protein gp160</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Hypersensitivity, Delayed</keyword>
+  <keyword>AIDS Vaccines</keyword>
+  <keyword>HIV Therapeutic Vaccine</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hypersensitivity</mesh_term>
+    <mesh_term>Hypersensitivity, Delayed</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

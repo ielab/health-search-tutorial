@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204610">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000363</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDCD-1160</org_study_id>
+    <secondary_id>RO1 DC 02620-04</secondary_id>
+    <nct_id>NCT00000363</nct_id>
+  </id_info>
+  <brief_title>Acute Otitis Media: Adjuvant Therapy to Improve Outcome</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Deafness and Other Communication Disorders (NIDCD)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Deafness and Other Communication Disorders (NIDCD)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Acute otitis media is one of the most common diseases of childhood and is one of the major
+      causes of hearing loss in children. Despite the availability of effective antibiotic therapy
+      for otitis media, treatment failures, persistent effusions, and recurrences are common. This
+      Phase III outpatient study aims to test whether adjuvant therapy (an antihistamine or a
+      corticosteroid), in addition to antibiotic therapy, improves the acute and long-term
+      outcomes of patients with acute otitis media. This study is targeted to recruiting 200
+      infants (age less than one year); patient (and parent) participation is estimated to
+      continue for one year after enrollment.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <completion_date>June 2001</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Otitis Media</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Antihistamine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Corticosteroid</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Have had two documented prior episodes of acute otitis media.
+
+          -  Have no current middle ear effusion (fluid).
+
+        Exclusion Criteria:
+
+          -  Have chronic otitis media.
+
+          -  Have acute otitis media in addition to chronic otitis media.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>2 Months</minimum_age>
+    <maximum_age>1 Year</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr. Tasnee Chonmaitree</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Univ of Texas Med Branch Children's Hosp</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77550</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Chonmaitree T, Saeed K, Uchida T, Heikkinen T, Baldwin CD, Freeman DH Jr, McCormick DP. A randomized, placebo-controlled trial of the effect of antihistamine or corticosteroid treatment in acute otitis media. J Pediatr. 2003 Sep;143(3):377-85.</citation>
+    <PMID>14517524</PMID>
+  </reference>
+  <reference>
+    <citation>McCormick DP, Saeed K, Uchida T, Baldwin CD, Deskin R, Lett-Brown MA, Heikkinen T, Chonmaitree T. Middle ear fluid histamine and leukotriene B4 in acute otitis media: effect of antihistamine or corticosteroid treatment. Int J Pediatr Otorhinolaryngol. 2003 Mar;67(3):221-30.</citation>
+    <PMID>12633920</PMID>
+  </reference>
+  <verification_date>April 2006</verification_date>
+  <lastchanged_date>April 21, 2006</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Antibiotics</keyword>
+  <keyword>Adrenal Cortex Hormones</keyword>
+  <keyword>Histamine H1 Antagonists</keyword>
+  <keyword>Infant</keyword>
+  <keyword>Otitis Media</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Otitis</mesh_term>
+    <mesh_term>Otitis Media</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Histamine Antagonists</mesh_term>
+    <mesh_term>Histamine H1 Antagonists</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

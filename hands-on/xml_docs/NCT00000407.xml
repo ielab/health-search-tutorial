@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204569">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000407</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P60AR020614</org_study_id>
+    <secondary_id>P60AR020614</secondary_id>
+    <secondary_id>NIAMS-024</secondary_id>
+    <secondary_id>Sub: EEHSR3</secondary_id>
+    <nct_id>NCT00000407</nct_id>
+  </id_info>
+  <brief_title>Improving Vocational Outcomes in Arthritis</brief_title>
+  <official_title>Improving Vocational Outcomes in Arthritis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The long-term objectives of this research project are to enhance program participation and
+      improve the employment prospects of people with work disability due to arthritis and related
+      musculoskeletal disorders (ARMD) who are actively seeking vocational (job-related)
+      rehabilitation (VR) services.
+
+      This study is designed to compare the employment situations of a group of people receiving a
+      two-part intervention and a group that is not receiving the intervention. The intervention
+      consists of training sessions to help prospective VR clients with ARMD successfully enter
+      and complete the VR program, and training sessions for a randomly selected group of VR
+      professionals to help them serve VR clients with ARMD more effectively.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The long-term objectives of this research project are to enhance program participation and
+      improve the vocational outcomes of people with work disability due to arthritis and related
+      musculoskeletal disorders (ARMD) who are actively seeking vocational rehabilitation
+      services.
+
+      Some researchers think that people with work disability due to ARMD seeking vocational
+      rehabilitation (VR) services who are exposed to an &quot;agency access intervention&quot; are more
+      likely to gain entrance to the VR system and be determined eligible for services than are
+      similar people not exposed to the intervention. Further, they think that people with work
+      disability due to ARMD who are determined to be eligible for VR services, and who are
+      exposed to an &quot;agency enhancement intervention&quot; while receiving services, are more likely to
+      become and remain employed upon completion of the VR program than are similar people not
+      exposed to the intervention.
+
+      The research design is a randomized, controlled, field experiment comparing the vocational
+      outcomes of a group receiving a two-part intervention to those not receiving the
+      intervention. The design allows us to evaluate separately each component of the
+      intervention. The intervention consists of training sessions to help prospective VR clients
+      with ARMD successfully enter and complete the VR program, and training sessions for a
+      randomly selected group of VR professionals to help them serve VR clients with ARMD more
+      effectively.
+
+      If this intervention strategy can significantly increase (1) VR utilization rates; (2)
+      post-service employment rates; and (3) length of post-service employment in a previously
+      underserved group with historically poor VR outcomes, it could have a significant role in
+      reducing the immense impact, nationally, of work disability due to ARMD.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1997</start_date>
+  <completion_date>December 2001</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Improved vocational outcomes</measure>
+    <time_frame>baseline to 30 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The long-term objectives of this research project are to enhance program participation and improve the vocational outcomes of people with work disability due to arthritis and related musculoskeletal disorders (ARMD) who are actively seeking vocational rehabilitation services.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">326</enrollment>
+  <condition>Arthritis</condition>
+  <condition>Musculoskeletal Diseases</condition>
+  <condition>Rheumatic Diseases</condition>
+  <arm_group>
+    <arm_group_label>Enrollment Intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The intervention consists of training sessions to help prospective VR clients with ARMD successfully enter and complete the vocational rehabilitation (VR) program, and training sessions for a randomly selected group of VR professionals to help them serve VR clients with ARMD more effectively.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Vocational counseling intervention</intervention_name>
+    <arm_group_label>Enrollment Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Reading materials for control participants</intervention_name>
+    <arm_group_label>Enrollment Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>No education or behavioral intervention</description>
+    <arm_group_label>Usual Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Resident of Alabama
+
+          -  Previously employed
+
+          -  Currently unemployed due to musculoskeletal disability
+
+          -  Feel capable of work
+
+          -  Want to work
+
+        Exclusion Criteria:
+
+          -  Not a resident of Alabama
+
+          -  Unable to work
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard S. Maisiak, PhD, MSPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>M White, R Maisiak, P Fine and K Straaton. Factors associated with low vocational capability in persons with musculoskeletal work disability. Abstract in Arthritis and Rheumatism, 42(9):S222, 1999.</citation>
+  </reference>
+  <reference>
+    <citation>R Maisiak, P Fine, M White and K Straaton. Barriers to participation in state-federal vocational rehabilitation servies for persons with musculoskeletal disability Abstract in Arthritis and Rheumatism, 42(9):S222, 1999.</citation>
+  </reference>
+  <reference>
+    <citation>White M, Maisiak R, Overman L, Paolone F, and Fine P. Increased enrollment of persons unemployed due to musculoskeletal disability to vocational rehabilitation services. Arthritis and Rheumatism, 43(9):S285, 2000.</citation>
+  </reference>
+  <reference>
+    <citation>Maisiak R, White W, Overman L, Paolone F, and P Fine. Health status (SF-36) barriers to return to work for persons with musculoskeletal disability. Arthritis and Rheumatism, 43(9):S285,2000.</citation>
+  </reference>
+  <reference>
+    <citation>Maisiak R, White W, Overman L, Paolone F, and P Fine. Improved return to work for arthritis patients in a supplementary state-federal vocational rehabilitation program. Arthritis and Rheumatism,44(9):S211,2001.</citation>
+  </reference>
+  <reference>
+    <citation>White M, Maisiak R, Overman L, Paolone F, and Fine P. Development of a work motivation scale for predicting return to work of arthritis patients. Arthritis and Rheumatism,44(9):S165,2001.</citation>
+  </reference>
+  <verification_date>September 2015</verification_date>
+  <lastchanged_date>October 20, 2015</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Arthritis and related musculoskeletal disorders (ARMD)</keyword>
+  <keyword>Vocational rehabilitation (VR)</keyword>
+  <keyword>Agency enhancement intervention</keyword>
+  <keyword>Health care service evaluation</keyword>
+  <keyword>Musculoskeletal disability</keyword>
+  <keyword>Return to work</keyword>
+  <keyword>Outcomes research</keyword>
+  <keyword>Unemployment</keyword>
+  <keyword>Work disability</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Musculoskeletal Diseases</mesh_term>
+    <mesh_term>Rheumatic Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

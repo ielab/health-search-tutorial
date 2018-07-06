@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204398">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000579</url>
+  </required_header>
+  <id_info>
+    <org_study_id>217</org_study_id>
+    <secondary_id>N01HR16146</secondary_id>
+    <secondary_id>N01HR16147</secondary_id>
+    <secondary_id>N01HR16148</secondary_id>
+    <secondary_id>N01HR16149</secondary_id>
+    <secondary_id>N01HR16150</secondary_id>
+    <secondary_id>N01HR16151</secondary_id>
+    <secondary_id>N01HR16152</secondary_id>
+    <secondary_id>N01HR16153</secondary_id>
+    <secondary_id>N01HR16154</secondary_id>
+    <secondary_id>N01HR16155</secondary_id>
+    <secondary_id>N01HR46054</secondary_id>
+    <secondary_id>N01HR46055</secondary_id>
+    <secondary_id>N01HR46056</secondary_id>
+    <secondary_id>N01HR46057</secondary_id>
+    <secondary_id>N01HR46058</secondary_id>
+    <secondary_id>N01HR46059</secondary_id>
+    <secondary_id>N01HR46060</secondary_id>
+    <secondary_id>N01HR46061</secondary_id>
+    <secondary_id>N01HR46062</secondary_id>
+    <secondary_id>N01HR46063</secondary_id>
+    <secondary_id>N01HR46064</secondary_id>
+    <secondary_id>N01HR56165</secondary_id>
+    <secondary_id>N01HR56166</secondary_id>
+    <secondary_id>N01HR56167</secondary_id>
+    <secondary_id>N01HR56168</secondary_id>
+    <secondary_id>N01HR56169</secondary_id>
+    <secondary_id>N01HR56170</secondary_id>
+    <secondary_id>N01HR56171</secondary_id>
+    <secondary_id>N01HR56172</secondary_id>
+    <secondary_id>N01HR56173</secondary_id>
+    <secondary_id>N01HR56174</secondary_id>
+    <secondary_id>N01HR56175</secondary_id>
+    <secondary_id>N01HR56176</secondary_id>
+    <secondary_id>N01HR56179</secondary_id>
+    <nct_id>NCT00000579</nct_id>
+  </id_info>
+  <brief_title>Acute Respiratory Distress Syndrome Clinical Network (ARDSNet)</brief_title>
+  <official_title>Acute Respiratory Distress Syndrome Clinical Network (ARDSNet)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purposes of this study are to assess rapidly innovative treatment methods in patients
+      with adult respiratory distress syndrome (ARDS) as well as those at risk of developing ARDS
+      and to create a network of interactive Critical Care Treatment Groups (CCTGs) to establish
+      and maintain the required infrastructure to perform multiple therapeutic trials that may
+      involve investigational drugs, approved agents not currently used for treatment of ARDS, or
+      treatments currently used but whose efficacy has not been well documented.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      ARDS affects approximately 150,000 people in the United States each year. Despite 20 years
+      of research into the mechanisms that cause this syndrome and numerous developments in the
+      technology of mechanical ventilation, the mortality has remained greater than 50 percent.
+      Many of the patients are young, and to the tragic loss of human life can be added the cost
+      to society because these patients spend an average of 2 weeks in intensive care units and
+      require multiple high tech procedures. Because of the overwhelming nature of the lung injury
+      once it is established, prevention would appear to be the most effective strategy for
+      improving the outlook in this condition.
+
+      Basic research has identified numerous inflammatory pathways that are associated with the
+      development of ARDS. Agents that block these mediators prolong survival in animals with lung
+      injury, and a few of them have been tested in patients. Because of the large number of
+      putative mediators and the variety of ways that their action can be blocked, the possibility
+      for new drug development is almost infinite. This is an exciting prospect, since it
+      envisions the first effective pharmacologic treatment for ARDS. However, preliminary
+      clinical studies have shown conflicting results, and there is an urgent need for a mechanism
+      to efficiently and effectively test new drugs in ARDS.
+
+      Treatment studies in patients with ARDS are difficult to perform for three reasons. The
+      complicated clinical picture makes it difficult to accumulate a large number of comparable
+      patients in any one center. There is no agreement on the optimal supportive care of these
+      critically ill patients. Many of the patients meeting study criteria will not be enrolled in
+      study protocols because of the acute nature of the disease process. For these reasons,
+      therapeutic trials in ARDS require multicenter cooperation.
+
+      The concept for the initiative was first discussed at a meeting of the Adult Respiratory
+      Distress Syndrome Foundation and staff of the Division of Lung Diseases. The results of a
+      working meeting on uniform definitions in ARDS held at the 1992 meeting of the American
+      Thoracic Society reinforced the recommendation from the community for National Heart, Lung,
+      and Blood Institute participation in drug evaluation in ARDS. The concept for the initiative
+      was approved by the September 1992 National Heart, Lung, and Blood Advisory Council. The
+      Requests for Proposals were released in October 1993.
+
+      DESIGN NARRATIVE:
+
+      It is anticipated that over the 12-year period, several multicenter clinical trials will be
+      developed and implemented. A 12-month Phase I period was devoted to planning and developing
+      the infrastructure and committee structure and to protocol development and prioritization.
+      In Phase IIa, staff are trained in data acquisition procedures and patients are enrolled.
+      Additional protocol development may begin for subsequent studies. In Phase IIb, after the
+      last patients in the first study have completed their follow-up measurements, data will be
+      reviewed and the initial study will be closed out. Protocol development continues for
+      subsequent trials. In Phase III, final data analysis and publication preparation will occur.
+
+      Enrollment of 1,000 patients into the first ARDSNet protocol, &quot;Ketoconazole and Respiratory
+      Management in Acute Lung Injury/Acute Respiratory Distress Syndrome&quot; (KARMA) began in the
+      spring of 1996. KARMA assessed the efficacy of 6 ml/kg versus 12 ml/kg positive pressure
+      ventilation in reducing mortality and morbidity in patients with acute lung injury and ARDS.
+      It also assessed the efficacy of ketoconazole, a thromboxane synthetase inhibitor, in
+      reducing mortality and morbidity in patients with acute lung injury and ARDS. The
+      ketoconazole arm was stopped by the Data Monitoring Safety Board (DSMB) in January 1997
+      after the enrollment of 234 patients. Ketoconazole did not show any benefit in survival,
+      duration of ventilation, or any measure of lung function. The ventilator arm of the protocol
+      continued until March 10, 1999, and compared the efficacy of high (12 ml/kg) and low (6
+      ml/kg) tidal volume ventilation in reducing mortality and morbidity in patients with acute
+      lung injury and ARDS. The ventilator portion of the trial was stopped on March 10, 1999, on
+      the recommendation of the DSMB when the data from the first 861 patients showed
+      approximately 25 percent fewer deaths among patients receiving small, rather than large,
+      breaths of air from the mechanical ventilator.
+
+      A new drug, lisofylline, was selected to replace ketoconazole in the factorial design
+      ventilation protocol. The lisofylline study (LARMA) began in February 1998. The study tested
+      the efficacy of lisofylline, an analog of pentoxifylline, that has been shown to protect
+      against tissue injury mediated by oxidants and to suppress production of a number of
+      cytokine mediators that amplify the inflammatory process. Patients were randomized to either
+      the high or low tidal volume ventilation treatment group and between lisofylline and
+      placebo. The aim of the lisofylline protocol was to determine whether the administration of
+      lisofylline early after the onset of acute lung injury or ARDS would reduce morbidity or
+      mortality. The study was cosponsored by Cell Therapeutics Incorporated. The trial was
+      stopped by the DSMB on May 27, 1999, after results were obtained on 221 patients. There was
+      no effect on mortality, time on ventilation, or organ failure.
+
+      The &quot;Late Steroid Rescue Study (LaSRS): The Efficacy of Corticosteroids as Rescue Therapy
+      for the Late Phase of Acute Respiratory Distress Syndrome&quot; (LaSRS is pronounced &quot;Lazarus&quot;)
+      compared the effect of corticosteroids with placebo in the management of late-phase (greater
+      than 7 days) ARDS. The study determined if the administration of the corticosteroid,
+      methylprednisolone sodium succinate, in severe ARDS that was either stable or worsening
+      after 7 days, would reduce mortality and morbidity. The primary end point was mortality at
+      60 days. Secondary endpoints included ventilator-free days and organ failure-free days.
+      LaSRS was designed to include 400 patients and began recruiting in the spring of 1997. In
+      October 1999, the DSMB reduced the recruitment target number to 200 patients because the
+      eligible patients were fewer than anticipated.
+
+      In November 1999, the Network began a new trial as a follow-on to the ventilator trial that
+      has been named the &quot;Assessment of Low Tidal Volume and Elevated End-Expiratory Pressure to
+      Obviate Lung Injury&quot; (ALVEOLI). This trial was a prospective, randomized, controlled
+      multicenter trial that included 549 patients and compared two groups of patients. Patients
+      were randomized to receive mechanical ventilation with either lower or higher PEEP, which
+      were set according to different tables of predetermined combinations of PEEP and fraction of
+      inspired oxygen. The primary end point was mortality at 60 days. Secondary endpoints
+      included ventilator-free days and organ failure-free days. The trial has ended and results
+      were published in the July 22, 2004, issue of the New England Journal of Medicine. The
+      results suggest that in patients with acute lung injury and ARDS who receive mechanical
+      ventilation with a tidal-volume goal of 6 ml per kilogram of predicted body weight and an
+      end-inspiratory plateau-pressure limit of 30 centimeters of water, clinical outcomes are
+      similar whether lower or higher PEEP levels are used.
+
+      Network investigators have developed a plan for a new protocol to assess the pulmonary
+      artery catheter (PAC) as a management tool in ARDS. The new study was prompted by
+      recommendations from the FDA/NIH Pulmonary Artery Catheter Clinical Outcomes workshop
+      convened in August 1997 in response to concerns in the medical community regarding the
+      clinical benefit and safety of PACs. The new protocol in the Fluids and Catheters Treatment
+      Trial (FACTT) is a two-by-two factorial design comparing the patients receiving PAC or a
+      central venous catheter (CVC) with one of two fluid management strategies (conservative
+      versus liberal). The randomized, multicenter trial is designed to include 1,000 patients.
+      The primary end point is mortality at 60 days. Secondary endpoints include ventilator-free
+      days and organ failure-free days. See NCT00281268 for more information on this study.
+
+      Albuterol versus Placebo in Acute Lung Injury (ALTA) Study: The Phase II/III study will test
+      the safety and efficacy of aerosolized beta-2 adrenergic agonist therapy (albuterol sulfate)
+      for reducing mortality in patients with acute lung injury. In Phase II, the safety of
+      albuterol at the 5-mg dose will be compared to saline in approximately 100 patients. The
+      dose will be reduced to 2.5 mg if patients exceed defined heart rate limits. Consequently, a
+      Phase III placebo-controlled double-blinded, randomized trial on approximately 1,000
+      patients will compare 60-day mortality and ventilator-free days to Day 28 between the safe
+      albuterol dose established in Phase II and placebo saline.
+
+      New efforts have been initiated to increase sample collection and utilize collected patient
+      materials to investigate mechanisms of ARDS pathogenesis. In addition to investigations of
+      hypotheses related to cytokines and inflammatory mediators, the Network is preparing to
+      collect samples for future studies of genetic determinants of ARDS. The ARDSNet has been
+      extended through September 2012, to continue clinical trials.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1994</start_date>
+  <completion_date type="Actual">July 2004</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Factorial Assignment, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Vary by protocol</measure>
+  </primary_outcome>
+  <condition>Respiratory Distress Syndrome, Adult</condition>
+  <condition>Lung Diseases</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Low Tidal Volume Ventilation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Positive End-Expiratory Pressure</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lysofylline</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methylprednisolone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ketoconazole</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Fluid Management</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Pulmonary Artery Catheter</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Men and women
+
+          -  13 years of age or older
+
+          -  ARDS or risk factors for ARDS (patients will be considered at risk if they are
+             critically ill and have trauma, sepsis, shock, pneumonia, inhalation injury, drug
+             overdose, pancreatitis, or hypertransfusion)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edward Abraham, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado, Denver</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Antonio Anzueto, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Texas</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Roy Brower, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alfred F. Connors, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Virginia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Bennett P. deBoisblanc, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Louisiana State University Health Sciences Center in New Orleans</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Bennett P. deBoisblanc, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Louisiana State University Health Science Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael Donahoe, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kalpalatha K. Guntupalli, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Baylor College of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert D. Hite, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wake Forest University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert D. Hite, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wake Forest School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rolf Hubmayr, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Neil MacIntyre, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael A. Matthay, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alan Morris, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Latter Day Saints Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael J. Murray</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Foundation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>James A. Russell, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of British Columbia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gregory A. Schmidt, MD, FCCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Chicago</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David A. Schoenfeld, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jay S. Steingrub, MD, FCCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Baystate Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Arthur Wheeler, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vanderbilt University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Herbert Wiedemann, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cleveland Clinic Lerner College of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of California</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Health Sciences Center</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Louisiana State University</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baystate Medical Center</name>
+      <address>
+        <city>Springfield</city>
+        <state>Massachusetts</state>
+        <zip>01199</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Foundation</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15261</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229-3900</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Latter Day Saints Hospital</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of British Columbia</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 1M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.ardsnet.org/</url>
+    <description>Acute Respiratory Distress Syndrome Clinical Network (ARDSNet)</description>
+  </link>
+  <reference>
+    <citation>Ketoconazole for early treatment of acute lung injury and acute respiratory distress syndrome: a randomized controlled trial. The ARDS Network. JAMA. 2000 Apr 19;283(15):1995-2002. Erratum in: JAMA 2200 Nov 22-29;284(20):2597. JAMA 2000 Nov 15;284(19):2450. JAMA 2001 Oct 3;286(13):1578.</citation>
+    <PMID>10789668</PMID>
+  </reference>
+  <reference>
+    <citation>Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. The Acute Respiratory Distress Syndrome Network. N Engl J Med. 2000 May 4;342(18):1301-8.</citation>
+    <PMID>10793162</PMID>
+  </reference>
+  <reference>
+    <citation>Brower RG, Fessler HE. Mechanical ventilation in acute lung injury and acute respiratory distress syndrome. Clin Chest Med. 2000 Sep;21(3):491-510, viii. Review.</citation>
+    <PMID>11019722</PMID>
+  </reference>
+  <reference>
+    <citation>Silverman H, Hull SC, Sugarman J. Variability among institutional review boards' decisions within the context of a multicenter trial. Crit Care Med. 2001 Feb;29(2):235-41.</citation>
+    <PMID>11246299</PMID>
+  </reference>
+  <reference>
+    <citation>Eisner MD, Thompson T, Hudson LD, Luce JM, Hayden D, Schoenfeld D, Matthay MA; Acute Respiratory Distress Syndrome Network. Efficacy of low tidal volume ventilation in patients with different clinical risk factors for acute lung injury and the acute respiratory distress syndrome. Am J Respir Crit Care Med. 2001 Jul 15;164(2):231-6.</citation>
+    <PMID>11463593</PMID>
+  </reference>
+  <reference>
+    <citation>Thompson BT, Hayden D, Matthay MA, Brower R, Parsons PE. Clinicians' approaches to mechanical ventilation in acute lung injury and ARDS. Chest. 2001 Nov;120(5):1622-7.</citation>
+    <PMID>11713144</PMID>
+  </reference>
+  <reference>
+    <citation>Ely EW, Wheeler AP, Thompson BT, Ancukiewicz M, Steinberg KP, Bernard GR. Recovery rate and prognosis in older persons who develop acute lung injury and the acute respiratory distress syndrome. Ann Intern Med. 2002 Jan 1;136(1):25-36.</citation>
+    <PMID>11777361</PMID>
+  </reference>
+  <reference>
+    <citation>Randomized, placebo-controlled trial of lisofylline for early treatment of acute lung injury and acute respiratory distress syndrome. Crit Care Med. 2002 Jan;30(1):1-6.</citation>
+    <PMID>11902249</PMID>
+  </reference>
+  <reference>
+    <citation>Kallet RH, Corral W, Silverman HJ, Luce JM. Implementation of a low tidal volume ventilation protocol for patients with acute lung injury or acute respiratory distress syndrome. Respir Care. 2001 Oct;46(10):1024-37. Review.</citation>
+    <PMID>11572755</PMID>
+  </reference>
+  <reference>
+    <citation>Schoenfeld DA, Bernard GR; ARDS Network. Statistical evaluation of ventilator-free days as an efficacy measure in clinical trials of treatments for acute respiratory distress syndrome. Crit Care Med. 2002 Aug;30(8):1772-7.</citation>
+    <PMID>12163791</PMID>
+  </reference>
+  <reference>
+    <citation>Eisner MD, Thompson BT, Schoenfeld D, Anzueto A, Matthay MA; Acute Respiratory Distress Syndrome Network. Airway pressures and early barotrauma in patients with acute lung injury and acute respiratory distress syndrome. Am J Respir Crit Care Med. 2002 Apr 1;165(7):978-82.</citation>
+    <PMID>11934725</PMID>
+  </reference>
+  <reference>
+    <citation>Kallet RH, Luce JM. Detection of patient-ventilator asynchrony during low tidal volume ventilation, using ventilator waveform graphics. Respir Care. 2002 Feb;47(2):183-5.</citation>
+    <PMID>11878247</PMID>
+  </reference>
+  <reference>
+    <citation>Goss CH, Brower RG, Hudson LD, Rubenfeld GD; ARDS Network. Incidence of acute lung injury in the United States. Crit Care Med. 2003 Jun;31(6):1607-11.</citation>
+    <PMID>12794394</PMID>
+  </reference>
+  <reference>
+    <citation>Brower RG, Ware LB, Berthiaume Y, Matthay MA. Treatment of ARDS. Chest. 2001 Oct;120(4):1347-67. Review.</citation>
+    <PMID>11591581</PMID>
+  </reference>
+  <reference>
+    <citation>Cook D, Brower R, Cooper J, Brochard L, Vincent JL. Multicenter clinical research in adult critical care. Crit Care Med. 2002 Jul;30(7):1636-43.</citation>
+    <PMID>12130991</PMID>
+  </reference>
+  <reference>
+    <citation>Morris AH. Rational use of computerized protocols in the intensive care unit. Crit Care. 2001 Oct;5(5):249-54. Epub 2001 Sep 13. Review.</citation>
+    <PMID>11737899</PMID>
+  </reference>
+  <reference>
+    <citation>O'Brien JM Jr, Welsh CH, Fish RH, Ancukiewicz M, Kramer AM; National Heart, Lung, and Blood Institute Acute Respiratory Distress Syndrome Network. Excess body weight is not independently associated with outcome in mechanically ventilated patients with acute lung injury. Ann Intern Med. 2004 Mar 2;140(5):338-45.</citation>
+    <PMID>14996675</PMID>
+  </reference>
+  <reference>
+    <citation>Brower RG, Morris A, MacIntyre N, Matthay MA, Hayden D, Thompson T, Clemmer T, Lanken PN, Schoenfeld D; ARDS Clinical Trials Network, National Heart, Lung, and Blood Institute, National Institutes of Health. Effects of recruitment maneuvers in patients with acute lung injury and acute respiratory distress syndrome ventilated with high positive end-expiratory pressure. Crit Care Med. 2003 Nov;31(11):2592-7. Erratum in: Crit Care Med. 2004 Mar;32(3):907.</citation>
+    <PMID>14605529</PMID>
+  </reference>
+  <reference>
+    <citation>Eisner MD, Parsons P, Matthay MA, Ware L, Greene K; Acute Respiratory Distress Syndrome Network. Plasma surfactant protein levels and clinical outcomes in patients with acute lung injury. Thorax. 2003 Nov;58(11):983-8.</citation>
+    <PMID>14586055</PMID>
+  </reference>
+  <reference>
+    <citation>Ware LB, Eisner MD, Thompson BT, Parsons PE, Matthay MA. Significance of von Willebrand factor in septic and nonseptic patients with acute lung injury. Am J Respir Crit Care Med. 2004 Oct 1;170(7):766-72. Epub 2004 Jun 16.</citation>
+    <PMID>15201135</PMID>
+  </reference>
+  <reference>
+    <citation>Levy MM. PEEP in ARDS--how much is enough? N Engl J Med. 2004 Jul 22;351(4):389-91.</citation>
+    <PMID>15269320</PMID>
+  </reference>
+  <reference>
+    <citation>Rubenfeld GD, Cooper C, Carter G, Thompson BT, Hudson LD. Barriers to providing lung-protective ventilation to patients with acute lung injury. Crit Care Med. 2004 Jun;32(6):1289-93.</citation>
+    <PMID>15187508</PMID>
+  </reference>
+  <reference>
+    <citation>Parsons PE, Eisner MD, Thompson BT, Matthay MA, Ancukiewicz M, Bernard GR, Wheeler AP; NHLBI Acute Respiratory Distress Syndrome Clinical Trials Network. Lower tidal volume ventilation and plasma cytokine markers of inflammation in patients with acute lung injury. Crit Care Med. 2005 Jan;33(1):1-6; discussion 230-2.</citation>
+    <PMID>15644641</PMID>
+  </reference>
+  <reference>
+    <citation>Rizvi K, Deboisblanc BP, Truwit JD, Dhillon G, Arroliga A, Fuchs BD, Guntupalli KK, Hite D, Hayden D; NIH/NHLBI ARDS Clinical Trials Network. Effect of airway pressure display on interobserver agreement in the assessment of vascular pressures in patients with acute lung injury and acute respiratory distress syndrome. Crit Care Med. 2005 Jan;33(1):98-103; discussion 243-4.</citation>
+    <PMID>15644654</PMID>
+  </reference>
+  <reference>
+    <citation>Cheng IW, Eisner MD, Thompson BT, Ware LB, Matthay MA; Acute Respiratory Distress Syndrome Network. Acute effects of tidal volume strategy on hemodynamics, fluid balance, and sedation in acute lung injury. Crit Care Med. 2005 Jan;33(1):63-70; discussion 239-40.</citation>
+    <PMID>15644650</PMID>
+  </reference>
+  <reference>
+    <citation>Brower RG, Lanken PN, MacIntyre N, Matthay MA, Morris A, Ancukiewicz M, Schoenfeld D, Thompson BT; National Heart, Lung, and Blood Institute ARDS Clinical Trials Network. Higher versus lower positive end-expiratory pressures in patients with the acute respiratory distress syndrome. N Engl J Med. 2004 Jul 22;351(4):327-36.</citation>
+    <PMID>15269312</PMID>
+  </reference>
+  <reference>
+    <citation>Brower RG, Bernard G, Morris A; NIH/NHLBI ARDS Network. Ethics and standard of care in clinical trials. Am J Respir Crit Care Med. 2004 Jul 15;170(2):198-9; author reply 199.</citation>
+    <PMID>15242856</PMID>
+  </reference>
+  <reference>
+    <citation>Hough CL, Kallet RH, Ranieri VM, Rubenfeld GD, Luce JM, Hudson LD. Intrinsic positive end-expiratory pressure in Acute Respiratory Distress Syndrome (ARDS) Network subjects. Crit Care Med. 2005 Mar;33(3):527-32.</citation>
+    <PMID>15753743</PMID>
+  </reference>
+  <reference>
+    <citation>Silverman HJ, Luce JM, Lanken PN, Morris AH, Harabin AL, Oldmixon CF, Thompson BT, Bernard GR; NHLBI Acute Respiratory Distress Syndrome Clinical Trials Network (ARDSNet). Recommendations for informed consent forms for critical care clinical trials. Crit Care Med. 2005 Apr;33(4):867-82. Review.</citation>
+    <PMID>15818118</PMID>
+  </reference>
+  <reference>
+    <citation>Parsons PE, Matthay MA, Ware LB, Eisner MD; National Heart, Lung, Blood Institute Acute Respiratory Distress Syndrome Clinical Trials Network. Elevated plasma levels of soluble TNF receptors are associated with morbidity and mortality in patients with acute lung injury. Am J Physiol Lung Cell Mol Physiol. 2005 Mar;288(3):L426-31. Epub 2004 Oct 29.</citation>
+    <PMID>15516488</PMID>
+  </reference>
+  <reference>
+    <citation>Kahn JM, Andersson L, Karir V, Polissar NL, Neff MJ, Rubenfeld GD. Low tidal volume ventilation does not increase sedation use in patients with acute lung injury. Crit Care Med. 2005 Apr;33(4):766-71.</citation>
+    <PMID>15818103</PMID>
+  </reference>
+  <reference>
+    <citation>Hager DN, Krishnan JA, Hayden DL, Brower RG; ARDS Clinical Trials Network. Tidal volume reduction in patients with acute lung injury when plateau pressures are not high. Am J Respir Crit Care Med. 2005 Nov 15;172(10):1241-5. Epub 2005 Aug 4. Review.</citation>
+    <PMID>16081547</PMID>
+  </reference>
+  <verification_date>August 2006</verification_date>
+  <lastchanged_date>January 2, 2014</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Methylprednisolone Hemisuccinate</mesh_term>
+    <mesh_term>Methylprednisolone acetate</mesh_term>
+    <mesh_term>Prednisolone</mesh_term>
+    <mesh_term>Prednisolone acetate</mesh_term>
+    <mesh_term>Prednisolone hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone phosphate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

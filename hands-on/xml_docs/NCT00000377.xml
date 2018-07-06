@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204599">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000377</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01MH043832</org_study_id>
+    <secondary_id>R01MH043832</secondary_id>
+    <secondary_id>DSIR AT-CT</secondary_id>
+    <nct_id>NCT00000377</nct_id>
+  </id_info>
+  <brief_title>Preventing the Return of Depression in Elderly Patients</brief_title>
+  <official_title>Maintenance Therapies in Late-Life Depression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the effectiveness of two doses of nortriptyline in
+      elderly patients whose depression returned after stopping treatment. Nortriptyline is an
+      antidepressant.
+
+      This study enrolls patients who were treated for depression in an earlier research study and
+      whose depression has returned since stopping treatment. Patients are treated for 4 months to
+      bring the depression under control. Patients are then assigned randomly (like tossing a
+      coin) to receive either the full dose of nortriptyline or half the usual dose of
+      nortriptyline. Patients continue taking nortriptyline for 2 years or until a major
+      depression returns. Throughout the study, patients are monitored for symptoms of depression
+      and other side effects.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To determine whether elderly (60-80 years old) depressed patients who cannot sustain a
+      remission without medication must be maintained at full acute-treatment dose. To compare the
+      efficacy of full-dose vs half-dose nortriptyline (NT) in preventing recurrences of major
+      depression in the elderly. To determine whether those patients who experience a recurrence
+      while in a maintenance placebo condition (Study I) require 100 percent of their
+      acute-treatment dose of NT to prevent subsequent recurrences or can be successfully
+      maintained on 50 percent of their acute-treatment dose (Study II).
+
+      Investigators expect a pool of 60 patients from Study I to become eligible for Study II (the
+      full-dose/half-dose maintenance trial). After treatment of the recurrence and following 16
+      weeks of stabilization therapy, patients are randomized to 1 of 2 maintenance therapy cells:
+      full-dose NT or half-dose NT. Maintenance lasts 2 years or until recurrence of major
+      depression. The following are assessed: differences in recurrence rates and time to
+      recurrence under full-dose vs half-dose conditions; differences in symptomatic ratings of
+      depression, suicidal ideation, social adjustment, and side effects; and differences in
+      compliance rates as determined by variability in level-to-dose (L/D) ratios. Exploratory
+      data analyses are used to generate a hypothetical profile of elderly patients who can remain
+      well on half-dose maintenance nortriptyline.
+
+      For information on related studies, please follow these links:
+
+      http://clinicaltrials.gov/show/NCT00178100
+
+      http://clinicaltrials.gov/show/NCT00177671
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 1989</start_date>
+  <completion_date type="Actual">April 2000</completion_date>
+  <primary_completion_date type="Actual">April 2000</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Depression</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nortriptyline</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients must have:
+
+        Recurrence of major depression while in a maintenance placebo condition in the currently
+        funded maintenance therapy protocol (Study I).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Charles Reynolds, MD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <results_reference>
+    <citation>Reynolds CF 3rd, Perel JM, Frank E, Cornes C, Miller MD, Houck PR, Mazumdar S, Stack JA, Pollock BG, Dew MA, Kupfer DJ. Three-year outcomes of maintenance nortriptyline treatment in late-life depression: a study of two fixed plasma levels. Am J Psychiatry. 1999 Aug;156(8):1177-81.</citation>
+    <PMID>10450257</PMID>
+  </results_reference>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>June 20, 2013</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Charles Reynolds</investigator_full_name>
+    <investigator_title>Director of the Aging Institute and UPMC Endowed Professor in Geriatric Psychiatry, Neurology, and Neuroscience</investigator_title>
+  </responsible_party>
+  <keyword>Aged</keyword>
+  <keyword>Antidepressive Agents</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Dose-Response Relationship, Drug</keyword>
+  <keyword>Female</keyword>
+  <keyword>Human</keyword>
+  <keyword>Male</keyword>
+  <keyword>Middle Age</keyword>
+  <keyword>Nortriptyline</keyword>
+  <keyword>Placebos</keyword>
+  <keyword>Recurrence</keyword>
+  <keyword>Aged, 80 and over</keyword>
+  <keyword>Antidepressive Agents -- *therapeutic use</keyword>
+  <keyword>Antidepressive Agents -- administration &amp; dosage</keyword>
+  <keyword>Depression -- *drug therapy</keyword>
+  <keyword>Nortriptyline -- *therapeutic use</keyword>
+  <keyword>Nortriptyline -- administration &amp; dosage</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antidepressive Agents</mesh_term>
+    <mesh_term>Nortriptyline</mesh_term>
+    <mesh_term>Therapeutic Uses</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

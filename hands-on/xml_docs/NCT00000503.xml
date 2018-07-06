@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204474">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000503</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22</org_study_id>
+    <secondary_id>R01HL028843-05</secondary_id>
+    <nct_id>NCT00000503</nct_id>
+  </id_info>
+  <brief_title>Randomized Clinical Trial of Non-Surgical Reperfusion of the Coronary Arteries</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the effect of non-surgical reperfusion on infarct size in patients with acute
+      myocardial infarction.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Angiographic studies in the acute stage of myocardial infarction have shown complete
+      occlusion in 75-85 percent and subtotal lesions in the remaining cases. Evidence for spasm
+      in acutely occluded arteries has been reported. However, the majority of pathological as
+      well as intraoperative examinations have yielded thrombotic material at the site of complete
+      obstruction. Indirect evidence of thrombotic material was provided by successful
+      intracoronary thrombolysis in 80 percent of infarct patients with complete obstruction.
+      There could be causative relationships between spasm, intimal damage and coronary
+      thrombosis. Selective applications of spasmolytic and/or thrombolytic substances into
+      occluded vessels enabled high local concentrations with doses that caused little or no
+      systemic effect. Angiographic verification of the results of this pharmacotherapy would help
+      to clarify the role of spasm and thrombus in the pathogenesis of the acute coronary
+      occlusion.
+
+      Reperfusion in man has been achieved by coronary by-pass surgery in the acute stage of
+      infarction. Follow-up angiography revealed significant improvement of left ventricular
+      function. Intracoronary streptokinase infusion resulted in recanalization of acute coronary
+      occlusion in 80 percent of cases within 20-30 minutes of infusion time. Reperfusion achieved
+      by intervention angiography has been associated with improved local wall motion as well as
+      improved left ventricular function. Improvement in left ventricular function depended on the
+      duration of symptoms prior to reperfusion and on the presence or absence of collateral blood
+      flow. Available data suggested that improvement was more likely to occur if reperfusion was
+      achieved within 3-4 hours. However, since the majority of patients reached the hospital
+      after greater than 4 hours of chest pain, study of functional changes following late
+      reperfusion was of great practical significance.
+
+      DESIGN NARRATIVE:
+
+      The study was a randomized trial of myocardial reperfusion in acute myocardial infarction by
+      selective intracoronary infusion of nitroglycerin and/or intracoronary infusion of
+      streptokinase. The trial was single-blinded as to the interventional therapy; it was
+      double-blinded as to the drug infused. The primary endpoint was the ejection fraction on the
+      10th day of intervention. Patients were assigned to one of four treatment arms: an
+      intracoronary infusion of streptokinase; an intracoronary infusion of nitroglycerin;
+      combined infusions of nitroglycerin and streptokinase; a control group receiving
+      conventional therapy without acute catheterization. All patients underwent anticoagulant
+      therapy with intravenous heparin followed by warfarin for three months. Patients were
+      followed for a minimum of two years.
+
+      The study completion date listed in this record was obtained from the Query/View/Report
+      (QVR) System.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1982</start_date>
+  <completion_date type="Actual">October 1987</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>nitroglycerin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>streptokinase</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>heart catheterization</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, under 78 years of age. Suspected of having an acute myocardial infarction
+        and who could be randomized within 12 hours of onset of qualifying pain.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>77 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Rentrop</last_name>
+    <affiliation>Mount Sinai Hospital, New York</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Rentrop KP, Feit F, Sherman W, Stecy P, Hosat S, Cohen M, Rey M, Ambrose J, Nachamie M, Schwartz W, et al. Late thrombolytic therapy preserves left ventricular function in patients with collateralized total coronary occlusion: primary end point findings of the Second Mount Sinai-New York University Reperfusion Trial. J Am Coll Cardiol. 1989 Jul;14(1):58-64.</citation>
+    <PMID>2500472</PMID>
+  </reference>
+  <verification_date>January 2000</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Nitroglycerin</mesh_term>
+    <mesh_term>Streptokinase</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

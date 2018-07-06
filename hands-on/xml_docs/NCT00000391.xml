@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204585">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000391</url>
+  </required_header>
+  <id_info>
+    <org_study_id>89 MH-SF</org_study_id>
+    <nct_id>NCT00000391</nct_id>
+  </id_info>
+  <brief_title>A Phase I Trial of Intranasal Peptide T: Safety, Toxicity, and Pharmacokinetics in Human Immunodeficiency Virus-1 (HIV-1) Infected Patients.</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Mental Health (NIMH)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To study the safety and toxicity of intranasal peptide T (D-Ala-1-peptide-T-amide) in
+      humans, and to find out how quickly and how much of a given dose enters the bloodstream and
+      how quickly it leaves the bloodstream. To obtain information on the ability of intranasal
+      peptide T to prevent, halt, and/or reverse the effects of AIDS on the central nervous
+      system.
+
+      Studies have shown that AIDS is caused by a retrovirus. This virus works by inactivating or
+      destroying human CD4 cells (which are part of the human immune system). This in turn leads
+      to the observed immunologic defects and related illnesses, including HIV encephalopathy
+      (disease of the brain). One method of preventing AIDS is to prevent HIV from entering the
+      cell. HIV binds to the receptor CD4 site. Peptide T also binds to this site, and thus by
+      competing for that site, can block the binding of the virus to its receptor. Preliminary
+      animal and human studies indicate that peptide T is safe at the doses selected for this
+      trial.
+
+      Thirty patients with AIDS or AIDS related complex (ARC) are entered into the study to
+      receive an increasing schedule of three dosage levels of intranasal peptide T for 12 - 16
+      weeks followed by a 1-month off-drug follow-up period and a subsequent 1-month return to the
+      drug. All patients receive an initial intravenous test dose of peptide T. The test dose is
+      administered over 1 hour, followed by an observation period of 8 hours in the outpatient
+      clinic.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1988</start_date>
+  <primary_completion_date type="Actual">January 1990</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Radioimmunoassay for viral load</measure>
+    <time_frame>12-16 weeks, 1 month</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The subsequent return to the drug for 1 month is after a 1 month off-drug follow-up</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Peptide T</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have:
+
+        HIV infection. Ability to give informed consent. Ability to participate in an outpatient
+        study.
+
+          -  Allowed: Short course antimicrobials.
+
+          -  Not breast-feeding
+
+          -  Abstinence or agree to use barrier methods of birth control / contraception during
+             the study
+
+          -  Not pregnant
+
+          -  Negative pregnancy test
+
+          -  CD4 100 to 500 cells/mm3 (100 - 200 - 300 - 400 - 500).
+
+          -  Creatinine &gt; 1.6 mg/dl
+
+          -  Hemoglobin &gt;= 12 g/dl
+
+          -  Platelet Count &gt;= 100000 /mm3
+
+        Exclusion Criteria:
+
+          -  Excluded: Asymptomatic HIV seropositive or lymphadenopathy syndrome diagnoses only
+             (CDC criteria).
+
+          -  Patients with the following conditions are excluded: Evidence of life-threatening
+             opportunistic infection at time of entry into trial. Clinical evidence of active
+             central nervous system disease secondary to immune dysregulation associated with HIV
+             infection. Previous history of major psychiatric illness prior to 1977 or the time of
+             initial exposure to HIV, if that is known. Evidence of clinically significant major
+             psychiatric disturbance other than depression.
+
+          -  Excluded within 4 weeks of study entry: Suramin. Antiretroviral agents. Anticancer
+             treatments. Psychoactive agents.
+
+          -  Excluded: Antivirals or immunomodulators.
+
+          -  Excluded within 4 weeks of study entry: Radiation.
+
+          -  Evidence of active substance abuse during 30 days prior to entry into trial. All
+             behavior that can put patient at risk for reinfection with HIV: sexual contact with
+             others known to have HIV infection, unsafe sexual practices, or sharing of needles or
+             other intravenous equipment.
+
+          -  Breast-feeding
+
+          -  Positive pregnancy test
+
+          -  Pregnant
+
+          -  No abstinence or no agreement to use barrier methods of birth control / contraception
+             during the study
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bridge TP</last_name>
+    <role>Study Chair</role>
+    <affiliation>National Institute of Mental Health (NIMH)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Fenway Clinic</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2002</verification_date>
+  <lastchanged_date>March 2, 2015</lastchanged_date>
+  <firstreceived_date>January 17, 2000</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

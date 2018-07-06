@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204473">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000504</url>
+  </required_header>
+  <id_info>
+    <org_study_id>23</org_study_id>
+    <nct_id>NCT00000504</nct_id>
+  </id_info>
+  <brief_title>Cardiac Arrhythmia Pilot Study (CAPS)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare the effectiveness of various drugs and drug combinations in suppressing complex
+      ventricular arrhythmias, and to evaluate their safety.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Epidemiologic studies had indicated that complex ventricular premature beats made an
+      independent contribution to risk of sudden death in survivors of a myocardial infarction
+      (MI), and did not appear to be merely a reflection of their association with relatively
+      severe myocardial damage. The potential for reduction in mortality by identification and
+      administration of drugs capable of safely suppressing ventricular arrhythmias was
+      tremendous. In 1982, there was incomplete knowledge regarding which types of ventricular
+      arrhythmias responded to various kinds of drugs. A pilot study of antiarrhythmic agents
+      helped clarify this issue.
+
+      Numerous antiarrhythmic agents with differing pharmacologic properties and side effects had
+      been shown to suppress ventricular arrhythmias. It had also been postulated that
+      antiarrhythmics might raise an individual's threshold for experiencing ventricular
+      fibrillation. There had been several published reports of large (at least l00 patients),
+      long-term clinical trials of antiarrhythmic agents in post-MI patients. None of these had
+      yielded statistically significant results using mortality as the response variable. This
+      might have been due to incorrect drug selection, inadequate sample size, inappropriate
+      choice of patients, or the lack of impact of arrhythmia treatment on mortality.
+
+      Due to incomplete knowledge as to which drug(s) and combinations of drugs were most
+      effective, it was considered to be premature to undertake a full scale trial in 1981-1982.
+      However, the public health problem was of sufficient magnitude to warrant a pilot study to
+      learn more about the efficacy and safety of various antiarrhythmic drugs singly or in
+      combination.
+
+      The protocol planning phase began in October l982. Patient recruitment started in July l983
+      and ended in the summer of 1985. Each patient was followed for one year.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind, fixed sample. A total of 502 patients were randomly assigned to 5
+      treatment groups consisting of encainide, ethmozine, flecainide, imipramine, and placebo.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1982</start_date>
+  <completion_date type="Actual">September 1985</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Arrhythmia</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Ventricular Arrhythmia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>encainide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>moricizine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>flecainide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>imipramine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women. Patients had acute myocardial infarction and ventricular arrhythmias.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Toshio Akiyama</last_name>
+    <affiliation>University of Rochester</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Allan Barker</last_name>
+    <affiliation>Salt Lake Clinic Research Foundation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>J. Bigger</last_name>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Capone</last_name>
+    <affiliation>Rhode Island Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Lawrence Griffith</last_name>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Craig Pratt</last_name>
+    <affiliation>Baylor College of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David Richardson</last_name>
+    <affiliation>Medical College of Virginia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>William Rogers</last_name>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael Sather</last_name>
+    <affiliation>V.A. Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Israel Stein</last_name>
+    <affiliation>Clinical Data, Inc</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pierre Theroux</last_name>
+    <affiliation>Montreal Heart Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Raymond Woosley</last_name>
+    <affiliation>Vanderbilt University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>The Cardiac Arrhythmia Pilot Study. The CAPS investigators. Am J Cardiol. 1986 Jan 1;57(1):91-5.</citation>
+    <PMID>2417474</PMID>
+  </reference>
+  <reference>
+    <citation>Recruitment and baseline description of patients in the Cardiac Arrhythmia Pilot Study. The Cardiac Arrhythmia Pilot Study (CAPS) investigators. Am J Cardiol. 1988 Apr 1;61(10):704-13.</citation>
+    <PMID>2451414</PMID>
+  </reference>
+  <reference>
+    <citation>Cardiac Arrhythmia Pilot Study (CAPS) Investigators. Effects of encainide, flecainide, imipramine and moricizine on ventricular arrhythmias during the year after acute myocardial infarction: the CAPS. Am J Cardiol. 1988 Mar 1;61(8):501-9.</citation>
+    <PMID>2894169</PMID>
+  </reference>
+  <reference>
+    <citation>Greene HL, Richardson DW, Barker AH, Roden DM, Capone RJ, Echt DS, Friedman LM, Gillespie MJ, Hallstrom AP, Verter J. Classification of deaths after myocardial infarction as arrhythmic or nonarrhythmic (the Cardiac Arrhythmia Pilot Study). Am J Cardiol. 1989 Jan 1;63(1):1-6.</citation>
+    <PMID>2462341</PMID>
+  </reference>
+  <reference>
+    <citation>Greene HL, Richardson DW, Hallstrom AP, McBride R, Capone RJ, Barker AH, Roden DM, Echt DS. Congestive heart failure after acute myocardial infarction in patients receiving antiarrhythmic agents for ventricular premature complexes (Cardiac Arrhythmia Pilot Study). Am J Cardiol. 1989 Feb 15;63(7):393-8.</citation>
+    <PMID>2464919</PMID>
+  </reference>
+  <reference>
+    <citation>Anderson JL, Hallstrom AP, Griffith LS, Ledingham RB, Reiffel JA, Yusuf S, Barker AH, Fowles RE, Young JB. Relation of baseline characteristics to suppression of ventricular arrhythmias during placebo and active antiarrhythmic therapy in patients after myocardial infarction. Circulation. 1989 Mar;79(3):610-9.</citation>
+    <PMID>2465099</PMID>
+  </reference>
+  <reference>
+    <citation>Ahern DK, Gorkin L, Anderson JL, Tierney C, Hallstrom A, Ewart C, Capone RJ, Schron E, Kornfeld D, Herd JA, et al. Biobehavioral variables and mortality or cardiac arrest in the Cardiac Arrhythmia Pilot Study (CAPS). Am J Cardiol. 1990 Jul 1;66(1):59-62.</citation>
+    <PMID>2193497</PMID>
+  </reference>
+  <reference>
+    <citation>Follick MJ, Ahern DK, Gorkin L, Niaura RS, Herd JA, Ewart C, Schron EB, Kornfeld DS, Capone RJ. Relation of psychosocial and stress reactivity variables to ventricular arrhythmias in the Cardiac Arrhythmia Pilot Study (CAPS). Am J Cardiol. 1990 Jul 1;66(1):63-7.</citation>
+    <PMID>1694388</PMID>
+  </reference>
+  <reference>
+    <citation>Pratt CM, Hallstrom A, Theroux P, Romhilt D, Coromilas J, Myles J. Avoiding interpretive pitfalls when assessing arrhythmia suppression after myocardial infarction: insights from the long-term observations of the placebo-treated patients in the Cardiac Arrhythmia Pilot Study (CAPS). J Am Coll Cardiol. 1991 Jan;17(1):1-8.</citation>
+    <PMID>1702795</PMID>
+  </reference>
+  <reference>
+    <citation>Hallstrom AP, Bigger JT Jr, Roden D, Friedman L, Akiyama T, Richardson DW, Rogers WJ, Waldo AL, Pratt CM, Capone RJ, et al. Prognostic significance of ventricular premature depolarizations measured 1 year after myocardial infarction in patients with early postinfarction asymptomatic ventricular arrhythmia. J Am Coll Cardiol. 1992 Aug;20(2):259-64.</citation>
+    <PMID>1378858</PMID>
+  </reference>
+  <reference>
+    <citation>Wyse DG, Morganroth J, Ledingham R, Denes P, Hallstrom A, Mitchell LB, Epstein AE, Woosley RL, Capone R. New insights into the definition and meaning of proarrhythmia during initiation of antiarrhythmic drug therapy from the Cardiac Arrhythmia Suppression Trial and its pilot study. The CAST and CAPS Investigators. J Am Coll Cardiol. 1994 Apr;23(5):1130-40.</citation>
+    <PMID>8144779</PMID>
+  </reference>
+  <reference>
+    <citation>Haakenson C, Akiyama T, Hallstrom A, Sather MR. Masking drug treatments in the Cardiac Arrhythmia Pilot Study (CAPS). FASHP for the CAPS Investigators. Control Clin Trials. 1996 Aug;17(4):294-303.</citation>
+    <PMID>8889344</PMID>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>April 26, 2012</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

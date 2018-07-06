@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204228">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000751</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 185</org_study_id>
+    <nct_id>NCT00000751</nct_id>
+  </id_info>
+  <brief_title>A Phase III Randomized, Double-Blind, Controlled Study of the Use of Anti-HIV Immune Serum Globulin (HIVIG) for the Prevention of Maternal-Fetal HIV Transmission in Pregnant Women and Newborns Receiving Zidovudine (AZT)</brief_title>
+  <official_title>A Phase III Randomized, Double-Blind, Controlled Study of the Use of Anti-HIV Immune Serum Globulin (HIVIG) for the Prevention of Maternal-Fetal HIV Transmission in Pregnant Women and Newborns Receiving Zidovudine (AZT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the effect of anti-HIV immune serum globulin (HIVIG) versus immune globulin
+      (IVIG) administered during pregnancy and to the newborn, in combination with zidovudine
+      (AZT) administered intrapartum and to the newborn, on incidence of HIV infection in infants
+      born to HIV-infected women who received AZT during pregnancy for medical indications.
+
+      Vertical transmission of HIV from mother to child may occur before, during, or after
+      parturition (via breast-feeding). It is believed that therapy administered both during
+      pregnancy and intrapartum may help prevent vertical transmission. Additionally, adjunctive
+      short-term antiretroviral therapy for the newborn, following the intensive viral exposure
+      presumed to occur at birth, may be necessary.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Vertical transmission of HIV from mother to child may occur before, during, or after
+      parturition (via breast-feeding). It is believed that therapy administered both during
+      pregnancy and intrapartum may help prevent vertical transmission. Additionally, adjunctive
+      short-term antiretroviral therapy for the newborn, following the intensive viral exposure
+      presumed to occur at birth, may be necessary.
+
+      Pregnant women who are currently receiving AZT are randomized at 20-30 weeks of gestation to
+      begin receiving either HIVIG or IVIG every 28 days up to delivery. Within 12 hours after
+      birth, the infant receives an infusion of matching study drug. During labor, all women
+      receive an intravenous loading dose of AZT administered over 1 hour, followed by continuous
+      infusion during the intrapartum period until the umbilical cord is clamped. All infants
+      receive AZT syrup every 6 hours, beginning as soon as oral fluids are tolerated but within
+      8-12 hours after birth and continuing for 6 weeks. Women are followed until 26 weeks
+      postpartum. Infants are followed at weeks 1, 2, 4, and then every 4 weeks through week 24,
+      every 12 weeks through week 60, at week 78 (18 months), and at week 104 (24 months).
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">August 2007</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Primary Purpose: Treatment</study_design>
+  <enrollment>1600</enrollment>
+  <condition>HIV Infections</condition>
+  <condition>Pregnancy</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anti-HIV Immune Serum Globulin (Human)</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Globulin, Immune</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zidovudine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  Women - Medications as required for obstetrical management of HIV infection (e.g.,
+             acyclovir, ketoconazole, isoniazid, antibiotics, or other antiretroviral therapy if
+             intolerant or failing on AZT), unless specifically excluded.
+
+          -  Infants - Drug treatment for signs of drug withdrawal (phenobarbital, chlorpromazine,
+             tincture of opium, paregoric or Valium).
+
+          -  Infants - Medications as indicated for management of an HIV-exposed infant (e.g.,
+             hepatitis B vaccine, syphilis treatment, Pneumocystis carinii pneumonia prophylaxis).
+
+        Patients must have:
+
+          -  Documented HIV infection.
+
+          -  Been receiving AZT during current pregnancy for medical indications.
+
+          -  Gestational age between 20 and 30 weeks.
+
+          -  Intention to carry pregnancy to term.
+
+          -  Available venous access (placement of central line or Hickman catheter not indicated
+             for study purposes).
+
+          -  Willingness to be followed by a participating site for study duration.
+
+        NOTE:
+
+          -  Father of fetus (if available after a reasonable attempt to contact him) must also
+             provide informed consent.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Illness associated with excessive protein loss, e.g., severe proteinuria (protein &gt;=
+             4 g protein in a 24-hour urine collection).
+
+        Patients with the following prior conditions are excluded:
+
+          -  Evidence of pre-existing fetal anomalies (e.g., anencephaly, renal agenesis, or
+             Potter's syndrome) that may result in a high probability that the fetus-infant would
+             not survive to the end of the study period.
+
+          -  Chorionic villus sampling (CVS) or percutaneous umbilical blood sampling (PUBS)
+             occurring in this pregnancy prior to study entry.
+
+          -  Illness associated with excessive protein loss, e.g., chronic diarrhea with no
+             documented weight gain in a 3-month period during pregnancy.
+
+          -  Pre-existing conditions such as hypogammaglobulinemia or immune thrombocytopenia that
+             are felt to require IVIG therapy.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Receipt of anti-HIV vaccines or passive immunotherapy with HIVIG or IVIG during this
+             pregnancy prior to study entry.
+
+          -  Receipt of antiretroviral agents other than AZT during this pregnancy prior to study
+             entry (e.g., rCD4, CD4-IgG, d4T, ddC, ddI).
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>ER Stiehm</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>J Lambert</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCSD Med Ctr / Pediatrics / Clinical Sciences</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>920930672</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harbor - UCLA Med Ctr / UCLA School of Medicine</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>905022004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Los Angeles County - USC Med Ctr</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Med Ctr / Pediatric</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>900951752</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Francisco Gen Hosp</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF / Moffitt Hosp - Pediatric</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>941430105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Denver</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>802181088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Denver Gen Hosp</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>802044507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Connecticut / Farmington</name>
+      <address>
+        <city>Farmington</city>
+        <state>Connecticut</state>
+        <zip>06032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Washington DC</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>200102916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Howard Univ Hosp</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington Hosp Ctr</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>200102931</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Florida Health Science Ctr / Pediatrics</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Miami (Pediatric)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33161</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Illinois College of Medicine / Pediatrics</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane Univ / Charity Hosp of New Orleans</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>701122699</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ Hosp</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hosp - Pediatric</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>212874933</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Maryland at Baltimore / Univ Med Ctr</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston City Hosp / Pediatrics</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hosp</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Boston</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>021155724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baystate Med Ctr of Springfield</name>
+      <address>
+        <city>Springfield</city>
+        <state>Massachusetts</state>
+        <zip>01199</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Massachusetts Med School</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>016550001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Michigan</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Medicine &amp; Dentistry of New Jersey / Univ Hosp</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>071032714</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp at Albany Med Ctr</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Lebanon Hosp Ctr</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10457</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bellevue Hosp / New York Univ Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia Presbyterian Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Med Ctr / Pediatrics</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State Univ of New York at Stony Brook</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>117948111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Health Sciences Ctr at Syracuse / Pediatrics</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of North Carolina at Chapel Hill / Duke Univ Med Ctr</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Case Western Reserve Univ - Pediatric</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hosp of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191044318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp of the Univ of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Christopher's Hosp for Children</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191341095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Temple Univ School of Medicine</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191341095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson Univ Hosp</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191075098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Med Univ of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>294253312</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Hosp Central</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>381052794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Med Ctr at Memphis</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Jude Children's Research Hosp of Memphis</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>381052794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Med Ctr of Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hermann Hosp / Univ Texas Health Science Ctr</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Children's Hosp / Baylor Univ</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital &amp; Medical Center / Seattle ACTU</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>981050371</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ramon Ruiz Arnau Univ Hosp / Pediatrics</name>
+      <address>
+        <city>Bayamon</city>
+        <zip>00956</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Juan City Hosp</name>
+      <address>
+        <city>San Juan</city>
+        <zip>009367344</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Puerto Rico / Univ Children's Hosp AIDS</name>
+      <address>
+        <city>San Juan</city>
+        <zip>009365067</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=22</url>
+    <description>Click here for more information about immune globulin</description>
+  </link>
+  <link>
+    <url>http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=4</url>
+    <description>Click here for more information about zidovudine</description>
+  </link>
+  <link>
+    <url>http://aidsinfo.nih.gov/ContentFiles/HIVPreventionVaccines_FS_en.pdf</url>
+    <description>Click here for more information on HIV preventive vaccines</description>
+  </link>
+  <reference>
+    <citation>Mofenson LM. Interventions to reduce perinatal transmission. Natl Conf Women HIV. 1997 May 4-7:125 (abstract no 2011)</citation>
+  </reference>
+  <reference>
+    <citation>McKinney RE Jr. Ongoing and future trials of antiretroviral therapy in the pediatric AIDS clinical trials group (PACTG). Conf Retroviruses Opportunistic Infect. 1996 Jan 28-Feb 1;3rd:173</citation>
+  </reference>
+  <reference>
+    <citation>Lambert J, Fletcher C, Mofenson L, Stiehm ER, Moye J, Meyer W, Nemo G, Mathieson B, Hirsch G. Pharmacokinetics (PK) of hyperimmune HIV immunoglobulin (HIVIG) in HIV+ pregnant females &amp; newborns. Natl Conf Hum Retroviruses Relat Infect (2nd). 1995 Jan 29-Feb 2:148</citation>
+  </reference>
+  <reference>
+    <citation>Lambert JS, Watts DH, Mofenson L, Stiehm ER, Harris DR, Bethel J, Whitehouse J, Jimenez E, Gandia J, Scott G, O'Sullivan MJ, Kovacs A, Stek A, Shearer WT, Hammill H, van Dyke R, Maupin R, Silio M, Fowler MG. Risk factors for preterm birth, low birth weight, and intrauterine growth retardation in infants born to HIV-infected pregnant women receiving zidovudine. Pediatric AIDS Clinical Trials Group 185 Team. AIDS. 2000 Jul 7;14(10):1389-99.</citation>
+    <PMID>10930154</PMID>
+  </reference>
+  <reference>
+    <citation>Mofenson LM, Lambert JS, Stiehm ER, Bethel J, Meyer WA 3rd, Whitehouse J, Moye J Jr, Reichelderfer P, Harris DR, Fowler MG, Mathieson BJ, Nemo GJ. Risk factors for perinatal transmission of human immunodeficiency virus type 1 in women treated with zidovudine. Pediatric AIDS Clinical Trials Group Study 185 Team. N Engl J Med. 1999 Aug 5;341(6):385-93.</citation>
+    <PMID>10432323</PMID>
+  </reference>
+  <reference>
+    <citation>Lambert JS, Mofenson LM, Fletcher CV, Moye J Jr, Stiehm ER, Meyer WA 3rd, Nemo GJ, Mathieson BJ, Hirsch G, Sapan CV, Cummins LM, Jimenez E, O'Neill E, Kovacs A, Stek A. Safety and pharmacokinetics of hyperimmune anti-human immunodeficiency virus (HIV) immunoglobulin administered to HIV-infected pregnant women and their newborns. Pediatric AIDS Clinical Trials Group Protocol 185 Pharmacokinetic Study Group. J Infect Dis. 1997 Feb;175(2):283-91.</citation>
+    <PMID>9203648</PMID>
+  </reference>
+  <reference>
+    <citation>Lambert JS, Moye J, Sapan C, Mofenson L, Fletcher C, Whitehouse J, Fowler MG, Nemo G, Stiehm ER. Demonstration of feasibility and preliminary safety and pharmaco-kinetics in a phase III study of hyperimmune HIV intravenous immunoglobulin (HIV-IG) to prevent maternal-fetal HIV transmission. Int Conf AIDS. 1996 Jul 7-12;11(2):84 (abstract no WeB3163)</citation>
+  </reference>
+  <reference>
+    <citation>Frenkel LM. Therapeutic issues pertaining to HIV-1 infected pregnant women in developed countries. 39th Intersci Conf Antimicrob Agents Chemother. 1999 Sept 26-29</citation>
+  </reference>
+  <reference>
+    <citation>Watts DH, Lambert J, Stiehm ER, Harris DR, Bethel J, Mofenson L, Meyer WA 3rd, Mathieson B, Fowler MG, Nemo G; PACTG 185 Study Team. Progression of HIV disease among women following delivery. J Acquir Immune Defic Syndr. 2003 Aug 15;33(5):585-93.</citation>
+    <PMID>12902802</PMID>
+  </reference>
+  <results_reference>
+    <citation>Lambert JS. HIV vaccines in infants and children. Paediatr Drugs. 2005;7(5):267-76. Review.</citation>
+    <PMID>16220994</PMID>
+  </results_reference>
+  <verification_date>May 2006</verification_date>
+  <lastchanged_date>September 26, 2008</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Pregnancy</keyword>
+  <keyword>Pregnancy Complications, Infectious</keyword>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Zidovudine</keyword>
+  <keyword>Immunoglobulins, Intravenous</keyword>
+  <keyword>Immunization, Passive</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Immune Sera</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Zidovudine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

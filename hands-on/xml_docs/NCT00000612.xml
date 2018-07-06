@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204365">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000612</url>
+  </required_header>
+  <id_info>
+    <org_study_id>115</org_study_id>
+    <nct_id>NCT00000612</nct_id>
+  </id_info>
+  <brief_title>Soy Estrogen Alternative Study (SEA)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To conduct a three-armed trial assessing the effect of soy phytoestrogens on menopausal
+      complaints, plasma lipids and lipoproteins, vaginal bleeding and endometrial proliferation,
+      and health related quality of life.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The results of many studies indicate that estrogen replacement therapy (ERT) reduces the
+      risk of coronary heart disease (CHD) in postmenopausal women. However, less than 9 percent
+      of these women choose to take ERT because of unwanted side effects and concerns about
+      increased risk of cancer associated with ERT. Therefore, alternative therapies are needed.
+
+      The isoflavonoids found in soy protein (specifically genistein) have many properties that
+      may reduce the risk of coronary heart disease. These include favorable effects on plasma
+      lipids and coronary artery vasomotion. Furthermore, genistein is a tyrosine kinase (TK)
+      inhibitor with inhibitory effects on thrombin activity and TK receptor-linked mitogens that
+      may be associated with atherogenesis and neointimal formation after angioplasty.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind, placebo-controlled. The women were randomized into one of three
+      groups: placebo, conjugated equine estrogens, or soy supplementation. Primary endpoints were
+      the impact on menopausal complaints such as hot flushes, mood lability, anxiety, sleep
+      disturbances; effects on plasma lipids and lipoproteins, including lipoprotein (a); effects
+      on vaginal bleeding and endometrial proliferation; changes in health-related quality of
+      life. Secondary endpoints included: assessment of the impact of these interventions on the
+      progression of carotid artery intimal medial wall thickening as assessed by B-mode
+      ultrasonography; bone density and bone turnover; additional measures to monitor the
+      compliance and safety of the intervention such as mammography, anticipated or known side
+      effects of hormone replacement therapy, blood levels of genistein, and clinical outcomes
+      such as hospitalizations, physician visits, and symptoms. The study ended in December, 1998.
+
+      The study was a subproject within a program project on coronary atherosclerosis in females,
+      primarily monkeys. Dr. Thomas B. Clarkson was the P.I. The subproject dollars were estimated
+      based on the CRISP dollars assigned to the study which were approximately 12 percent of the
+      total program project dollars and were broken down as follows: FY 1996 - 219,254; FY 1997 -
+      $217,000; FY 1998 - $221,000.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1996</start_date>
+  <completion_date>December 1998</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Endometrial Hyperplasia</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Menopausal Complaints</condition>
+  <condition>Uterine Diseases</condition>
+  <condition>Menopause</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>estrogens, conjugated</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, soy proteins</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>dietary supplements</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Perimenopausal/menopausal women, ages 45 to 55.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Clarkson TB, Anthony MS, Williams JK, Honoré EK, Cline JM. The potential of soybean phytoestrogens for postmenopausal hormone replacement therapy. Proc Soc Exp Biol Med. 1998 Mar;217(3):365-8.</citation>
+    <PMID>9492349</PMID>
+  </reference>
+  <verification_date>November 2000</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Endometrial Hyperplasia</mesh_term>
+    <mesh_term>Hyperplasia</mesh_term>
+    <mesh_term>Uterine Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Estrogens</mesh_term>
+    <mesh_term>Estrogens, Conjugated (USP)</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

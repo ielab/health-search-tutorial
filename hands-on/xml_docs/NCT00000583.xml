@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204394">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000583</url>
+  </required_header>
+  <id_info>
+    <org_study_id>303</org_study_id>
+    <secondary_id>P01HL009011-18A1</secondary_id>
+    <nct_id>NCT00000583</nct_id>
+  </id_info>
+  <brief_title>Hepatitis B Vaccine Clinical Trial</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the efficacy of a hepatitis vaccine in preventing hepatitis B.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Although most carriers of HBsAg are asymptomatic, a substantial proportion eventually
+      develop chronic active hepatitis and cirrhosis. There is also overwhelming evidence that the
+      hepatitis B virus is the single most important causative factor of hepatocellular carcinoma.
+      Thus, mass immunization programs against HBV infection may ultimately affect not only the
+      incidence of acute hepatitis B and the pool of chronic carriers but may also reduce the
+      morbidity and mortality from chronic active hepatitis, cirrhosis, and hepatocellular
+      carcinoma.
+
+      Krugman and his co-workers laid the groundwork for active immunization against hepatitis B
+      in 1970 to 1973. They discovered that a 1:10 dilution of hepatitis B infective serum lost
+      its infectivity when boiled for one minute but retained its antigenicity and prevented
+      hepatitis B in 70 percent of vaccinated subjects. Hilleman and his colleagues at the Merck
+      Institute of Therapeutic Research developed a more sophisticated vaccine consisting of
+      highly purified, formalin-inactivated HBsAg particles derived from the plasma of chronic
+      carriers of the antigen. By 1978, data were sufficient to permit testing in a clinical
+      trial.
+
+      The first subject was inoculated in November 1978, and by October 1979, recruitment had
+      ended. In May 1980, all trial events were reviewed and classified by an expert panel. In
+      June 1980 the code of vaccine and placebo allocation was broken.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double blind, fixed-sample. A total of 549 subjects were allocated to the
+      vaccine group in which they were treated with highly purified formalin-inactivated virus
+      subunits derived from the plasma of chronic carriers of hepatitis B. A total of 534 were
+      allocated to the placebo group. Both groups received injections at 0, 1 month, and 6 months
+      unless evidence of infection developed before the series was completed.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 1978</start_date>
+  <completion_date type="Actual">June 1980</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Hepatitis B</condition>
+  <condition>Hepatitis, Viral, Human</condition>
+  <condition>Liver Diseases</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>hepatitis B vaccines</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men at high risk for hepatitis B virus infection, 36 years of age or younger, no recent
+        symptoms of hepatitis, blood specimen negative for HBsAg, anti-HBs and anti-HBe.
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>36 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Szmuness W, Stevens CE, Harley EJ, Zang EA, Oleszko WR, William DC, Sadovsky R, Morrison JM, Kellner A. Hepatitis B vaccine: demonstration of efficacy in a controlled clinical trial in a high-risk population in the United States. N Engl J Med. 1980 Oct 9;303(15):833-41.</citation>
+    <PMID>6997738</PMID>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hepatitis</mesh_term>
+    <mesh_term>Hepatitis A</mesh_term>
+    <mesh_term>Hepatitis B</mesh_term>
+    <mesh_term>Liver Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

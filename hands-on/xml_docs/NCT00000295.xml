@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204677">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000295</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09259-12</org_study_id>
+    <secondary_id>P50-09259-12</secondary_id>
+    <nct_id>NCT00000295</nct_id>
+  </id_info>
+  <brief_title>Progesterone Treatment in Female Smokers - 12</brief_title>
+  <official_title>Progesterone Treatment in Female Smokers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Minnesota - Clinical and Translational Science Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to investigate progesterone effects in female smokers
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Limited research has been done on the effects of gender and menstrual cycle in response to
+      drugs of abuse in humans. The main goal of this pilot study is to investigate the safety and
+      tolerability of progesterone treatment in female nicotine users. In addition, plasma
+      progesterone levels reached with a single 200 mg dose of progesterone treatment will be
+      measured. The study will be a double-blind placebo controlled, crossover trial in which 12
+      female smokers who are in the early follicular phase of their menstrual cycle will be
+      enrolled. Druing the experimental sessions, subjects will be given a single 200 mg dose of
+      micronized progesterone or placebo and multiple blood samples will be obtained to measure
+      the plasma levels of progesterone. Starting 2 hours after progesterone or placebo treatment,
+      subjects will have a self-administration period that will last around 2.5 hours. We
+      hypothesize that administration of 200 mg of progesterone will achieve plasma progesterone
+      concentrations similar to those found in the luteal phase of the menstrual cycle, 3-30
+      ng/ml.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1999</start_date>
+  <completion_date>December 2001</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Crossover Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Behavioral</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Subjective</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Tobacco Use Disorder</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Micronized Progesterone</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Female subjects aged 21-45 years with a smoking history of at least 20 cigarettes daily
+        for at least 1 year. In good health as verified by medical history, screening examination,
+        and screening laboratory tests. Not pregnant as determined by pregnancy screening nor
+        breast feeding, and using acceptable birth control methods other than hormonal
+        contraceptives.
+
+        Exclusion Criteria:
+
+        History of heart disease, peripheral vascular disease, COPD, liver diseases, abnormal
+        vaginal bleeding, suspected or known breast malignancy, or any other medical condition
+        which physician investigator deems inappropriate for subject participation. Use of regular
+        psychotropic medication (antidepressants, antipsychotics, or anxiolytics) and recent
+        psychiatric history. Amenorrhea. Current use of oral or other types of hormonal
+        contraceptives. Abuse of alcohol or any other recreational or prescription drug. Regular
+        use of any other tobacco products, including smokeless tobacco and nicotine products.
+        Known allergy to progesterone or peanuts.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dorothy Hatsukami, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 1999</verification_date>
+  <lastchanged_date>June 2, 2015</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Tobacco Use Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Progesterone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

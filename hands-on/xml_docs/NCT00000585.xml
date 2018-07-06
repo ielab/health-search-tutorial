@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204392">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000585</url>
+  </required_header>
+  <id_info>
+    <org_study_id>305</org_study_id>
+    <nct_id>NCT00000585</nct_id>
+  </id_info>
+  <brief_title>Penicillin Prophylaxis in Sickle Cell Disease (PROPS)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether the regular daily administration of oral penicillin would reduce the
+      incidence of documented infection due to Streptococcus pneumoniae in children with sickle
+      cell anemia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      For over 20 years children with sickle cell anemia have been known to have an increased
+      susceptibility to severe bacterial infection, particularly due to Streptococcus pneumoniae.
+      Meningitis, pneumonia and septicemia due to this organism have been recognized as the major
+      causes of death for these children, with children under three years of age being at highest
+      risk. The annual incidence of pneumococcal septicemia among young children with sickle cell
+      anemia appears to have remained remarkably constant over the last two decades at
+      approximately 10 percent. This illness can often be fulminant, progressing from the onset of
+      fever to death in less than 12 hours, with a case fatality rate ranging as high as 35
+      percent.
+
+      Penicillin prophylaxis has been advocated as a preventive measure against severe
+      pneumococcal infections in children with sickle cell anemia. One study had shown that the
+      risk of pneumococcal infection in these children could be reduced by the use of parenteral
+      penicillin.
+
+      DESIGN NARRATIVE:
+
+      Phase I was a multi-center, randomized, double-blind, placebo-controlled trial. One hundred
+      and five patients were assigned to the penicillin group and 110 to placebo. The primary
+      endpoint was a documented severe infection due to S. pneumoniae. The secondary endpoint was
+      a severe infection due to an organism other than S. pneumoniae.
+
+      Because data were not available to define the age at which prophylactic penicillin could be
+      safely discontinued, the NHLBI launched Phase II of the Prophylactic Penicillin Study
+      beginning in 1987. Recruitment ended in August, 1993. The clinical phase of Phase II ended
+      in August, 1994.
+
+      Phase II was a multi-center randomized trial to evaluate the hazards of discontinuing daily
+      oral penicillin at the age of five years. Within three months of their fifth birthdays, all
+      children were randomized to continue oral penicillin prophylaxis or to stop prophylaxis.
+      Each child was followed for a minimum of two years. The primary endpoint was a comparison of
+      documented pneumococcal infection in children continuing penicillin after five years of age
+      versus children whose prophylaxis was stopped at five years of age. Ancillary studies
+      conducted in subsets of patients included: the prevalence of colonization of the nasopharynx
+      with antibiotic resistant microorangisms; and the relationship of antibody response to
+      pneumococcal vaccination to the incidence of pneumococcal sepsis in this patient population.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1983</start_date>
+  <completion_date>October 1994</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Anemia, Sickle Cell</condition>
+  <condition>Hematologic Diseases</condition>
+  <condition>Hemoglobinopathies</condition>
+  <condition>Infection (S. Pneumoniae)</condition>
+  <condition>Pneumonia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>penicillin</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        In the Phase I trial, Black children with sickle cell anemia aged 3 months to 3 years. In
+        the Phase II trial, children with sickle cell anemia aged five years 3 months of age and
+        younger who had received prophylactic penicillin for at least two yea
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>5 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Becton</last_name>
+    <affiliation>University of Arkansas</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ann Bjornson</last_name>
+    <affiliation>Gamble Institute of Medical Research</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>George Buchanan</last_name>
+    <affiliation>University of Texas</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Neil Grossman</last_name>
+    <affiliation>Children's Hospital Medical Center, Cincinnati</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>C. Holbrook</last_name>
+    <affiliation>East Carolina University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rathyi Iyer</last_name>
+    <affiliation>University of Mississippi Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Karen Kalinyak</last_name>
+    <affiliation>Children's Hospital Medical Center, Cincinnati</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Thomas Kinney</last_name>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Helen Maurer</last_name>
+    <affiliation>University of Illinois at Chicago</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Scott Miller</last_name>
+    <affiliation>New York Health Science Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Charles Pegelow</last_name>
+    <affiliation>University of Miami</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sergio Piomelli</last_name>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gregory Reaman</last_name>
+    <affiliation>Children's Hospital National Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alan Schwartz</last_name>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Elliott Vichinsky</last_name>
+    <affiliation>Children's Hospital &amp; Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Winfred Wang</last_name>
+    <affiliation>St. Jude Children's Research Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Doris Wethers</last_name>
+    <affiliation>St. Luke's Roosevelt Institute of Health Science</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gerald Woods</last_name>
+    <affiliation>Children's Mercy Hospital</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Gaston MH, Verter JI, Woods G, Pegelow C, Kelleher J, Presbury G, Zarkowsky H, Vichinsky E, Iyer R, Lobel JS, et al. Prophylaxis with oral penicillin in children with sickle cell anemia. A randomized trial. N Engl J Med. 1986 Jun 19;314(25):1593-9.</citation>
+    <PMID>3086721</PMID>
+  </reference>
+  <reference>
+    <citation>Falletta JM, Woods GM, Verter JI, Buchanan GR, Pegelow CH, Iyer RV, Miller ST, Holbrook CT, Kinney TR, Vichinsky E, et al. Discontinuing penicillin prophylaxis in children with sickle cell anemia. Prophylactic Penicillin Study II. J Pediatr. 1995 Nov;127(5):685-90.</citation>
+    <PMID>7472817</PMID>
+  </reference>
+  <reference>
+    <citation>Bjornson AB, Falletta JM, Verter JI, Buchanan GR, Miller ST, Pegelow CH, Iyer RV, Johnstone HS, DeBaun MR, Wethers DL, Wang WC, Woods GM, Holbrook CT, Becton DL, Kinney TR, Reaman GH, Kalinyak K, Grossman NJ, Vichinsky E, Reid CD. Serotype-specific immunoglobulin G antibody responses to pneumococcal polysaccharide vaccine in children with sickle cell anemia: effects of continued penicillin prophylaxis. J Pediatr. 1996 Dec;129(6):828-35.</citation>
+    <PMID>8969724</PMID>
+  </reference>
+  <reference>
+    <citation>Woods GM, Jorgensen JH, Waclawiw MA, Reid C, Wang W, Pegelow CH, Rogers ZR, Iyer RV, Holbrook CT, Kinney TR, Vichinsky E, DeBaun MR, Grossman NJ, Thomas MD, Falletta JM. Influence of penicillin prophylaxis on antimicrobial resistance in nasopharyngeal S. pneumoniae among children with sickle cell anemia. The Ancillary Nasopharyngeal Culture Study of Prophylactic Penicillin Study II. J Pediatr Hematol Oncol. 1997 Jul-Aug;19(4):327-33.</citation>
+    <PMID>9256832</PMID>
+  </reference>
+  <verification_date>October 1994</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anemia, Sickle Cell</mesh_term>
+    <mesh_term>Hematologic Diseases</mesh_term>
+    <mesh_term>Hemoglobinopathies</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

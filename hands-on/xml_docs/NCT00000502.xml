@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204475">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000502</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21</org_study_id>
+    <secondary_id>R01HL028941-03</secondary_id>
+    <nct_id>NCT00000502</nct_id>
+  </id_info>
+  <brief_title>Evaluation of SC-V Versus Conventional CPR</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the benefits of a new method of cardiopulmonary resuscitation, SC-V CPR
+      (simultaneous compression and ventilation CPR) in terms of short and long-term survival and
+      lessened cerebral dysfunction.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Since the 1960's, developments in cardiopulmonary resuscitation have resulted in the savings
+      of countless numbers of lives. More recently, the emphasis has been on increasing CPR
+      capability through the development of prehospital emergency care systems and the involvement
+      of the lay public in the provision of CPR. The effectiveness of this technique in the
+      prehospital setting has been demonstrated in several community studies of patients in
+      cardiac arrest where survival rates ranged from 11-17 percent.
+
+      Additionally, for patients in ventricular fibrillation, the proportion of patients
+      discharged alive ranged from 14-30 percent in five cities where the outcome of EMS programs
+      has been examined. These successes, however, concealed many failures in which CPR could not
+      reverse death even though correctly applied within established periods between arrest and
+      resuscitation. However, considerable potential existed for improving CPR techniques and for
+      making additional inroads towards the estimated 100,000 deaths each year in the United
+      States that could be reversed through the widespread application of CPR.
+
+      A major goal of CPR is to maintain adequate peripheral perfusion (particularly the cerebral
+      and coronary circulation) during cardiac arrest while attempts are being made to restore
+      normal cardiac function. Maneuvers which increase intrathoracic pressure, such as total
+      airway occlusion during chest compression and abdominal compression by binding, have been
+      shown to increase carotid blood flow in the dog.
+
+      Sixteen periods of conventional CPR followed by SC-V CPR and return to conventional CPR were
+      studied in 11 cases of in-hospital cardiac arrest at Johns Hopkins University. The findings
+      indicated that simultaneous compression and ventilation at high airway pressures (SC-V CPR)
+      greatly increased carotid flow velocity and radial artery pressure over values achieved with
+      conventional CPR. Maximum benefit was achieved in patients in whom standard or conventional
+      cardiopulmonary resuscitation was least effective. The increases in flow index noted with
+      simultaneous compression and ventilation were up to 274 percent of control.
+
+      The success of this new method of CPR had been demonstrated during in-hospital clinical
+      trials. The benefits of this method suggested the need to test the technique in the
+      prehospital setting where the vast majority of cardiac arrests occur.
+
+      DESIGN NARRATIVE:
+
+      Units of the Miami and Dade County Rescue Squads utilized the technique in a mid-point
+      cross-over design. One of the three shifts at each of the study rescue stations had been
+      thoroughly instructed in the SC-V CPR protocol. A second crew was given an intensive review
+      of conventional CPR methodology. The third shift initially received the conventional CPR
+      review and continued to perform conventional CPR. After six months, the third shift was
+      trained in SC-V CPR and utilized the technique for one year. At the cross-over point, the
+      crew trained in SC-V CPR received the same intensive review of conventional CPR as did the
+      other crew. The conventional CPR crews, in turn, were trained in SC-V CPR. Total sample size
+      was 994 patients, 494 in the treatment group and 500 in the control group.
+
+      The study completion date listed in this record was obtained from the Query/View/Report
+      (QVR) System.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1981</start_date>
+  <completion_date type="Actual">June 1985</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Crossover Assignment, Primary Purpose: Treatment</study_design>
+  <condition>Arrhythmia</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Arrest</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Ventricular Fibrillation</condition>
+  <condition>Cerebral Anoxia</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>cardiopulmonary resuscitation</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men, women, and children in cardiac arrest for which CPR was initiated in ten minutes or
+        less from the time of arrest.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Krischer JP, Fine EG, Weisfeldt ML, Guerci AD, Nagel E, Chandra N. Comparison of prehospital conventional and simultaneous compression-ventilation cardiopulmonary resuscitation. Crit Care Med. 1989 Dec;17(12):1263-9.</citation>
+    <PMID>2591221</PMID>
+  </reference>
+  <verification_date>May 2000</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Heart Arrest</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Ventricular Fibrillation</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

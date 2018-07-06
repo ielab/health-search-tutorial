@@ -1,0 +1,105 @@
+TITLE:
+      DNA Methylation and Autoimmune Thyroid Diseases
+SUMMARY:
+      Hashimoto Thyroiditis (HT) and Graves Disease (GD) are known to be caused by abnormal immune
+      response against self cells and tissues. Epigenetics is a novel field of biology studying
+      the mechanisms by which the environment interacts with the genotype to produce a variety of
+      phenotypes through modifications to chromatin that do not directly alter the DNA sequence. A
+      very limited number of epigenetic studies have been published in patients with HT and GD so
+      far. Therefore, the purpose of this study is to analyze DNA methylation status in White
+      Blood Cells (WBCs) within the promoter regions of genomic sites that have been previously
+      identified as susceptibility loci or sites for autoimmune thyroid disease, such as the CD40,
+      FOXP3, CTLA4, PTPN22, CD25, and TPO genes.
+DETAILED DESCRIPTION:
+      Hashimoto Thyroiditis (HT) and Graves Disease (GD) are known to be caused by abnormal immune
+      response against self cells and tissues. HT involves a cell-mediated autoimmune destruction
+      of the thyroid leading to hypothyroidism. GD is caused by a process in which immune cells
+      make stimulating antibodies against the thyroid stimulating hormone (TSH) receptor on the
+      thyroid gland, thus leading to hyperthyroidism. Although there is substantial evidence that
+      genetic factors increase the risk for developing autoimmune diseases, monozygotic twins
+      still remain discordant for disease (disease concordance is never 100%), thus suggesting a
+      role for environmental factors and epigenetics.
+
+      Epigenetics is a novel field of biology studying the mechanisms by which the environment
+      interacts with the genotype to produce a variety of phenotypes through modifications to
+      chromatin that do not directly alter the DNA sequence. These modifications have been
+      associated with altered gene expression and silencing of repetitive elements and can be
+      inherited mitotically. Epigenetic mechanisms include DNA methylation, histone modifications,
+      or miRNA post-transcriptional regulation. DNA methylation involves the covalent addition of
+      a methyl group to the carbon-5 position in the CpG dinucleotide from the methyl donor
+      S-adenosylmethionine and is mediated by a group of enzymes called DNA methyltransferases
+      (DNMTs). CpG dinucleotides are typically grouped together in regions known as CGIs
+      (islands). CGIs can be found in the promoter regions of genes, and CpG methylation of these
+      gene promoters is associated with transcriptional silencing. In contrast, hypermethylated
+      genes have been found to be transcriptionally active.
+
+      A very limited number of epigenetic studies have been published in patients with HT and GD
+      so far. Therefore, the purpose of this study is to analyze DNA methylation status in White
+      Blood Cells (WBCs) within the promoter regions of genomic sites that have been previously
+      identified as susceptibility loci or sites for autoimmune thyroid disease, such as the CD40,
+      FOXP3, CTLA4, PTPN22, CD25, and TPO genes.
+
+      Initially, recruitment of patients and controls as well as blood sample collection will be
+      done. A complete physical examination will also be performed in all participants included in
+      the study, and a detailed personal, family, gestational and perinatal history will be
+      obtained as well before inclusion. Blood samples by all participants will be collected and
+      centrifuged and then White Blood Cells (WBCs), plasma and serum will be separated and stored
+      in a deep freezer.
+
+      Laboratory analyses will follow. DNA will be isolated from peripheral leukocytes using the
+      standard phenol chloroform technique. It will then be treated with sodium bisulfite using
+      the Zymo EZ DNA Methylation-Gold Kit, according to the manufacturer's protocol. Therefore,
+      unmethylated cytosines will be converted into uracyls, whereas methylated cytosines will
+      remain unchanged. Afterwards, a PCR reaction will be performed, targeting specific sequences
+      in the promoter region of specific gene promoters (using specific primers). Amplicons will
+      then be analyzed by electrophoresis and visualized by ultraviolet trans-illumination, and
+      PCR products will be purified using Millipore Centrifugal Filters for DNA purification. A
+      sequence analysis will also be performed in order to quantitatively describe the methylation
+      status at the genetic loci under study.
+
+      Finally, online bioinformatics resources will be employed for aligning the obtained
+      sequences (e.g., BLAST - http://blast.ncbi.nlm.nih.gov/Blast.cgi) and subsequently
+      identifying their methylated and unmethylated CpGs sites. In case more flexibility and
+      automation is needed, bioinformatics scripts will be developed from scratch to accomplish
+      the aforementioned tasks based on powerful, open-source bioinformatics software libraries
+      (e.g., Biopython - http://biopython.org/). An electronic Data Base will be constructed and
+      Statistical Analysis will follow. Results and Conclusions will be published in peer-review
+      journals and presented in International Meetings.
+ELIGIBILITY CRITERIA:
+      Inclusion Criteria:
+
+        For HT:
+
+        A positive titers of antithyroid peroxidase (anti-TPO) or antithyroglobulin (anti-Tg)
+        antibodies and at least one of:
+
+          -  Abnormal thyroid function that requires substitution treatment with L-thyroxine (TSH
+             > 5 μIU/ml and decreased or normal levels of fT4 or fT3)
+
+          -  Increased volume of thyroid gland (goiter)
+
+          -  Morphological changes on ultrasound of the thyroid gland
+
+        For GD:
+
+          -  A positive titers of thyroid stimulating antibodies (anti-TSI) and
+
+          -  Decreased TSH levels and increased levels of fT4 or fT3
+
+        For Controls:
+
+          -  Otherwise healthy children and adolescents, age- and gender-matched with patients
+
+          -  Absence of previously known chronic disease of autoimmune aetiology or atopy
+             (including those with a history of chronic treatment with antihistamines,
+             anti-inflammatory, corticosteroids or anti-epileptic drugs)
+
+          -  Absence of a family history of autoimmune disease in first-degree relatives
+
+        Exclusion Criteria:
+
+          -  Not Caucasian origin or affinity among participants
+
+          -  Age of diagnosis above 18 years
+
+          -  Disease duration below 3 months

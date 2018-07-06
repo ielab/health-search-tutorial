@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204613">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000359</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDCD-1156</org_study_id>
+    <secondary_id>R01DC003602</secondary_id>
+    <secondary_id>1R01DC003602-01A1</secondary_id>
+    <nct_id>NCT00000359</nct_id>
+  </id_info>
+  <brief_title>Treatments for Benign Paroxysmal Positional Vertigo (BPPV)</brief_title>
+  <official_title>Treatments for Benign Paroxysmal Positional Vertigo (BPPV)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Baylor College of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Deafness and Other Communication Disorders (NIDCD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Baylor College of Medicine</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study was to determine the relative short- and long-term efficacy of
+      several physical treatment paradigms commonly employed for the treatment of benign
+      paroxysmal positional vertigo (BPPV), including the canalith repositioning (Epley) maneuver,
+      the liberatory (Semont) maneuver, the Brandt-Daroff exercises and nonspecific vestibular
+      habituation exercises. These procedures involve exercises and head manipulations. Vertigo
+      intensity and frequency, the presence/absence of slow-phase eye movements, the degree of
+      dizziness handicap and acts of daily living (ADL) were assessed. The study also ascertained
+      the effects of co-morbid conditions on the response to treatment. While BPPV is a common and
+      significant public health problem that has been recognized for several decades, this is the
+      first systematic study of the relative treatment efficacy of different physical treatment
+      modalities for this disorder.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>October 1998</start_date>
+  <completion_date type="Actual">June 2003</completion_date>
+  <primary_completion_date type="Actual">June 2003</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Masking: Single Blind (Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Vertigo</measure>
+    <time_frame>6 month s</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Balance</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">150</enrollment>
+  <condition>Vertigo</condition>
+  <arm_group>
+    <arm_group_label>Canalith repositioning maneuver</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Repositioning treatment for posterior canal BPPV</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Modified Epley maneuver</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>The subject sat in a chair; the head was passively tilted downward, turned away from the involved side, turned back to center, upward, away from the involved side, twice, slowly.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Liberatory maneuver</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The standard liberatory maneuver (also known as the Semont maneuver) was used.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Brandt Daroff exercise</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Modified Brandt Daroff exercise performed as a self-liberatory exercise.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Canalith repositioning maneuver (Epley maneuver)</intervention_name>
+    <description>Standard passive motion of the head: Dix-Hallpike maneuver, turn head to opposite side, roll over, sit up.</description>
+    <arm_group_label>Canalith repositioning maneuver</arm_group_label>
+    <other_name>CRP</other_name>
+    <other_name>Epley maneuver</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Semont maneuver</intervention_name>
+    <description>Sidelying maneuver, flip over 180 deg, sit up.</description>
+    <arm_group_label>Liberatory maneuver</arm_group_label>
+    <other_name>Liberatory maneuver</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Brandt-Daroff exercises</intervention_name>
+    <description>Active exercise. Sidelying to involved side, sidelying to uninvolved side, sit up.</description>
+    <arm_group_label>Brandt Daroff exercise</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Vestibular habituation exercises</intervention_name>
+    <description>Head shaking exercises in pitch, roll, yaw and circumduction. Titrating from 2 repetitions per exercise to 20 repetitions per exercise, as tolerated.</description>
+    <arm_group_label>Modified Epley maneuver</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>ShamManeuver</intervention_name>
+    <description>Passive movement of the head</description>
+    <arm_group_label>Sham</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients may be eligible for this study if they:
+
+          -  Are at least 21 years old.
+
+          -  Have a diagnosis of unilateral posterior semicircular canal BPPV according to
+             established clinical test criteria.
+
+          -  Have functional to normal range of motion of the neck and the back.
+
+        Exclusion Criteria:
+
+        Patients will not be eligible for this study if they:
+
+          -  Have a history of prior ear surgery or prior treatment for BPPV.
+
+          -  Have an orthopedic or connective tissue disorder that impairs functional neck or
+             trunk range of motion.
+
+          -  Have a significant neurological disorder or spinal cord damage.
+
+          -  Are on vestibular suppressant medications.
+
+          -  Have Meniere's disease or acoustic neuromas.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Helen Cohen, EdD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Baylor College of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Cohen HS. Side-lying as an alternative to the Dix-Hallpike test of the posterior canal. Otol Neurotol. 2004 Mar;25(2):130-4.</citation>
+    <PMID>15021771</PMID>
+  </reference>
+  <results_reference>
+    <citation>Cohen HS, Kimball KT, Stewart MG. Benign paroxysmal positional vertigo and comorbid conditions. ORL J Otorhinolaryngol Relat Spec. 2004;66(1):11-5.</citation>
+    <PMID>15103195</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cohen HS, Kimball KT. Treatment variations on the Epley maneuver for benign paroxysmal positional vertigo. Am J Otolaryngol. 2004 Jan-Feb;25(1):33-7.</citation>
+    <PMID>15011204</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cohen HS, Kimball KT. Effectiveness of treatments for benign paroxysmal positional vertigo of the posterior canal. Otol Neurotol. 2005 Sep;26(5):1034-40.</citation>
+    <PMID>16151355</PMID>
+  </results_reference>
+  <verification_date>July 2012</verification_date>
+  <lastchanged_date>July 25, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Baylor College of Medicine</investigator_affiliation>
+    <investigator_full_name>Helen Cohen</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Physical Therapy</keyword>
+  <keyword>Vertigo</keyword>
+  <keyword>rehabilitation</keyword>
+  <keyword>occupational therapy</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dizziness</mesh_term>
+    <mesh_term>Vertigo</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

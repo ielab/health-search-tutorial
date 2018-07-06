@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204411">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000566</url>
+  </required_header>
+  <id_info>
+    <org_study_id>204</org_study_id>
+    <nct_id>NCT00000566</nct_id>
+  </id_info>
+  <brief_title>Prospective Investigation of Pulmonary Embolism Diagnosis (PIOPED)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the sensitivity and specificity of two major, widely used technologies,
+      radionuclear imaging (ventilation-perfusion scanning) and pulmonary angiography, for the
+      diagnosis of pulmonary embolism.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      In 1983, reliable data on the incidence of pulmonary embolism in the adult population and in
+      groups identified at risk were not available because the sensitivity and specificity of the
+      diagnostic procedures had not been determined. Estimates suggested there were about half a
+      million episodes of pulmonary embolism in hospitalized patients each year in the United
+      States. Deaths attributable to pulmonary embolism would be expected in about one third of
+      these patients if left untreated.
+
+      The clinical diagnosis of pulmonary embolism was subject to a high frequency of false
+      positives and false negatives. The most definitive diagnostic procedure was pulmonary
+      angiography, an invasive, expensive procedure which was not without risk. It required
+      specialized equipment and highly trained personnel both for performance and for
+      interpretation. Therefore, it was used to diagnose pulmonary embolism only in the major
+      medical centers. Another technique utilized as a method to diagnose pulmonary embolism
+      involved a combination of perfusion and ventilation scanning; this method was only minimally
+      invasive. A normal perfusion scan was thought to be of considerable value because it
+      essentially excluded the diagnosis of pulmonary embolism. In selected patient populations,
+      abnormal perfusion scans combined with normal ventilation scans were of substantial help in
+      diagnosis.
+
+      Although there had been no acceptable validation of the use of perfusion scans in the
+      diagnosis of pulmonary embolism, thousands of patients had been evaluated for pulmonary
+      embolism based on perfusion scanning often using methods of imaging now considered to be
+      inadequate. In the early 1980s, clinical practice interpreted a negative perfusion scan as
+      overwhelming evidence against the presence of pulmonary emboli. This interpretation had not
+      been adequately tested either in a prospective study or by long-term follow-up of patients
+      to determine clinical outcome. With regards to positive perfusion scans, there were data to
+      suggest that as many as two-thirds of positive perfusion scans could not subsequently be
+      confirmed by pulmonary angiography. Prospective studies in which timely angiograms using
+      selective injections and improved imaging techniques were needed to evaluate the usefulness
+      of positive perfusion scans.
+
+      Phase I was initiated in September 1983. Protocols developed during Phase I underwent
+      independent assessment review in April 1984 and were reviewed and approved by the May 1984
+      National Heart, Lung, and Blood Advisory Council. Recruitment and intervention started in
+      January 1985 and ended in September 1986. Follow-up was completed on September 30, 1987.
+
+      DESIGN NARRATIVE:
+
+      Patients suspected of pulmonary embolism underwent a ventilation-perfusion scan. Patients
+      with an abnormal perfusion scan underwent angiography. All patients were followed for one
+      year.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1983</start_date>
+  <completion_date>December 1989</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Primary Purpose: Diagnostic</study_design>
+  <condition>Lung Diseases</condition>
+  <condition>Pulmonary Embolism</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>ventilation-perfusion ratio</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>angiography</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women suspected of having a pulmonary embolism and who met the criteria to undergo
+        angiography.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Abass Alavi</last_name>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Richard Greenspan</last_name>
+    <affiliation>Yale University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Charles Hales</last_name>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Herbert Saltzman</last_name>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Paul Stein</last_name>
+    <affiliation>Henry Ford Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Weg</last_name>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Henry JW, Stein PD, Gottschalk A, Raskob GE. Pulmonary embolism among patients with a nearly normal ventilation/perfusion lung scan. Chest. 1996 Aug;110(2):395-8.</citation>
+    <PMID>8697840</PMID>
+  </reference>
+  <reference>
+    <citation>Gottschalk A, Stein PD, Henry JW, Relyea B. Can pulmonary angiography be limited to the most suspicious side if the contralateral side appears normal on the ventilation/perfusion lung scan? Data from PIOPED. Prospective Investigation of Pulmonary Embolism Diagnosis. Chest. 1996 Aug;110(2):392-4.</citation>
+    <PMID>8697839</PMID>
+  </reference>
+  <reference>
+    <citation>Tissue plasminogen activator for the treatment of acute pulmonary embolism. A collaborative study by the PIOPED Investigators. Chest. 1990 Mar;97(3):528-33.</citation>
+    <PMID>2106408</PMID>
+  </reference>
+  <reference>
+    <citation>PIOPED Investigators. Value of the ventilation/perfusion scan in acute pulmonary embolism. Results of the prospective investigation of pulmonary embolism diagnosis (PIOPED). JAMA. 1990 May 23-30;263(20):2753-9.</citation>
+    <PMID>2332918</PMID>
+  </reference>
+  <reference>
+    <citation>Bone RC. Ventilation/perfusion scan in pulmonary embolism. 'The Emperor is incompletely attired'. JAMA. 1990 May 23-30;263(20):2794-5.</citation>
+    <PMID>2185372</PMID>
+  </reference>
+  <reference>
+    <citation>Stein PD, Gottschalk A, Saltzman HA, Terrin ML. Diagnosis of acute pulmonary embolism in the elderly. J Am Coll Cardiol. 1991 Nov 15;18(6):1452-7.</citation>
+    <PMID>1939945</PMID>
+  </reference>
+  <reference>
+    <citation>Stein PD, Alavi A, Gottschalk A, Hales CA, Saltzman HA, Vreim CE, Weg JG. Usefulness of noninvasive diagnostic tools for diagnosis of acute pulmonary embolism in patients with a normal chest radiograph. Am J Cardiol. 1991 May 15;67(13):1117-20.</citation>
+    <PMID>2024602</PMID>
+  </reference>
+  <reference>
+    <citation>Stein PD, Coleman RE, Gottschalk A, Saltzman HA, Terrin ML, Weg JG. Diagnostic utility of ventilation/perfusion lung scans in acute pulmonary embolism is not diminished by pre-existing cardiac or pulmonary disease. Chest. 1991 Sep;100(3):604-6.</citation>
+    <PMID>1889240</PMID>
+  </reference>
+  <reference>
+    <citation>Stein PD, Terrin ML, Hales CA, Palevsky HI, Saltzman HA, Thompson BT, Weg JG. Clinical, laboratory, roentgenographic, and electrocardiographic findings in patients with acute pulmonary embolism and no pre-existing cardiac or pulmonary disease. Chest. 1991 Sep;100(3):598-603.</citation>
+    <PMID>1909617</PMID>
+  </reference>
+  <reference>
+    <citation>Stein PD, Saltzman HA, Weg JG. Clinical characteristics of patients with acute pulmonary embolism. Am J Cardiol. 1991 Dec 15;68(17):1723-4.</citation>
+    <PMID>1746481</PMID>
+  </reference>
+  <reference>
+    <citation>Stein PD, Athanasoulis C, Greenspan RH, Henry JW. Relation of plain chest radiographic findings to pulmonary arterial pressure and arterial blood oxygen levels in patients with acute pulmonary embolism. Am J Cardiol. 1992 Feb 1;69(4):394-6.</citation>
+    <PMID>1734655</PMID>
+  </reference>
+  <reference>
+    <citation>Quinn DA, Thompson BT, Terrin ML, Thrall JH, Athanasoulis CA, McKusick KA, Stein PD, Hales CA. A prospective investigation of pulmonary embolism in women and men. JAMA. 1992 Oct 7;268(13):1689-96.</citation>
+    <PMID>1527878</PMID>
+  </reference>
+  <verification_date>June 2002</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Embolism</mesh_term>
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Pulmonary Embolism</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

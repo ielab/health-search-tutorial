@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204589">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000387</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01MH056580</org_study_id>
+    <secondary_id>DSIR CT-S</secondary_id>
+    <nct_id>NCT00000387</nct_id>
+  </id_info>
+  <brief_title>Self-Management Therapy for Youth With Schizophrenia</brief_title>
+  <acronym>FamCent</acronym>
+  <official_title>Self-Management Therapy for Youth With Schizophrenia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Mental Health (NIMH)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to test the effectiveness of a family-centered,
+      community-based, self-management intervention (Self-Management Therapy) for adolescents with
+      schizophrenia. The study will test the intervention's effectiveness in improving the
+      adolescents' behavior, thinking, mood, and use of substances such as drugs and alcohol. The
+      study also will look at the effects of the patient on the family.
+
+      The intervention involves training in recognizing symptoms of schizophrenia and in stress
+      management, problem-solving, and social skills. Parents and siblings are included to gain
+      knowledge and skills to support the adolescents.
+
+      The Self-Management Therapy intervention is administered in small multiple-family groups in
+      12 sessions over 7-1/2 months. The effects of the intervention on the patient and his/her
+      family are assessed prior to treatment, after 6 sessions, after 12 sessions, and in a
+      follow-up visit 6 months after completion of sessions.
+
+      A child may be eligible for this study if he/she:
+
+      Is 15 to 19 years old and has been diagnosed with schizophrenia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To test the effectiveness of a family-centered, community-based, self-management
+      intervention (Self-Management Therapy) for adolescents with schizophrenia. The primary aim
+      is to test its effectiveness in improving the adolescents' level of functioning in role
+      performance, thinking/cognitive processing, behavior towards others, mood, and use of
+      substances. The second aim is to assess the impact of the intervention on family
+      functioning. The third aim is to describe the relationships among the process variables of
+      the intervention.
+
+      Nakagawa-Kogan's self-management nursing model, Kanfer's self-regulation theory, and
+      Liberman's theory of stress and vulnerability provide the theoretical basis for the
+      self-management intervention developed specifically for a population with deficits in
+      cognitive processing. The intervention involves training in symptom awareness, stress
+      management skills, problem-solving, and social skills. Parents and siblings are included to
+      gain knowledge and skills to support the adolescents.
+
+      The adolescent's level of functioning is assessed using the Child and Adolescent Functional
+      Assessment Scale, the Birchwood Early Signs &amp; Symptoms Scale for schizophrenia, and the
+      DISA. Family Functioning is assessed by computing a Composite Family Functioning Index using
+      weighted scores from the FACES II, Family Apgar, Family Empowerment, and Family Social
+      Support scales. One parent is designated by the family to be the family respondent on the
+      scales. The adolescents are referred to the study by mental health professionals. The
+      intervention is administered in small multiple-family groups in 12 sessions over 7-1/2
+      months. Data are collected at 4 points in time: at baseline, after 6 intensive sessions,
+      after 6 monthly reinforcement sessions, and 6 months post-intervention. ANCOVA is used to
+      test the study hypotheses. Multivariate relationships are examined among the process
+      variables of the intervention.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1998</start_date>
+  <completion_date type="Actual">January 2005</completion_date>
+  <primary_completion_date type="Actual">January 2005</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Increase in CAFAS level of functioning for all adolescents.</measure>
+    <time_frame>Over the course of 14 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Increase in family functioning for families in the treatment group according to the designated family respondent.</measure>
+    <time_frame>Over the course of 14 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Schizophrenia</condition>
+  <arm_group>
+    <arm_group_label>A,1,III</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Behavioral intervention - Self management therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>A,2,III</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Regular treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Self-management therapy</intervention_name>
+    <description>Behavioral</description>
+    <arm_group_label>A,1,III</arm_group_label>
+    <arm_group_label>A,2,III</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Self-management therapy</intervention_name>
+    <arm_group_label>A,1,III</arm_group_label>
+    <arm_group_label>A,2,III</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients must have:
+
+        Schizophrenia as diagnosed according to DSM-IV criteria when screened by a mental health
+        professional using the K-SADS and the DISA.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>19 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Karen G. Schepp, PhD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Washington</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2007</verification_date>
+  <lastchanged_date>December 26, 2007</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <name_title>Karen G. Schepp</name_title>
+    <organization>NIMH</organization>
+  </responsible_party>
+  <keyword>Adolescence</keyword>
+  <keyword>Family</keyword>
+  <keyword>Female</keyword>
+  <keyword>Human</keyword>
+  <keyword>Male</keyword>
+  <keyword>Schizophrenia</keyword>
+  <keyword>Self Care</keyword>
+  <keyword>Community Health Services</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Schizophrenia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

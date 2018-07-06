@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204194">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000785</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CPCRA 017</org_study_id>
+    <secondary_id>11568</secondary_id>
+    <nct_id>NCT00000785</nct_id>
+  </id_info>
+  <brief_title>A Registry of Tuberculosis Cases in the CPCRA</brief_title>
+  <official_title>A Registry of Tuberculosis Cases in the CPCRA</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      PRIMARY: To estimate the proportion of tuberculosis patients in the CPCRA who have
+      drug-resistant tuberculosis (TB) and to describe the patterns of drug resistance.
+
+      SECONDARY: To compare drug resistance data on the Mycobacterium tuberculosis isolates of
+      HIV-infected patients to those of HIV-uninfected patients who are being followed in the
+      CPCRA. To assess the relationship of resistance data with geographic, demographic, and HIV
+      and TB risk factor information.
+
+      Geographic areas and demographic subgroups affected by the TB epidemic appear to be
+      congruent and associated with the concurrent HIV epidemic. The total number of CPCRA
+      patients who will develop, or who have experienced, confirmed TB is unknown. It is critical
+      to determine the depth and breadth of the current problem of drug-resistant TB.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Geographic areas and demographic subgroups affected by the TB epidemic appear to be
+      congruent and associated with the concurrent HIV epidemic. The total number of CPCRA
+      patients who will develop, or who have experienced, confirmed TB is unknown. It is critical
+      to determine the depth and breadth of the current problem of drug-resistant TB.
+
+      For both retrospective and prospective components of the study, demographic, geographic, HIV
+      and TB risk factor information will be collected on CPCRA patients with confirmed pulmonary
+      or extrapulmonary TB. Mycobacterial culture results will be recorded. Retrospective data
+      will be collected on CPCRA patients with confirmed tuberculosis who have been diagnosed
+      since January 1992 until the time of site registration. Prospective data will be collected
+      on CPCRA patients with confirmed tuberculosis diagnosed during the period of 1 to 2 years
+      following site registration.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1992</start_date>
+  <completion_date type="Actual">June 1994</completion_date>
+  <primary_completion_date type="Actual">June 1994</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Time Perspective: Cross-Sectional</study_design>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">1509</enrollment>
+  <condition>HIV Infections</condition>
+  <condition>Tuberculosis</condition>
+  <arm_group>
+    <arm_group_label>A</arm_group_label>
+    <description>All eligible CPCRA subjects</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Any sample that can be used to test for M.tuberculosis
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All eligible CPCRA subjects
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Patients must meet the following criteria:
+
+          -  CPCRA patients with confirmed pulmonary or extrapulmonary TB. Confirmed clinical TB
+             requires a positive culture for Mycobacterium tuberculosis.
+
+        NOTE:
+
+          -  There is no requirement that patients have HIV infection.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fred Gordin</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Denver CPCRA / Denver Public Hlth</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Veterans Administration Med Ctr / Regional AIDS Program</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20422</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AIDS Research Alliance - Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60657</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Louisiana Comm AIDS Rsch Prog / Tulane Univ Med</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive AIDS Alliance of Detroit</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hosp</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Jersey Community Research Initiative</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Lebanon Hosp Ctr</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Addiction Research and Treatment Corp</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Directors Network of Region II</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harlem AIDS Treatment Group / Harlem Hosp Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Portland Veterans Adm Med Ctr / Rsch &amp; Education Grp</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Richmond AIDS Consortium</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Gordin FM, Nelson ET, Matts JP, Cohn DL, Ernst J, Benator D, Besch CL, Crane LR, Sampson JH, Bragg PS, El-Sadr W. The impact of human immunodeficiency virus infection on drug-resistant tuberculosis. Am J Respir Crit Care Med. 1996 Nov;154(5):1478-83.</citation>
+    <PMID>8912768</PMID>
+  </reference>
+  <verification_date>September 2013</verification_date>
+  <lastchanged_date>September 28, 2013</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Tuberculosis</keyword>
+  <keyword>Mycobacterium tuberculosis</keyword>
+  <keyword>AIDS-Related Opportunistic Infections</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Drug Resistance, Microbial</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Tuberculosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

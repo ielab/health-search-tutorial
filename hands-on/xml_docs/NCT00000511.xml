@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204466">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000511</url>
+  </required_header>
+  <id_info>
+    <org_study_id>30</org_study_id>
+    <secondary_id>R01HL034593</secondary_id>
+    <secondary_id>R01HL034593-05</secondary_id>
+    <nct_id>NCT00000511</nct_id>
+  </id_info>
+  <brief_title>Polyunsaturates and KCL to Control Mild Hypertension</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To test the efficacy of omega-3 fatty acids in untreated mild hypertensives and magnesium,
+      calcium, and potassium supplementation supplementation in non-hypertensives. These clinical
+      trials were conducted in sequence over a four year period.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The hypothesis that omega-3 fatty acids as well as magnesium and potassium in the diet
+      lowered blood pressure in mild hypertensives needed further documentation, although
+      preliminary and less well controlled studies had suggested such an effect was possible. In a
+      previous study the investigators did not find a hypotensive effect of another
+      polyunsaturated fatty acid, linoleic acid. In addition, findings of lower blood pressures in
+      vegetarians and results obtained from a study in which vegetarian diets were fed to
+      normotensives led to the conclusion that dietary factors other then linoleic acid were
+      responsible for the possible hypotensive effect of vegetarian diets. The nutrients which
+      were selected for further study, omega-3 fatty acids, magnesium and potassium, occur in
+      higher amounts in vegetarian diets.
+
+      Dietary supplementation with fish oils had only been done in a few studies with inconclusive
+      results. However, the relationship of omega-3 fatty acids to the synthesis of prostacyclins,
+      which are locally active vasodilators and which decrease with the excretion of the
+      vasoconstrictor thromboxane, provide a possible mechanism for an effect of these compounds
+      on blood pressure.
+
+      The role of potassium in the control of blood pressure was first suggested from
+      cross-cultural studies in which populations consuming high levels of potassium displayed
+      lower rates of hypertension and a decrease in blood pressure with age. Cohort studies within
+      this country have also shown a relationship between potassium intake or the ratio of
+      potassium and sodium, as measured by urinary excretion and blood pressure. Most constantly
+      it found that blood pressure differences between blacks and whites have been related to
+      differences in potassium excretion.
+
+      The results from human experimental studies involving potassium supplementation in
+      normotensives and hypertensives have indicated mixed effects but blood pressure lowering was
+      most consistently observed in subgroups with a family history of hypertension or those with
+      higher blood pressure.
+
+      DESIGN NARRATIVE:
+
+      Trial 1: Subjects were randomized to a fish oil treatment group of 6 or 12 grams/day of
+      omega-3 fatty acids or to a placebo group. At the end of 12 and 24 weeks, participants in
+      the three groups were crossed-over to one of the other two treatments for an additional 12
+      weeks. The primary outcome was clinic blood pressure on 3 days at the end of the treatment
+      period.
+
+      Trial 2: Subjects were randomly assigned to one of four treatments and placebo: magnesium
+      supplementation; potassium supplementation; calcium supplementation; all 3 supplements;
+      matching placebos. The trial was double-blinded. Each of the treatments was administered for
+      six months with measurements taken at baseline and at the end. The primary outcome was
+      24-hour ambulatory systolic BP.
+
+      The study completion date listed in this record was obtained from the Query/View/Report
+      (QVR) System.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 1983</start_date>
+  <completion_date type="Actual">November 1994</completion_date>
+  <primary_completion_date type="Actual">November 1994</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Crossover Assignment, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Blood Pressure</measure>
+    <time_frame>End of study</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>14 hour ambulatory BP</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Vascular Diseases</condition>
+  <arm_group>
+    <arm_group_label>Potassium, Magnesium, Calcium, The 3 together, Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Parallel study design, 4 treatment groups</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>mineral supplements</intervention_name>
+    <arm_group_label>Potassium, Magnesium, Calcium, The 3 together, Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Trial 1: fatty acids, omega-3; Trial 2: Mineral supplements</intervention_name>
+    <arm_group_label>Potassium, Magnesium, Calcium, The 3 together, Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>dietary supplements</intervention_name>
+    <arm_group_label>Potassium, Magnesium, Calcium, The 3 together, Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Mild hypertensives, ages 21 to 70, with no evidence of end-organ damage.. Untreated
+        hypertensives.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Morris MC, Taylor JO, Stampfer MJ, Rosner B, Sacks FM. The effect of fish oil on blood pressure in mild hypertensive subjects: a randomized crossover trial. Am J Clin Nutr. 1993 Jan;57(1):59-64.</citation>
+    <PMID>8416666</PMID>
+  </reference>
+  <verification_date>December 2013</verification_date>
+  <lastchanged_date>December 12, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Frank M. Sacks</investigator_full_name>
+    <investigator_title>Professor of Medicine</investigator_title>
+  </responsible_party>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

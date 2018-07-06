@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204434">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000543</url>
+  </required_header>
+  <id_info>
+    <org_study_id>86</org_study_id>
+    <nct_id>NCT00000543</nct_id>
+  </id_info>
+  <brief_title>Oral Calcium in Pregnant Women With Hypertension</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine of providing calcium supplementation to women with pre-existing hypertension
+      reduces the level of blood pressure, requirement for antihypertensive drugs, and incidence
+      of pre-eclampsia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Maternal and fetal complications are more likely to occur in pregnant women with preexisting
+      hypertension. Alterations in calcium metabolism, the renin angiotensin system, and
+      intracellular free calcium concentration have been identified in this high risk population.
+      The beneficial effects of calcium supplementation on blood pressure and the incidence of
+      superimposed pre-eclampsia may be due to correction of the hormonal and cellular basis for
+      vasoconstriction. The trial sought to prove that oral calcium lowered parathyroid hormone,
+      reduced intracellular free calcium, and decreased vascular endothelin production, resulting
+      in vasodilation and compensatory stimulation of the renin-angiotensin system.
+
+      DESIGN NARRATIVE:
+
+      Randomized. Double blind. In this observational study, subjects were assigned to two grams
+      of supplemental elemental calcium or to placebo at 13 to 15 weeks gestation. The trial
+      determined the effect of oral calcium supplementation on: the level of blood pressure; the
+      need for antihypertensive drugs; forearm and peripheral vascular resistance; the incidence
+      of maternal complications, including pre-eclampsia and eclampsia; and plasma levels of
+      vitamin D3, ionized calcium, parathyroid, renin activity, angiotensin II, endothelin,
+      nitrate/nitrite, prostacyclins, and intracellular calcium concentrations in lymphocytes and
+      platelets. These variables were measured prior to randomization and every two months
+      throughout pregnancy and the postpartum. Support ended in July 1999.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1993</start_date>
+  <completion_date>July 1999</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Pre-Eclampsia</condition>
+  <condition>Pregnancy Toxemias</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>dietary supplements</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>calcium</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Pregnant women with chronic hypertension.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Hojo M, August P. Calcium metabolism in normal and hypertensive pregnancy. Semin Nephrol. 1995 Nov;15(6):504-11. Review.</citation>
+    <PMID>8588110</PMID>
+  </reference>
+  <reference>
+    <citation>Hojo M, Suthanthiran M, Helseth G, August P. Lymphocyte intracellular free calcium concentration is increased in preeclampsia. Am J Obstet Gynecol. 1999 May;180(5):1209-14.</citation>
+    <PMID>10329879</PMID>
+  </reference>
+  <reference>
+    <citation>Curnow KM, Pham T, August P. The L10F mutation of angiotensinogen is rare in pre-eclampsia. J Hypertens. 2000 Feb;18(2):173-8.</citation>
+    <PMID>10694185</PMID>
+  </reference>
+  <verification_date>April 2002</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Pre-Eclampsia</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

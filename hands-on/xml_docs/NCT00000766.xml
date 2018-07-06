@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204213">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000766</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 228</org_study_id>
+    <nct_id>NCT00000766</nct_id>
+  </id_info>
+  <brief_title>CMV Retinitis Retreatment Trial</brief_title>
+  <official_title>CMV Retinitis Retreatment Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the safety and efficacy of three therapeutic regimens (foscarnet, ganciclovir, or
+      the combination) for recurrent or persistent AIDS-related cytomegalovirus (CMV) retinitis.
+
+      Although therapy with foscarnet or ganciclovir halts retinitis progression in 90 percent of
+      patients treated, relapses are common and may accelerate due to development of drug
+      resistance, deteriorating immune function, or other factors. Treatment strategies currently
+      being investigated include switching patients from one drug to the other or combining the
+      two drugs.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Although therapy with foscarnet or ganciclovir halts retinitis progression in 90 percent of
+      patients treated, relapses are common and may accelerate due to development of drug
+      resistance, deteriorating immune function, or other factors. Treatment strategies currently
+      being investigated include switching patients from one drug to the other or combining the
+      two drugs.
+
+      Patients are randomized to receive foscarnet, ganciclovir, or a combination of the two drugs
+      (administered sequentially). Initially, patients undergo single or multiple cycles of
+      induction therapy for 14 days followed by maintenance therapy. Patients in whom the
+      retinitis continues to progress or who are intolerant of the initial treatment switch to the
+      alternative drug for further cycles of induction and maintenance. Patients on the
+      combination arm in whom retinitis continues to progress are given further cycles of the
+      combination at an increased dose, or, if one drug is causing toxicity, are given further
+      cycles with the alternative drug. Patients are followed monthly for 6 months and then every
+      3 months thereafter.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <primary_completion_date type="Actual">September 1995</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Primary Purpose: Treatment</study_design>
+  <enrollment>300</enrollment>
+  <condition>Cytomegalovirus Retinitis</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Foscarnet sodium</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ganciclovir</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Required:
+
+          -  At least 28 days of prior foscarnet or ganciclovir.
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  G-CSF.
+
+        Recommended:
+
+          -  Antiretroviral therapy.
+
+        Patients must have:
+
+          -  HIV infection or AIDS.
+
+          -  Active CMV retinitis after 28 or more days of either foscarnet or ganciclovir
+             therapy.
+
+          -  At least one lesion with one-quarter disk area or more that can be photographed.
+
+          -  Visual acuity of 3 or more letters on ETDRS chart (5/200 Snellen) in an affected eye.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms and conditions are excluded:
+
+          -  Media opacity severe enough to preclude visualization of both fundi.
+
+          -  Retinal detachment not scheduled for surgical repair.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of intolerance to ganciclovir or foscarnet sufficient to contraindicate use.
+
+          -  History of combination foscarnet/ganciclovir therapy.
+
+        Active drug or alcohol abuse sufficient to prevent compliance.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>UCSD - Shiley Eye Ctr / SOCA</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>920930946</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA - Jules Stein Eye Institute / SOCA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>900957003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF - San Francisco Gen Hosp</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern Univ / SOCA</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hosp / SOCA</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>212879217</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Med Ctr / SOCA</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>100296574</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Hosp - Cornell Med Ctr / Sloan - Kettering / SOCA</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Univ Med Ctr / SOCA</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of North Carolina / SOCA</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>275997030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Jabs DA. Design of clinical trials for drug combinations: cytomegalovirus retinitis--foscarnet and ganciclovir. The CMV retinitis retreatment trial. Antiviral Res. 1996 Jan;29(1):69-71.</citation>
+    <PMID>8721550</PMID>
+  </reference>
+  <verification_date>February 2011</verification_date>
+  <lastchanged_date>February 28, 2011</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Retinitis</keyword>
+  <keyword>Ganciclovir</keyword>
+  <keyword>Foscarnet</keyword>
+  <keyword>Cytomegalovirus Infections</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cytomegalovirus Retinitis</mesh_term>
+    <mesh_term>Retinitis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Foscarnet</mesh_term>
+    <mesh_term>Ganciclovir</mesh_term>
+    <mesh_term>Phosphonoacetic Acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

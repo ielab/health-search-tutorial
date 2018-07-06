@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204503">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000474</url>
+  </required_header>
+  <id_info>
+    <org_study_id>63</org_study_id>
+    <nct_id>NCT00000474</nct_id>
+  </id_info>
+  <brief_title>Prevention and Treatment of Hypertension Study (PATHS)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the long-term effect of reduction of alcohol intake on blood pressure in
+      moderate but non-dependent drinkers with mild hypertension or high normal blood pressure.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Numerous observational epidemiologic studies have established ethanol intake as one of the
+      most important determinants of blood pressure levels. However, data from intervention
+      studies were very limited.
+
+      The study was an inter-agency agreement involving the Veterans Administration and the
+      National Institute on Alcohol Abuse and Alcoholism (NIAAA). Protocol development occurred
+      between October 1988 and June 1989. The protocol was approved by the VA Cooperative Studies
+      Evaluation Committee in July 1989 and reviewed by a separate Data and Safety Monitoring
+      Board in September 1989.
+
+      DESIGN NARRATIVE:
+
+      Subjects were randomized to intervention or control groups. Intervention aimed to reduce
+      alcohol intake to no more than 14 drinks per week and 50 percent or less of each
+      participant's baseline level. The intervention technique consisted of a cognitive-behavioral
+      program, the intensive phase of which consisted of six counseling sessions over three
+      months. Echocardiograms were obtained at baseline and six months after randomization.
+      Biochemical markers were used to validate changes in alcohol consumption. The trial included
+      an eighteen-month feasibility phase with six-month follow-up and a 36-month main trial with
+      two years of follow-up. Recruitment for the full-scale trial ended in June 1993. Final study
+      visits were conducted in September and October 1994.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1989</start_date>
+  <completion_date>September 1994</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>behavior therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with a diastolic blood pressure of 80 to 89 mm Hg and alcohol intake of 21
+        drinks or more per week.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Cushman WC, Cutler JA, Bingham SF, Harford T, Hanna E, Dubbert P, Collins JF, Dufour M, Follman D, Allender PS. Prevention and Treatment of Hypertension Study (PATHS). Rationale and design. Am J Hypertens. 1994 Sep;7(9 Pt 1):814-23.</citation>
+    <PMID>7811440</PMID>
+  </reference>
+  <reference>
+    <citation>Cushman WC, Cutler JA, Hanna E, Bingham SF, Harford T, Allender S, Follman D, Kirk G, Walsh S for the PATHS Group. The Prevention and Treatment of Hypertension Study (PATHS) primary results: effects of an alcohol treatment program on blood pressure. 36th Annual Conference on Cardiovascular Disease Epidemiology and Prevention (Abstract)</citation>
+  </reference>
+  <reference>
+    <citation>Cushman WC, Cutler JA, Hanna E, Bingham SF, Follmann D, Harford T, Dubbert P, Allender PS, Dufour M, Collins JF, Walsh SM, Kirk GF, Burg M, Felicetta JV, Hamilton BP, Katz LA, Perry HM Jr, Willenbring ML, Lakshman R, Hamburger RJ. Prevention and Treatment of Hypertension Study (PATHS): effects of an alcohol treatment program on blood pressure. Arch Intern Med. 1998 Jun 8;158(11):1197-207.</citation>
+    <PMID>9625399</PMID>
+  </reference>
+  <reference>
+    <citation>Bulpitt CJ, Shipley MJ. Failure of alcohol reduction to lower blood pressure in the PATHS trial. Prevention and Treatment of Hypertension Study. Arch Intern Med. 1999 Jan 25;159(2):195-6.</citation>
+    <PMID>9927105</PMID>
+  </reference>
+  <verification_date>June 2001</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

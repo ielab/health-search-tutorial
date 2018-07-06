@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204376">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000601</url>
+  </required_header>
+  <id_info>
+    <org_study_id>107</org_study_id>
+    <nct_id>NCT00000601</nct_id>
+  </id_info>
+  <brief_title>Postmenopausal Hormone Therapy in Unstable Angina</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine if estrogen therapy in postmenopausal women with unstable angina reduces the
+      incidence of ischemic episodes.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Unstable angina is a frequent diagnosis in post-menopausal women and is associated with a
+      significant risk of myocardial infarction and need for revascularization. The pathogenesis
+      of unstable angina involves vasoconstriction superimposed on fixed disease, causing a
+      temporary decrease in coronary blood flow. Recent catheterization studies in patients with
+      atherosclerosis utilizing quantitative angiography and intracoronary doppler measurements of
+      blood flow velocity suggest that endothelial dysfunction results in a paradoxical coronary
+      vasoconstriction response to certain neurohumoral stimuli including acetylcholine,
+      catecholamines, and serotonin with resultant myocardial ischemia. Therapeutic agents which
+      prevent or limit this vasoconstriction may prevent recurrent ischemia and/or myocardial
+      infarction in unstable angina patients. Recently, estrogen receptors were identified in the
+      smooth muscle of post-mortem human coronary arteries. Work in animal models and studies in
+      post-menopausal women suggest that intravenous estrogen acutely decreases coronary vascular
+      resistance, increases coronary blood flow, and prevents the paradoxical response to
+      acetylcholine in patients with endothelial dysfunction.
+
+      DESIGN NARRATIVE:
+
+      The randomized, double-blind, placebo-controlled, multi-center trial tested the hypothesis
+      that intravenous estrogen followed by oral estrogen and the combination of intravenous and
+      oral estrogen and progesterone in the routine management of unstable angina were beneficial
+      compared with placebo in post-menopausal women. Subjects with rest angina and no
+      contraindications to hormone therapy were randomized to receive intravenous followed by oral
+      conjugated estrogen for 21 days, intravenous estrogen followed by oral conjugated estrogen
+      plus medroxyprogesterone for 21 days or placebo. The primary end point was the number of
+      ambulatory electrocardiographic ischemic events over the first 48 hours. Clinical events
+      were also determined over six months of follow-up.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1995</start_date>
+  <completion_date>June 2000</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Angina, Unstable</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Postmenopause</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>estrogen replacement therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>estrogens</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>progesterone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>hormone replacement therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Postmenopausal women with unstable angina.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Schulman SP, Thiemann DR, Ouyang P, Chandra NC, Schulman DS, Reis SE, Terrin M, Forman S, de Albuquerque CP, Bahr RD, Townsend SN, Cosgriff R, Gerstenblith G. Effects of acute hormone therapy on recurrent ischemia in postmenopausal women with unstable angina. J Am Coll Cardiol. 2002 Jan 16;39(2):231-7.</citation>
+    <PMID>11788212</PMID>
+  </reference>
+  <verification_date>February 2005</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Angina, Unstable</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Estrogens</mesh_term>
+    <mesh_term>Hormones</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

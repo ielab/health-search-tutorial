@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204666">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000306</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09262-3</org_study_id>
+    <secondary_id>P50-09262-3</secondary_id>
+    <nct_id>NCT00000306</nct_id>
+  </id_info>
+  <brief_title>Dextroamphetamine as Adjunct in Cocaine/Opiate Dependent Patients - 3</brief_title>
+  <official_title>Dextroamphetamine as an Adjunct in Cocaine/Opiate Dependent Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Texas</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate dextroamphetamine sulfate (sustained release) as an
+      adjunct in concurrent cocaine and opiate dependent patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This 27-week double-blind, placebo controlled treatment is designed to evaluate
+      dextroamphetamine sulfate (sustained release) as an adjunct in concurrent cocaine and opiate
+      dependent patients. All subjects will receive methadone. For the treatment of cocaine
+      dependence, subjects will receive one of 2 doses of dextroamphetamine (15 or 30mg) or
+      placebo. After 4 weeks of treatment the dose level of dextroamphetamine is doubled (30 or
+      60mg). This dose is maintained for 20 weeks; during which subjects attend twice weekly
+      visits to the clinic and receive weekly cognitive behavioral therapy. Follow up evaluations
+      will be conducted out to 3 months post treatment. Subjects will be assisted in transferring
+      to Houston area methadone clinics to maintain treatment for opiate dependence following
+      treatment completion.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1994</start_date>
+  <completion_date>September 2001</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Craving</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Drug use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Medication compliance</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Retention</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Addiction severity</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mood indicators</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Psychiatric interview</measure>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Effectiveness measures including psycho-social variables, side effects, and self-reported measures.</measure>
+  </secondary_outcome>
+  <enrollment>140</enrollment>
+  <condition>Cocaine-Related Disorders</condition>
+  <condition>Opioid-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dextroamphetamine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria- Subject must:
+
+          -  Exhibit cocaine and opiate dependence through a DSM-IV diagnosis as determined by
+             SCID.
+
+          -  Be between 18 and 45 years old
+
+          -  Women must agree to use contraception
+
+          -  Have an EKG that has been confirmed by a cardiologist
+
+          -  Give a cocaine positive urine during screening - Present with evidence of opiate
+             withdrawal
+
+        Exclusion Criteria- Subject must not:
+
+        • Have a serious medical illness including, but not limited to the following: Hypertension
+        Significant heart disease Clinically significant cardiovascular abnormality Angina
+        Hepatic, renal, or gastrointestinal disorders that could result in an altered metabolism
+        or excretion of study agent
+
+          -  Have any Axis I disorder that is not related to drug use
+
+          -  Have current dependence on any psychoactive disorder other than nicotine
+
+          -  Be on probation or parole for reasons other than those related to drug charges (ASI)
+
+          -  Be pregnant or lactating
+
+          -  Have been in any outside treatment in 3 months
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Grabowski, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Texas</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2008</verification_date>
+  <lastchanged_date>August 11, 2008</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cocaine-Related Disorders</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dextroamphetamine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

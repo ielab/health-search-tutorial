@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204195">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000784</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CPCRA 012</org_study_id>
+    <secondary_id>11564</secondary_id>
+    <nct_id>NCT00000784</nct_id>
+  </id_info>
+  <brief_title>A Study of Psychosocial and Behavioral Determinants of Differential Rates of Participant Compliance in CPCRA Protocols</brief_title>
+  <official_title>A Study of Psychosocial and Behavioral Determinants of Differential Rates of Participant Compliance in CPCRA Protocols</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To examine, in patients enrolled in protocols CPCRA 006 and/or 007, the relationship between
+      patient compliance and demographic, psychosocial, and lifestyle characteristics and Health
+      Belief Model premises (i.e., patient's perception of susceptibility to and severity of
+      disease and perception of benefits and barriers to a particular treatment) in order to
+      design more effective intervention protocols.
+
+      Patient noncompliance can influence the statistical findings of a clinical study, possibly
+      resulting in an incorrect assessment of the effects of the investigational therapeutic
+      agent. Since the special populations targeted by the CPCRA for inclusion in HIV-related
+      clinical research do not typify those traditionally included in clinical trials or
+      compliance research, it is necessary to elucidate and examine the special needs of these
+      populations and to determine the extent to which these needs manifest themselves as
+      potential barriers to protocol compliance.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patient noncompliance can influence the statistical findings of a clinical study, possibly
+      resulting in an incorrect assessment of the effects of the investigational therapeutic
+      agent. Since the special populations targeted by the CPCRA for inclusion in HIV-related
+      clinical research do not typify those traditionally included in clinical trials or
+      compliance research, it is necessary to elucidate and examine the special needs of these
+      populations and to determine the extent to which these needs manifest themselves as
+      potential barriers to protocol compliance.
+
+      Patients who are enrolled on protocols CPCRA 006 and/or 007 are given a baseline
+      questionnaire to complete during the enrollment visit for the qualifying treatment protocol.
+      The survey concerns the patient's work, primary language, support systems, residence status,
+      perception of disease and treatments, and substance use. At 4-month follow-up visits,
+      patients are asked to complete a self-report questionnaire, which assesses the patient's
+      perceptions of difficulties in protocol compliance requirements, clinic/office visits, and
+      health beliefs. The duration of patients on this study will be defined by the qualifying
+      protocol requirements.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 1994</start_date>
+  <completion_date type="Actual">September 1996</completion_date>
+  <primary_completion_date type="Actual">September 1996</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Case-Only, Time Perspective: Prospective</study_design>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">557</enrollment>
+  <condition>Pneumonia, Pneumocystis Carinii</condition>
+  <condition>HIV Infections</condition>
+  <arm_group>
+    <arm_group_label>A</arm_group_label>
+    <description>Consenting patients newly enrolled in either CPCRA 007 or CPCRA 006</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Consenting patients newly enrolled in either CPCRA 007 or CPCRA 006
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Patients must meet the following criteria:
+
+          -  New enrollment on CPCRA 006 or CPCRA 007.
+
+          -  Life expectancy of at least 6 months.
+
+          -  Willing and able, in clinician's opinion, to comply with treatment and clinical
+             management.
+
+          -  Able to read and write English or Spanish.
+
+          -  Consent of parent of guardian for patients under 18 years.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Besch CL</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Morse EV</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Simon PM</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Denver CPCRA / Denver Public Hlth</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wilmington Hosp / Med Ctr of Delaware</name>
+      <address>
+        <city>Wilmington</city>
+        <state>Delaware</state>
+        <zip>19899</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Veterans Administration Med Ctr / Regional AIDS Program</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20422</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AIDS Research Consortium of Atlanta</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AIDS Research Alliance - Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60657</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Louisiana Comm AIDS Rsch Prog / Tulane Univ Med</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive AIDS Alliance of Detroit</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hosp</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Jersey Community Research Initiative</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Lebanon Hosp Ctr</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harlem AIDS Treatment Group / Harlem Hosp Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Portland Veterans Adm Med Ctr / Rsch &amp; Education Grp</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Richmond AIDS Consortium</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Simon PM, Morse EV, Besch L. Barriers to compliance among women co-enrolled in a PCP prophylaxis and compliance protocol. HIV Infect Women Conf. 1995 Feb 22-24:P109</citation>
+  </reference>
+  <verification_date>September 2013</verification_date>
+  <lastchanged_date>September 28, 2013</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pneumonia, Pneumocystis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

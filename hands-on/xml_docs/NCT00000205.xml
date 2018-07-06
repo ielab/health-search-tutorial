@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204765">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000205</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-06082-1</org_study_id>
+    <secondary_id>R18DA006082</secondary_id>
+    <secondary_id>R18-06082-1</secondary_id>
+    <nct_id>NCT00000205</nct_id>
+  </id_info>
+  <brief_title>Buprenorphine Maintenance Protocol - 1</brief_title>
+  <official_title>Buprenorphine Maintenance Protocol</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Los Angeles</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the efficacy of buprenorphine versus methadone.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>October 1990</start_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Retention</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Opiate use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Opiate craving</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse events</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Opioid-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Buprenorphine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        M/F ages 21-50. Opiate dependence according to DSM-IV criteria. Self-reported use within
+        the last 30 days. Agreeable to conditions of study and signed informed consent.
+
+        Exclusion Criteria:
+
+        Psychiatric disorder that requires medication therapy. History of seizures. Pregnant and
+        /or nursing women. Dependence on ETOH or benzodiazepines or other sedative/hynotics. Acute
+        hepatitis. Other medical conditions that deem participation to be unsafe
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Walter Ling, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Friends Research Institute, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Friends Research Institute</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Ling W, Wesson DR, Charuvastra C, Klett CJ. A controlled trial comparing buprenorphine and methadone maintenance in opioid dependence. Arch Gen Psychiatry. 1996 May;53(5):401-7.</citation>
+    <PMID>8624183</PMID>
+  </reference>
+  <reference>
+    <citation>Compton PA, Ling W, Charuvastra VC, Wesson DR. Buprenorphine as a pharmacotherapy for cocaine abuse: a review of the evidence. J Addict Dis. 1995;14(3):97-114. Review.</citation>
+    <PMID>8555282</PMID>
+  </reference>
+  <reference>
+    <citation>Compton PA, Ling W, Wesson DR, Charuvastra VC, Wilkins J. Urine toxicology as an outcome measure in drug abuse clinical trials: must every sample be analyzed? J Addict Dis. 1996;15(2):85-92.</citation>
+    <PMID>8704003</PMID>
+  </reference>
+  <verification_date>October 1992</verification_date>
+  <lastchanged_date>June 2, 2015</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Buprenorphine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204492">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000485</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4</org_study_id>
+    <nct_id>NCT00000485</nct_id>
+  </id_info>
+  <brief_title>Hypertension Detection and Follow-up Program (HDFP)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the effectiveness of systematic, sustained, antihypertensive therapy in
+      reducing morbidity and mortality from hypertension in a wide spectrum of persons with
+      elevated blood pressure in 14 communities. During its course, the trial also obtained a
+      direct measure of the prevalence, severity, and treatment status of representative white and
+      black populations with high blood pressure in these 14 communities, and obtained an estimate
+      of the extent of attainable reduction of complications of high blood pressure by an
+      organized screening and blood pressure management program.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Published data from the Veterans Administration Cooperative Study of Hypertension
+      demonstrated that reduction in morbidity and mortality could be attained by treating men
+      with fixed diastolic blood pressure over 105 mm Hg. Similar trends occurred for those with
+      fixed diastolic blood pressure between 90 and 104 mm Hg. Results and current trends from
+      other studies supported these findings. However, prior to inception of the Hypertension
+      Detection and Follow-up Program (HDFP), it was not known whether benefits from
+      antihypertensive therapy applied to all hypertensives in the general population and whether
+      making use of existing medical knowledge could significantly reduce morbidity and mortality
+      from hypertension in communities.
+
+      Recognizing this need, NHLBI initiated the pilot activities of the HDFP to characterize
+      significant operational, socioeconomic, and motivational factors that would influence the
+      acceptance of antihypertensive therapy in the defined populations within which the
+      controlled clinical trial would take place and to obtain baseline information necessary to
+      the undertaking of the clinical trial, which was to determine whether a practical,
+      intensive, and antihypertensive program could significantly reduce morbidity and mortality
+      in hypertensives in the general population.
+
+      The planning of the trial, including the development of a protocol and manual of operations,
+      began in 1971. Between February 1973 and May 1974, 158,906 persons were screened for high
+      blood pressure in 14 communities. A total of 10,940 hypertensive participants were
+      randomized.
+
+      The primary hypothesis tested by the trial was that intensive blood pressure control under
+      stepped care for five years could significantly reduce mortality compared with that under
+      referred-care. Stepped-care was the method of treatment in HDFP clinics in which a diuretic
+      was given initially and additional antihypertensive agents were added in a time-structured,
+      stepwise fashion until goal blood pressure was achieved. Referred-care represented referral
+      to private physicians and other community sources of care. Participating in this study were
+      14 clinical centers, a coordinating center, ECG center, central laboratory, and monitoring
+      laboratory.
+
+      The clinical phase of the trial ended in May 1982. The project was extended into 1983 in
+      order to continue the surveillance of mortality and blood pressure control.
+
+      DESIGN NARRATIVE:
+
+      The trial was a randomized, non-blind, fixed sample trial with single intervention and
+      control groups. The intervention group received stepped care from the clinical trial clinics
+      (see Background, below), while those in the control group were referred to their own
+      physicians. Each community contributed both stepped-care and referred-care participants, but
+      for analysis purposes, the groups were pooled into two groups. The primary endpoint was
+      mortality. The effects of stepped- vs. referred-care were also assessed on intermediate and
+      secondary factors, including nosologic codes of specific causes of mortality, nonfatal
+      myocardial infarction, stroke, hypertensive heart disease, and EKG abnormalities.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1971</start_date>
+  <completion_date>May 1982</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>diuretics</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>antihypertensive agents</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, ages 30-69. Hypertension. Diastolic blood pressure home readings and clinic
+        readings equal to or above 95 mm Hg and 90 mm Hg, respectively.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>69 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>C. Hawkins</last_name>
+    <affiliation>University of Texas</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Remington RD On behalf of the HDFP Cooperative Group: The Hypertension Detection and Follow-up Program. Inserm, 21:185-194, 1973.</citation>
+  </reference>
+  <reference>
+    <citation>Mild hypertensives in the hypertension detection and follow-up program. The Hypertension Detection and Follow-up Cooperative Group. Ann N Y Acad Sci. 1978 Mar 30;304:254-66.</citation>
+    <PMID>280231</PMID>
+  </reference>
+  <reference>
+    <citation>Patient participation in a hypertension control program. Hypertension Detection and Follow-up Program Cooperative Group. JAMA. 1978 Apr 14;239(15):1507-14.</citation>
+    <PMID>633560</PMID>
+  </reference>
+  <reference>
+    <citation>Variability of blood pressure and the results of screening in the hypertension detection and follow-up program. J Chronic Dis. 1978;31(11):651-67.</citation>
+    <PMID>730822</PMID>
+  </reference>
+  <reference>
+    <citation>Hypertension and Education. Journal of the American Dietetic Association, 72 (4):377, April l978. (Summary of Mainstream Paper #5A.)</citation>
+  </reference>
+  <reference>
+    <citation>Blood Pressure Studies in l4 Communities: A Two-Stage Screen for Hypertension. l978 Year Book of Cardiology: 355-57 (Summary of Mainstream Paper #2.)</citation>
+  </reference>
+  <reference>
+    <citation>Therapeutic control of blood pressure in the Hypertension Detection and Follow-up Program. Hypertension Detection and Follow-up Program Cooperative Group. Prev Med. 1979 Jan;8(1):2-13.</citation>
+    <PMID>424377</PMID>
+  </reference>
+  <reference>
+    <citation>Borhani N: The Hypertension Detection and Follow-Up Program, in Onesti G and Klimt C (eds), Hypertension. Determinants, Complications, and Intervention, Grune &amp; Stratton, New York, pp. 405-4l4, l979.</citation>
+  </reference>
+  <reference>
+    <citation>Five-year findings of the hypertension detection and follow-up program. I. Reduction in mortality of persons with high blood pressure, including mild hypertension. Hypertension Detection and Follow-up Program Cooperative Group. JAMA. 1979 Dec 7;242(23):2562-71.</citation>
+    <PMID>490882</PMID>
+  </reference>
+  <reference>
+    <citation>Five-year findings of the hypertension detection and follow-up program. II. Mortality by race-sex and age. Hypertension Detection and Follow-up Program Cooperative Group. JAMA. 1979 Dec 7;242(23):2572-7.</citation>
+    <PMID>490883</PMID>
+  </reference>
+  <reference>
+    <citation>Wassertheil-Smoller S, Apostolides A, Miller M, Oberman A, Thom T. Recent status of detection, treatment, and control of hypertension in the community. J Community Health. 1979 Winter;5(2):82-93.</citation>
+    <PMID>262241</PMID>
+  </reference>
+  <reference>
+    <citation>Apostolides AY, Cutter G, Kraus JF, Oberman A, Blaszkowski T, Borhani NO, Entwisle G. Impact of hypertension information on high blood pressure control between 1973 and 1978. Hypertension. 1980 Sep-Oct;2(5):708-13.</citation>
+    <PMID>7419272</PMID>
+  </reference>
+  <reference>
+    <citation>Cutter G, Heyden S, Kasteler J, Kraus JF, Lee ES, Shipley T, Stromer M. Mortality surveillance in collaborative trials. Am J Public Health. 1980 Apr;70(4):394-400.</citation>
+    <PMID>7361958</PMID>
+  </reference>
+  <reference>
+    <citation>Cowan L, Detels R, Farber M, Lee ES, McCray G, O'Flynn S, Parnell MJ. Residential mobility and long-term treatment of hypertension. J Community Health. 1980 Spring;5(3):159-66.</citation>
+    <PMID>7364958</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler J, Borhani NO: Interview: HDFP Mortality and Morbidity. Hypertension Report, 1(l):l2-l4, l980.</citation>
+  </reference>
+  <reference>
+    <citation>Stamler J: Clinical Ramifications of the Hypertension Detection and Follow-up Program: Benefits of Treatment Outweigh Risks. Symposia Reporter, 4(2):l2-l4, May l980.</citation>
+  </reference>
+  <reference>
+    <citation>Langford HG: Clinical Ramifications of the Hypertension Detection and Follow-up Program: HDFP Methodology and Results: Overview. Symposia Reporter, 4(2):3-6, May l980.</citation>
+  </reference>
+  <reference>
+    <citation>Borhani NO: Clinical Ramifications of the Hypertension Detection and Follow-up Program: SC Yields Lower Mortality and Morbidity. Symposia Reporter, 4(2):l6, May l980.</citation>
+  </reference>
+  <reference>
+    <citation>Five-year findings of the hypertension detection and follow-up program. III. Reduction in stroke incidence among persons with high blood pressure. Hypertension Detection and Follow-up Program Cooperative Group. JAMA. 1982 Feb 5;247(5):633-8.</citation>
+    <PMID>7033578</PMID>
+  </reference>
+  <reference>
+    <citation>Apostolides AY, Cutter G, Daugherty SA, Detels R, Kraus J, Wassertheil-Smoller S, Ware J. Three-year incidence of hypertension in thirteen U.S. communities. On behalf of the Hypertension Detection and Follow-up Program cooperative group. Prev Med. 1982 Sep;11(5):487-99.</citation>
+    <PMID>7156059</PMID>
+  </reference>
+  <reference>
+    <citation>Kraus JF, Conley A, Hardy R, Sexton M, Sweezy Z. Relationship of demographic characteristics of interviewers to blood pressure measurements. J Community Health. 1982 Fall;8(1):3-12.</citation>
+    <PMID>7186909</PMID>
+  </reference>
+  <reference>
+    <citation>Curb JD, Hardy RJ, Labarthe DR, Borhani NO, Taylor JO. Reserpine and breast cancer in the Hypertension Detection and Follow-Up Program. Hypertension. 1982 Mar-Apr;4(2):307-11.</citation>
+    <PMID>7040229</PMID>
+  </reference>
+  <reference>
+    <citation>Shulman N, Cutter G, Daugherty R, Sexton M, Pauk G, Taylor MJ, Tyler M. Correlates of attendance and compliance in the hypertension detection and follow-up program. Control Clin Trials. 1982 Mar;3(1):13-27.</citation>
+    <PMID>7067470</PMID>
+  </reference>
+  <reference>
+    <citation>Smith EO, Curb JD, Hardy RJ, Hawkins CM, Tyroler HA. Clinic attendance in the hypertension detection and follow-up program. Hypertension. 1982 Sep-Oct;4(5):710-5.</citation>
+    <PMID>7106938</PMID>
+  </reference>
+  <reference>
+    <citation>Curb JD, Ford C, Hawkins CM, Smith EO, Zimbaldi N, Carter B, Cooper C. A coordinating center in a clinical trial: the Hypertension Detection and Followup Program. Control Clin Trials. 1983 Sep;4(3):171-86.</citation>
+    <PMID>6641231</PMID>
+  </reference>
+  <reference>
+    <citation>Hypertension detection and follow-up program. Baseline characteristics of the enumerated, screened, and hypertensive participants. The Hypertension Detection and Follow-up Program Cooperative Group. Hypertension. 1983 Nov-Dec;5(6 Pt 2):IV1-205.</citation>
+    <PMID>6654455</PMID>
+  </reference>
+  <reference>
+    <citation>Hardy RJ, Hawkins CM. The impact of selected indices of antihypertensive treatment on all-cause mortality. Am J Epidemiol. 1983 May;117(5):566-74.</citation>
+    <PMID>6846314</PMID>
+  </reference>
+  <reference>
+    <citation>Morris DL, Borhani NO, Fitzsimons E, Hardy RJ, Hawkins CM, Kraus JF, Labarthe DR, Mastbaum L, Payne GH. Serum cholesterol and cancer in the Hypertension Detection and Follow-up Program. Cancer. 1983 Nov 1;52(9):1754-9.</citation>
+    <PMID>6616425</PMID>
+  </reference>
+  <reference>
+    <citation>Willett WC, Polk BF, Morris JS, Stampfer MJ, Pressel S, Rosner B, Taylor JO, Schneider K, Hames CG. Prediagnostic serum selenium and risk of cancer. Lancet. 1983 Jul 16;2(8342):130-4.</citation>
+    <PMID>6134981</PMID>
+  </reference>
+  <reference>
+    <citation>Tyroler HA: Race, Education and Five-Year Mortality In HDFP Stratum I Referred-care Males in Mild Hypertension: Recent Advances, Gross R and Strasser T (Eds). New York, Raven Press, 163- , 1983.</citation>
+  </reference>
+  <reference>
+    <citation>Daugherty SA. Hypertension detection and follow-up program. Description of the enumerated and screened population. Hypertension. 1983 Nov-Dec;5(6 Pt 2):IV1-43.</citation>
+    <PMID>6360872</PMID>
+  </reference>
+  <reference>
+    <citation>Taylor JO, Borhani NO, Entwisle G, Farber M, Hawkins CM. Hypertension detection and follow-up program. Summary of the baseline characteristics of the hypertensive participants. Hypertension. 1983 Nov-Dec;5(6 Pt 2):IV44-50.</citation>
+    <PMID>6360875</PMID>
+  </reference>
+  <reference>
+    <citation>Kraus JF, Curb JD, Cutter G, Daugherty SA, Neill KC, Wassertheil-Smoller S. Hypertension detection and follow-up program. Baseline medical history characteristics of the hypertensive participants. Hypertension. 1983 Nov-Dec;5(6 Pt 2):IV51-91.</citation>
+    <PMID>6360876</PMID>
+  </reference>
+  <reference>
+    <citation>Polk BF, Cutter G, Daugherty RM, Gosch F, Heyden S, Shulman N, Tyroler HA. Hypertension detection and follow-up program. Baseline physical examination characteristics of the hypertensive participants. Hypertension. 1983 Nov-Dec;5(6 Pt 2):IV92-132.</citation>
+    <PMID>6360877</PMID>
+  </reference>
+  <reference>
+    <citation>Maxwell MH, Fitzsimmons E, Harrist R, Hotchkiss J, Langford HG, Payne GH, Schneider KA, Varaday P. Hypertension detection and follow-up program. Baseline laboratory examination characteristics of the hypertensive participants. Hypertension. 1983 Nov-Dec;5(6 Pt 2):IV133-59.</citation>
+    <PMID>6360873</PMID>
+  </reference>
+  <reference>
+    <citation>Prineas RJ, Castle CH, Curb JD, Harrist R, Lewin A, Stamler J. Hypertension detection and follow-up program. Baseline electrocardiographic characteristics of the hypertensive participants. Hypertension. 1983 Nov-Dec;5(6 Pt 2):IV160-89.</citation>
+    <PMID>6360874</PMID>
+  </reference>
+  <reference>
+    <citation>Oberman A, Blaufox MD, Entwisle G, Harrist R. Hypertension detection and follow-up program. Baseline chest radiographic characteristics of the hypertensive participants. Hypertension. 1983 Nov-Dec;5(6 Pt 2):IV190-200.</citation>
+    <PMID>6654456</PMID>
+  </reference>
+  <reference>
+    <citation>Polk BF, Harlan LC, Cooper SP, Stromer M, Ignatius J, Mull H, Blaszkowski TP. Disability days associated with detection and treatment in a hypertension control program. Am J Epidemiol. 1984 Jan;119(1):44-53.</citation>
+    <PMID>6691335</PMID>
+  </reference>
+  <reference>
+    <citation>Willett WC, Polk BF, Underwood BA, Stampfer MJ, Pressel S, Rosner B, Taylor JO, Schneider K, Hames CG. Relation of serum vitamins A and E and carotenoids to the risk of cancer. N Engl J Med. 1984 Feb 16;310(7):430-4.</citation>
+    <PMID>6537988</PMID>
+  </reference>
+  <reference>
+    <citation>Langford HG, Oberman A, Borhani NO, Entwisle G, Tung B. Black-white comparison of indices of coronary heart disease and myocardial infarction in the stepped-care cohort of the Hypertension Detection and Follow-Up Program. Am Heart J. 1984 Sep;108(3 Pt 2):797-801.</citation>
+    <PMID>6475749</PMID>
+  </reference>
+  <reference>
+    <citation>The effect of antihypertensive drug treatment on mortality in the presence of resting electrocardiographic abnormalities at baseline: the HDFP experience. The Hypertension Detection and Follow-up Program Cooperative Research Group. Circulation. 1984 Dec;70(6):996-1003.</citation>
+    <PMID>6388901</PMID>
+  </reference>
+  <reference>
+    <citation>Five-year findings of the Hypertension Detection and Follow-up Program. Prevention and reversal of left ventricular hypertrophy with antihypertensive drug therapy. Hypertension Detection and Follow-up Program Cooperative Group. Hypertension. 1985 Jan-Feb;7(1):105-12.</citation>
+    <PMID>3156812</PMID>
+  </reference>
+  <reference>
+    <citation>Curb JD, Borhani NO, Blaszkowski TP, Zimbaldi N, Fotiu S, Williams W. Patient-perceived side effects to antihypertensive drugs. Am J Prev Med. 1985 Jan-Feb;1(1):36-40.</citation>
+    <PMID>3870892</PMID>
+  </reference>
+  <reference>
+    <citation>Curb JD, Borhani NO, Blaszkowski TP, Zimbaldi N, Fotiu S, Williams W. Long-term surveillance for adverse effects of antihypertensive drugs. JAMA. 1985 Jun 14;253(22):3263-8.</citation>
+    <PMID>3999311</PMID>
+  </reference>
+  <reference>
+    <citation>Effect of stepped care treatment on the incidence of myocardial infarction and angina pectoris. 5-Year findings of the hypertension detection and follow-up program. Hypertension. 1984 Mar-Apr;6(2 Pt 2):I198-206.</citation>
+    <PMID>6724670</PMID>
+  </reference>
+  <reference>
+    <citation>Five-year findings of the Hypertension Detection and Follow-up Program: mortality by race-sex and blood pressure level. A further analysis. Hypertension Detection and Follow-up Program Cooperative Group. J Community Health. 1984 Summer;9(4):314-27.</citation>
+    <PMID>6480895</PMID>
+  </reference>
+  <reference>
+    <citation>Mortality findings for stepped-care and referred-care participants in the hypertension detection and follow-up program, stratified by other risk factors. The Hypertension Detection and Follow-up Program Cooperative Research Group. Prev Med. 1985 May;14(3):312-35.</citation>
+    <PMID>2865725</PMID>
+  </reference>
+  <reference>
+    <citation>Bell RL, Curb JD, Friedman LM, Payne GH. Termination of clinical trials: the beta-blocker heart attack trial and the hypertension detection and follow-up program experience. Control Clin Trials. 1985 Jun;6(2):102-11.</citation>
+    <PMID>4006483</PMID>
+  </reference>
+  <reference>
+    <citation>Lewin A, Blaufox MD, Castle H, Entwisle G, Langford H. Apparent prevalence of curable hypertension in the Hypertension Detection and Follow-up Program. Arch Intern Med. 1985 Mar;145(3):424-7.</citation>
+    <PMID>3872106</PMID>
+  </reference>
+  <reference>
+    <citation>Maxwell MH, Ford CE. Cardiovascular morbidity and mortality in HDFP patients 50-69 years old at entry. J Cardiovasc Pharmacol. 1985;7 Suppl 2:S5-9.</citation>
+    <PMID>2409370</PMID>
+  </reference>
+  <reference>
+    <citation>Heyden S, Borhani NO, Tyroler HA, Schneider KA, Langford HG, Hames CG, Hutchinson R, Oberman A. The relationship of weight change to changes in blood pressure, serum uric acid, cholesterol and glucose in the treatment of hypertension. J Chronic Dis. 1985;38(4):281-8.</citation>
+    <PMID>3889027</PMID>
+  </reference>
+  <reference>
+    <citation>Implications of the Hypertension Detection and Follow-up Program. The Hypertension Detection and Follow-up Program Cooperative Group. Prog Cardiovasc Dis. 1986 Nov-Dec;29(3 Suppl 1):3-10.</citation>
+    <PMID>3538179</PMID>
+  </reference>
+  <reference>
+    <citation>Davis BR, Ford CE, Remington RD, Stamler R, Hawkins CM. The Hypertension Detection and Follow-up Program design, methods, and baseline characteristics and blood pressure response of the study population. Prog Cardiovasc Dis. 1986 Nov-Dec;29(3 Suppl 1):11-28.</citation>
+    <PMID>3538177</PMID>
+  </reference>
+  <reference>
+    <citation>Langford HG, Stamler J, Wassertheil-Smoller S, Prineas RJ. All-cause mortality in the Hypertension Detection and Follow-up Program: findings for the whole cohort and for persons with less severe hypertension, with and without other traits related to risk of mortality. Prog Cardiovasc Dis. 1986 Nov-Dec;29(3 Suppl 1):29-54.</citation>
+    <PMID>3538178</PMID>
+  </reference>
+  <reference>
+    <citation>Borhani NO, Blaufox MD, Oberman A, Polk BF. Incidence of coronary heart disease and left ventricular hypertrophy in the Hypertension Detection and Follow-up Program. Prog Cardiovasc Dis. 1986 Nov-Dec;29(3 Suppl 1):55-62.</citation>
+    <PMID>2947267</PMID>
+  </reference>
+  <reference>
+    <citation>Daugherty SA, Berman R, Entwisle G, Haerer AF. Cerebrovascular events in the Hypertension Detection and Follow-up Program. Prog Cardiovasc Dis. 1986 Nov-Dec;29(3 Suppl 1):63-72.</citation>
+    <PMID>3538180</PMID>
+  </reference>
+  <reference>
+    <citation>Curb JD, Maxwell MH, Schneider KA, Taylor JO, Shulman NB. Adverse effects of antihypertensive medications in the Hypertension Detection and Follow-up Program. Prog Cardiovasc Dis. 1986 Nov-Dec;29(3 Suppl 1):73-88. Review.</citation>
+    <PMID>3538181</PMID>
+  </reference>
+  <reference>
+    <citation>Cressman MD, Gifford RW Jr. Clinicians' interpretation of the results and implications of the Hypertension Detection and Follow-up Program. Prog Cardiovasc Dis. 1986 Nov-Dec;29(3 Suppl 1):89-97.</citation>
+    <PMID>3538182</PMID>
+  </reference>
+  <reference>
+    <citation>Abernethy J, Borhani NO, Hawkins CM, Crow R, Entwisle G, Jones JW, Maxwell MH, Langford H, Pressel S. Systolic blood pressure as an independent predictor of mortality in the Hypertension Detection and Follow-up Program. Am J Prev Med. 1986 May-Jun;2(3):123-32.</citation>
+    <PMID>3453169</PMID>
+  </reference>
+  <reference>
+    <citation>Harlan LC, Polk BF, Cooper S, Blaszkowski TP, Ignatius-Smith J, Stromer M, Mull H. Effects of labeling and treatment of hypertension on perceived health. Am J Prev Med. 1986 Sep-Oct;2(5):256-61.</citation>
+    <PMID>3453188</PMID>
+  </reference>
+  <reference>
+    <citation>Williams WR, Schneider KA, Borhani NO, Schnaper HW, Slotkoff LM, Ellefson RD. The relationship between diuretics and serum cholesterol in Hypertension Detection and Follow-up Program participants. Am J Prev Med. 1986 Sep-Oct;2(5):248-55.</citation>
+    <PMID>3453187</PMID>
+  </reference>
+  <reference>
+    <citation>Ford CE, Langford HG, Palmer MJ. Recruitment in the hypertension detection and follow-up program. Control Clin Trials. 1987 Dec;8(4 Suppl):54S-67S.</citation>
+    <PMID>3440390</PMID>
+  </reference>
+  <reference>
+    <citation>Davis BR, Langford HG, Blaufox MD, Curb JD, Polk BF, Shulman NB. The association of postural changes in systolic blood pressure and mortality in persons with hypertension: the Hypertension Detection and Follow-up Program experience. Circulation. 1987 Feb;75(2):340-6.</citation>
+    <PMID>3802437</PMID>
+  </reference>
+  <reference>
+    <citation>Educational level and 5-year all-cause mortality in the Hypertension Detection and Follow-up Program. Hypertension Detection and Follow-up Program Cooperative Group. Hypertension. 1987 Jun;9(6):641-6.</citation>
+    <PMID>3583404</PMID>
+  </reference>
+  <reference>
+    <citation>Curb JD, Schneider K, Taylor JO, Maxwell M, Shulman N. Antihypertensive drug side effects in the Hypertension Detection and Follow-up Program. Hypertension. 1988 Mar;11(3 Pt 2):II51-5.</citation>
+    <PMID>3350594</PMID>
+  </reference>
+  <reference>
+    <citation>Davis BR, Curb JD, Borhani NO, Prineas RJ, Molteni A. Coffee consumption and serum cholesterol in the hypertension detection and follow-up program. Am J Epidemiol. 1988 Jul;128(1):124-36.</citation>
+    <PMID>3381821</PMID>
+  </reference>
+  <reference>
+    <citation>Martin JB, Annegers JF, Curb JD, Heyden S, Howson C, Lee ES, Lee M. Mortality patterns among hypertensives by reported level of caffeine consumption. Prev Med. 1988 May;17(3):310-20.</citation>
+    <PMID>3043418</PMID>
+  </reference>
+  <reference>
+    <citation>Persistence of reduction in blood pressure and mortality of participants in the Hypertension Detection and Follow-up Program. Hypertension Detection and Follow-up Program Cooperative Group. JAMA. 1988 Apr 8;259(14):2113-22.</citation>
+    <PMID>3346988</PMID>
+  </reference>
+  <reference>
+    <citation>Cooper SP, Hardy RJ, Labarthe DR, Hawkins CM, Smith EO, Blaufox MD, Cooper CJ, Entwisle G, Maxwell MH. The relation between degree of blood pressure reduction and mortality among hypertensives in the Hypertension Detection and Follow-Up Program. Am J Epidemiol. 1988 Feb;127(2):387-403.</citation>
+    <PMID>3276167</PMID>
+  </reference>
+  <reference>
+    <citation>Daugherty SA. Mortality findings beyond five years in the hypertension detection and follow-up program (HDFP). J Hypertens Suppl. 1988 Dec;6(4):S597-601.</citation>
+    <PMID>3071594</PMID>
+  </reference>
+  <reference>
+    <citation>Shulman NB, Ford CE, Hall WD, Blaufox MD, Simon D, Langford HG, Schneider KA. Prognostic value of serum creatinine and effect of treatment of hypertension on renal function. Results from the hypertension detection and follow-up program. The Hypertension Detection and Follow-up Program Cooperative Group. Hypertension. 1989 May;13(5 Suppl):I80-93.</citation>
+    <PMID>2490833</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler R, Ford CE, Stamler J. Why do lean hypertensives have higher mortality rates than other hypertensives? Findings of the Hypertension Detection and Follow-up Program. Hypertension. 1991 Apr;17(4):553-64.</citation>
+    <PMID>2013482</PMID>
+  </reference>
+  <reference>
+    <citation>Finnerty FA Jr, Shaw LW, Himmelsbach CK. Hypertension in the inner city. II. Detection and follow-up. Circulation. 1973 Jan;47(1):76-8.</citation>
+    <PMID>4686606</PMID>
+  </reference>
+  <reference>
+    <citation>Hyden S, Tyroler HA, Hames CG, Bartel A, Thompson JW, Krishan I, Rosenthal T. Diet treatment of obese hypertensives. Clin Sci Mol Med Suppl. 1973 Aug;45 Suppl 1:209s-12.</citation>
+    <PMID>4593567</PMID>
+  </reference>
+  <reference>
+    <citation>Labarthe DR, Hawkins CM, Remington RD. Evaluation of performance of selected devices for measuring blood pressure. Am J Cardiol. 1973 Sep 20;32(4):546-53.</citation>
+    <PMID>4729723</PMID>
+  </reference>
+  <reference>
+    <citation>Apostolides A, Hebel JR, McDill MS, Henderson MM. High blood pressure: its care and consequences in urban centres. Int J Epidemiol. 1974 Jun;3(2):105-18.</citation>
+    <PMID>4277505</PMID>
+  </reference>
+  <reference>
+    <citation>Henderson M, Apostolides A, Entwisle G, Hebel R. A study of hypertension in a black urban community: preliminary epidemiologic findings. Prev Med. 1974 Sep;3(3):334-43.</citation>
+    <PMID>4411765</PMID>
+  </reference>
+  <reference>
+    <citation>Wassertheil-Smoller S, Bell B, Blaufox MD. Computer-aided management of hypertensive patients. Med Care. 1975 Dec;13(12):1044-54.</citation>
+    <PMID>1195905</PMID>
+  </reference>
+  <reference>
+    <citation>Wassertheil-Smoller S, Blaufox MD. Planning case-finding activities for a community hypertension-control program. Bull N Y Acad Med. 1976 Jul-Aug;52(6):648-56.</citation>
+    <PMID>1067879</PMID>
+  </reference>
+  <reference>
+    <citation>Langford HG, Watson RL, Thomas JG. Salt intake and the treatment of hypertension. Am Heart J. 1977 Apr;93(4):531-2.</citation>
+    <PMID>842451</PMID>
+  </reference>
+  <reference>
+    <citation>Schlant RC, Felner JL, Heymsfield SB, Gilbert CA, Shulman NB, Tuttle EP, and Blumenstein BA: Echocardiography and Essential Hypertension. Cardiovascular Medicine, 2:477-490, l977.</citation>
+  </reference>
+  <reference>
+    <citation>Entwisle G, Apostolides AY, Hebel JR, Henderson MM. Target organ damage in black hypertensives. Circulation. 1977 May;55(5):792-6.</citation>
+    <PMID>139214</PMID>
+  </reference>
+  <reference>
+    <citation>Apostolides AY, Entwisle G, Ouellet R, Hebel JR. Improving trend in hypertension control in a black inner city community. Am J Epidemiol. 1978 Feb;107(2):113-9.</citation>
+    <PMID>623094</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler R, Gosch FC, Stamler J, Lindberg HA, Hilker RR. A hypertension control program based on the workplace. Report on the Chicago Center. J Occup Med. 1978 Sep;20(9):618-25.</citation>
+    <PMID>702219</PMID>
+  </reference>
+  <reference>
+    <citation>Blaufox MD, Wassertheil-Smoller S. Improving blood pressure normalization. Follow-up of hypertension screening and methodologies. N Y State J Med. 1979 Feb;79(2):231-5.</citation>
+    <PMID>285353</PMID>
+  </reference>
+  <reference>
+    <citation>Ouellet RP, Apostolides AY, Entwisle G, Hebel JR. Estimated community impact of hypertension control in a high risk population. Am J Epidemiol. 1979 May;109(5):531-8.</citation>
+    <PMID>453176</PMID>
+  </reference>
+  <reference>
+    <citation>Smith EO, Hardy RJ, Cutter GR, Curb JD, and Hawkins CM: Application of Survival Analysis Techniques to Evaluation of Factors Affecting Compliance in a Clinical Trial of Hypertension Control. Controlled Clin Trials, l:59-69, l980.</citation>
+  </reference>
+  <reference>
+    <citation>Smith EO, Hardy RJ, Cutter GR. A two-compartment regression model applied to compliance in a hypertension treatment program. J Chronic Dis. 1980;33(10):645-51.</citation>
+    <PMID>7410524</PMID>
+  </reference>
+  <reference>
+    <citation>Smith EO, Hardy RJ, Cooper CJ, Hawkins CM. Two-compartment Markov regression analysis. Comput Programs Biomed. 1980 Dec;12(2-3):129-40.</citation>
+    <PMID>7249589</PMID>
+  </reference>
+  <verification_date>December 2005</verification_date>
+  <lastchanged_date>December 21, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antihypertensive Agents</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

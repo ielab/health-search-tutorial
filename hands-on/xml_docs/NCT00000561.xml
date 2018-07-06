@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204416">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000561</url>
+  </required_header>
+  <id_info>
+    <org_study_id>105</org_study_id>
+    <nct_id>NCT00000561</nct_id>
+  </id_info>
+  <brief_title>Mode Selection Trial in Sinus Node Dysfunction (MOST)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine if dual chamber rate-modulated pacing (DDDR) in patients with sick sinus
+      syndrome is superior to single chamber pacing (VVIR) with respect to subsequent frequency of
+      adverse clinical events such as stroke, quality of life and function, and cost
+      effectiveness.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Permanent pacing is estimated to cost one billion dollars annually in health care costs in
+      the United States. Initially, pacing was primarily confined to ventricular pacing with
+      limited sensing, programming and pacing capacity. Tremendous growth has occurred in pacing
+      technology, making available dual chamber pacing with sophisticated sensing, pacing, and
+      rate control. These more advanced pacemakers are more costly and complicated to place
+      surgically.
+
+      One of the most common indications for pacing is sick sinus syndrome. Initial therapy is
+      usually medical to inhibit the tachyarrhythmias (most commonly paroxysmal atrial
+      fibrillation). However, if symptomatic bradycardia results, then permanent pacing is
+      commonly employed. The appropriate type of pacing in this setting is not clearly defined and
+      is controversial.
+
+      The development of atrioventricular pacing was principally aimed at improving cardiac
+      hemodynamics and creating a more physiological heart rate control. Hemodynamic studies have
+      clearly shown the benefit of this approach in many patients, particularly those with
+      decreased left ventricular compliance in whom atrial activity contributes significantly to
+      cardiac output. Lack of synchronization between the upper and lower chambers of the heart
+      caused by pacing the ventricle alone can result in a constellation of symptoms commonly
+      referred to as &quot;pacemaker syndrome&quot;.
+
+      The underlying mechanisms by which dual chamber pacing is purported to improve outcome is
+      straightforward; in patients with normal sinus rhythm, cardiac output is improved by 15 to
+      30 percent. In addition, a number of retrospective studies that have compared single chamber
+      with atrial-based or dual chamber pacing have suggested that the latter may prevent adverse
+      clinical events such as atrial fibrillation, congestive heart failure, cerebral vascular
+      accidents, and death. While none of these studies was a randomized trial, the literature is
+      consistent with a concept that dual mode pacing results in improved hemodynamics and a more
+      favorable outcome in patients with sick sinus syndrome. However, the data do not provide
+      definitive answers because of small sample sizes and methodological problems. A major
+      problems with all previous studies is probable selection bias favoring implantation of dual
+      chamber devices in younger, healthier patients.
+
+      Several small studies have compared functional status and other quality of life measures
+      between single and dual chamber pacing modes and have suggested better quality of life
+      outcomes for the dual chamber mode. Again, these conclusions are severly hampered by the
+      sample sizes, the lack of random assignment or adequate statistical adjustment to control
+      for confounding, use of outdated and/or invalid measures, and potential response bias due to
+      awareness of mode assignment.
+
+      DESIGN NARRATIVE:
+
+      A multicenter, randomized clinical trial. All patients received a dual chamber pacemaker
+      capable of either single or dual chamber rate modulated pacing. Patients were then
+      randomized to either the single chamber mode or the dual chamber mode. Patients with prior
+      stroke were pre-stratified. Clinical and electrocardiographic data were collected during a
+      1.5 to 4.5 year follow-up. The primary endpoint was either: first occurrence of stroke, or;
+      total (all-cause) mortality. Secondary endpoints included health status, cost-effectiveness,
+      cardiovascular mortality, composite of any of the three major adverse effects expected in
+      sick sinus syndrome patients (total mortality alone or first stroke or congestive heart
+      failure hospitalization), first occurrence of atrial fibrillation, heart failure score,
+      pacemaker syndrome, health status in women and in the elderly, and outcome of patients with
+      risk factors for pacemaker syndrome. Enrollment was completed in October, 1999 with a total
+      of 2,010 patients.
+
+      Quality of life and economic issues were assessed in patients at entry and annually for
+      three years. Questionnaire-based measures of health status and quality of life were compared
+      in the two pacing groups for the entire population and subgroups defined by age and gender.
+      The economic substudy measured the comparative costs, both direct and indirect medical and
+      nonmedical, of the two pacing modes in an attempt to determine the most cost-effective
+      approach to pacemaker treatment of sick sinus syndrome.
+
+      Recruitment started October 1, 1995 and was completed October 4, 1999 with 2,010 patients
+      enrolled.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1995</start_date>
+  <completion_date>May 2002</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Arrhythmia</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Sick Sinus Syndrome</condition>
+  <condition>Vascular Diseases</condition>
+  <condition>Cerebrovascular Accident</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>pacemaker, artificial</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with sick sinus syndrome.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gervasio Lamas</last_name>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kerry Lee</last_name>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Lamas GA, Lee K, Sweeney M, Leon A, Yee R, Ellenbogen K, Greer S, Wilber D, Silverman R, Marinchak R, Bernstein R, Mittleman RS, Lieberman EH, Sullivan C, Zorn L, Flaker G, Schron E, Orav EJ, Goldman L. The mode selection trial (MOST) in sinus node dysfunction: design, rationale, and baseline characteristics of the first 1000 patients. Am Heart J. 2000 Oct;140(4):541-51.</citation>
+    <PMID>11011325</PMID>
+  </reference>
+  <reference>
+    <citation>Lamas GA, Lee KL, Sweeney MO, Silverman R, Leon A, Yee R, Marinchak RA, Flaker G, Schron E, Orav EJ, Hellkamp AS, Greer S, McAnulty J, Ellenbogen K, Ehlert F, Freedman RA, Estes NA 3rd, Greenspon A, Goldman L; Mode Selection Trial in Sinus-Node Dysfunction. Ventricular pacing or dual-chamber pacing for sinus-node dysfunction. N Engl J Med. 2002 Jun 13;346(24):1854-62.</citation>
+    <PMID>12063369</PMID>
+  </reference>
+  <reference>
+    <citation>Glotzer TV, Hellkamp AS, Zimmerman J, Sweeney MO, Yee R, Marinchak R, Cook J, Paraschos A, Love J, Radoslovich G, Lee KL, Lamas GA; MOST Investigators. Atrial high rate episodes detected by pacemaker diagnostics predict death and stroke: report of the Atrial Diagnostics Ancillary Study of the MOde Selection Trial (MOST). Circulation. 2003 Apr 1;107(12):1614-9. Epub 2003 Mar 24.</citation>
+    <PMID>12668495</PMID>
+  </reference>
+  <reference>
+    <citation>Sweeney MO, Hellkamp AS, Ellenbogen KA, Greenspon AJ, Freedman RA, Lee KL, Lamas GA; MOde Selection Trial Investigators. Adverse effect of ventricular pacing on heart failure and atrial fibrillation among patients with normal baseline QRS duration in a clinical trial of pacemaker therapy for sinus node dysfunction. Circulation. 2003 Jun 17;107(23):2932-7. Epub 2003 Jun 2.</citation>
+    <PMID>12782566</PMID>
+  </reference>
+  <reference>
+    <citation>Flaker G, Greenspon A, Tardiff B, Schron E, Goldman L, Hellkamp A, Lee K, Lamas G; Mode Selection Trial (MOST) Investigators. Death in patients with permanent pacemakers for sick sinus syndrome. Am Heart J. 2003 Nov;146(5):887-93.</citation>
+    <PMID>14597940</PMID>
+  </reference>
+  <reference>
+    <citation>Greenspon AJ, Hart RG, Dawson D, Hellkamp AS, Silver M, Flaker GC, Schron E, Goldman L, Lee KL, Lamas GA; MOST Study Investigators. Predictors of stroke in patients paced for sick sinus syndrome. J Am Coll Cardiol. 2004 May 5;43(9):1617-22.</citation>
+    <PMID>15120821</PMID>
+  </reference>
+  <reference>
+    <citation>Link MS, Hellkamp AS, Estes NA 3rd, Orav EJ, Ellenbogen KA, Ibrahim B, Greenspon A, Rizo-Patron C, Goldman L, Lee KL, Lamas GA; MOST Study Investigators. High incidence of pacemaker syndrome in patients with sinus node dysfunction treated with ventricular-based pacing in the Mode Selection Trial (MOST). J Am Coll Cardiol. 2004 Jun 2;43(11):2066-71.</citation>
+    <PMID>15172414</PMID>
+  </reference>
+  <reference>
+    <citation>Sweeney MO, Hellkamp AS, Ellenbogen KA, Glotzer TV, Silverman R, Yee R, Lee KL, Lamas GA; MOST Investigators. Prospective randomized study of mode switching in a clinical trial of pacemaker therapy for sinus node dysfunction. J Cardiovasc Electrophysiol. 2004 Feb;15(2):153-60.</citation>
+    <PMID>15028043</PMID>
+  </reference>
+  <reference>
+    <citation>Rinfret S, Cohen DJ, Lamas GA, Fleischmann KE, Weinstein MC, Orav J, Schron E, Lee KL, Goldman L. Cost-effectiveness of dual-chamber pacing compared with ventricular pacing for sinus node dysfunction. Circulation. 2005 Jan 18;111(2):165-72. Epub 2005 Jan 3.</citation>
+    <PMID>15630030</PMID>
+  </reference>
+  <reference>
+    <citation>Shukla HH, Hellkamp AS, James EA, Flaker GC, Lee KL, Sweeney MO, Lamas GA; Mode Selection Trial (MOST) Investigators. Heart failure hospitalization is more common in pacemaker patients with sinus node dysfunction and a prolonged paced QRS duration. Heart Rhythm. 2005 Mar;2(3):245-51.</citation>
+    <PMID>15851312</PMID>
+  </reference>
+  <reference>
+    <citation>Sweeney MO, Hellkamp AS, Lee KL, Lamas GA; Mode Selection Trial (MOST) Investigators. Association of prolonged QRS duration with death in a clinical trial of pacemaker therapy for sinus node dysfunction. Circulation. 2005 May 17;111(19):2418-23. Epub 2005 May 2.</citation>
+    <PMID>15867173</PMID>
+  </reference>
+  <verification_date>May 2005</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Cerebral Infarction</mesh_term>
+    <mesh_term>Sick Sinus Syndrome</mesh_term>
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

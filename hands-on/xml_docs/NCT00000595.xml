@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204382">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000595</url>
+  </required_header>
+  <id_info>
+    <org_study_id>401</org_study_id>
+    <nct_id>NCT00000595</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Subcutaneous Desferrioxamine as Treatment for Transfusional Hemochromatosis</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether deferoxamine prevented the complications of transfusional iron
+      overload.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The prognosis of congenital or long-term anemia was formerly limited by the complications of
+      blood transfusion, splenectomy, or infection, problems now largely overcome by sophisticated
+      clinical care. Lifespan is now determined by the rate of myocardial iron deposition, with
+      death occurring from cardiac failure or arrhythmia, usually between the ages of 15 and 25.
+      Endocrine complications and hepatic enlargement are also evident by this age. Deferoxamine
+      increases urinary iron excretion and is the only chelator currently available for chronic
+      administration. Daily administration of deferoxamine results in negative iron balance in
+      most patients by the age of 10; this study was designed to determine whether the onset of
+      cardiac complications was delayed and life prolonged by iron removal.
+
+      This trial began in 1978. Its forerunner was a study involving both deferoxamine and
+      ascorbic acid. Although ascorbic acid promotes iron removal, its administration was followed
+      by cardiac deterioration in several patients. In this study, patients receiving subcutaneous
+      deferoxamine were randomized to receive either ascorbic acid or placebo, thereby providing a
+      controlled test of this agent in treatment of iron overload. Sixty-five patients with
+      homozygous beta-thalassemia participated in the long-term chelation trial. Of these, 49 were
+      randomized to the ascorbic acid trial.
+
+      Several noninvasive techniques have been developed to evaluate organ function in
+      iron-overloaded patients, thereby facilitating the assessment of chelation therapy. These
+      techniques included chest x-rays, electrocardiograms, echocardiograms, and 24-hour Holter
+      monitoring to assess cardiac function. Liver function was evaluated by standard liver
+      function tests, CAT scan, and live biopsy. During the last six years of the study, hepatic
+      iron stores were measured magnetically with a dual channel superconducting
+      quantum-interference susceptomer. Endocrine function was also assessed by standard tests.
+
+      DESIGN NARRATIVE:
+
+      All patients received subcutaneous deferoxamine and iron removal was determined by
+      measurement of serum ferritin and periodic non-invasive measurements of liver iron
+      concentration. Clinical status was evaluated by non-invasive testing of cardiac and
+      endocrine function.
+
+      The study completion date listed in this record was inferred from the last publication
+      listed in the Citations section of this study record.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1978</start_date>
+  <completion_date type="Actual">September 1994</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Primary Purpose: Treatment</study_design>
+  <condition>Anemia (Iron-Loading)</condition>
+  <condition>Beta-Thalassemia</condition>
+  <condition>Hematologic Diseases</condition>
+  <condition>Hemoglobinopathies</condition>
+  <condition>Thalassemia</condition>
+  <condition>Iron Overload</condition>
+  <condition>Hemochromatosis</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>deferoxamine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Males and females, 5 years or older, with transfusional hemochromatosis.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neal Young</last_name>
+    <affiliation>Laboratory of Hematology, NHLBI</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Nienhuis AW, Griffith P, Strawczynski H, Henry W, Borer J, Leon M, Anderson WF. Evaluation of cardiac function in patients with thalassemia major. Ann N Y Acad Sci. 1980;344:384-96.</citation>
+    <PMID>6930878</PMID>
+  </reference>
+  <reference>
+    <citation>Brittenham GM, Griffith PM, Nienhuis AW, McLaren CE, Young NS, Tucker EE, Allen CJ, Farrell DE, Harris JW. Efficacy of deferoxamine in preventing complications of iron overload in patients with thalassemia major. N Engl J Med. 1994 Sep 1;331(9):567-73.</citation>
+    <PMID>8047080</PMID>
+  </reference>
+  <verification_date>May 2000</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Beta-Thalassemia</mesh_term>
+    <mesh_term>Hematologic Diseases</mesh_term>
+    <mesh_term>Hemochromatosis</mesh_term>
+    <mesh_term>Hemoglobinopathies</mesh_term>
+    <mesh_term>Iron Overload</mesh_term>
+    <mesh_term>Thalassemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Deferoxamine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

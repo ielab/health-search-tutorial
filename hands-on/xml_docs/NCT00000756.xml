@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204223">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000756</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DATRI 006</org_study_id>
+    <secondary_id>11736</secondary_id>
+    <nct_id>NCT00000756</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Safety and Tolerance of Immunotherapy With Autologous, Ex-Vivo Expanded, HIV-Specific Cytotoxic T-Cells in HIV-Infected Patients With CD4+ Counts Between 100-400/mm3</brief_title>
+  <official_title>Evaluation of the Safety and Tolerance of Immunotherapy With Autologous, Ex-Vivo Expanded, HIV-Specific Cytotoxic T-Cells in HIV-Infected Patients With CD4+ Counts Between 100-400/mm3</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the safety, tolerance, and feasibility of adoptive immunotherapy with
+      autologous cytotoxic T-lymphocytes (CTLs) in HIV-infected patients with CD4 counts between
+      100 and 400; to evaluate the immunologic, virologic, and clinical changes for up to 24 weeks
+      following infusion of study therapy.
+
+      Freshly isolated peripheral blood lymphocytes from HIV-1-seropositive individuals frequently
+      lyse autologous HIV-1-expressing cells or autologous cells infected with vaccinia vectors
+      encoding HIV-1-specific proteins. Administration of these cytotoxic T lymphocytes (CTLs) may
+      help prevent HIV disease progression.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Freshly isolated peripheral blood lymphocytes from HIV-1-seropositive individuals frequently
+      lyse autologous HIV-1-expressing cells or autologous cells infected with vaccinia vectors
+      encoding HIV-1-specific proteins. Administration of these cytotoxic T lymphocytes (CTLs) may
+      help prevent HIV disease progression.
+
+      AMENDED 03/28/94:
+
+      Patients are not accrued at the 25 billion CTL dose. Instead, a third cohort receives three
+      infusions of 1 billion CTL 5-8 weeks apart.
+
+      AMENDED 02/14/94:
+
+      Patients infused with 1 or 5 billion CTL will be reinfused with 1 billion CTL 6-12 months
+      later, and then followed for up to 12 weeks after the reinfusion.
+
+      ORIGINAL DESIGN:
+
+      Fifteen patients whose cells show an HIV-specific cytotoxic T lymphocyte (CTL) response are
+      infused with autologous, ex-vivo expanded CTLs at a dose of 1, 5, or 25 billion cells (five
+      patients per dose level). If one to three patients at a given dose develop acute toxicity,
+      an additional three patients will be entered at that dose. If four patients at any given
+      dose develop acute toxicity, the next lower dose will be designated as the MTD (if four
+      patients develop acute toxicity in the first cohort, the study will be terminated). Patients
+      are evaluated during infusion and at 1, 2, 4, 8, and 24 weeks.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">June 2002</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <enrollment>15</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lymphocytes, Activated</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  Approved antiretroviral therapy and/or prophylactic PCP therapy, provided there was
+             no change in such therapy in the 4 weeks prior to study entry.
+
+          -  Other approved treatments for HIV-related diseases that are not known to affect
+             cellular immune response.
+
+          -  G-CSF.
+
+          -  Erythropoietin.
+
+          -  Supportive care for acute therapy-related toxicity.
+
+        Patients must have:
+
+          -  HIV infection.
+
+          -  CD4 count 100 - 400 cells/mm3.
+
+          -  No current or previously documented AIDS-related opportunistic infection, malignancy,
+             or encephalopathy other than mild Kaposi's sarcoma.
+
+          -  FEV1 &gt; 70 percent, DLCO &gt; 50 percent predicted for height and age (initial infusion
+             only).
+
+          -  T cell lines with specific cytotoxicity against HIV-1.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Significant autoimmune disease.
+
+          -  Non-AIDS-associated malignancy.
+
+          -  Symptoms of cardiac disease.
+
+          -  Dyspnea on significant exertion.
+
+          -  Acute infiltrates on chest radiographs.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of significant arrhythmia, infarction, or heart failure.
+
+          -  History of a major psychiatric illness.
+
+        Prior Medication:
+
+        Excluded within 4 weeks prior to study entry:
+
+          -  Systemic immunosuppressive therapy (i.e., steroids, cyclosporine, chemotherapy, or
+             alpha-interferon).
+
+          -  Therapy for acute infection, AIDS-related opportunistic infection, or malignancy.
+
+          -  Experimental AIDS therapy.
+
+        Prior Treatment:
+
+        Excluded:
+
+          -  Potentially immunosuppressive local therapy or radiation therapy for Kaposi's sarcoma
+             within 4 weeks prior to study entry.
+
+        Current substance abuse.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>J Lieberman</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>H Standiford</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>D Stein</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>New England Med Ctr / Tufts Univ</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Lieberman J, Skolnik PR, Parkerson GR 3rd, Fabry JA, Landry B, Bethel J, Kagan J. Safety of autologous, ex vivo-expanded human immunodeficiency virus (HIV)-specific cytotoxic T-lymphocyte infusion in HIV-infected patients. Blood. 1997 Sep 15;90(6):2196-206.</citation>
+    <PMID>9310470</PMID>
+  </reference>
+  <verification_date>May 2012</verification_date>
+  <lastchanged_date>May 22, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>T-Lymphocytes</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Immunotherapy, Adoptive</keyword>
+  <keyword>Transplantation, Autologous</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

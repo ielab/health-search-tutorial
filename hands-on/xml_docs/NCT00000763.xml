@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204216">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000763</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 215</org_study_id>
+    <secondary_id>11192</secondary_id>
+    <nct_id>NCT00000763</nct_id>
+  </id_info>
+  <brief_title>A Phase I Study of TNP-470 in the Treatment of AIDS-Associated Kaposi's Sarcoma</brief_title>
+  <official_title>A Phase I Study of TNP-470 in the Treatment of AIDS-Associated Kaposi's Sarcoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess toxicity and determine the MTD of intravenous TNP-470 administered weekly in
+      patients with AIDS-related Kaposi's sarcoma. To assess pharmacokinetics and tumor response
+      of the drug.
+
+      Since evidence shows that neovascularization is important in the development of Kaposi's
+      sarcoma, drugs that inhibit angiogenesis, such as TNP-470, may be of benefit in patients
+      with the disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Since evidence shows that neovascularization is important in the development of Kaposi's
+      sarcoma, drugs that inhibit angiogenesis, such as TNP-470, may be of benefit in patients
+      with the disease.
+
+      Patients are entered at 7 escalating dose levels of TNP-470. (PER AMENDMENT 9/3/96: dose
+      maximum level changed.) Four patients treated at a given dose level must receive at least 4
+      weeks of therapy before escalation in subsequent cohorts proceeds. If 50 percent of patients
+      at a given dose level experience dose-limiting toxicity, the previous dose is defined as the
+      MTD and an additional two patients are treated at the MTD. Patients receive treatment for 12
+      weeks, followed by 2 weeks of rest, followed by an additional 12 weeks of treatment.
+      Patients are followed for 12 weeks post-treatment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">February 1997</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Pharmacokinetics Study, Primary Purpose: Treatment</study_design>
+  <enrollment>42</enrollment>
+  <condition>Sarcoma, Kaposi</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TNP-470</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  AZT, ddI, ddC, or d4T provided patients have received at least 2 weeks of this
+             therapy prior to study entry. (Combination ddI/ddC is not permitted.)
+
+          -  MAI prophylaxis.
+
+        Required in patients with CD4 count &lt; 200 cells/mm3:
+
+        Aerosolized pentamidine, trimethoprim/sulfamethoxazole, or dapsone as PCP prophylaxis.
+
+        Patients must have:
+
+          -  HIV infection.
+
+          -  Cutaneous Kaposi's sarcoma.
+
+          -  Life expectancy of at least 3 months.
+
+          -  Consent of parent or guardian if under 18 years of age.
+
+        NOTE:
+
+          -  This protocol is considered suitable for prison populations.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Peripheral neuropathy (grade 2 or worse).
+
+          -  Underlying severe or life-threatening infection with bacterial, viral, fungal, or
+             protozoal pathogens.
+
+          -  Known hypersensitivity to TNP-470, fumagillin, or known related compounds.
+
+        PER AMENDMENT 9/3/96:
+
+          -  Cataracts.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Combination therapy with ddI/ddC (although these drugs may be administered alone or
+             in combination with AZT).
+
+          -  Anticonvulsive medication.
+
+          -  Steroids.
+
+          -  Antineoplastic drugs.
+
+          -  Interferons.
+
+          -  Systemic or topical anti-Kaposi's sarcoma agents or regimens.
+
+          -  Suramin.
+
+          -  Aspirin.
+
+          -  Warfarin.
+
+          -  Heparin (including heparin flushes).
+
+          -  Nonsteroidal anti-inflammatory drugs.
+
+          -  Investigational status drugs.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of substantial non-iatrogenic bleeding disorders.
+
+          -  History of tumor or malignancies other than Kaposi's sarcoma, with the exception of
+             completely resected basal cell skin carcinoma or in situ cervical carcinoma.
+
+          -  History of seizures within the past 10 years.
+
+        PER AMENDMENT 9/3/96:
+
+          -  History of cataracts.
+
+        Prior Medication:
+
+        Excluded within 4 weeks prior to study entry:
+
+          -  Steroids.
+
+          -  Antineoplastic drugs.
+
+          -  Interferons.
+
+          -  Systemic or topical anti-Kaposi's sarcoma agents or regimens.
+
+        Excluded within 6 months prior to study entry:
+
+          -  Suramin.
+
+        Unwilling to refrain from unprotected sexual contact or other activities that may result
+        in HIV re-infection.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gill PS</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Dezube B</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>USC CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess - East Campus A0102 CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bmc Actg Crs</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington U CRS</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Med. Ctr. (Mt. Sinai)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Dezube BJ, Von Roenn JH, Holden-Wiltse J, Cheung TW, Remick SC, Cooley TP, Moore J, Sommadossi JP, Shriver SL, Suckow CW, Gill PS. Fumagillin analog in the treatment of Kaposi's sarcoma: a phase I AIDS Clinical Trial Group study. AIDS Clinical Trial Group No. 215 Team. J Clin Oncol. 1998 Apr;16(4):1444-9.</citation>
+    <PMID>9552050</PMID>
+  </reference>
+  <reference>
+    <citation>Frenkel LM, Wagner LE 2nd, Atwood SM, Cummins TJ, Dewhurst S. Specific, sensitive, and rapid assay for human immunodeficiency virus type 1 pol mutations associated with resistance to zidovudine and didanosine. J Clin Microbiol. 1995 Feb;33(2):342-7.</citation>
+    <PMID>7714190</PMID>
+  </reference>
+  <reference>
+    <citation>Pluda JM, Wyvill K, Lietzau J, Figg D, Saville MW, Nguyen BY, Foli A, Bailey J, Cooper M. A phase I trial of TNP-470 (AGM-1470) administered to patients with HIV-associated kaposi's sarcoma (KS). Natl Conf Hum Retroviruses Relat Infect (1st). 1993 Dec 12-16:61</citation>
+  </reference>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 30, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Sarcoma, Kaposi</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Antineoplastic Agents</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>AIDS-Related Opportunistic Infections</mesh_term>
+    <mesh_term>Sarcoma</mesh_term>
+    <mesh_term>Sarcoma, Kaposi</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

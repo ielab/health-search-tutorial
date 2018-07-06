@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204219">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000760</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 213</org_study_id>
+    <secondary_id>NV14224A</secondary_id>
+    <nct_id>NCT00000760</nct_id>
+  </id_info>
+  <brief_title>A Randomized Study of Activity, Safety, and Tolerance of Oral Ro 24-7429 (Tat Antagonist) in Patients With HIV Infection</brief_title>
+  <official_title>A Randomized Study of Activity, Safety, and Tolerance of Oral Ro 24-7429 (Tat Antagonist) in Patients With HIV Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To study the anti-HIV activity of the various doses of Ro 24-7429 monotherapy based on
+      virologic and immunologic endpoints. To study the safety and tolerance of Ro 24-7429. To
+      explore relationships between exposure to Ro 24-7429 and its metabolites and antiviral
+      activity and drug toxicity. To determine a safe, tolerable, and active dose regimen of Ro
+      24-7429, and to make preliminary observations of Ro 24-7429 in combination with another
+      antiretroviral nucleoside.
+
+      The HIV genome contains a number of genes that regulate viral replication. Control of the
+      activity of these genes and their encoded proteins represents a potential target for
+      development of new antiretroviral drugs. The tat (transactivator of transcription of HIV)
+      antagonist Ro 24-7429 is the first compound for clinical testing that utilizes this approach
+      for therapy of HIV infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The HIV genome contains a number of genes that regulate viral replication. Control of the
+      activity of these genes and their encoded proteins represents a potential target for
+      development of new antiretroviral drugs. The tat (transactivator of transcription of HIV)
+      antagonist Ro 24-7429 is the first compound for clinical testing that utilizes this approach
+      for therapy of HIV infection.
+
+      Ninety-six patients (four treatment arms of 24 patients each) are randomized to receive oral
+      Ro 24-7429 at 1 of 3 doses or nucleoside control (either zidovudine or didanosine). The
+      study will be blinded only for the arms receiving Ro 24-7429. Treatment continues for 12
+      weeks. After 12 weeks, patients on the nucleoside control arm receive the highest tolerated
+      dose of Ro 24-7429 in addition to their nucleoside.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Primary Purpose: Treatment</study_design>
+  <enrollment>96</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ro 24-7429</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zidovudine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Didanosine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  Chemoprophylaxis for P. carinii pneumonia, TB, and mucocutaneous candidiasis.
+
+          -  Methadone maintenance.
+
+          -  Hormonal contraceptives.
+
+        Patients must have:
+
+          -  HIV-1 seropositivity.
+
+          -  CD4 count 50 - 500 cells/mm3.
+
+          -  Life expectancy of at least 24 weeks.
+
+          -  Stable weight (+/- 2 kg) by 28 days prior to study entry (by history).
+
+        NOTE:
+
+          -  At least 50 percent of patients must be p24 antigen positive (&gt;= 50 pg/ml).
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms and conditions are excluded:
+
+          -  Known or suspected hypersensitivity to benzodiazepines.
+
+          -  Presence of any malignancy other than basal cell carcinoma or limited cutaneous
+             Kaposi's sarcoma (defined as no more than five lesions with no mucosal involvement).
+
+          -  Ongoing diarrhea, defined as more than 2 liquid stools per day.
+
+          -  History, physical exam, or laboratory results consistent with a subclinical
+             AIDS-defining opportunistic infection.
+
+          -  Grade 2 or greater signs and symptoms of AIDS Dementia Complex.
+
+          -  Evidence of clinically significant cardiac, respiratory, hepatic, gastrointestinal,
+             endocrine, hematologic, psychiatric, neurologic, dermatologic, or allergic disease.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Chronic suppressive therapy for CMV, MAI, toxoplasmosis, cryptococcosis,
+             cryptosporidiosis, coccidioidomycosis, and histoplasmosis.
+
+          -  ddC, ddI, AZT (except for control groups) or other experimental antiretrovirals or
+             immunomodulating agents.
+
+          -  Other medications excluded from the study.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of serious adverse reactions to benzodiazepines.
+
+          -  History of intolerance to AZT at 600 mg/day or less or ddI at 400 mg/day or less.
+
+          -  History of unexplained fever, defined as a temperature of 38.5 deg C or greater with
+             or without night sweats for more than 7 of the past 28 days.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Benzodiazepines within 14 days prior to study entry.
+
+        Active drug or alcohol abuse that would interfere with study compliance.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richman DD</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Haubrich R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCSD</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hosp</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harvard (Massachusetts Gen Hosp)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Case Western Reserve Univ</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=4</url>
+    <description>Click here for more information about Zidovudine</description>
+  </link>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=16</url>
+    <description>Click here for more information about Didanosine</description>
+  </link>
+  <reference>
+    <citation>Haubrich RH, Flexner C, Lederman MM, Hirsch M, Pettinelli CP, Ginsberg R, Lietman P, Hamzeh FM, Spector SA, Richman DD. A randomized trial of the activity and safety of Ro 24-7429 (Tat antagonist) versus nucleoside for human immunodeficiency virus infection. The AIDS Clinical Trials Group 213 Team. J Infect Dis. 1995 Nov;172(5):1246-52.</citation>
+    <PMID>7594660</PMID>
+  </reference>
+  <reference>
+    <citation>Haubrich RH. A randomized study of safety, tolerance, pharmacokinetics, and activity of oral Ro 24-7429 (TAT antagonist) in patients with HIV infection. The ACTG 213 Team. Int Conf AIDS. 1993 Jun 6-11;9(1):69 (abstract no WS-B26-5)</citation>
+  </reference>
+  <reference>
+    <citation>Lathey JL, Marschner IC, Kabat B, Spector SA. Deterioration of detectable human immunodeficiency virus serum p24 antigen in samples stored for batch testing. J Clin Microbiol. 1997 Mar;35(3):631-5.</citation>
+    <PMID>9041402</PMID>
+  </reference>
+  <verification_date>November 1998</verification_date>
+  <lastchanged_date>July 31, 2008</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Didanosine</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Antiviral Agents</keyword>
+  <keyword>Zidovudine</keyword>
+  <keyword>Gene Products, tat</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Didanosine</mesh_term>
+    <mesh_term>Zidovudine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

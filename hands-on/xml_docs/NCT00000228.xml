@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204742">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000228</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-06969-10</org_study_id>
+    <secondary_id>R01-06969-10</secondary_id>
+    <nct_id>NCT00000228</nct_id>
+  </id_info>
+  <brief_title>Buprenorphine Detox With Two Types of Treatment. BBD I - 10</brief_title>
+  <official_title>Buprenorphine Detox With Two Types of Treatment. BBD I</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Vermont</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare overall treatment outcome between behavioral versus
+      standard treatment types.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1994</start_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Drug use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Retention</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Weeks abstinent</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Weeks continuous abstinence</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall treatment outcome</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Opioid-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Buprenorphine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Please contact site for information.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Warren Bickel, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Vermont</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Treatment Research Center</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Bickel WK, Amass L, Higgins ST, Badger GJ, Esch RA. Effects of adding behavioral treatment to opioid detoxification with buprenorphine. J Consult Clin Psychol. 1997 Oct;65(5):803-10.</citation>
+    <PMID>9337499</PMID>
+  </reference>
+  <verification_date>July 1996</verification_date>
+  <lastchanged_date>August 16, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Buprenorphine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

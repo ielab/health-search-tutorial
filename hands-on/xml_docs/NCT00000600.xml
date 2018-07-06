@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204377">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000600</url>
+  </required_header>
+  <id_info>
+    <org_study_id>106</org_study_id>
+    <secondary_id>U01HL052073</secondary_id>
+    <nct_id>NCT00000600</nct_id>
+  </id_info>
+  <brief_title>Vitamin E and C to Slow Progression of Common Carotid Artery Plaque Build-Up</brief_title>
+  <official_title>Antioxidants and Prevention of Early Atherosclerosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the effects of vitamin E supplementation in retarding the
+      progression of common carotid artery intima-media thickening in African Americans.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Evidence from epidemiologic studies, and from one unpublished study, suggests that greater
+      intake of antioxidant vitamins is associated with reduced risk of coronary heart disease and
+      stroke. Findings from an animal model indicate that increased intake of antioxidant vitamins
+      prevents progression of aortic fatty streaks induced by an atherogenic diet, but not from
+      more advanced injury-induced lesions. These observations suggest the hypothesis that
+      increased antioxidant vitamin intake may prevent further progression of early
+      atherosclerosis, possibly by means of reduced susceptibility of low density lipoprotein to
+      oxidative modification and consequent cytotoxic, chemotactic, chemostatic, and unregulated
+      uptake effects.
+
+      A new, automated, low-cost, portable ultrasound system for determining intima-media
+      thickness of the common carotid artery makes it feasible to test the primary prevention
+      impact of antioxidant vitamins on early atherosclerosis. Results of two studies at the
+      University of Southern California suggest that the low-density lipoprotein effects on common
+      carotid artery intima-media thickness can be detected by automated methods within 12 to 24
+      months in small patient samples. Retardation of intima-media thickness progression was
+      achieved in both studies without significant changes in average vessel diameter, which
+      suggests effects on early atherosclerotic lesions.
+
+      DESIGN NARRATIVE:
+
+      Patients will be screened for carotid intima-media thickness at home or at schools in mobile
+      vans equipped with portable ultrasound equipment. After 12 months, those patients above the
+      age and sex-adjusted 66th percentile at Screen I will be re-screened (Screen II), and those
+      showing the greatest progression in intima-media thickness will be invited to participate in
+      a trial run-in to assess vitamin E compliance. Patients will be randomized to the following
+      four groups: 1) vitamin E (573 mg/day); 2) vitamin C; 3) Vitamin E and C combined; and 4)
+      placebo. Common carotid artery intima-media thickness will be observed by ultrasound at 12-
+      and 24-month follow-ups. The primary outcome is 24-month rate of change in average common
+      carotid artery intima-media thickness.
+
+      The study completion date listed in this record was obtained from the Query/View/Report
+      (QVR) System.
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <start_date>June 1995</start_date>
+  <completion_date type="Actual">May 2000</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>rate of change in average common carotid artery intima-media thickness (measured over 24 months)</measure>
+  </primary_outcome>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Carotid Artery Diseases</condition>
+  <condition>Intracranial Arteriosclerosis</condition>
+  <condition>Cerebrovascular Disorders</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Vascular Diseases</condition>
+  <condition>Atherosclerosis</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vitamin E</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vitamin C</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  African American
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>59 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James H. Dwyer, III</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Southern California</affiliation>
+  </overall_official>
+  <verification_date>October 2006</verification_date>
+  <lastchanged_date>December 12, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arteriosclerosis</mesh_term>
+    <mesh_term>Atherosclerosis</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Carotid Artery Diseases</mesh_term>
+    <mesh_term>Cerebrovascular Disorders</mesh_term>
+    <mesh_term>Intracranial Arteriosclerosis</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Vitamin E</mesh_term>
+    <mesh_term>Vitamins</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

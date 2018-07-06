@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204557">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000419</url>
+  </required_header>
+  <id_info>
+    <org_study_id>U01 AR42540 NIAMS-028A</org_study_id>
+    <secondary_id>U01AR042540</secondary_id>
+    <nct_id>NCT00000419</nct_id>
+  </id_info>
+  <brief_title>Safety of Estrogens in Lupus: Hormone Replacement Therapy</brief_title>
+  <official_title>Safety of Estrogens in Lupus Erythematosus - National Assessment (SELENA): Hormone Replacement Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Office of Research on Women's Health (ORWH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York University School of Medicine</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Safety of Estrogens in Lupus Erythematosus - National Assessment (SELENA) is a study to test
+      whether postmenopausal women with systemic lupus erythematosus (SLE, or lupus) can safely
+      use the hormone estrogen. In this part of the study, we will look at the effects of estrogen
+      replacement therapy on the activity and severity of disease in women with SLE.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study tests the effect of exogenous female hormones on disease activity and severity in
+      women with systemic lupus erythematosus (SLE). Physicians generally do not prescribe hormone
+      replacement therapy (HRT) to women with SLE because of the widely held view that such
+      treatment can activate SLE. This practice is based on the greater incidence of SLE in women
+      than in men, biologic abnormalities of estrogen metabolism, murine models of lupus, several
+      anecdotes of patients having disease flares while receiving exogenous hormones, and a single
+      retrospective study in patients with preexisting renal disease. By contrast, recent
+      retrospective studies suggest that the rate of flare is not significantly increased in
+      patients taking HRT.
+
+      We will examine, in a multicenter, randomized, double-blind, placebo-controlled trial, the
+      effect of hormonal replacement with conjugated estrogens on disease activity in
+      postmenopausal women with SLE. We will recruit patients from clinics and private practices
+      that include over 4,000 women with SLE, most belonging to minority groups.
+
+      We will give patients hormones for 1 year.
+
+      NOTE: This trial has been terminated as of August 2002 upon recommendation of the Data
+      Safety Monitoring Board (DSMB), based on the findings of the WHI Trial. Study subjects have
+      discontinued study drug but will continue followup visits to study doctors through May 2003
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <start_date>April 1996</start_date>
+  <completion_date>August 2002</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>350</enrollment>
+  <condition>Systemic Lupus Erythematosus</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Premarin and Provera</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Female
+
+          -  Unequivocal diagnosis of SLE
+
+          -  Inactive disease or stable on 0.5 mg/kg/day or less of prednisone
+
+          -  Chemical evidence of menopause or have stopped periods for at least 6 months
+
+        Exclusion Criteria:
+
+          -  Blood pressure &gt;145/95 on three occasions
+
+          -  Deep vein, arterial thrombosis or pulmonary embolus
+
+          -  GPL &gt;40; MPL &gt;40; APL &gt;50; dRVVT &gt;37 sec
+
+          -  APL antibody syndrome ever
+
+          -  Gynecologic or breast cancer
+
+          -  Hepatic dysfunction or liver tumors
+
+          -  Diabetes mellitus (NOT due to steroids) with vascular disease
+
+          -  Congenital hyperlipidemia
+
+          -  Complicated migraine
+
+          -  Severe disease activity (SLEDAI &gt;12)
+
+          -  Increase in SLEDAI &gt;2 points in 3 months
+
+          -  Unexplained vaginal bleeding
+
+          -  Use of estrogen (HRT or OCP) for &gt;1 month at any time after SLE diagnosis
+
+          -  FSH &lt;40
+
+          -  Premenopausal myocardial infarction
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jill Buyon, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital for Joint Diseases, Department of Rheumatology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michelle Petri, M.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Johns Hopkins Hospital, Department of Rheumatology</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UAB Medical Center</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Medical Center, Dept. of Rheumatology</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Pritzker School of Medicine</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Louisiana School of Medicine</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71130-3932</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Michigan Med. Ctr., Rheumatology Div.</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109-0358</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Albert Einstein College of Medicine, Jacoby Hospital, Dept. of Rheumatology</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Joint Diseases</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Special Surgery</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UNC Medical Center, Dept. of Rheumatology</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599-7280</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oklahoma Medical Research Foundation</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Pennsylvania Medical Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Pittsburgh, Dept. of Rheumatology</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Sciences Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Virginia, Ambulatory Care Center</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Petri M, Buyon J, Kim M. Classification and definition of major flares in SLE clinical trials. Lupus. 1999;8(8):685-91.</citation>
+    <PMID>10568907</PMID>
+  </reference>
+  <reference>
+    <citation>Kim MY, Buyon JP, Petri M, Skovron ML, Shore RE. Equivalence trials in SLE research: issues to consider. Lupus. 1999;8(8):620-6.</citation>
+    <PMID>10568898</PMID>
+  </reference>
+  <reference>
+    <citation>Buyon JP. Clinical trials in systemic lupus erythematosus. Curr Rheumatol Rep. 2000 Feb;2(1):11-12. Review.</citation>
+    <PMID>11123033</PMID>
+  </reference>
+  <reference>
+    <citation>Buyon JP. Hormone replacement therapy in postmenopausal women with systemic lupus erythematosus. J Am Med Womens Assoc. 1998 Winter;53(1):13-7. Review.</citation>
+    <PMID>9458619</PMID>
+  </reference>
+  <reference>
+    <citation>Buyon JP, Dooley MA, Meyer WR, Petri M, Licciardi F. Recommendations for exogenous estrogen to prevent glucocorticoid-induced osteoporosis in premenopausal women with oligo- or amenorrhea: comment on the American College of Rheumatology recommendations for the prevention and treatment of glucocorticoid-induced osteoporosis. Arthritis Rheum. 1997 Aug;40(8):1548-9.</citation>
+    <PMID>9259444</PMID>
+  </reference>
+  <reference>
+    <citation>Buyon JP, Wallace DJ. The endocrine system, use of exogenous estrogens, and the urogenital tract. In Dubois' Lupus Erythematosus, 6th edition. Wallace DJ, Hahn BH, eds. Philadelphia: Lippincott Williams &amp; Wilkins, 2002; pp. 821-841.</citation>
+  </reference>
+  <results_reference>
+    <citation>Buyon JP, Petri MA, Kim MY, Kalunian KC, Grossman J, Hahn BH, Merrill JT, Sammaritano L, Lockshin M, Alarcón GS, Manzi S, Belmont HM, Askanase AD, Sigler L, Dooley MA, Von Feldt J, McCune WJ, Friedman A, Wachs J, Cronin M, Hearth-Holmes M, Tan M, Licciardi F. The effect of combined estrogen and progesterone hormone replacement therapy on disease activity in systemic lupus erythematosus: a randomized trial. Ann Intern Med. 2005 Jun 21;142(12 Pt 1):953-62.</citation>
+    <PMID>15968009</PMID>
+  </results_reference>
+  <verification_date>May 2013</verification_date>
+  <lastchanged_date>May 1, 2013</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <keyword>SLE</keyword>
+  <keyword>SELENA</keyword>
+  <keyword>Estrogen Replacement Therapy (ERT)</keyword>
+  <keyword>Postmenopause</keyword>
+  <keyword>Osteoporosis</keyword>
+  <keyword>Estrogens</keyword>
+  <keyword>Steroids</keyword>
+  <keyword>Progestin</keyword>
+  <keyword>Placebo</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lupus Erythematosus, Systemic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Estrogens</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

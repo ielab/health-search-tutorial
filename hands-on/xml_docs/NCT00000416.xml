@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204560">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000416</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P60AR020613</org_study_id>
+    <secondary_id>P60AR020613</secondary_id>
+    <secondary_id>NIAMS-012</secondary_id>
+    <secondary_id>EEHRS Project 3</secondary_id>
+    <nct_id>NCT00000416</nct_id>
+  </id_info>
+  <brief_title>Prevention of Arthritis-Related Work Disability</brief_title>
+  <official_title>Prevention of Arthritis-Related Work Disability: A Trial of Job Retention Services Provided to Employed Persons With Arthritis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Boston University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      People with rheumatic disorders (arthritis) often have trouble keeping their jobs. This
+      study will look at whether vocational rehabilitation (VR) will improve the ability of
+      employed people with arthritis to keep their jobs. Job retention VR services target key
+      factors that increase the risk of job loss. They aim to modify jobs to reduce barriers
+      caused by functional limitations and disease symptoms, future career planning, and establish
+      a partnership with a VR counselor for ongoing help.
+
+      We will conduct the study among patients with rheumatic disorders recruited in eastern
+      Massachusetts. We will give 120 study participants job retention services provided by VR
+      counselors. We will give another 120 participants literature about employment- related
+      resources. We will compare the outcomes of the two groups to evaluate the usefulness of job
+      retention services in preventing job loss in people with rheumatic disorders.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Job loss commonly occurs among people with rheumatic disorders. This study will determine
+      whether vocational rehabilitation (VR) provided to employed people with rheumatic disorders
+      will improve their ability to remain employed. VR is applied primarily to people who have
+      already lost their jobs. However, using job retention VR services may prevent, or delay, the
+      onset of employment work loss among people with rheumatic disorders. Job retention VR
+      services target important employment-loss risk factors. They do so by modifying jobs to
+      reduce barriers posed by functional limitations and symptoms, promoting future career
+      planning, and establishing an alliance with a VR counselor for ongoing assistance.
+
+      The study is a randomized, controlled trial conducted among patients with rheumatic
+      disorders recruited from the practices of rheumatologists in eastern Massachusetts.
+
+      We will randomly assign 120 study participants to receive job-retention services provided by
+      VR counselors and 120 participants (controls) to receive literature about employment-related
+      resources. We will assess intermediate outcome variables (self-efficacy, work limitations,
+      and job accommodation-seeking behaviors) and the endpoint outcome variable, work instability
+      (a measure that includes employment loss), immediately prior to the interventions and at
+      6-month intervals over a 24-month period after the interventions are carried out. We will
+      compare the outcomes of the two groups to evaluate the usefulness of job retention services
+      in forestalling work instability in this population.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1997</start_date>
+  <completion_date type="Actual">August 2001</completion_date>
+  <primary_completion_date type="Actual">August 2001</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Double Blind (Subject, Investigator, Outcomes Assessor), Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>job losses</measure>
+    <time_frame>every 6 months for up to 42 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Periods of work cessation of at least 6 months.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>limitation in ability to work</measure>
+    <time_frame>every 6 months for up to 42 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Extent of on the job limitation due to health condition as measured by the Work Limitations Questionnaire.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">242</enrollment>
+  <condition>Rheumatoid Arthritis</condition>
+  <condition>Systemic Lupus Erythematosus</condition>
+  <condition>Osteoarthritis, Knee</condition>
+  <condition>Ankylosing Spondylitis</condition>
+  <arm_group>
+    <arm_group_label>Rehabilitation counseling</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rehabilitation counseling
+Experimental
+Rehabilitation counseling was provided by rehabilitation counselors. They administered the Work Experience Survey; provided and discussed disability rights and responsibilities and provided career counseling they as needed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>printed information</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Active comparator
+Control group participants received relevant printed information in the mail only; no rehabilitation counseling</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Rehabilitation counseling</intervention_name>
+    <description>Provided in 2 in-person meetings and in follow-up phone calls</description>
+    <arm_group_label>Rehabilitation counseling</arm_group_label>
+    <arm_group_label>printed information</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Must currently be employed full or part time
+
+          -  Must live in selected communities in eastern Massachusetts
+
+        Exclusion Criteria:
+
+          -  Plans to move from area
+
+          -  Plans to have joint replacement surgery in next 6 months
+
+          -  Plans to retire or go on disability within next 2 years
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Saralynn J. Allaire, Sc.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Boston University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Boston University School of Medicine</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Allaire SH, Li W, LaValley,M: Work Problems reported by employed persons with reheumatic diseases and their association with work satisfaction. Arthritis Rheumatic 43:S128,2000</citation>
+  </reference>
+  <reference>
+    <citation>Allaire SH, Li W, LaValley, M. Can job retention vocational rehabilitation services reduce work disability among employed persons with rheumatic diseases? Arthritis Rheum 44 (supplement):S813, 2001.</citation>
+  </reference>
+  <reference>
+    <citation>Allaire SH. Update on work disability in rheumatic diseases. Curr Opin Rheumatol. 2001 Mar;13(2):93-8. Review.</citation>
+    <PMID>11224732</PMID>
+  </reference>
+  <reference>
+    <citation>de Buck PD, Schoones JW, Allaire SH, Vliet Vlieland TP. Vocational rehabilitation in patients with chronic rheumatic diseases: a systematic literature review. Semin Arthritis Rheum. 2002 Dec;32(3):196-203. Review.</citation>
+    <PMID>12528084</PMID>
+  </reference>
+  <results_reference>
+    <citation>Allaire SH, Li W, LaValley MP. Reduction of job loss in persons with rheumatic diseases receiving vocational rehabilitation: a randomized controlled trial. Arthritis Rheum. 2003 Nov;48(11):3212-8.</citation>
+    <PMID>14613285</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Allaire SH, Niu J, Lavalley MP. Employment and Satisfaction Outcomes From a Job Retention Intervention Delivered to Persons with Chronic Diseases. Rehabilitation Counseling Bulletin 48(2):100-109, 2005</citation>
+  </results_reference>
+  <verification_date>July 2013</verification_date>
+  <lastchanged_date>July 31, 2013</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Boston University</investigator_affiliation>
+    <investigator_full_name>Saralynn J. Allaire</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Arthritis</keyword>
+  <keyword>Rheumatic disorders</keyword>
+  <keyword>Work-related disability</keyword>
+  <keyword>Vocational rehabilitation (VR)</keyword>
+  <keyword>Job retention services</keyword>
+  <keyword>Work limitations</keyword>
+  <keyword>Work instability</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Rheumatoid</mesh_term>
+    <mesh_term>Lupus Erythematosus, Systemic</mesh_term>
+    <mesh_term>Osteoarthritis, Knee</mesh_term>
+    <mesh_term>Spondylitis</mesh_term>
+    <mesh_term>Spondylitis, Ankylosing</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

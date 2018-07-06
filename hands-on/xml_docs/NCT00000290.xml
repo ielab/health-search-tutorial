@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204682">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000290</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09259-7</org_study_id>
+    <secondary_id>P50-09259-7</secondary_id>
+    <nct_id>NCT00000290</nct_id>
+  </id_info>
+  <brief_title>Stress Hormones and Human Cocaine Use - 7</brief_title>
+  <official_title>Stress Hormones and Human Cocaine Use</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Minnesota - Clinical and Translational Science Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the HPA axis and adrenergic system activation in
+      response to cocaine administration.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of this study was to investigate the role of sympathetic-adrenal medullary (SAM)
+      and hy0pothalamo-pituitary-adrenal (HPA) systems in mediating the addictive effects of
+      cocaine. A toal of 6 male subjects were enrolled for this 5 day inpatient study. Subjects
+      were assigned to either cocaine (32mg /70kg iv) or placebo (saline iv) treatment during the
+      first experimental sessions and were crossed over to the alternative treatment during the
+      second experimental session. Endpoints that were followed during the experimental sessions
+      included neuroendocrine (serum epinephrine, norepinephrine and cortisol levels),
+      physological (heart rate/blood pressure, EKG) and subjective measures (Beck Depression
+      Inventory, Craving Questionnaire). We hypothesized that cocaine administration would lead to
+      increased blood levels of norpinephrine, epinephrine and cortisol in cocaine dependent
+      subjects.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1997</start_date>
+  <completion_date>December 2001</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Crossover Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Physiological measures</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Cocaine-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cocaine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Males between the ages of 20-45. History of smoked or intravenous cocaine use on the
+        average of at least once a week over a 6 month period. Current history of good health and
+        normal EKG.
+
+        Exclusion Criteria:
+
+        History of suicide attempt, bipolar disorder, schizophrenia, or generalized anxiety
+        disorder. Current problem with major depressive disorder. Current use of alcohol or other
+        drugs on a daily basis. History of major medical illnesses. Currently on parole, probation
+        or a legal history of violence. Treatment for chemical dependency within the past 6
+        months. History of sensitivity to tricyclic compounds or other prescription drugs. Use of
+        any psychotropic drugs including MAOIs in the past 6 months.
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dorothy Hatsukami, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 1998</verification_date>
+  <lastchanged_date>November 3, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cocaine-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cocaine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

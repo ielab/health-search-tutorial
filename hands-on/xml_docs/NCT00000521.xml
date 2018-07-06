@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204456">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000521</url>
+  </required_header>
+  <id_info>
+    <org_study_id>40</org_study_id>
+    <secondary_id>R01HL034659</secondary_id>
+    <nct_id>NCT00000521</nct_id>
+  </id_info>
+  <brief_title>Sodium-Potassium Blood Pressure Trial in Children</brief_title>
+  <official_title>Sodium-Potassium Blood Pressure Trial in Children</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota - Clinical and Translational Science Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Minnesota - Clinical and Translational Science Institute</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To examine the effects of nutritional intervention on the rate of rise of blood pressure in
+      late childhood and early adolescence.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Since 1970, children and adolescents with hypertension have been detected with increasing
+      frequency. Many of them were thought to have primary or essential hypertension and it
+      remained unclear how they should be managed. Additionally, since tracking of blood pressure
+      occurred even in early life, it was believed that youngsters with blood pressures
+      persistently in the upper deciles for age were at increased risk for later hypertension. No
+      clinical trials had been performed in this age group to examine the effects of
+      non-pharmacologic or drug therapy in lowering blood pressure. The trial was one of the first
+      attempts to examine the effects of a nutritional intervention on the rate of rise of blood
+      pressure in late childhood and early adolescence.
+
+      DESIGN NARRATIVE:
+
+      Randomized, partial-blind. After 19,542 fifth to eighth grade students were screened, 210
+      (105 boys and 105 girls) from the upper 15 percentiles of blood pressure distribution were
+      randomly assigned to one of three groups: low sodium diet (70 mmol sodium intake per day),
+      potassium chloride supplementation (normal diet plus 1 mmol/kg potassium chloride per day),
+      and placebo (normal diet plus placebo capsule). Capsules for the potassium chloride and
+      placebo groups were administered in a double blind protocol. Blood pressure was measured
+      every three months for three years. The effect of the intervention was determined by
+      comparing the rate of rise (slope) of blood pressure among the groups using a
+      random-coefficient growth curve model.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1985</start_date>
+  <completion_date type="Actual">December 1990</completion_date>
+  <primary_completion_date type="Actual">July 1990</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Prevention</study_design>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">285</enrollment>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, sodium-restricted</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, potassium-supplemented</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Children in grades 5 through 8 whose systolic blood pressure was greater than or equal to
+        120 mm Hg on two visits.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>10 Years</minimum_age>
+    <maximum_age>13 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Gómez-Marín O, Prineas RJ, Sinaiko AR. The Sodium-Potassium Blood Pressure Trial in Children. Design, recruitment, and randomization: the children and adolescent blood pressure program. Control Clin Trials. 1991 Jun;12(3):408-23.</citation>
+    <PMID>1651211</PMID>
+  </reference>
+  <reference>
+    <citation>Sinaiko AR, Gomez-Marin O, Prineas RJ. Effect of low sodium diet or potassium supplementation on adolescent blood pressure. Hypertension. 1993 Jun;21(6 Pt 2):989-94.</citation>
+    <PMID>8505112</PMID>
+  </reference>
+  <verification_date>May 2014</verification_date>
+  <lastchanged_date>May 27, 2014</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

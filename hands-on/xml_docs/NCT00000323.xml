@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204649">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000323</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-10753-1</org_study_id>
+    <secondary_id>R01-10753-1</secondary_id>
+    <nct_id>NCT00000323</nct_id>
+  </id_info>
+  <brief_title>Therapeutic Potential of Kappa-Opioids Against Cocaine - 1</brief_title>
+  <official_title>Therapeutic Potential of Kappa-Opioids Against Cocaine</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to characterize the effects of enadoline compared to
+      hydromorphone and butorphanol.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1996</start_date>
+  <completion_date>December 1998</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Observational</study_type>
+  <study_design>Primary Purpose: Screening</study_design>
+  <enrollment>10</enrollment>
+  <condition>Cocaine-Related Disorders</condition>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        opiate experienced, healthy
+
+        Exclusion Criteria:
+
+        physical dependence on opioids, barbiturates or alcohol
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sharon Walsh, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins University (BPRU) Bayview Campus</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224 6823</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Walsh SL, Strain EC, Abreu ME, Bigelow GE. Enadoline, a selective kappa opioid agonist: comparison with butorphanol and hydromorphone in humans. Psychopharmacology (Berl). 2001 Sep;157(2):151-62.</citation>
+    <PMID>11594439</PMID>
+  </reference>
+  <verification_date>May 2004</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cocaine-Related Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204450">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000527</url>
+  </required_header>
+  <id_info>
+    <org_study_id>46</org_study_id>
+    <secondary_id>R37HL041619</secondary_id>
+    <nct_id>NCT00000527</nct_id>
+  </id_info>
+  <brief_title>Recurrent Carotid Stenosis</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Emory University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether recurrent stenosis following carotid endarterectomy could be reduced by
+      pre- and post-operative oral administration of platelet-inhibiting drugs.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Following endarterectomy, platelets adhere and aggregate on the endarterectomized surface
+      and release platelet-derived growth factor which induces smooth muscle cell migration and
+      proliferation which may result in restenosis. Many patients had been treated with aspirin
+      and dipyridamole, but not in a controlled trial. The Recurrent Carotid Stenosis Study
+      established whether antiplatelet therapy was beneficial in the prevention of recurrent
+      carotid artery stenosis.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind. Eighty-three patients (90 endarterectomies) were randomly assigned
+      to receive 325 mg of oral aspirin plus 75 mg of dipyridamole, beginning 12 hours
+      pre-operatively, followed by a second dose administered within eight hours after the
+      operation, and given three times daily thereafter for one year. Eighty patients (85
+      endarterectomies) received placebo. After the adequacy of the surgical procedure was
+      confirmed by intraoperative angiography, restenosis at the endarterectomy sites was
+      evaluated using serial duplex ultrasound before hospital discharge and at three-month
+      intervals postoperatively for one year.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1986</start_date>
+  <completion_date type="Actual">November 1998</completion_date>
+  <primary_completion_date type="Actual">November 1998</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Carotid Stenosis</condition>
+  <condition>Cerebrovascular Disorders</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>aspirin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>dipyridamole</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women who had recently undergone carotid endarterectomy.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Harker LA. Role of platelets and thrombosis in mechanisms of acute occlusion and restenosis after angioplasty. Am J Cardiol. 1987 Jul 31;60(3):20B-28B. Review.</citation>
+    <PMID>2956836</PMID>
+  </reference>
+  <reference>
+    <citation>Harker LA: The Use of Agents That Modify Platelet Function in the Management of Thrombotic Disorders. In: Hemostasis and Thrombosis, 2nd Edition, Colman RW et al (eds), Philadelphia, JB Lippincott Co, pp. 1438-1456, 1987.</citation>
+  </reference>
+  <reference>
+    <citation>Scharf RE, Harker LA. Thrombosis and atherosclerosis: regulatory role of interactions among blood components and endothelium. Blut. 1987 Sep;55(3):131-44. Review.</citation>
+    <PMID>3304475</PMID>
+  </reference>
+  <reference>
+    <citation>Harker LA, Hanson SR: Antithrombotic Strategies in Peripheral Arterial Disease. In: Vascular Diseases Current Research and Clinical Applications, Strandness DE Jr, et al (eds), Grune &amp; Stratton, Inc., pp. 271-283, 1987.</citation>
+  </reference>
+  <reference>
+    <citation>Harker LA: Antithrombic Therapy in Patients with Transient Ischemic Attacks or Amaurosis Fugax. In: Amaurosis Fugax, Bernstein EF (ed), New York, Springer-Verlag, pp. 110-118, 1988.</citation>
+  </reference>
+  <reference>
+    <citation>Harker LA, Bernstein EF, Dilley RB, Scala TE, Sise MJ, Hye RJ, Otis SM, Roberts RS, Gent M. Failure of aspirin plus dipyridamole to prevent restenosis after carotid endarterectomy. Ann Intern Med. 1992 May 1;116(9):731-6.</citation>
+    <PMID>1558344</PMID>
+  </reference>
+  <verification_date>December 2013</verification_date>
+  <lastchanged_date>December 9, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Carotid Stenosis</mesh_term>
+    <mesh_term>Cerebrovascular Disorders</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

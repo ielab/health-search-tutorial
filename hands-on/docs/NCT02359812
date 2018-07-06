@@ -1,0 +1,219 @@
+TITLE:
+      Robot Aided Rehabilitation - Multi-point Evaluations
+SUMMARY:
+      Sensorimotor impairments following stroke can lead to substantial disability involving the
+      upper extremity. These impairments often involve complex pathological changes across
+      multiple joints and multiple degrees-of-freedom (MJMD) of the arm and hand, thereby
+      rendering them difficult to diagnose and to treat. Many potential mechanisms, such as
+      weakness, motoneuronal hyperexcitability, and elevated passive impedance, can contribute to
+      the impairment, thereby making it difficult to discern where best to focus treatment. The
+      objectives of this study are to quantify the progression of neuromechanical properties
+      throughout the upper extremity during recovery from stroke.
+
+      The aim of this study is to examine neuromechanical properties throughout the entire upper
+      extremity in stroke survivors over a period of 6 months and throughout the progression from
+      the acute to the subacute to the chronic phases of recovery. The researchers hypothesize
+      that excessive local and cross-coupled stiffness, heteronymous reflexes, and diminished
+      individuation and proprioceptive acuity will be present among multiple DOFs in the upper
+      limb. The stiffness and spasticity will increase with time post-stroke.
+DETAILED DESCRIPTION:
+      BACKGROUND AND SIGNIFICANCE Stoke is the leading cause of adult disability and the third
+      leading cause of death (killing 160,000 Americans/year) in the United States; about 750,000
+      first ever and recurrent strokes occur in the United States each year. The economic burden
+      is huge, and stroke is estimated to cost the United Stated $62.7 billion in medical expenses
+      and lost wages. Stroke is commonly associated with motor-related disabilities. Motor
+      impairments in stroke survivors typically affect the shoulder, elbow, wrist, and fingers of
+      the arm simultaneously. Patients may develop spastic hypertonia and reduced range of motion
+      (ROM) at multiple joints. Several stereotypical patterns of arm impairments with multiple
+      joints involved are commonly seen in patients with neurological impairments, including
+      adducted/internally rotated shoulder, flexed elbow, pronated forearm, flexed wrist, and
+      clenched fist. Furthermore, the impaired arm of a stroke survivor commonly develops abnormal
+      coupling among multiple joints and among multiple DOFs (e.g. shoulder abduction, flexion,
+      and rotation) at a given joint. Stroke survivors may lose independent movement of individual
+      joints and appropriate coordination among joints. There is a strong need to treat
+      stereotypical deformity, impairment of hypertonic arms and multiple involved joints
+      simultaneously on a frequent basis to reduce spasticity/contracture and increase mobility in
+      those who have had a stroke, which will be address in the proposed study.
+
+      METHODS The aim of this study will be addressed through a longitudinal evaluation of stroke
+      survivors over the first 6 months following their stroke. Specifically, upper extremity
+      control and neuromechanical properties will be measured at 7 different time points over the
+      six months.
+
+      Selection of Subjects Twenty-four stroke survivors will be recruited over the 5 years of the
+      study. All participants will be in the acute phase of recovery at time of enrollment from a
+      first-ever focal unilateral lesion (ischemic or hemorrhagic) as diagnosed by MRI or CT.
+      Participants will be recruited from the inpatient population at RIC and from referrals from
+      Northwestern Memorial Hospital.
+
+      Subjects will be asked to come to our labs at the Rehabilitation Institute of Chicago to be
+      consented and participate in an initial screening. Designated study personnel will obtain
+      consent and complete the screening visit. If qualified and enrolled, the subject will be
+      asked to complete 7 evaluation sessions at times indicated in Outcome Measures Section.
+
+      Subject participation will last for 6 months total. If the subject has persistent or severe
+      pain, he/she will not continue until he/she feels sufficiently recovered enough and
+      continued participation is deemed appropriate by a clinician.
+
+      Evaluation and Measurement In an initial screening session, after the subject has been
+      consented, a clinician will check the subject's health status and conduct clinical
+      examinations in order to determine if the subject meets the inclusion and exclusion
+      criteria. During the screening session the subject will participate in several clinical
+      assessments. The screening evaluations will take about one half hour.
+
+      If the subject qualifies for the study, they will participate in evaluation sessions at 7
+      time points spaced throughout the study. For each evaluation session he/she will be asked to
+      come to our laboratories on the 13th floor of the Rehabilitation Institute of Chicago.
+      Evaluation of subjects will have neuromechanical and clinical components; the
+      neuromechanical components of the evaluation will take approximately two hours and the
+      clinical components will also take approximately two hours.
+
+      Neuromechanical evaluations The neuromechanical portion of the evaluation the subject will
+      sit upright comfortably on a sturdy barber's chair, with the trunk trapped to the backrest.
+      The arm, forearm and hand will be strapped to their corresponding braces with the relevant
+      axes of the IntelliArm aligned with the arm at the shoulder, elbow, wrist, and fingers. The
+      position of the elbow, wrist, and finger servomotors can be adjusted for different arm,
+      forearm and hand lengths. The subject's arm will be moved at different speeds including one
+      joint at a time and multiple joints simultaneously. Similarly, the subject will be asked to
+      move his/her arm one joint at a time and multiple joints simultaneously. During the
+      evaluation sessions, signal from the subject's muscles called electromyography (EMG) will be
+      recorded to monitor activities of the subject's upper limb muscles. The skin over the muscle
+      belly will be cleaned with an alcohol pad and may be shaved by disposable razors.
+      Self-adhesive electrodes will be placed on the cleaned sites and connected to the instrument
+      and computer. The electrodes are just used for recording the signal generated by the muscles
+      and the subject will not feel any shocks during the evaluations. Non-invasive
+      electroencephalography (EEG) electrodes may be attached on the scalp to record brain
+      activity signals. A video or some photos may be taken as an option to evaluate the movement
+      patterns during the evaluations.
+
+      In diagnosing the multi-joint and multi-DOF biomechanics changes, the IntelliArm will
+      operate both passive and active modes. In the passive mode, the multi-joint arm robot will
+      move the shoulder, elbow, and wrist of the impaired arm of stroke survivors throughout the
+      ROMs both simultaneously and individually in well-controlled patterns with multi-axis
+      torques and positions measured at the should, elbow and wrist simultaneously. In the active
+      mode, the patient will move the impaired arm voluntarily and the multi-joint and multi-DOF
+      dynamic properties will be measured at the shoulder, elbow and wrist simultaneously.
+
+      Measures of stiffness and of hyperexcitability of the long finger flexor muscles, namely
+      spasticity and relaxation time, will be made using techniques we have implemented
+      successfully in the past. Spasticity of finger muscles will be measured as the reflex
+      response to imposed rotation of the metacarpophalangeal (MCP) joints of the four fingers. A
+      servomotor will create either fast MCP rotation (300°/s) to invoke a stretch reflex or slow
+      constant-velocity rotation (10°/s) to measure nominally passive stiffness. Wrist orientation
+      will be fixed with a fiberglass cast which is subsequently clamped to a table to prevent arm
+      translation. MCP angle, angular velocity, and torque are recorded for analysis of
+      spasticity. EMG recordings will be obtained with surface electrodes (Bagnoli, Delsys, Inc.,
+      Boston, MA) from selected superficial muscles such as extensor digitorum communis (EDC) and
+      flexor digitorum superficialis (FDS). Relaxation time will be quantified by examining FDS
+      activity. The subject will be instructed to maximally grip a dynamometer upon hearing an
+      audible tone. The subject should then relax his grip as quickly as possible after hearing a
+      second tone. The relaxation time is defined as elapsed time from the second tone to the
+      point at which the FDS magnitude returns to the baseline level + three standard deviations.
+
+      Clinical evaluations During clinical evaluations subjects will undergo a battery of
+      standardized clinical assessments. These assessments require subjects to complete functional
+      movements and tasks using their arms and hands.
+
+      Potential additional evaluations Additionally, subjects may be asked to wear a small motion
+      tracker (datalogger) for up to 6 hours. This will record the subject's arm movements in
+      his/her own living environment, thereby providing a measure of real-world activity, taking
+      personal and environmental factors into consideration. The datalogger consists of motion
+      sensors, that attach to the subject's arm via straps, and a small recorder that can clip on
+      to the belt. The subject will take the datalogger home. After wearing it for the time
+      described above, the subject will take the datalogger off (as instructed during the
+      evaluation session in our lab) and return it at the next training session.
+
+      As an option, changes in corticospinal activation may be evaluated using transcranial
+      magnetic stimulation (TMS) in some subjects, provided the subjects meets
+      inclusionary/exclusionary criteria, such as no implanted cardiac pacemaker or metal implants
+      in the head/face. TMS is used to evaluate corticomotor excitability. It is delivered via
+      Magstim BiStim stimulator (Magstim Co, Dyfed, UK) that will be used to deliver stimuli via a
+      figure-of-eight coil (70mm windings). Responses will be examined in bilateral muscles using
+      surface electrodes. While stimulating over the affected (or unaffected) hemisphere, motor
+      evoked potentials (MEPs) are recorded over the muscles contralateral to the affected (or
+      unaffected) hemisphere. The participants are seated comfortably during the evaluation. Foam
+      earplugs are inserted into the patient's external ear canals to attenuate the stimulator
+      discharge sound. Surface electromyography electrodes are placed over the muscles bilaterally
+      for recording TMS MEP responses.
+
+      Protection Against Risk:
+
+      A number of safeguards have been implemented. Mechanical/electrical stops will be used to
+      restrict the motion of the robots to safe ranges. Velocity limits will also be set to
+      restrict the speed of the movement. Joint angle, velocity, and force will be monitored
+      continuously to ensure they fall within the appropriate range. Exceeding the thresholds will
+      result in motor shut-down. Additionally, the motors can be turned off at any time using an
+      accessible on/off switch to protect from discomfort or potential injuries. The IntelliArm
+      and the hand jig have previously been used safely with a number of stroke survivors. Rest
+      breaks will be provided as needed during therapy to prevent excessive muscle soreness and
+      fatigue.
+
+      A cast saw will be used to remove the fiberglass cast used in evaluations. Improper use of
+      the saw could produce a burn. Project staff has been trained in the operation of the saw and
+      proper procedures to follow. Adhesive used to secure the surface electrode could irritate
+      the skin. The skin will be carefully prepared before applying the electrode and then cleaned
+      when the electrode is removed.
+
+      Specific to TMS, although rare instances of seizure have been reported when long trains of
+      high frequency excitatory TMS were applied, these events have not been reported when
+      recommended guidelines have been followed. The parameters proposed in this study are well
+      within these published safety guidelines, and individuals who've suffered stroke are one of
+      the most commonly requited populations for TMS studies. Providing they have never had a
+      seizure and do not meet any of the other exclusion criteria listed above, they are a
+      clinical population to which TMS can be safely applied.
+
+      Data Analysis:
+
+      To relate and find the relationship between physiological data and functional performance,
+      the data will be evaluated using a) biomechanics data analysis, b) correlation and principle
+      component analysis, c) regression, d) Rasch analysis, and e) structural equation modeling.
+      Physiological data obtained from the IntelliArm (e.g. abnormal coupling between the
+      joints/DOFs, passive workspace and active workspace, multiple joint DOF/stiffness) will be
+      analyzed to describe and characterize the arm impairment. Similar measures will be obtained
+      for the fingers to characterize hand impairment. We will especially examine how these
+      measures change over time. Curves will be fit to the data to approximate functions
+      describing the changes in neuromechanical measurements over time. Similarly, the scores from
+      the clinical evaluations (WMFT, ARAT, CAHAI, FMUE) will be assessed over the time course of
+      the recovery period.
+
+      The potential relationships among the physiological data and the clinical data are of
+      special interest. To determine the proper physiological measurements in stroke progression
+      and to relate them to functional performances, correlation analysis and principal component
+      analysis will be conducted as initial steps to find which physiological variables have high
+      correlations with functional measures and cluster together as similar indicators. Those
+      potential indicators will be filtered through data reduction procedures and then used in a
+      multiple regression analysis to predict functional outcomes at the activity level (assessed
+      by WMFT, ARAT, and CAHAI) and participation level (assessed by the datalogger) with adjusted
+      person information and environmental factors serving as categorical variables. Rasch
+      analysis will be used to evaluation the item difficulty hierarchy and item fit to link the
+      subject's functional ability level with specific functional tasks. This will help to find
+      the clinical potential thresholds/cut-off points if there is a consistent pattern between
+      the physiological data and functional measures. Furthermore, an ICF model will be evaluated
+      using structural equation modeling, which can test a set of regression equations
+      simultaneously and exam the relationship among the impairment ability, participation
+      variables with the personal and environmental factors taken into consideration.
+
+      Data Collection and Record Keeping:
+
+      Designated study personnel will enter de-identified data into a password protected computer.
+      Paper records of any kind collected during evaluation and treatment sessions will be stored
+      in a locked cabinet. Data will be kept for 3 years after the end of the study and then
+      destroyed by a secure document destruction service.
+ELIGIBILITY CRITERIA:
+      Inclusion Criteria:
+
+          -  • First focal unilateral lesion, ischemic or hemorrhagic
+
+               -  Had a stroke less than a month prior to enrollment
+
+               -  Rated between stages 1-4 on the Chedoke McMaster Stroke Assessment Impairment
+                  Inventory: Stage of Recovery of the Arm
+
+               -  Rated between stages 1-4 on the Chedoke McMaster Stroke Assessment Impairment
+                  Inventory: Stage of Recovery of the Hand
+
+        Exclusion Criteria:
+
+          -  • Apraxia
+
+               -  Subjects who have other unrelated or musculoskeletal injuries

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204465">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000512</url>
+  </required_header>
+  <id_info>
+    <org_study_id>28764-W</org_study_id>
+    <secondary_id>P01HL030086</secondary_id>
+    <nct_id>NCT00000512</nct_id>
+  </id_info>
+  <brief_title>Familial Atherosclerosis Treatment Study</brief_title>
+  <acronym>FATS</acronym>
+  <official_title>Familial Atherosclerosis Treatment Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Washington</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare the effects of two intensive lipid-lowering regimens with conventional therapy on
+      coronary atherosclerosis as assessed by arteriography.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      For several decades, clinical trials have addressed the question of whether treatment of
+      hyperlipidemia reduces the risk of cardiovascular events. Substantial evidence supports the
+      idea that cardiovascular benefits are related to the degree of reduction in low-density
+      lipoprotein cholesterol level and perhaps to the degree of increase in the high-density
+      lipoprotein cholesterol level. In these trials, changes in lipid levels have usually been
+      small and the overall clinical benefits have been limited. The appearance in the 1980s of
+      more effective treatments for hyperlipidemia, new arteriographic methods for assessing
+      atherosclerosis, and new insights into atherogenesis permitted an objective investigation
+      into whether the progression of atherosclerosis was retarded or reversed by lipid-lowering
+      agents.
+
+      The clinical trial was supported by a subproject within a program project grant.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind, placebo-controlled. Baseline arteriograms were performed and
+      fasting lipid samples drawn before heparinization. Patients were stratified for age below 45
+      years, cigarette smoking within the previous month, and lipid patterns including familial
+      hypercholesterolemia and triglyceride levels. Patients were given dietary counseling and
+      randomly assigned to one of three treatments: lovastatin (20 mg twice a day) and colestipol
+      (10 g three times a day); niacin (1 g four times a day) and colestipol (10 g three times a
+      day): or conventional therapy with placebo (or colestipol if the LDL cholesterol level was
+      elevated). The primary endpoint was a measure of change in the severity of disease in the
+      proximal coronary arteries as measured by quantitative arteriography.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1984</start_date>
+  <completion_date type="Actual">August 1989</completion_date>
+  <primary_completion_date type="Actual">August 1989</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Change in the Mean Severity of Proximal Stenosis</measure>
+    <time_frame>Baseline and 2.5 years of therapy.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>At base line, the average percentage of stenosis caused by the worst lesion in each of nine proximal segments was 34 percent. On average, after 2 1/2 years of conventional therapy, this index of stenosis increased by 2.1 percentage points. By contrast, it decreased by 0.7 point during treatment with lovastatin and colestipol and by 0.9 with niacin and colestipol (P for trend &lt;0.003). Thus, at the end of the study, on average, these nine lesions were almost 3 percentage points less severe among patients treated intensively rather than conventionally. This difference represents almost 1/10 of the amount of disease present at base line (34 percent stenosis). The minimum diameter, an alternative index of the severity of disease, in the nine proximal lesions averaged 1.91 mm for all patients. It decreased (worsened) by 0.050 mm with conventional therapy but increased (improved) by 0.012 mm with lovastatin and colestipol and by 0.035 with niacin and colestipol (P for trend &lt;0.01).</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">146</enrollment>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Arteriosclerosis</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <arm_group>
+    <arm_group_label>Niacin—Colestipol Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Colestipol was begun at a dose of 5 g three times a day with meals and increased to 10 g three times a day after 10 days, unless side effects delayed the increase. Psyllium hydrophic mucilloid (Metamucil) was provided if dietary bran was insufficient to control constipation. Niacin was started at 125 mg twice a day and gradually increased to 500 mg four times a day (with meals and at bedtime) at one month and 1 g four times a day at two months. If the LDL cholesterol level did not fall below 3.1 mmol per liter (120 mg per deciliter) after three months, the dose of niacin was increased to 1.5 g (three tablets) four times a day, but no further.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lovastatin—Colestipol Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Colestipol was given as described above. Lovastatin was begun at a dose of 20 mg twice a day (in the morning and at bedtime). If the LDL cholesterol level did not fall below 3.1 mmol per liter after three months, the dose of lovastatin was increased to 40 mg twice a day.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional-Therapy Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients assigned to conventional therapy (the control regimen) received placebos for colestipol and for lovastatin, given as described above, unless their base-line LDL cholesterol level exceeded the 90th percentile for age. We felt obliged to provide such patients (43 percent of the group) with colestipol instead of its placebo. For purposes of blinding, the lovastatin placebo dose for a patient assigned to conventional therapy was doubled each time the lovastatin dose was doubled for a patient assigned to receive lovastatin and colestipol.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>lovastatin</intervention_name>
+    <description>Lovastatin was begun at a dose of 20 mg twice a day (in the morning and at bedtime). If the LDL cholesterol level did not fall below 3.1 mmol per liter after three months, the dose of lovastatin was increased to 40 mg twice a day.</description>
+    <arm_group_label>Lovastatin—Colestipol Group</arm_group_label>
+    <other_name>Mevacor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>colestipol</intervention_name>
+    <description>Colestipol was begun at a dose of 5 g three times a day with meals and increased to 10 g three times a day after 10 days, unless side effects delayed the increase. Psyllium hydrophic mucilloid (Metamucil) was provided if dietary bran was insufficient to control constipation.</description>
+    <arm_group_label>Niacin—Colestipol Group</arm_group_label>
+    <arm_group_label>Lovastatin—Colestipol Group</arm_group_label>
+    <arm_group_label>Conventional-Therapy Group</arm_group_label>
+    <other_name>Colestid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>niacin</intervention_name>
+    <description>Niacin was started at 125 mg twice a day and gradually increased to 500 mg four times a day (with meals and at bedtime) at one month and 1 g four times a day at two months. If the LDL cholesterol level did not fall below 3.1 mmol per liter (120 mg per deciliter) after three months, the dose of niacin was increased to 1.5 g (three tablets) four times a day, but no further.</description>
+    <arm_group_label>Niacin—Colestipol Group</arm_group_label>
+    <other_name>nicotinic acid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo for colestipol</intervention_name>
+    <description>Placebo for colestipol.</description>
+    <arm_group_label>Conventional-Therapy Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo for lovastatin</intervention_name>
+    <description>Placebo for lovastatin</description>
+    <arm_group_label>Conventional-Therapy Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Men
+
+          -  Age 62 or younger
+
+          -  elevated apolipoprotein B levels
+
+          -  coronary atherosclerosis
+
+          -  family history of coronary heart disease.
+
+        Exclusion Criteria:
+
+          -  diabetes
+
+          -  severe hypertension
+
+          -  cancer
+
+          -  liver disease
+
+          -  thyroid disease
+
+          -  kidney disease
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>62 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>B. Greg Brown, M.D., Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Washington</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Brown G, Albers JJ, Fisher LD, Schaefer SM, Lin JT, Kaplan C, Zhao XQ, Bisson BD, Fitzpatrick VF, Dodge HT. Regression of coronary artery disease as a result of intensive lipid-lowering therapy in men with high levels of apolipoprotein B. N Engl J Med. 1990 Nov 8;323(19):1289-98.</citation>
+    <PMID>2215615</PMID>
+  </reference>
+  <reference>
+    <citation>Zhao XQ, Brown BG, Hillger L, Sacco D, Bisson B, Fisher L, Albers JJ. Effects of intensive lipid-lowering therapy on the coronary arteries of asymptomatic subjects with elevated apolipoprotein B. Circulation. 1993 Dec;88(6):2744-53.</citation>
+    <PMID>8252687</PMID>
+  </reference>
+  <reference>
+    <citation>Stewart BF, Brown BG, Zhao XQ, Hillger LA, Sniderman AD, Dowdy A, Fisher LD, Albers JJ. Benefits of lipid-lowering therapy in men with elevated apolipoprotein B are not confined to those with very high low density lipoprotein cholesterol. J Am Coll Cardiol. 1994 Mar 15;23(4):899-906.</citation>
+    <PMID>8106695</PMID>
+  </reference>
+  <reference>
+    <citation>Brown BG, Hillger L, Zhao XQ, Poulin D, Albers JJ. Types of change in coronary stenosis severity and their relative importance in overall progression and regression of coronary disease. Observations from the FATS Trial. Familial Atherosclerosis Treatment Study. Ann N Y Acad Sci. 1995 Jan 17;748:407-17; discussion 417-8.</citation>
+    <PMID>7695184</PMID>
+  </reference>
+  <reference>
+    <citation>Maher VM, Brown BG, Marcovina SM, Hillger LA, Zhao XQ, Albers JJ. Effects of lowering elevated LDL cholesterol on the cardiovascular risk of lipoprotein(a). JAMA. 1995 Dec 13;274(22):1771-4.</citation>
+    <PMID>7500507</PMID>
+  </reference>
+  <reference>
+    <citation>Zambon A, Hokanson JE, Brown BG, Brunzell JD. Evidence for a new pathophysiological mechanism for coronary artery disease regression: hepatic lipase-mediated changes in LDL density. Circulation. 1999 Apr 20;99(15):1959-64.</citation>
+    <PMID>10208998</PMID>
+  </reference>
+  <verification_date>December 2015</verification_date>
+  <lastchanged_date>December 1, 2015</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Washington</investigator_affiliation>
+    <investigator_full_name>Xue-Qiao Zhao</investigator_full_name>
+    <investigator_title>Research Professor of Medicine</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arteriosclerosis</mesh_term>
+    <mesh_term>Atherosclerosis</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Colestipol</mesh_term>
+    <mesh_term>Lovastatin</mesh_term>
+    <mesh_term>Niacin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

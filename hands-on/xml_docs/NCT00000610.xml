@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204367">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000610</url>
+  </required_header>
+  <id_info>
+    <org_study_id>113</org_study_id>
+    <nct_id>NCT00000610</nct_id>
+  </id_info>
+  <brief_title>Magnesium in Coronaries (MAGIC)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether early intravenous magnesium treatment of patients with suspected acute
+      myocardial infarction reduces mortality.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The management of patients with acute myocardial infarction (MI) has improved dramatically
+      over the last three decades. Advances in the general coronary care unit environment,
+      treatment with beta blockers, and aggressive attempts at reperfusion have all contributed to
+      a reduction in mortality from acute MI. Large randomized trials have demonstrated that
+      aggressive reperfusion strategies in conjunction with aspirin can reduce mortality in
+      patients with suspected acute MI to an average of 6.5 to 7.5 percent. However, the mortality
+      rate remains high in two particular subgroups of patients: those who do not receive
+      thrombolysis (11.5 to 13 percent) or those over 65 years who do receive thrombolytics (13.5
+      to 24 percent).
+
+      Recently, attention has turned to additional adjunctive pharmacologic treatment with agents
+      such as magnesium, nitrates, and angiotensin converting enzyme inhibitors to determine their
+      potential for reducing mortality further. Of these, magnesium appears to be particularly
+      promising. It is safe, even in the hands of physicians who have no prior experience with it
+      and it is easily administered and readily available in any hospital in the United States.
+      Further, if it has the expected benefit in the high risk groups described, it would become
+      an unusually cost-effective intervention, costing less than $2,500 per year of life saved.
+
+      Supplemental administration of magnesium very early after the onset of acute myocardial
+      infarction is supported by abundant data indicating potential cardioprotective effects of
+      magnesium. Magnesium is considered to be &quot;nature's physiologic calcium blocker.&quot; This is
+      because it protects myocytes against calcium overload by inhibiting calcium influx which is
+      particularly important at the time of reperfusion. In experimental models of ischemia and
+      reperfusion, agents inhibiting calcium influx improved post-ischemic recovery of mechanical
+      function when given prior to or at the time of reperfusion. On the other hand, little
+      improvement in mechanical function was observed if such agents were given 15-20 minutes
+      after the onset of reperfusion. Reduced serum magnesium may also be responsible for a
+      maladaptive increase in coronary tone and an increased response to vasoconstrictors.
+
+      In the setting of acute myocardial infarction, when increased serum magnesium might be
+      beneficial, there is actually a decline in free magnesium. This comes about because of a
+      sharp rise in free fatty acids brought about by catecholamine induced lipolysis at the onset
+      of chest pain, that results in a completing of magnesium in the form of insoluble soaps.
+      Thus, although total body magnesium does not decrease, magnesium available in a free form
+      that is capable of exerting a cardioprotective effect declines. Hence, there is a strong
+      theoretical rationale for supplemental magnesium administration in this setting.
+
+      Since 1984, at least 10 randomized control trials (RCTs) of intravenous magnesium for acute
+      MI have been reported. Several statistical models exist for pooling the data from multiple
+      RCTs in a meta-analysis and estimating the treatment effect of magnesium. It is important to
+      review the essential features of these models in order to place the RCT findings in proper
+      perspective. The fixed effects model assumes that the RCTs are sampled from a homogenous
+      group of trials. Under the homogeneity assumption, each RCT provides an estimate of the true
+      treatment effect and differences between the estimates from the various RCTs are due only to
+      experimental error (within-trial variability). The random effects model assumes the RCTs are
+      heterogeneous and that differences between their estimates of the treatment effect are due
+      both to experimental error (within-trial variability) and real differences among the trials
+      such as trial design and characteristics of the patients enrolled (between-trial
+      variability). The random effects model is generally favored since heterogeneity that cannot
+      be explained by experimental error often exists among the RCTs, and this model takes such
+      heterogeneity into account in estimation and hypothesis testing. Meta-analyses of the seven
+      RCTs published between 1984-199l provided an estimated odds ratio (OR) for mortality of
+      magnesium treated patients of 0.44 (0.27-0.71) using the fixed effects model and 0.45
+      (0.23-0.86) using the random effects model. The Leicester Intravenous Magnesium Intervention
+      Trial (LIMIT-2), published in 1992, reported a 24 percent reduction in mortality with
+      magnesium treatment (P&lt;0.04), confirming the benefit of magnesium in reducing mortality in
+      MI and inspiring many clinicians to advocate magnesium treatment programs in their coronary
+      care units. The magnesium treated patients in LIMIT-2 experienced a 25 percent lower
+      incidence of congestive heart failure in the coronary care unit, suggesting that magnesium
+      exerts its beneficial effects, at least in part, via a direct protective action on the
+      myocardium. Given the potent predictive power of left ventricular function on survival
+      following MI one would anticipate that magnesium-treated patients in LIMIT-2 would have a
+      lower long-term mortality. This hypothesis appears to have been confirmed by the recent
+      long-term follow up report from LIMIT-2 showing a 21percent lower rate of ischemic heart
+      disease related mortality in the magnesium group over a median follow up of 2.7 years. The
+      LIMIT-2 investigators have recently examined the mortality rates over a five year follow up,
+      and continue to document the same long term benefit of magnesium administered in the acute
+      phase of infarction. The absence of any loss of the mortality benefit of magnesium over the
+      long term is consistent with a significant myocardial protective effect achieved during the
+      critical period of myocardial reperfusion.
+
+      The results of ISIS-4 seemed to contradict the results of the above studies. A total of
+      58,043 patients were enrolled in ISIS-4, 29,009 allocated to magnesium and 29,034 to
+      control. There were 2,196 deaths (7.6 percent) by 35 days in the magnesium group and 2,079
+      deaths (7.2 percent) in the control group (OR 1.06[0.99-1.13]) suggesting no mortality
+      benefit of magnesium administration and even the possibility of slight harm. The findings of
+      ISIS-4 have triggered considerable controversy over the reasons why it produced a null
+      effect for magnesium in reducing mortality in suspected acute MI.
+
+      When ISIS-4 is added to the preceding eight RCTs, the fixed effects model (driven heavily by
+      the large sample size of ISIS-4) indicates no beneficial effect of magnesium (OR= 1.02
+      [0.96-1.09]) while the random effects model that takes into account the heterogeneity among
+      these trials suggests that magnesium may reduce mortality (OR= 0.69[0.47-1.02]). Thus, the
+      random effects model suggests that one must search for possible sources of differences
+      between ISIS-4 and the preceding trials. Two important differences that appear to be acting
+      in concert to bias ISIS 4 towards a null effect of magnesium include:
+
+      1 . A low control group mortality rate. The control group mortality in ISIS-4 was only 7.2
+      percent. This was probably the result of the combination of extensive use of thrombolysis
+      (70 percent of patients) and antiplatelet agents (94 percent of patients) combined with the
+      enrollment of intrinsically low-risk patients (only 28 percent were over 70 years of age, 17
+      percent had a history of a prior MI, 14 percent had clinical congestive heart failure (CHF),
+      and 2 percent had systolic blood pressure (SBP) &lt;100 mm Hg). Incremental mortality reducing
+      effects of magnesium are difficult to detect against a low background control mortality
+      rate. The inability of ISIS 4 to detect any overall benefit of magnesium also apply to
+      specific subgroups such as the 17,325 patients who did not receive thrombolytics. ISIS 4 had
+      less than 60 percent power to detect even a 10 percent reduction observed in the 9.3 percent
+      control mortality in this subgroup. A detailed analysis relating the mortality rate in the
+      control group and the treatment effect of magnesium observed in the clinical trials
+      published before ISIS-4 shows clearly that the benefit of magnesium therapy increases as the
+      control group mortality increases. Using this relationship, it was predicted that trials
+      with a control group mortality rate of about 7 percent would show no benefit of magnesium
+      therapy, precisely the result observed in ISIS-4. Of note, the LIMIT-2 trial observed a
+      control group mortality of 10.3 percent that was reduced to 7.8 percent with magnesium. The
+      ISIS-4 control group mortality was thus below that of the magnesium treated group in
+      LIMIT-2.
+
+      This analysis is consistent with the results of the latest RCT recently reported by Shechter
+      and colleagues. They randomized 194 patients with acute MI considered unsuitable for
+      thrombolysis to control (N=98) or intravenous magnesium (N=96). In addition to the standard
+      contraindications to lytic therapy, reasons for exclusion from thrombolysis included either
+      presentation after six hours and/or age greater than 70 years.
+
+      Shechter et al reported 17 deaths (17.3 percent) in the placebo group and 4 deaths (4.2
+      percent) in the magnesium group corresponding to an OR of 0.21 (0.07-0.64). Consistent with
+      the hypothesis that magnesium helps reduce mortality by a direct myocardial protective
+      effect are the data on the causes of death in this latest study. In the placebo group, 11
+      patients died from cardiogenic shock, 2 from electromechanical dissociation, 2 from
+      myocardial rupture and 1 from cardiac arrest. In contrast, in the magnesium group 1 patient
+      died from cardiogenic shock, 1 from myocardial rupture, and 2 from electromechanical
+      dissociation. Particularly noteworthy are the findings in the subset of 77 patients over the
+      age of 70, a group expected to have a high short-term mortality from acute MI. Indeed, 10 of
+      the 44 elderly patients treated with placebo died (23 percent) while only 3 of the 33
+      elderly patients treated with magnesium died (9 percent,p=0.09). Also, in this especially
+      high risk subgroup, the incidence of congestive heart failure was reduced from 25 percent in
+      the placebo patients to 18 percent in the magnesium patients.
+
+      2. Magnesium was administered late in ISIS-4. The ISIS-4 protocol required that acute phase
+      treatments for MI, including lytic therapy, were administered prior to randomization and
+      initiation of study drug therapy (i.e. magnesium). By design, therefore, magnesium could not
+      be administered in the &quot;early&quot; lytic phase (e.g. first hour). Although the time from onset
+      of symptoms to randomization was recorded in ISIS-4, time from randomization to actual
+      administration of magnesium was NOT recorded. The median time to randomization from the
+      onset of chest pain for all patients was 8 hours; in the subset of patients who did not
+      receive thrombolytic therapy (30 percent of trial patients) the median time to randomization
+      from onset of chest pain was QUITE prolonged at 12 hours.. No further details of the
+      distribution of time to randomization have been reported by the ISIS-4 investigators. In an
+      effort to answer these concerns, they conducted a retrospective survey of a 1,000 randomly
+      selected patients. This revealed that among those receiving thrombolytics only about 50
+      percent received magnesium within the two hours following the start of thrombolytic therapy.
+      LIMIT-2 randomized patients a median of 3 hours from the onset of chest pain, and in
+      Schechter's study 19 of nonthrombolytic treated patients, the average time from chest pain
+      to initiation of treatment was about seven hours in both the treatment and placebo groups (a
+      full five hours earlier than in the non thrombolized group in ISIS-4) Attempts at subgroup
+      analyses in ISIS-4 also suffer from a critical lack of precise information on the actual
+      time of administration of magnesium. Thus although no apparent benefit of magnesium was seen
+      in the 23,000 patients randomized within six hours of the onset of chest pain, or among the
+      17,000 who did not receive thrombolytic therapy (including 9,000 randomized within 12
+      hours), since most of these patients received magnesium several hours after randomization,
+      one cannot be confident that reperfusion (pharmacologically induced or spontaneous) took
+      place in the presence of a raised serum magnesium level in any subgroup. Experimental
+      attempts aimed at ameliorating cellular calcium overload have shown that calcium antagonists
+      must be administered before reperfusion or during a critical window of only a few minutes
+      following reperfusion in order to minimize contractile dysfunction. Calcium flux inhibitors,
+      such as magnesium, administered too late after reperfusion appear to be ineffective.
+
+      The same observations pertain to the subset of patients alluded to by the ISIS-4
+      Investigators who were randomized within six hours of symptoms onset and had a high
+      multivariate prognosis score. In the absence of details on the timing of administration of
+      magnesium, with particular reference to the elapsed time from onset of thrombolytic therapy,
+      even in high risk subgroups, the findings of the ISIS-4 study remain compatible with the
+      hypothesis that early administration of magnesium (particularly before reperfusion occurs)
+      is associated with a reduction in mortality from acute myocardial infarction.
+
+      The implications of these observations are that, to prevent calcium overload of reperfused
+      myocytes, a loading dose of magnesium should be administered before thrombolytic therapy and
+      during the period when spontaneous reperfusion is most likely to occur in patients not
+      receiving thrombolytics. The design of ISIS-4 did not permit these conditions to be met.
+      Further, prior studies suggest that the low risk profile that characterized the ISIS-4
+      patients would have been likely to preclude obtaining much additional benefit. The results
+      of the small trial reported by Schechter et al strongly support the view that high risk MI
+      patients benefit from early treatment with magnesium infusion. However, definitive proof
+      requires the larger sample size proposed in MAGIC.
+
+      DESIGN NARRATIVE:
+
+      The study was a randomised, double-blind trial in 6213 patients with acute ST-elevation
+      myocardial infarction (STEMI) who were assigned a 2 g intravenous bolus of magnesium
+      sulphate administered over 15 minutes, followed by a 17 g infusion of magnesium sulphate
+      over 24 hours (n=3113), or matching placebo (n=3100). The primary endpoint was 30-day
+      all-cause mortality. At randomisation, patients were stratified by their eligibility for
+      reperfusion therapy. The first stratum included patients who were aged 65 years or older and
+      eligible for reperfusion therapy, and the second stratum included patients of any age who
+      were not eligible for reperfusion therapy. Analysis was by intention-to-treat. At 30 days,
+      475 (15.3%) patients in the magnesium group and 472 (15.2%) in the placebo group had died..
+      No benefit or harm of magnesium was observed in eight prespecified subgroup analyses of
+      patients and in 15 additional exploratory subgroup analyses. After adjustment for factors
+      shown to effect mortality risk in a multivariate regression model, no benefit of magnesium
+      was observed.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1998</start_date>
+  <completion_date>November 2003</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>magnesium</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Patients with suspected acute myocardial infarction (presenting with ST elevation on the
+        electrocardiogram) and who were at (relatively) high risk for mortality.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sonja McKinlay</last_name>
+    <affiliation>New England Research Institutes, Inc.</affiliation>
+  </overall_official>
+  <reference>
+    <citation>MAGIC Steering Committee. Rationale and design of the magnesium in coronaries (MAGIC) study: A clinical trial to reevaluate the efficacy of early administration of magnesium in acute myocardial infarction. Am Heart J. 2000 Jan;139(1 Pt 1):10-4.</citation>
+    <PMID>10618556</PMID>
+  </reference>
+  <reference>
+    <citation>Magnesium in Coronaries (MAGIC) Trial Investigators. Early administration of intravenous magnesium to high-risk patients with acute myocardial infarction in the Magnesium in Coronaries (MAGIC) Trial: a randomised controlled trial. Lancet. 2002 Oct 19;360(9341):1189-96.</citation>
+    <PMID>12401244</PMID>
+  </reference>
+  <reference>
+    <citation>Domanski M, Antman EM, McKinlay S, Varshavsky S, Platonov P, Assmann SF, Norman J. Geographic variability in patient characteristics, treatment and outcome in an International Trial of Magnesium in acute myocardial infarction. Control Clin Trials. 2004 Dec;25(6):553-62.</citation>
+    <PMID>15588742</PMID>
+  </reference>
+  <reference>
+    <citation>Cooper HA, Domanski MJ, Rosenberg Y, Norman J, Scott JH, Assmann SF, McKinlay SM, Hochman JS, Antman EM; Magnesium in Coronaries trial investigators. Acute ST-segment elevation myocardial infarction and prior stroke: an analysis from the Magnesium in Coronaries (MAGIC) trial. Am Heart J. 2004 Dec;148(6):1012-9.</citation>
+    <PMID>15632887</PMID>
+  </reference>
+  <verification_date>March 2005</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

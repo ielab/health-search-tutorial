@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204715">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000256</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-08391-8</org_study_id>
+    <secondary_id>R01DA008391</secondary_id>
+    <secondary_id>R01-08391-8</secondary_id>
+    <nct_id>NCT00000256</nct_id>
+  </id_info>
+  <brief_title>Reinforcing Effects of Brief Exposures to Nitrous Oxide - 8</brief_title>
+  <official_title>Reinforcing Effects of Brief Exposures to Nitrous Oxide</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Chicago</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Chicago</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to conduct experiments to examine subjective and reinforcing
+      effects of nitrous oxide. Mood altering and psychomotor effects will be tested on non-drug
+      abusers and preference procedures will be used to assess reinforcing effects. Comparisons
+      between nitrous oxide, opiates, and benzodiazepine antagonists will be made. To examine
+      reinforcing effects of brief exposures to nitrous oxide in healthy volunteers.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1995</start_date>
+  <completion_date type="Actual">November 1996</completion_date>
+  <primary_completion_date type="Actual">November 1996</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Investigator)</study_design>
+  <primary_outcome>
+    <measure>Choice of nitrous oxide vs placebo</measure>
+    <time_frame>After 1.5 min of inhalation each of nitrous oxide then placebo</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Subjects underwent 4 sessions consisting of 2 sample tests (inhaling placebo and inhaling varying doses of N2O), then choosing which inhalant they wanted for a choice test. The subject &amp; the technician administering the inhalant were blinded. During each intervention and each session, subjects underwent psychomotor testing.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">11</enrollment>
+  <condition>Opioid-Related Disorders</condition>
+  <condition>Substance-Related Disorders</condition>
+  <arm_group>
+    <arm_group_label>Placebo + 20% N2O</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0% N2O inhaled during psychomotor testing, 20% N2O inhaled during psycho motor testing, then subject's choice of the 2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + 40% N2O</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0% N2O inhaled during psychomotor testing, 40% N2O inhaled during psycho motor testing, then subject's choice of the 2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + 60% N2O</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0% N2O inhaled during psychomotor testing, 60% N2O inhaled during psycho motor testing, then subject's choice of the 2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + 80% N2O</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0% N2O inhaled during psychomotor testing, 80% N2O inhaled during psycho motor testing, then subject's choice of the 2.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>20% N2O</intervention_name>
+    <arm_group_label>Placebo + 20% N2O</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>40% N2O</intervention_name>
+    <arm_group_label>Placebo + 40% N2O</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>60% N2O</intervention_name>
+    <arm_group_label>Placebo + 60% N2O</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>80% N2O</intervention_name>
+    <arm_group_label>Placebo + 80% N2O</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Please contact site for information.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>22 Years</minimum_age>
+    <maximum_age>34 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Zacny, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Chicago</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Chicago, Anesthesia &amp; Critical Care</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Zacny JP, Klafta JM, Coalson DW, Marks S, Young CJ, Klock PA, Toledano AY, Jordan N, Apfelbaum JL. The reinforcing effects of brief exposures to nitrous oxide in healthy volunteers. Drug Alcohol Depend. 1996 Nov;42(3):197-200.</citation>
+    <PMID>8912802</PMID>
+  </reference>
+  <verification_date>May 2015</verification_date>
+  <lastchanged_date>May 26, 2015</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>nitrous oxide</keyword>
+  <keyword>reinforcer</keyword>
+  <keyword>subjective effects</keyword>
+  <keyword>healthy volunteer</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Nitrous Oxide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

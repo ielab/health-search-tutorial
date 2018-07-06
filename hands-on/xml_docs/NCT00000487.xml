@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204490">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000487</url>
+  </required_header>
+  <id_info>
+    <org_study_id>6</org_study_id>
+    <nct_id>NCT00000487</nct_id>
+  </id_info>
+  <brief_title>Multiple Risk Factor Intervention Trial for the Prevention of Coronary Heart Disease (MRFIT)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine for a group of men at high risk of death from coronary heart disease whether a
+      special intervention program to lower serum cholesterol, reduce blood pressure, and
+      eliminate cigarette smoking would result in a significant reduction in mortality from
+      coronary heart disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Research findings from prospective epidemiological studies in a number of populations in the
+      United States over the past 40 years have convincingly established that elevated blood
+      cholesterol, elevated blood pressure, and cigarette smoking are risk factors associated with
+      accelerated development of myocardial infarction, sudden death, and death from coronary
+      heart disease. These are not the only risk factors associated with premature development of
+      CHD, but these factors are modifiable and provide a strong expectation that a reduction of
+      these factors should have a beneficial result of reducing the rate of development of
+      premature heart attacks.
+
+      A multifactor approach to risk factor reduction closely resembles the type of intervention
+      that would be carried out by a physician in his treatment of a patient. The general concept
+      for such a trial was endorsed by the Arteriosclerosis Task Force in its 1970 report to the
+      Institute.
+
+      Volunteers were selected for the trial through a series of three screening visits, which
+      began in November 1973 and were completed by February 28, 1976. From among 361,662 men seen
+      at first screening, 12,866 were found to be eligible and were randomized into the trial.
+      Half of the participants were assigned to the special intervention group and half to the
+      usual care group. The special intervention group was advised to follow an eating pattern
+      designed to result in a nutrient intake of 30 percent to 35 percent of calories from fat,
+      with 10 (later 8) percent from saturated and 10 percent from polyunsaturated fat;
+      approximately 300 (later 250) mg of cholesterol; and modification of carbohydrates as needed
+      for individual requirements. This group was also encouraged to cease cigarette smoking by a
+      combination of techniques, including counseling and audio-visual aids. Hypertension
+      management was based on a stepped-care program of weight reduction and drugs similar to that
+      used in the Hypertension Detection and Follow-up Program. Those in the usual care group were
+      referred to their personal physician or other source of care for such management of their
+      risk factors as considered appropriate by these providers. The primary endpoint was death
+      due to coronary heart disease. Men in both the special intervention and usual care groups
+      returned for assessment of changes in risk factor levels annually. A medical history was
+      taken and a physical examination performed. An electrocardiogram was also obtained for
+      centralized reading to identify non-fatal myocardial infarction as an additional endpoint.
+
+      Participating in the study were 22 clinical centers across the United States, a coordinating
+      center, central laboratory, two ECG reading centers, and lipid standardization laboratory,
+      as well as a drug distribution center. The trial has concluded, with the main mortality
+      results published in September l982. Active follow-up was terminated on schedule on February
+      28, l982, with final determination of vital status as of that date accomplished for 99.6
+      percent of the study population.
+
+      DESIGN NARRATIVE:
+
+      A randomized, non-blind design with two groups and fixed sample size. The experimental group
+      underwent a modified-fat diet, antihypertensive therapy, and education related to lifestyle
+      and smoking. Those in the control group were referred to their own physicians for treatment.
+
+      Post-trial mortality surveillance of the 12,300 participants still living at the end of
+      active intervention in February 1982 continued through June 1998 under grant support
+      (R01HL43232). Use of the National Death Index for mortality surveillance of the 361,662 men
+      screened for the MRFIT continued thorough July 1998 under grant support (R01HL28715). Recent
+      analyses focus on the relationship of dietary factors, such as sodium, during the trial with
+      post-trial mortality. Papers are in progress on further predictors of diabetes mellitus;
+      indicators of cardiovascular disease morbidity and risk of death; and prognostic importance
+      of changes in indices of left ventricular hypertrophy and ischemia.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 1972</start_date>
+  <completion_date>July 1998</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>antihypertensive agents</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>smoking cessation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, fat-restricted</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>diuretics</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men, ages 35-57. One or more of three risk factors--hypertension, hypercholesterolemia,
+        and cigarette smoking.
+
+        Free from coronary heart disease.
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>57 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marcus Kjelsberg</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Stamler J, Paul O, Berkson DM, et al: The New National Cooperative Multiple Risk Factor Intervention Trial (Heart Attack Prevention Program). Chicago Medicine, 76:1047-1048, 1973.</citation>
+  </reference>
+  <reference>
+    <citation>Multiple Risk Factor Intervention Trial Group: Multiple Risk Factor Intervention Trial. Proceedings of the Nutrition Behavioral Research Conference. NHLBI, NIH, DHEW Publication No. (NIH) 76-978, p. ll, l975.</citation>
+  </reference>
+  <reference>
+    <citation>Multiple Risk Factor Intervention Trial Group: Public Annual Report, Multiple Risk Factor Intervention Trial, June 30, l974 to July l, l975. U.S. Department of Health, Education, and Welfare, Public Health Service, National Institutes of Health, DHEW Publication No. (NIH) 76-l000, August, l975.</citation>
+  </reference>
+  <reference>
+    <citation>Multiple Risk Factor Intervention Trial Group: Smoking Cessation Activities in the Multiple Risk Factor Intervention Trial: A Preliminary Report.J. Steinfeld et al (Eds). Smoking &amp; Health: Proceedings of the Third World Conference on Smoking and Health, June 2-5, l975, II Health Consequences, Education, Cessation Activities, and Social Action, U.S. Government Printing Office, Washington, D.C., l976, 6l3-6l7.</citation>
+  </reference>
+  <reference>
+    <citation>The multiple risk factor intervention trial (MRFIT). A national study of primary prevention of coronary heart disease. JAMA. 1976 Feb 23;235(8):825-7.</citation>
+    <PMID>946311</PMID>
+  </reference>
+  <reference>
+    <citation>Multiple Risk Factor Intervention Trial Group: Public Annual Report, Multiple Risk Factor Intervention Trial, June 30, l975 to July l, l976. U.S. Department of Health, Education, and Welfare, Public Health Service, National Institutes of Health, DHEW Publication No. (NIH) 77-l2ll, August, l976.</citation>
+  </reference>
+  <reference>
+    <citation>Rautaharju PM, Seale D, Prineas R, Wolf H, Crow R, Warren J. Changing electrocardiographic recording technology and diagnostic accuracy of myocardial infarction criteria. Improved standards for evaluation of ECG measurement precision. J Electrocardiol. 1978 Oct;11(4):321-30.</citation>
+    <PMID>361920</PMID>
+  </reference>
+  <reference>
+    <citation>Hulley S, Ashman P, Kuller L, Lasser N, Sherwin R. HDL-cholesterol levels in the Multiple Risk Factor Intervention Trial (MRFIT) by the MRFIT Research Group 1,2. Lipids. 1979 Jan;14(1):119-123.</citation>
+    <PMID>218069</PMID>
+  </reference>
+  <reference>
+    <citation>Ockene J: Multiple Risk Factor Intervention Trial: Smoking Cessation Procedures and Cessation Patterns for a Large Cohort of MRFIT Participants. In Schwartz J (Ed): Progress in Smoking Cessation, American Cancer Society, New York, p. 183-198, 1979.</citation>
+  </reference>
+  <reference>
+    <citation>The MRFIT behavior pattern study--I. Study design, procedures, and reproducibility of behavior pattern judgments. The Multiple Risk Factor Intervention Trial Group. J Chronic Dis. 1979;32(4):293-305.</citation>
+    <PMID>447782</PMID>
+  </reference>
+  <reference>
+    <citation>Benfari RC, McIntyre K, Eaker E, Blumberg S, Paul O. The psychological effects of differential treatment of a high risk sample in a randomized clinical trial. Am J Public Health. 1979 Oct;69(10):996-1000.</citation>
+    <PMID>484765</PMID>
+  </reference>
+  <reference>
+    <citation>Farrand ME, Mojonnier L. Nutrition in the Multiple Risk Factor Intervention Trial (MRFIT). J Am Diet Assoc. 1980 Apr;76(4):347-51.</citation>
+    <PMID>7391467</PMID>
+  </reference>
+  <reference>
+    <citation>Kuller L, Neaton J, Caggiula A, Falvo-Gerard L. Primary prevention of heart attacks: the multiple risk factor intervention trial. Am J Epidemiol. 1980 Aug;112(2):185-99.</citation>
+    <PMID>6998287</PMID>
+  </reference>
+  <reference>
+    <citation>Rautaharju PM, Prineas RJ, Crow RS, Seale D, Furberg C. The effect of modified limb electrode positions on electrocardiographic wave amplitudes. J Electrocardiol. 1980 Apr;13(2):109-13.</citation>
+    <PMID>7365351</PMID>
+  </reference>
+  <reference>
+    <citation>Mandriota R, Bunkers B, Wilcox ME. Nutrition intervention strategies in the Multiple Risk Factor Intervention Trial (MRFIT). J Am Diet Assoc. 1980 Aug;77(2):138-40.</citation>
+    <PMID>7400494</PMID>
+  </reference>
+  <reference>
+    <citation>Dennis B, Ernst N, Hjortland M, Tillotson J, Grambsch V. The NHLBI nutrition data system. J Am Diet Assoc. 1980 Dec;77(6):641-7.</citation>
+    <PMID>6893713</PMID>
+  </reference>
+  <reference>
+    <citation>Remmell PS, Gorder DD, Hall Y, Tillotson JL. Assessing dietary adherence in the Multiple Risk Factor Intervention Trial (MRFIT). I. Use of a dietary monitoring tool. J Am Diet Assoc. 1980 Apr;76(4):351-6.</citation>
+    <PMID>7391468</PMID>
+  </reference>
+  <reference>
+    <citation>Remmell PS, Benfari RC. Assessing dietary adherence in the Multiple Risk Factor Intervention Trial (MRFIT). II. Food record rating as an indicator of compliance. J Am Diet Assoc. 1980 Apr;76(4):357-60.</citation>
+    <PMID>7391469</PMID>
+  </reference>
+  <reference>
+    <citation>Tillotson JL, Gorder DD, Kassim N. Nutrition data collection in the Multiple Risk Factor Intervention Trial (MRFIT). Baseline nutrient intake of a randomized population. J Am Diet Assoc. 1981 Mar;78(3):235-40.</citation>
+    <PMID>7217577</PMID>
+  </reference>
+  <reference>
+    <citation>Zukel WJ, Paul O, Schnaper HW. The multiple risk factor intervention trial (MRFIT). I. Historical perspective. Prev Med. 1981 Jul;10(4):387-401.</citation>
+    <PMID>7027234</PMID>
+  </reference>
+  <reference>
+    <citation>Sherwin R, Kaelber CT, Kezdi P, Kjelsberg MO, Thomas HE Jr. The multiple risk factor intervention trial (MRFIT) II. The development of the protocol. Prev Med. 1981 Jul;10(4):402-25.</citation>
+    <PMID>7027236</PMID>
+  </reference>
+  <reference>
+    <citation>Benfari RC. The multiple risk factor intervention trial (MRFIT). III. The model for intervention. Prev Med. 1981 Jul;10(4):426-42.</citation>
+    <PMID>7027237</PMID>
+  </reference>
+  <reference>
+    <citation>Caggiula AW, Christakis G, Farrand M, Hulley SB, Johnson R, Lasser NL, Stamler J, Widdowson G. The multiple risk intervention trial (MRFIT). IV. Intervention on blood lipids. Prev Med. 1981 Jul;10(4):443-75.</citation>
+    <PMID>7027238</PMID>
+  </reference>
+  <reference>
+    <citation>Hughes GH, Hymowitz N, Ockene JK, Simon N, Vogt TM. The multiple risk factor intervention trial (MRFIT). V. Intervention on smoking. Prev Med. 1981 Jul;10(4):476-500.</citation>
+    <PMID>7027239</PMID>
+  </reference>
+  <reference>
+    <citation>Neaton JD, Broste S, Cohen L, Fishman EL, Kjelsberg MO, Schoenberger J. The multiple risk factor intervention trial (MRFIT). VII. A comparison of risk factor changes between the two study groups. Prev Med. 1981 Jul;10(4):519-43.</citation>
+    <PMID>7027241</PMID>
+  </reference>
+  <reference>
+    <citation>Benfari RC, Sherwin R. The multiple risk factor intervention trial after 4 years: a summing-up. Prev Med. 1981 Jul;10(4):544-6.</citation>
+    <PMID>7027242</PMID>
+  </reference>
+  <reference>
+    <citation>Multiple risk factor intervention trial. Risk factor changes and mortality results. Multiple Risk Factor Intervention Trial Research Group. JAMA. 1982 Sep 24;248(12):1465-77.</citation>
+    <PMID>7050440</PMID>
+  </reference>
+  <reference>
+    <citation>Hymowitz N: The Multiple Risk Factor Intervention Trial: A Four Year Evaluation. Int J Ment Health, 11:44-67, 1982.</citation>
+  </reference>
+  <reference>
+    <citation>Ockene JK, Hymowitz N, Sexton M, Broste SK. Comparison of patterns of smoking behavior change among smokers in the Multiple Risk Factor Intervention Trial (MRFIT). Prev Med. 1982 Nov;11(6):621-38.</citation>
+    <PMID>6761682</PMID>
+  </reference>
+  <reference>
+    <citation>Schoenenberger JC. Smoking change in relation to changes in blood pressure, weight, and cholesterol. Prev Med. 1982 Jul;11(4):441-53.</citation>
+    <PMID>7122434</PMID>
+  </reference>
+  <reference>
+    <citation>Wentworth DN, Neaton JD, Rasmussen WL. An evaluation of the Social Security Administration master beneficiary record file and the National Death Index in the ascertainment of vital status. Am J Public Health. 1983 Nov;73(11):1270-4.</citation>
+    <PMID>6625030</PMID>
+  </reference>
+  <reference>
+    <citation>Sherwin R. Sudden death in men with increased risk of myocardial infarction. The MRFIT Programme. Drugs. 1984 Oct;28 Suppl 1:46-53.</citation>
+    <PMID>6499702</PMID>
+  </reference>
+  <reference>
+    <citation>Shekelle RB, Caggiula AW, Grimm RH: Diuretic Treatment of Hypertension and Changes in Plasma Lipids Over Six Years in the Multiple Risk Factor Intervention Trial. In Hegyeli RJ (Ed): Atherosclerosis Review. New York, Raven, p. 113-127, 1984.</citation>
+  </reference>
+  <reference>
+    <citation>Neaton JD, Kuller LH, Wentworth D, Borhani NO. Total and cardiovascular mortality in relation to cigarette smoking, serum cholesterol concentration, and diastolic blood pressure among black and white males followed up for five years. Am Heart J. 1984 Sep;108(3 Pt 2):759-69.</citation>
+    <PMID>6475745</PMID>
+  </reference>
+  <reference>
+    <citation>Kuller L: Risk Factor Reduction in CHD. Modern Concepts of Cardiovascular Disease, 53:7-11, 1984.</citation>
+  </reference>
+  <reference>
+    <citation>Lasser NL, Grandits G, Caggiula AW, Cutler JA, Grimm RH Jr, Kuller LH, Sherwin RW, Stamler J. Effects of antihypertensive therapy on plasma lipids and lipoproteins in the Multiple Risk Factor Intervention Trial. Am J Med. 1984 Feb 27;76(2A):52-66.</citation>
+    <PMID>6367451</PMID>
+  </reference>
+  <reference>
+    <citation>Connett JE, Stamler J. Responses of black and white males to the special intervention program of the Multiple Risk Factor Intervention Trial. Am Heart J. 1984 Sep;108(3 Pt 2):839-48.</citation>
+    <PMID>6475754</PMID>
+  </reference>
+  <reference>
+    <citation>Shekelle R: Diuretic Treatment of Hypertension and Changes in Plasma Lipids Over Six Years in the Multiple Risk Factor Intervention Trial. In Paoletti R, et al (Eds): Endpoints for Cardiovascular Drug Studies. New York, Raven, p. 216, 1984.</citation>
+  </reference>
+  <reference>
+    <citation>Leon AS, Connett J, Jacobs DR, et al: Relation of Leisure Time Physical Activity to Mortality in the Multiple Risk Factor Intervention Trial. Circulation, 70 (Suppl 2) II-644, 1984.</citation>
+  </reference>
+  <reference>
+    <citation>Baseline rest electrocardiographic abnormalities, antihypertensive treatment, and mortality in the Multiple Risk Factor Intervention Trial. Multiple Risk Factor Intervention Trial Research Group. Am J Cardiol. 1985 Jan 1;55(1):1-15.</citation>
+    <PMID>3880997</PMID>
+  </reference>
+  <reference>
+    <citation>Grimm RH Jr, Cohen JD, Smith WM, Falvo-Gerard L, Neaton JD. Hypertension management in the Multiple Risk Factor Intervention Trial (MRFIT). Six-year intervention results for men in special intervention and usual care groups. Arch Intern Med. 1985 Jul;145(7):1191-9.</citation>
+    <PMID>3893343</PMID>
+  </reference>
+  <reference>
+    <citation>Exercise electrocardiogram and coronary heart disease mortality in the Multiple Risk Factor Intervention Trial. Multiple Risk Factor Intervention Trial Research Group. Am J Cardiol. 1985 Jan 1;55(1):16-24.</citation>
+    <PMID>2857061</PMID>
+  </reference>
+  <reference>
+    <citation>Grimm RH Jr, Neaton JD, Ludwig W. Prognostic importance of the white blood cell count for coronary, cancer, and all-cause mortality. JAMA. 1985 Oct 11;254(14):1932-7.</citation>
+    <PMID>4046122</PMID>
+  </reference>
+  <reference>
+    <citation>Grimm RH Jr, Neaton JD, McDonald M, Case J, McGill E, Allen R, Bailey-Hoffman G, Kousch D, Childs J, Hulley SB. Beneficial effects from systematic dosage reduction of the diuretic, chlorthalidone: a randomized study within a clinical trial. Am Heart J. 1985 Apr;109(4):858-64.</citation>
+    <PMID>3885701</PMID>
+  </reference>
+  <reference>
+    <citation>Cutler JA, Neaton JD, Hulley SB, Kuller L, Paul O, Stamler J. Coronary heart disease and all-causes mortality in the Multiple Risk Factor Intervention Trial: subgroup findings and comparisons with other trials. Prev Med. 1985 May;14(3):293-311.</citation>
+    <PMID>3903734</PMID>
+  </reference>
+  <reference>
+    <citation>Shekelle RB, Hulley SB, Neaton JD, Billings JH, Borhani NO, Gerace TA, Jacobs DR, Lasser NL, Mittlemark MB, Stamler J. The MRFIT behavior pattern study. II. Type A behavior and incidence of coronary heart disease. Am J Epidemiol. 1985 Oct;122(4):559-70.</citation>
+    <PMID>4025299</PMID>
+  </reference>
+  <reference>
+    <citation>Kuller L, Farrier N, Caggiula A, Borhani N, Dunkle S. Relationship of diuretic therapy and serum magnesium levels among participants in the Multiple Risk Factor Intervention Trial. Am J Epidemiol. 1985 Dec;122(6):1045-59.</citation>
+    <PMID>4061439</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler J: The Multiple Risk Factor Intervention Trial (MRFIT). In Hoffman H (Ed): Primary and Secondary Prevention of Coronary Heart Disease. Berlin, Heidelberg, Springer-Verlag, 8-33, 1985.</citation>
+  </reference>
+  <reference>
+    <citation>Folsom AR, Hughes JR, Buehler JF, Mittelmark MB, Jacobs DR Jr, Grimm RH Jr. Do type A men drink more frequently than type B men? Findings in the Multiple Risk Factor Intervention Trial (MRFIT). J Behav Med. 1985 Sep;8(3):227-35.</citation>
+    <PMID>4087288</PMID>
+  </reference>
+  <reference>
+    <citation>Watkins LO, Neaton JD, Kuller LH. Racial differences in high-density lipoprotein cholesterol and coronary heart disease incidence in the usual-care group of the Multiple Risk Factor Intervention Trial. Am J Cardiol. 1986 Mar 1;57(8):538-45.</citation>
+    <PMID>3953436</PMID>
+  </reference>
+  <reference>
+    <citation>Rautaharju PM, Prineas RJ, Eifler WJ, Furberg CD, Neaton JD, Crow RS, Stamler J, Cutler JA. Prognostic value of exercise electrocardiogram in men at high risk of future coronary heart disease: Multiple Risk Factor Intervention Trial experience. J Am Coll Cardiol. 1986 Jul;8(1):1-10.</citation>
+    <PMID>3711503</PMID>
+  </reference>
+  <reference>
+    <citation>Kannel WB, Neaton JD, Wentworth D, Thomas HE, Stamler J, Hulley SB, Kjelsberg MO. Overall and coronary heart disease mortality rates in relation to major risk factors in 325,348 men screened for the MRFIT. Multiple Risk Factor Intervention Trial. Am Heart J. 1986 Oct;112(4):825-36.</citation>
+    <PMID>3532744</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler J, Wentworth D, Neaton JD. Is relationship between serum cholesterol and risk of premature death from coronary heart disease continuous and graded? Findings in 356,222 primary screenees of the Multiple Risk Factor Intervention Trial (MRFIT). JAMA. 1986 Nov 28;256(20):2823-8.</citation>
+    <PMID>3773199</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler J, Wentworth D, Neaton JD. Prevalence and prognostic significance of hypercholesterolemia in men with hypertension. Prospective data on the primary screenees of the Multiple Risk Factor Intervention Trial. Am J Med. 1986 Feb 14;80(2A):33-9.</citation>
+    <PMID>3946459</PMID>
+  </reference>
+  <reference>
+    <citation>Sherwin R: Diuretics, Serum Potassium and Mortality in the Multiple Risk Factor Intervention Trial (MRFIT). In Whelton T, et al (Eds): Potassium in Cardiovascular and Renal Medicine, New York, Marcelle Decker, 293-303, 1986.</citation>
+  </reference>
+  <reference>
+    <citation>Scherwitz L, Graham LE 2nd, Grandits G, Buehler J, Billings J. Self-involvement and coronary heart disease incidence in the multiple risk factor intervention trial. Psychosom Med. 1986 Mar-Apr;48(3-4):187-99.</citation>
+    <PMID>3704083</PMID>
+  </reference>
+  <reference>
+    <citation>Ockene JK, Hulley SB, Gerace TA: Smoking Behavior Change Patterns in the Multiple Risk Factor Intervention Trials (MRFIT) and Their Relationship to Mortality from Coronary Heart Disease (CHD). Proceedings of the Fifth World Conference on Smoking and Health, Winnipeg, Canada, 1983 403-414, (Jan 1986).</citation>
+  </reference>
+  <reference>
+    <citation>Kuller LH, Hulley SB, Cohen JD, Neaton J. Unexpected effects of treating hypertension in men with electrocardiographic abnormalities: a critical analysis. Circulation. 1986 Jan;73(1):114-23.</citation>
+    <PMID>2416486</PMID>
+  </reference>
+  <reference>
+    <citation>Martin MJ, Hulley SB, Browner WS, Kuller LH, Wentworth D. Serum cholesterol, blood pressure, and mortality: implications from a cohort of 361,662 men. Lancet. 1986 Oct 25;2(8513):933-6.</citation>
+    <PMID>2877128</PMID>
+  </reference>
+  <reference>
+    <citation>Dolecek TA, Milas NC, Van Horn LV, Farrand ME, Gorder DD, Duchene AG, Dyer JR, Stone PA, Randall BL. A long-term nutrition intervention experience: lipid responses and dietary adherence patterns in the Multiple Risk Factor Intervention Trial. J Am Diet Assoc. 1986 Jun;86(6):752-8.</citation>
+    <PMID>3519737</PMID>
+  </reference>
+  <reference>
+    <citation>Gorder DD, Dolecek TA, Coleman GG, Tillotson JL, Brown HB, Lenz-Litzow K, Bartsch GE, Grandits G. Dietary intake in the Multiple Risk Factor Intervention Trial (MRFIT): nutrient and food group changes over 6 years. J Am Diet Assoc. 1986 Jun;86(6):744-51.</citation>
+    <PMID>3519736</PMID>
+  </reference>
+  <reference>
+    <citation>Crow RS, Rautaharju PM, Prineas RJ, Connett JE, Furberg C, Broste S, Stamler J. Risk factors, exercise fitness and electrocardiographic response to exercise in 12,866 men at high risk of symptomatic coronary heart disease. Am J Cardiol. 1986 May 1;57(13):1075-82.</citation>
+    <PMID>3706160</PMID>
+  </reference>
+  <reference>
+    <citation>Daniel-Gentry J, Dolecek TA, Caggiula AW, Van Horn LV, Epley L, Randall BL. Increasing the use of meatless meals: a nutrition intervention substudy in the Multiple Risk Factor Intervention Trial (MRFIT). J Am Diet Assoc. 1986 Jun;86(6):778-81.</citation>
+    <PMID>3519738</PMID>
+  </reference>
+  <reference>
+    <citation>Relationship between baseline risk factors and coronary heart disease and total mortality in the Multiple Risk Factor Intervention Trial. Multiple Risk Factor Intervention Trial Research Group. Prev Med. 1986 May;15(3):254-73.</citation>
+    <PMID>3749007</PMID>
+  </reference>
+  <reference>
+    <citation>Coronary heart disease death, nonfatal acute myocardial infarction and other clinical outcomes in the Multiple Risk Factor Intervention Trial. Multiple Risk Factor Intervention Trial Research Group. Am J Cardiol. 1986 Jul 1;58(1):1-13.</citation>
+    <PMID>2873741</PMID>
+  </reference>
+  <reference>
+    <citation>Lasser NL, Lamb S, Dischinger P, Kirkpatrick K. Background and organization of quality control in the Multiple Risk Factor Intervention Trial. Control Clin Trials. 1986 Sep;7(3 Suppl):1S-16S.</citation>
+    <PMID>3802835</PMID>
+  </reference>
+  <reference>
+    <citation>Widdowson GM, Kuehneman M, DuChene AG, Hulley SB, Cooper GR. Quality control of biochemical data in the Multiple Risk Factor Intervention Trial: Central Laboratory. Control Clin Trials. 1986 Sep;7(3 Suppl):17S-33S.</citation>
+    <PMID>3802842</PMID>
+  </reference>
+  <reference>
+    <citation>DuChene AG, Hultgren DH, Neaton JD, Grambsch PV, Broste SK, Aus BM, Rasmussen WL. Forms control and error detection procedures used at the Coordinating Center of the Multiple Risk Factor Intervention Trial (MRFIT). Control Clin Trials. 1986 Sep;7(3 Suppl):34S-45S.</citation>
+    <PMID>3802845</PMID>
+  </reference>
+  <reference>
+    <citation>Rautaharju PM, Broste SK, Prineas RJ, Eifler WJ, Crow RS, Furberg CD. Quality control procedures for the resting electrocardiogram in the Multiple Risk Factor Intervention Trial. Control Clin Trials. 1986 Sep;7(3 Suppl):46S-65S.</citation>
+    <PMID>3802846</PMID>
+  </reference>
+  <reference>
+    <citation>Tillotson JL, Gorder DD, DuChene AG, Grambsch PV, Wenz J. Quality control in the Multiple Risk Factor Intervention Trial Nutrition Modality. Control Clin Trials. 1986 Sep;7(3 Suppl):66S-90S.</citation>
+    <PMID>3802847</PMID>
+  </reference>
+  <reference>
+    <citation>Harrison HH, Morgan J. Quality control of screening procedures in the Multiple Risk Factor Intervention Trial. Control Clin Trials. 1986 Sep;7(3 Suppl):91S-108S.</citation>
+    <PMID>3802848</PMID>
+  </reference>
+  <reference>
+    <citation>Kirkpatrick K. Clinic operation: quality control of data collection and follow-up procedures. Control Clin Trials. 1986 Sep;7(3 Suppl):109S-25S.</citation>
+    <PMID>3802837</PMID>
+  </reference>
+  <reference>
+    <citation>Dischinger P, DuChene AG. Quality control aspects of blood pressure measurements in the Multiple Risk Factor Intervention Trial. Control Clin Trials. 1986 Sep;7(3 Suppl):137S-57S.</citation>
+    <PMID>3802839</PMID>
+  </reference>
+  <reference>
+    <citation>Cooper GR, Haff AC, Widdowson GM, Bartsch GE, DuChene AG, Hulley SB. Quality control in the MRFIT local screening and clinic laboratory. Control Clin Trials. 1986 Sep;7(3 Suppl):158S-65S.</citation>
+    <PMID>3802840</PMID>
+  </reference>
+  <reference>
+    <citation>Townsend MC, Morgan J, Durkin D, DuChene AG, Lamb S. Quality control aspects of pulmonary function testing in the Multiple Risk Factor Intervention Trial. Control Clin Trials. 1986 Sep;7(3 Suppl):179S-92S.</citation>
+    <PMID>3802843</PMID>
+  </reference>
+  <reference>
+    <citation>Leon AS, Connett J, Jacobs DR Jr, Rauramaa R. Leisure-time physical activity levels and risk of coronary heart disease and death. The Multiple Risk Factor Intervention Trial. JAMA. 1987 Nov 6;258(17):2388-95.</citation>
+    <PMID>3669210</PMID>
+  </reference>
+  <reference>
+    <citation>Svendsen KH, Kuller LH, Martin MJ, Ockene JK. Effects of passive smoking in the Multiple Risk Factor Intervention Trial. Am J Epidemiol. 1987 Nov;126(5):783-95.</citation>
+    <PMID>3661526</PMID>
+  </reference>
+  <reference>
+    <citation>Cauley JA, Gutai JP, Kuller LH, Dai WS. Usefulness of sex steroid hormone levels in predicting coronary artery disease in men. Am J Cardiol. 1987 Oct 1;60(10):771-7.</citation>
+    <PMID>3661391</PMID>
+  </reference>
+  <reference>
+    <citation>Cohen JD, Neaton JD, Prineas RJ, Daniels KA. Diuretics, serum potassium and ventricular arrhythmias in the Multiple Risk Factor Intervention Trial. Am J Cardiol. 1987 Sep 1;60(7):548-54.</citation>
+    <PMID>2442992</PMID>
+  </reference>
+  <reference>
+    <citation>Ockene JK, Pechacek TF, Vogt T, Svendsen K. Does switching from cigarettes to pipes or cigars reduce tobacco smoke exposure? Am J Public Health. 1987 Nov;77(11):1412-6.</citation>
+    <PMID>3499090</PMID>
+  </reference>
+  <reference>
+    <citation>Neaton JD, Grimm RH Jr, Cutler JA. Recruitment of participants for the multiple risk factor intervention trial (MRFIT). Control Clin Trials. 1987 Dec;8(4 Suppl):41S-53S.</citation>
+    <PMID>3440389</PMID>
+  </reference>
+  <reference>
+    <citation>Grimm RH Jr, Tillinghast S, Daniels K, Neaton JD, Mascioli S, Crow R, Pritzker M, Prineas RJ. Unrecognized myocardial infarction: experience in the Multiple Risk Factor Intervention Trial (MRFIT). Circulation. 1987 Mar;75(3 Pt 2):II6-8.</citation>
+    <PMID>3815790</PMID>
+  </reference>
+  <reference>
+    <citation>Scherwitz L, Graham LE 2nd, Grandits G, Billings J. Speech characteristics and behavior-type assessment in the Multiple Risk Factor Intervention Trial (MRFIT) structured interviews. J Behav Med. 1987 Apr;10(2):173-95.</citation>
+    <PMID>3612777</PMID>
+  </reference>
+  <reference>
+    <citation>Sherwin RW, Wentworth DN, Cutler JA, Hulley SB, Kuller LH, Stamler J. Serum cholesterol levels and cancer mortality in 361,662 men screened for the Multiple Risk Factor Intervention Trial. JAMA. 1987 Feb 20;257(7):943-8.</citation>
+    <PMID>3806876</PMID>
+  </reference>
+  <reference>
+    <citation>Rutan GH, Kuller LH, Neaton JD, Wentworth DN, McDonald RH, Smith WM. Mortality associated with diastolic hypertension and isolated systolic hypertension among men screened for the Multiple Risk Factor Intervention Trial. Circulation. 1988 Mar;77(3):504-14. Review.</citation>
+    <PMID>3277736</PMID>
+  </reference>
+  <reference>
+    <citation>MacMahon S, Collins G, Rautaharju P, Cutler J, Neaton J, Prineas R, Crow R, Stamler J. Electrocardiographic left ventricular hypertrophy and effects of antihypertensive drug therapy in hypertensive participants in the Multiple Risk Factor Intervention Trial. Am J Cardiol. 1989 Jan 15;63(3):202-10.</citation>
+    <PMID>2521269</PMID>
+  </reference>
+  <reference>
+    <citation>Iso H, Jacobs DR Jr, Wentworth D, Neaton JD, Cohen JD. Serum cholesterol levels and six-year mortality from stroke in 350,977 men screened for the multiple risk factor intervention trial. N Engl J Med. 1989 Apr 6;320(14):904-10.</citation>
+    <PMID>2619783</PMID>
+  </reference>
+  <reference>
+    <citation>Connett JE, Kuller LH, Kjelsberg MO, Polk BF, Collins G, Rider A, Hulley SB. Relationship between carotenoids and cancer. The Multiple Risk Factor Intervention Trial (MRFIT) Study. Cancer. 1989 Jul 1;64(1):126-34.</citation>
+    <PMID>2731108</PMID>
+  </reference>
+  <reference>
+    <citation>Kuller LH, Ockene JK, Townsend M, Browner W, Meilahn E, Wentworth DN. The epidemiology of pulmonary function and COPD mortality in the multiple risk factor intervention trial. Am Rev Respir Dis. 1989 Sep;140(3 Pt 2):S76-81.</citation>
+    <PMID>2782764</PMID>
+  </reference>
+  <reference>
+    <citation>Mortality rates after 10.5 years for participants in the Multiple Risk Factor Intervention Trial. Findings related to a priori hypotheses of the trial. The Multiple Risk Factor Intervention Trial Research Group. JAMA. 1990 Apr 4;263(13):1795-801. Erratum in: JAMA 1990 Jun 20;263(23):3151.</citation>
+    <PMID>2179590</PMID>
+  </reference>
+  <reference>
+    <citation>Mortality after 10 1/2 years for hypertensive participants in the Multiple Risk Factor Intervention Trial. Circulation. 1990 Nov;82(5):1616-28.</citation>
+    <PMID>2225366</PMID>
+  </reference>
+  <reference>
+    <citation>Kuller LH, Ockene J, Meilahn E, Svendsen KH. Relation of forced expiratory volume in one second (FEV1) to lung cancer mortality in the Multiple Risk Factor Intervention Trial (MRFIT). Am J Epidemiol. 1990 Aug;132(2):265-74.</citation>
+    <PMID>2372006</PMID>
+  </reference>
+  <reference>
+    <citation>Ockene JK, Kuller LH, Svendsen KH, Meilahn E. The relationship of smoking cessation to coronary heart disease and lung cancer in the Multiple Risk Factor Intervention Trial (MRFIT). Am J Public Health. 1990 Aug;80(8):954-8.</citation>
+    <PMID>2368857</PMID>
+  </reference>
+  <reference>
+    <citation>Hollis JF, Connett JE, Stevens VJ, Greenlick MR. Stressful life events, Type A behavior, and the prediction of cardiovascular and total mortality over six years. MRFIT Group. J Behav Med. 1990 Jun;13(3):263-80.</citation>
+    <PMID>2213869</PMID>
+  </reference>
+  <reference>
+    <citation>Cutler JA, Grandits GA, Grimm RH Jr, Thomas HE Jr, Billings JH, Wright NH. Risk factor changes after cessation of intervention in the Multiple Risk Factor Intervention Trial. The MRFIT Research Group. Prev Med. 1991 Mar;20(2):183-96.</citation>
+    <PMID>2057467</PMID>
+  </reference>
+  <reference>
+    <citation>Kuller LH, Eichner JE, Orchard TJ, Grandits GA, McCallum L, Tracy RP. The relation between serum albumin levels and risk of coronary heart disease in the Multiple Risk Factor Intervention Trial. Am J Epidemiol. 1991 Dec 1;134(11):1266-77.</citation>
+    <PMID>1755441</PMID>
+  </reference>
+  <reference>
+    <citation>Leon AS, Connett J. Physical activity and 10.5 year mortality in the Multiple Risk Factor Intervention Trial (MRFIT). Int J Epidemiol. 1991 Sep;20(3):690-7.</citation>
+    <PMID>1955253</PMID>
+  </reference>
+  <reference>
+    <citation>Friedewald WT, Kuller LH, Ockene JK. Primary prevention of cancer: relevant Multiple Risk Factor Intervention Trial results. IARC Sci Publ. 1990;(103):157-70.</citation>
+    <PMID>2279793</PMID>
+  </reference>
+  <reference>
+    <citation>Neaton JD, Bartsch GE, Broste SK, Cohen JD, Simon NM. A case of data alteration in the Multiple Risk Factor Intervention Trial (MRFIT). The MRFIT Research Group. Control Clin Trials. 1991 Dec;12(6):731-40.</citation>
+    <PMID>1665114</PMID>
+  </reference>
+  <reference>
+    <citation>Ockene JK, Shaten BJ. Cigarette smoking in the Multiple Risk Factor Intervention Trial (MRFIT). Introduction, overview, method, and conclusions. Prev Med. 1991 Sep;20(5):552-63.</citation>
+    <PMID>1758837</PMID>
+  </reference>
+  <reference>
+    <citation>Ockene JK, Hymowitz N, Lagus J, Shaten BJ. Comparison of smoking behavior change for SI and UC study groups. MRFIT Research Group. Prev Med. 1991 Sep;20(5):564-73.</citation>
+    <PMID>1758838</PMID>
+  </reference>
+  <reference>
+    <citation>Ruth KJ, Neaton JD. Evaluation of two biological markers of tobacco exposure. MRFIT Research Group. Prev Med. 1991 Sep;20(5):574-89.</citation>
+    <PMID>1758839</PMID>
+  </reference>
+  <reference>
+    <citation>Hymowitz N, Sexton M, Ockene J, Grandits G. Baseline factors associated with smoking cessation and relapse. MRFIT Research Group. Prev Med. 1991 Sep;20(5):590-601.</citation>
+    <PMID>1758840</PMID>
+  </reference>
+  <reference>
+    <citation>Gerace TA, Hollis J, Ockene JK, Svendsen K. Smoking cessation and change in diastolic blood pressure, body weight, and plasma lipids. MRFIT Research Group. Prev Med. 1991 Sep;20(5):602-20.</citation>
+    <PMID>1758841</PMID>
+  </reference>
+  <reference>
+    <citation>Shaten BJ, Kuller LH, Neaton JD. Association between baseline risk factors, cigarette smoking, and CHD mortality after 10.5 years. MRFIT Research Group. Prev Med. 1991 Sep;20(5):655-9.</citation>
+    <PMID>1758844</PMID>
+  </reference>
+  <reference>
+    <citation>Kuller LH, Ockene JK, Meilahn E, Wentworth DN, Svendsen KH, Neaton JD. Cigarette smoking and mortality. MRFIT Research Group. Prev Med. 1991 Sep;20(5):638-54.</citation>
+    <PMID>1758843</PMID>
+  </reference>
+  <reference>
+    <citation>Suh I, Shaten BJ, Cutler JA, Kuller LH. Alcohol use and mortality from coronary heart disease: the role of high-density lipoprotein cholesterol. The Multiple Risk Factor Intervention Trial Research Group. Ann Intern Med. 1992 Jun 1;116(11):881-7.</citation>
+    <PMID>1580443</PMID>
+  </reference>
+  <reference>
+    <citation>Neaton JD, Blackburn H, Jacobs D, Kuller L, Lee DJ, Sherwin R, Shih J, Stamler J, Wentworth D. Serum cholesterol level and mortality findings for men screened in the Multiple Risk Factor Intervention Trial. Multiple Risk Factor Intervention Trial Research Group. Arch Intern Med. 1992 Jul;152(7):1490-500.</citation>
+    <PMID>1627030</PMID>
+  </reference>
+  <reference>
+    <citation>Neaton JD, Wentworth D. Serum cholesterol, blood pressure, cigarette smoking, and death from coronary heart disease. Overall findings and differences by age for 316,099 white men. Multiple Risk Factor Intervention Trial Research Group. Arch Intern Med. 1992 Jan;152(1):56-64.</citation>
+    <PMID>1728930</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou SH, Rautaharju PM, Prineas R, Neaton J, Crow R, Calhoun H, Furberg C, Cohen J. Improved ECG models for estimation of left ventricular hypertrophy progression and regression incidence by redefinition of the criteria for a significant change in left ventricular hypertrophy status. The MRFIT Research Group. Multiple Risk Factor Intervention Trial. J Electrocardiol. 1993;26 Suppl:108-13.</citation>
+    <PMID>8189111</PMID>
+  </reference>
+  <reference>
+    <citation>Neaton JD, Wentworth DN, Cutler J, Stamler J, Kuller L. Risk factors for death from different types of stroke. Multiple Risk Factor Intervention Trial Research Group. Ann Epidemiol. 1993 Sep;3(5):493-9.</citation>
+    <PMID>8167825</PMID>
+  </reference>
+  <reference>
+    <citation>Shaten BJ, Smith GD, Kuller LH, Neaton JD. Risk factors for the development of type II diabetes among men enrolled in the usual care group of the Multiple Risk Factor Intervention Trial. Diabetes Care. 1993 Oct;16(10):1331-9.</citation>
+    <PMID>8269790</PMID>
+  </reference>
+  <reference>
+    <citation>Flack JM, Neaton JD, Daniels B, Esunge P. Ethnicity and renal disease: lessons from the Multiple Risk Factor Intervention Trial and the Treatment of Mild Hypertension Study. Am J Kidney Dis. 1993 Apr;21(4 Suppl 1):31-40.</citation>
+    <PMID>8465834</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler J, Vaccaro O, Neaton JD, Wentworth D. Diabetes, other risk factors, and 12-yr cardiovascular mortality for men screened in the Multiple Risk Factor Intervention Trial. Diabetes Care. 1993 Feb;16(2):434-44.</citation>
+    <PMID>8432214</PMID>
+  </reference>
+  <reference>
+    <citation>Blair SN, Shaten J, Brownell K, Collins G, Lissner L. Body weight change, all-cause mortality, and cause-specific mortality in the Multiple Risk Factor Intervention Trial. Ann Intern Med. 1993 Oct 1;119(7 Pt 2):749-57.</citation>
+    <PMID>8363210</PMID>
+  </reference>
+  <reference>
+    <citation>Coughlin SS, Neaton JD, Sengupta A, Kuller LH. Predictors of mortality from idiopathic dilated cardiomyopathy in 356,222 men screened for the Multiple Risk Factor Intervention Trial. Am J Epidemiol. 1994 Jan 15;139(2):166-72.</citation>
+    <PMID>8296783</PMID>
+  </reference>
+  <reference>
+    <citation>Orchard TJ, Eichner J, Kuller LH, Becker DJ, McCallum LM, Grandits GA. Insulin as a predictor of coronary heart disease: interaction with apolipoprotein E phenotype. A report from the Multiple Risk Factor Intervention Trial. Ann Epidemiol. 1994 Jan;4(1):40-5.</citation>
+    <PMID>8205270</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler J, Caggiula A, Grandits GA, Kjelsberg M, Cutler JA. Relationship to blood pressure of combinations of dietary macronutrients. Findings of the Multiple Risk Factor Intervention Trial (MRFIT). Circulation. 1996 Nov 15;94(10):2417-23.</citation>
+    <PMID>8921782</PMID>
+  </reference>
+  <reference>
+    <citation>Kuller LH, Tracy RP, Shaten J, Meilahn EN. Relation of C-reactive protein and coronary heart disease in the MRFIT nested case-control study. Multiple Risk Factor Intervention Trial. Am J Epidemiol. 1996 Sep 15;144(6):537-47.</citation>
+    <PMID>8797513</PMID>
+  </reference>
+  <reference>
+    <citation>Haffner SM, Shaten J, Stern MP, Smith GD, Kuller L. Low levels of sex hormone-binding globulin and testosterone predict the development of non-insulin-dependent diabetes mellitus in men. MRFIT Research Group. Multiple Risk Factor Intervention Trial. Am J Epidemiol. 1996 May 1;143(9):889-97.</citation>
+    <PMID>8610702</PMID>
+  </reference>
+  <reference>
+    <citation>Flack JM, Neaton J, Grimm R Jr, Shih J, Cutler J, Ensrud K, MacMahon S. Blood pressure and mortality among men with prior myocardial infarction. Multiple Risk Factor Intervention Trial Research Group. Circulation. 1995 Nov 1;92(9):2437-45.</citation>
+    <PMID>7586343</PMID>
+  </reference>
+  <reference>
+    <citation>Werkö L. Analysis of the MRFIT screenees: a methodological study. J Intern Med. 1995 May;237(5):507-18.</citation>
+    <PMID>7738492</PMID>
+  </reference>
+  <reference>
+    <citation>Neaton JD, Kuller L, Stamler J, Wentworth D. Impact of systolic and diastolic blood pressure on cardiovascular mortality. In: Laragh JH, Brenner BM, eds. Hypertension: Pathophysiology, Diagnosis, and Management. 2nd Ed. New York: Raven Press,Ltd., 1995:127-144.</citation>
+  </reference>
+  <reference>
+    <citation>Statistical design considerations in the NHLI multiple risk factor intervention trial (MRFIT). The Multiple Risk Factor Intervention Trial Group. J Chronic Dis. 1977 May;30(5):261-75.</citation>
+    <PMID>863996</PMID>
+  </reference>
+  <reference>
+    <citation>The multiple risk factor intervention trial. The Multiple Risk Factor Intervention Trial Group. Ann N Y Acad Sci. 1978 Mar 30;304:293-308.</citation>
+    <PMID>360923</PMID>
+  </reference>
+  <reference>
+    <citation>Townsend MC, DuChene AG, Morgan J, Browner WS. Pulmonary function in relation to cigarette smoking and smoking cessation. MRFIT Research Group. Prev Med. 1991 Sep;20(5):621-37.</citation>
+    <PMID>1758842</PMID>
+  </reference>
+  <reference>
+    <citation>Dolecek TA, Granditis G. Dietary polyunsaturated fatty acids and mortality in the Multiple Risk Factor Intervention Trial (MRFIT). World Rev Nutr Diet. 1991;66:205-16.</citation>
+    <PMID>2053338</PMID>
+  </reference>
+  <reference>
+    <citation>Okin PM, Grandits G, Rautaharju PM, Prineas RJ, Cohen JD, Crow RS, Kligfield P. Prognostic value of heart rate adjustment of exercise-induced ST segment depression in the multiple risk factor intervention trial. J Am Coll Cardiol. 1996 May;27(6):1437-43.</citation>
+    <PMID>8626955</PMID>
+  </reference>
+  <reference>
+    <citation>Mortality after 16 years for participants randomized to the Multiple Risk Factor Intervention Trial. Circulation. 1996 Sep 1;94(5):946-51. Erratum in: Circulation 1997 Feb 4;95(3):760.</citation>
+    <PMID>8790030</PMID>
+  </reference>
+  <reference>
+    <citation>Cutler JA, Stamler J. Introduction and summary of the dietary and nutritional methods and findings in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):184S-190S.</citation>
+    <PMID>8988936</PMID>
+  </reference>
+  <reference>
+    <citation>Kjelsberg MO, Cutler JA, Dolecek TA. Brief description of the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):191S-195S.</citation>
+    <PMID>8988937</PMID>
+  </reference>
+  <reference>
+    <citation>Dolecek TA, Stamler J, Caggiula AW, Tillotson JL, Buzzard IM. Methods of dietary and nutritional assessment and intervention and other methods in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):196S-210S.</citation>
+    <PMID>8988938</PMID>
+  </reference>
+  <reference>
+    <citation>Grandits GA, Bartsch GE, Stamler J. Method issues in dietary data analyses in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):211S-227S.</citation>
+    <PMID>8988939</PMID>
+  </reference>
+  <reference>
+    <citation>Tillotson JL, Bartsch GE, Gorder D, Grandits GA, Stamler J. Food group and nutrient intakes at baseline in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):228S-257S.</citation>
+    <PMID>8988940</PMID>
+  </reference>
+  <reference>
+    <citation>Gorder DD, Bartsch GE, Tillotson JL, Grandits GA, Stamler J. Food group and macronutrient intakes, trial years 1-6, in the special intervention and usual care groups in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):258S-271S.</citation>
+    <PMID>8988941</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler J, Briefel RR, Milas C, Grandits GA, Caggiula AW. Relation of changes in dietary lipids and weight, trial years 1-6, to changes in blood lipids in the special intervention and usual care groups in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):272S-288S.</citation>
+    <PMID>8988942</PMID>
+  </reference>
+  <reference>
+    <citation>Van Horn L, Dolecek TA, Grandits GA, Skweres L. Adherence to dietary recommendations in the special intervention group in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):289S-304S.</citation>
+    <PMID>8988943</PMID>
+  </reference>
+  <reference>
+    <citation>Dolecek TA, Johnson RL, Grandits GA, Farrand-Zukel M, Caggiula AW. Nutritional adequacy of diets reported at baseline and during trial years 1-6 by the special intervention and usual care groups in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):305S-313S.</citation>
+    <PMID>8988944</PMID>
+  </reference>
+  <reference>
+    <citation>Tillotson JL, Grandits GA, Bartsch GE, Stamler J. Relation of dietary carbohydrates to blood lipids in the special intervention and usual care groups in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):314S-326S.</citation>
+    <PMID>8988945</PMID>
+  </reference>
+  <reference>
+    <citation>Tillotson JL, Grandits GA, Bartsch GE, Stamler J. Relation of dietary fiber to blood lipids in the special intervention and usual care groups in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):327S-337S.</citation>
+    <PMID>8988946</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler J, Caggiula AW, Grandits GA. Relation of body mass and alcohol, nutrient, fiber, and caffeine intakes to blood pressure in the special intervention and usual care groups in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):338S-365S.</citation>
+    <PMID>8988947</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler J, Dolecek TA. Relation of food and nutrient intakes to body mass in the special intervention and usual care groups in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):366S-373S.</citation>
+    <PMID>8988948</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler J, Rains-Clearman D, Lenz-Litzow K, Tillotson JL, Grandits GA. Relation of smoking at baseline and during trial years 1-6 to food and nutrient intakes and weight in the special intervention and usual care groups in the Multiple Risk Factor Intervention Trial. Am J Clin Nutr. 1997 Jan;65(1 Suppl):374S-402S.</citation>
+    <PMID>8988949</PMID>
+  </reference>
+  <reference>
+    <citation>Sherwin R, Sengupta A, Havas S. Blood pressure in minorities screened for the Multiple Risk Factor Intervention Trial (MRFIT). Public Health Rep. 1996;111 Suppl 2:68-70.</citation>
+    <PMID>8898781</PMID>
+  </reference>
+  <reference>
+    <citation>Coughlin SS, Neaton JD, Sengupta A. Cigarette smoking as a predictor of death from prostate cancer in 348,874 men screened for the Multiple Risk Factor Intervention Trial. Am J Epidemiol. 1996 May 15;143(10):1002-6.</citation>
+    <PMID>8629606</PMID>
+  </reference>
+  <reference>
+    <citation>Klag MJ, Whelton PK, Randall BL, Neaton JD, Brancati FL, Stamler J. End-stage renal disease in African-American and white men. 16-year MRFIT findings. JAMA. 1997 Apr 23-30;277(16):1293-8.</citation>
+    <PMID>9109467</PMID>
+  </reference>
+  <reference>
+    <citation>Crow RS, Prineas RJ, Hannan PJ, Grandits G, Blackburn H. Prognostic associations of Minnesota Code serial electrocardiographic change classification with coronary heart disease mortality in the Multiple Risk Factor Intervention Trial. Am J Cardiol. 1997 Jul 15;80(2):138-44.</citation>
+    <PMID>9230148</PMID>
+  </reference>
+  <reference>
+    <citation>Leon AS, Myers MJ, Connett J. Leisure time physical activity and the 16-year risks of mortality from coronary heart disease and all-causes in the Multiple Risk Factor Intervention Trial (MRFIT). Int J Sports Med. 1997 Jul;18 Suppl 3:S208-15.</citation>
+    <PMID>9272851</PMID>
+  </reference>
+  <reference>
+    <citation>Shaten BJ, Kuller LH, Kjelsberg MO, Stamler J, Ockene JK, Cutler JA, Cohen JD. Lung cancer mortality after 16 years in MRFIT participants in intervention and usual-care groups. Multiple Risk Factor Intervention Trial. Ann Epidemiol. 1997 Feb;7(2):125-36.</citation>
+    <PMID>9099400</PMID>
+  </reference>
+  <reference>
+    <citation>Brancati FL, Whelton PK, Randall BL, Neaton JD, Stamler J, Klag MJ. Risk of end-stage renal disease in diabetes mellitus: a prospective cohort study of men screened for MRFIT. Multiple Risk Factor Intervention Trial. JAMA. 1997 Dec 17;278(23):2069-74.</citation>
+    <PMID>9403420</PMID>
+  </reference>
+  <reference>
+    <citation>Davey Smith G, Neaton JD, Wentworth D, Stamler R, Stamler J. Mortality differences between black and white men in the USA: contribution of income and other risk factors among men screened for the MRFIT. MRFIT Research Group. Multiple Risk Factor Intervention Trial. Lancet. 1998 Mar 28;351(9107):934-9.</citation>
+    <PMID>9734939</PMID>
+  </reference>
+  <reference>
+    <citation>Evans RW, Shaten BJ, Day BW, Kuller LH. Prospective association between lipid soluble antioxidants and coronary heart disease in men. The Multiple Risk Factor Intervention Trial. Am J Epidemiol. 1998 Jan 15;147(2):180-6. Review.</citation>
+    <PMID>9457009</PMID>
+  </reference>
+  <reference>
+    <citation>Vaccaro O, Stamler J, Neaton JD. Sixteen-year coronary mortality in black and white men with diabetes screened for the Multiple Risk Factor Intervention Trial (MRFIT). Int J Epidemiol. 1998 Aug;27(4):636-41.</citation>
+    <PMID>9758118</PMID>
+  </reference>
+  <reference>
+    <citation>Evans RW, Shaten BJ, Hempel JD, Cutler JA, Kuller LH; MRFIT Research Group. Homocyst(e)ine and risk of cardiovascular disease in the multiple risk factor intervention trial. Indian Heart J. 2000 Nov-Dec;52(7 Suppl):S44-52.</citation>
+    <PMID>11339440</PMID>
+  </reference>
+  <reference>
+    <citation>Evans RW, Shpilberg O, Shaten BJ, Ali S, Kamboh MI, Kuller LH. Prospective association of lipoprotein(a) concentrations and apo(a) size with coronary heart disease among men in the Multiple Risk Factor Intervention Trial. J Clin Epidemiol. 2001 Jan;54(1):51-7.</citation>
+    <PMID>11165468</PMID>
+  </reference>
+  <reference>
+    <citation>Simon JA, Fong J, Bernert JT Jr, Browner WS. Serum fatty acids and the risk of fatal cancer. MRFIT Research Group. Multiple Risk Factor Intervention Trial. Am J Epidemiol. 1998 Nov 1;148(9):854-8.</citation>
+    <PMID>9801015</PMID>
+  </reference>
+  <reference>
+    <citation>Davey Smith G, Bracha Y, Svendsen KH, Neaton JD, Haffner SM, Kuller LH; Multiple Risk Factor Intervention Trial Research Group. Incidence of type 2 diabetes in the randomized multiple risk factor intervention trial. Ann Intern Med. 2005 Mar 1;142(5):313-22.</citation>
+    <PMID>15738450</PMID>
+  </reference>
+  <verification_date>March 2005</verification_date>
+  <lastchanged_date>June 2, 2015</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antihypertensive Agents</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

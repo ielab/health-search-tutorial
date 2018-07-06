@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204555">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000421</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01AR044690</org_study_id>
+    <secondary_id>R01AR044690</secondary_id>
+    <nct_id>NCT00000421</nct_id>
+  </id_info>
+  <brief_title>Serologically Active, Clinically Stable Systemic Lupus Erythematosus</brief_title>
+  <acronym>SACS-SLE</acronym>
+  <official_title>Serologically Active, Clinically Stable Systemic Lupus Erythematosus (SLE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York University School of Medicine</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The first part of this study will use the database of a large, ongoing NIH-sponsored lupus
+      study, Safety of Estrogen in Lupus Erythematosus National Assessment. We will examine the
+      levels of a blood protein known as C3a in a series of patient blood samples to see if C3a
+      levels predict lupus flares or are better than other blood tests, and therefore should be
+      used more widely in managing lupus. In the second part of the study we will add or increase
+      prednisone treatment on the basis of abnormalities in blood tests for C3a and dsDNA
+      antibodies. Early treatment based on increases in C3a and dsDNA antibodies, before the
+      patient develops physical signs of disease, may reduce lupus flares and, ultimately, the
+      patient's total steroid exposure.
+
+      We will follow study participants for 1 year on a monthly basis and do full physical
+      examinations and laboratory evaluations. If C3a and dsDNA antibody levels are increased
+      significantly above baseline levels while a patient is clinically stable, we will give the
+      patient either prednisone or an inactive pill (placebo) for 1 month. We will follow these
+      patients monthly to compare how often lupus flares occur in the two groups. This approach
+      could provide a novel method of preventing lupus flares, using C3a as a sensitive predictor
+      of flare.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In lupus, serial evaluation of dsDNA antibody titers and complement (C3 and C4) in blood
+      samples have been useful in assessing disease activity in patients. High levels of C3a, a
+      split product of C3, are particularly sensitive and reflective of lupus flares. Our study
+      looks at whether elevations in C3a can predict lupus flares and how C3a compares with other
+      conventional blood indicators such as dsDNA antibody, C3, C4, and CH50. The utility of
+      serial anti-dsDNA antibodies and complement measurements in clinical decision-making for
+      people with systemic lupus erythematosus (SLE) remains controversial. This study has two
+      specific parts designed to address these issues.
+
+      In the first, we will take advantage of a unique opportunity to collaborate with a large,
+      multicenter NIH-sponsored protocol, the Safety of Estrogens in Systemic Lupus National
+      Assessment (SELENA) trial. We will perform an observational study of approximately 1,000
+      women enrolled in the SELENA trial to assess the sensitivity, specificity, and predictive
+      value of anti-dsDNA antibodies, C3, C4, CH50, and C3a desArg. Using samples from patients
+      enrolled in the SELENA study, we will perform subgroup analyses in diverse ethnic groups,
+      patients treated with exogenous estrogen, and patients with chronically depressed CH50.
+
+      In the second-an interventional study-we will evaluate the effectiveness of short-term
+      corticosteroid treatment in averting flares when elevations of plasma C3a are accompanied by
+      rising anti-dsDNA antibody. We will determine whether corticosteroid treatment reduces the
+      frequency of clinical flare, serological abnormalities, or disease activity in inactive or
+      stable patients. We will explore whether steroids disproportionately exacerbate or initiate
+      comorbid medical conditions (e.g., hypertension, diabetes) that may be more prevalent among
+      minority patients. The studies should result in observations that lead to rational,
+      cost-effective, and evidence-based guidelines that improve the treatment of patients with
+      SLE and-by decreasing the morbidity of disease-result in significant improvement of their
+      quality of life.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1997</start_date>
+  <completion_date type="Actual">August 2003</completion_date>
+  <primary_completion_date type="Actual">August 2002</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Clinical flare with or without serological flare, or serological flare while clinically stable</measure>
+    <time_frame>18 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">154</enrollment>
+  <condition>Systemic Lupus Erythematosus</condition>
+  <arm_group>
+    <arm_group_label>Prednisone arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients who remained clinically stable but showed serologic evidence of a lupus flare (elevation of both the anti-dsDNA level by 25% and the C3a level by 50% over the previous 1-2 monthly visits) were randomized receive either prednisone or placebo therapy at a dosage of 30 mg/day for 2 weeks, 20 mg/day for 1 week and 10 mg/day for 1 week.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients who remained clinically stable but showed serologic evidence of a lupus flare (elevation of both the anti-dsDNA level by 25% and the C3a level by 50% over the previous 1-2 monthly visits) were randomized receive either prednisone or placebo therapy at a dosage of 30 mg/day for 2 weeks, 20 mg/day for 1 week and 10 mg/day for 1 week.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prednisone</intervention_name>
+    <arm_group_label>Prednisone arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets ACR criteria for SLE
+
+          -  Inactive or stable in lupus activity
+
+          -  History of positive dsDNA
+
+          -  Current prednisone dose no more than 15 mg daily
+
+        Exclusion Criteria:
+
+          -  Active infections
+
+          -  Poorly controlled diabetes mellitus
+
+          -  Pregnancy
+
+          -  Uncontrolled hypertension
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steven B. Abramson</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital for Joint Diseases</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Office of Betty Diamond, M.D.</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore-Long Island Jewish Health System</name>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lenox Hill Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10002</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Belmont HM, Hopkins P, Edelson HS, Kaplan HB, Ludewig R, Weissmann G, Abramson S. Complement activation during systemic lupus erythematosus. C3a and C5a anaphylatoxins circulate during exacerbations of disease. Arthritis Rheum. 1986 Sep;29(9):1085-9.</citation>
+    <PMID>3489467</PMID>
+  </reference>
+  <reference>
+    <citation>Hopkins P, Belmont HM, Buyon J, Philips M, Weissmann G, Abramson SB. Increased levels of plasma anaphylatoxins in systemic lupus erythematosus predict flares of the disease and may elicit vascular injury in lupus cerebritis. Arthritis Rheum. 1988 May;31(5):632-41.</citation>
+    <PMID>3259882</PMID>
+  </reference>
+  <reference>
+    <citation>Buyon JP, Tamerius J, Belmont HM, Abramson SB. Assessment of disease activity and impending flare in patients with systemic lupus erythematosus. Comparison of the use of complement split products and conventional measurements of complement. Arthritis Rheum. 1992 Sep;35(9):1028-37.</citation>
+    <PMID>1418018</PMID>
+  </reference>
+  <results_reference>
+    <citation>Tseng CE, Buyon JP, Kim M, Belmont HM, Mackay M, Diamond B, Marder G, Rosenthal P, Haines K, Ilie V, Abramson SB. The effect of moderate-dose corticosteroids in preventing severe flares in patients with serologically active, but clinically stable, systemic lupus erythematosus: findings of a prospective, randomized, double-blind, placebo-controlled trial. Arthritis Rheum. 2006 Nov;54(11):3623-32.</citation>
+    <PMID>17075807</PMID>
+  </results_reference>
+  <verification_date>November 2015</verification_date>
+  <lastchanged_date>November 11, 2015</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SLE</keyword>
+  <keyword>Lupus</keyword>
+  <keyword>Anti-double-stranded DNA antibody</keyword>
+  <keyword>Corticosteroid treatment</keyword>
+  <keyword>Hormone therapy</keyword>
+  <keyword>Complement</keyword>
+  <keyword>Hypertension</keyword>
+  <keyword>Estrogen</keyword>
+  <keyword>SELENA</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lupus Erythematosus, Systemic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Prednisone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

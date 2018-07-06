@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204384">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000593</url>
+  </required_header>
+  <id_info>
+    <org_study_id>313</org_study_id>
+    <nct_id>NCT00000593</nct_id>
+  </id_info>
+  <brief_title>Viral Activation Transfusion Study (VATS)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the trial was to determine if transfusion of allogeneic blood to HIV-1
+      infected persons led to immune activation and consequent induction of HIV-1 or /or
+      Cytomegalovirus (CMV) replication, and whether this adversely affected clinical prognosis.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The initiative was approved by the NHLBI AIDS Ad Hoc Working Group and given concept
+      clearance by the September 1993 National Heart, Lung, and Blood Advisory Council. The
+      initiative was released in January 1994.
+
+      DESIGN NARRATIVE:
+
+      Patient enrollment started in August 1995. Patients scheduled for transfusion were entered
+      into the study at the time of their first transfusion and randomized to receive leukopoor
+      red cells filtered within 24 hours of collection or unmanipulated blood components. Patients
+      received blood as per their treatment arm as needed for one or two years. Patients were
+      stratified to those with CD4 counts below 50 /MM3 (most patients) and those with CD4 counts
+      above that level. Primary endpoints were overall survival and a change in HIV viremia after
+      the 1st transfusion. The secondary endpoint was the occurrence of a new AIDS-defining
+      complication. A substudy looked at donor lymphocytes in the immunosuppressed recipients to
+      help determine why AIDS patients don't seem to get post-transfusion graft-vs-host disease.
+      The patient recruitment time was extended for one year because of low accrual. With new
+      drugs, especially protease inhibitors, the proportion of patients needing transfusion has
+      decreased. The patients are less severely ill and their disease produces less anemia.
+      Furthermore, the new drugs don't have anemia as a side effect. The trial ended in January,
+      2000.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 1994</start_date>
+  <completion_date>March 2001</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Acquired Immunodeficiency Syndrome</condition>
+  <condition>Blood Transfusion</condition>
+  <condition>Cytomegalovirus Infections</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>blood transfusion</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        HIV-infected patients with CD4 counts below 250 who clinically needed red blood cell
+        transfusions.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Leslie Kalish</last_name>
+    <affiliation>New England Research Institute, Inc.</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Busch MP, Collier A, Gernsheimer T, Carrington JD, Flanigan TP, Kashkari M, Kennedy M, Kumar PN, Lane TA, Mellors JW, Mohandas K, Pollard RB, Viele M, Yomtovian R, Holland PV, McCurdy PR. The Viral Activation Transfusion Study (VATS): rationale, objectives, and design overview. Transfusion. 1996 Oct;36(10):854-9. Review.</citation>
+    <PMID>8863770</PMID>
+  </reference>
+  <reference>
+    <citation>Lee TH, Sakahara NS, Fiebig EW, Hirschkorn DF, Johnson DK, Busch MP. Quantitation of white cell subpopulations by polymerase chain reaction using frozen whole-blood samples. Viral Activation Transfusion Study. Transfusion. 1998 Mar;38(3):262-70.</citation>
+    <PMID>9563406</PMID>
+  </reference>
+  <reference>
+    <citation>Kalish LA, Collier AC, Flanigan TP, Kumar PN. Plasma human immunodeficiency virus (HIV) type 1 RNA load in men and women with advanced HIV-1 disease. J Infect Dis. 2000 Aug;182(2):603-6. Epub 2000 Jul 21.</citation>
+    <PMID>10915096</PMID>
+  </reference>
+  <reference>
+    <citation>Collier AC, Kalish LA, Busch MP, Gernsheimer T, Assmann SF, Lane TA, Asmuth DM, Lederman MM, Murphy EL, Kumar P, Kelley M, Flanigan TP, McMahon DK, Sacks HS, Kennedy MS, Holland PV; Viral Activation Transfusion Study Group. Leukocyte-reduced red blood cell transfusions in patients with anemia and human immunodeficiency virus infection: the Viral Activation Transfusion Study: a randomized controlled trial. JAMA. 2001 Mar 28;285(12):1592-601.</citation>
+    <PMID>11268267</PMID>
+  </reference>
+  <reference>
+    <citation>Lane TA, Gernsheimer T, Mohandas K, Assmann SF. Signs and symptoms associated with the transfusion of WBC-reduced RBCs and non-WBC-reduced RBCs in patients with anemia and HIV infection: results from the Viral Activation Transfusion Study. Transfusion. 2002 Feb;42(2):265-74.</citation>
+    <PMID>11896345</PMID>
+  </reference>
+  <reference>
+    <citation>Brecher ME, Triulzi DJ, Assmann SF; Viral Activation Transfusion Study. Number of RBC units and rate of transfusionto anemic HIV-positive patients assigned to receiveWBC-reduced or non-WBC-reduced RBCs: the viral activation transfusion study experience. Transfusion. 2001 Jun;41(6):794-8.</citation>
+    <PMID>11399822</PMID>
+  </reference>
+  <reference>
+    <citation>Kennedy MS, Kalish LA, Mohandas K, Gernsheimer T, Townsend-McCall D; Viral Activation Transfusion Study Group. The transfusion trigger and number of units transfused in patients with HIV: associations with disease stage and functional status. Transfusion. 2002 Apr;42(4):456-61.</citation>
+    <PMID>12076293</PMID>
+  </reference>
+  <reference>
+    <citation>Asmuth DM, Kalish LA, Laycock ME, Murphy EL, Mohr BA, Lee TH, Gallarda J, Giachetti C, Dollard SC, van der Horst CM, Grant RM, Busch MP; Viral Activation Transfusion Study Group. Absence of HBV and HCV, HTLV-I and -II, and human herpes virus-8 activation after allogeneic RBC transfusion in patients with advanced HIV-1 infection. Transfusion. 2003 Apr;43(4):451-8.</citation>
+    <PMID>12662277</PMID>
+  </reference>
+  <reference>
+    <citation>Ariga H, Lee TH, Laycock ME, Mohr BA, Kalish LA, Yomtovian R, Gernsheimer T, Busch MP; Viral Activation Transfusion Study. Residual WBC subsets in filtered prestorage RBCs. Transfusion. 2003 Jan;43(1):98-106.</citation>
+    <PMID>12519437</PMID>
+  </reference>
+  <reference>
+    <citation>Drew WL, Chou S, Miner RC, Mohr BA, Busch MP, van der Horst CM, Asmuth DM, Kalish LA. Cytomegalovirus glycoprotein B groups in human immunodeficiency virus-infected patients with incident retinitis. J Infect Dis. 2002 Jul 1;186(1):114-7. Epub 2002 May 22.</citation>
+    <PMID>12089671</PMID>
+  </reference>
+  <reference>
+    <citation>Eisenbud R, Assmann SF, Kalish LA, van Der Horst C, Collier AC; Viral Activation Transfusion Study Group. Differences in difficulty adjudicating clinical events in patients with advanced HIV disease. J Acquir Immune Defic Syndr. 2001 Sep 1;28(1):43-6.</citation>
+    <PMID>11579276</PMID>
+  </reference>
+  <reference>
+    <citation>Yomtovian R, Gernsheimer T, Assmann SF, Mohandas K, Lee TH, Kalish LA, Busch MP; Viral Activation Transfusion Study Group. WBC reduction in RBC concentrates by prestorage filtration: multicenter experience. Transfusion. 2001 Aug;41(8):1030-6.</citation>
+    <PMID>11493735</PMID>
+  </reference>
+  <reference>
+    <citation>Kruskall MS, Lee TH, Assmann SF, Laycock M, Kalish LA, Lederman MM, Busch MP; Viral Activation Transfusion Study Group. Survival of transfused donor white blood cells in HIV-infected recipients. Blood. 2001 Jul 15;98(2):272-9.</citation>
+    <PMID>11435293</PMID>
+  </reference>
+  <reference>
+    <citation>Murphy EL, Collier AC, Kalish LA, Assmann SF, Para MF, Flanigan TP, Kumar PN, Mintz L, Wallach FR, Nemo GJ; Viral Activation Transfusion Study Investigators. Highly active antiretroviral therapy decreases mortality and morbidity in patients with advanced HIV disease. Ann Intern Med. 2001 Jul 3;135(1):17-26.</citation>
+    <PMID>11434728</PMID>
+  </reference>
+  <reference>
+    <citation>Para MF, Kalish LA, Collier AC, Murphy EL, Drew WL; Viral Activation Transfusion Study Group. Correlates of change in cytomegalovirus viremia in patients with advanced human immunodeficiency virus infection who require transfusion. J Infect Dis. 2001 Jun 1;183(11):1673-7. Epub 2001 Apr 27.</citation>
+    <PMID>11343218</PMID>
+  </reference>
+  <reference>
+    <citation>Para MF, Kalish LA, Collier AC, Pollard RB, Kumar PN, Mintz L, Wallach FR, Drew WL; Viral Activation Transfusion Study (VATS) Group. Qualitative and quantitative PCR measures of cytomegalovirus in patients with advanced HIV infection who require transfusions. J Acquir Immune Defic Syndr. 2001 Apr 1;26(4):320-5.</citation>
+    <PMID>11317072</PMID>
+  </reference>
+  <verification_date>December 2005</verification_date>
+  <lastchanged_date>January 3, 2006</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+    <mesh_term>Cytomegalovirus Infections</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Immunologic Deficiency Syndromes</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

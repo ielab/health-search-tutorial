@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204184">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000796</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 238</org_study_id>
+    <secondary_id>CPCRA 026</secondary_id>
+    <secondary_id>11215</secondary_id>
+    <nct_id>NCT00000796</nct_id>
+  </id_info>
+  <brief_title>A Prospective Study of Multidrug Resistance and a Pilot Study of the Safety of and Clinical and Microbiologic Response to Levofloxacin in Combination With Other Antimycobacterial Drugs for Treatment of Multidrug-Resistant Pulmonary Tuberculosis (MDRTB) in HIV-Infected Patients.</brief_title>
+  <official_title>A Prospective Study of Multidrug Resistance and a Pilot Study of the Safety of and Clinical and Microbiologic Response to Levofloxacin in Combination With Other Antimycobacterial Drugs for Treatment of Multidrug-Resistant Pulmonary Tuberculosis (MDRTB) in HIV-Infected Patients.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the demographic, behavioral, clinical, and geographic risk factors associated
+      with the occurrence of multidrug-resistant pulmonary tuberculosis (MDRTB). To evaluate the
+      clinical and microbiological responses and overall survival of MDRTB patients who are
+      treated with levofloxacin-containing multiple-drug regimens chosen from a hierarchical list.
+      Per 9/28/94 amendment, to assess whether persistent or recurrent positive sputum cultures of
+      patients who show failure or relapse are due to the same strain or reinfection with a new
+      strain.
+
+      Among TB patients, there has been an increase in progressive disease due to the emergence of
+      antimycobacterial drug-resistant strains of Mycobacterium tuberculosis. Failure to identify
+      patients at high risk for MDRTB increases the hazard for both treatment failure and
+      development of resistance to additional therapeutic agents. Efforts to improve survival in
+      patients with MDRTB will depend on improved methods of assessing the risk of acquisition of
+      MDRTB and identifying drug susceptibility patterns in a timely fashion.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Among TB patients, there has been an increase in progressive disease due to the emergence of
+      antimycobacterial drug-resistant strains of Mycobacterium tuberculosis. Failure to identify
+      patients at high risk for MDRTB increases the hazard for both treatment failure and
+      development of resistance to additional therapeutic agents. Efforts to improve survival in
+      patients with MDRTB will depend on improved methods of assessing the risk of acquisition of
+      MDRTB and identifying drug susceptibility patterns in a timely fashion.
+
+      Patients are asked a series of questions to determine epidemiologic factors that may be
+      predictive of MDRTB. Patients who are determined to be at low risk for MDRTB will be
+      referred to another TB treatment protocol (ACTG 222), if appropriate. Patients suspected of
+      having primary or acquired MDRTB or those with confirmed MDRTB will be offered a regimen of
+      anti-TB therapy from a hierarchically ordered list of drugs, based on the patient's
+      resistance status (suspect primary MDRTB, suspect acquired MDRTB, or confirmed MDRTB). The
+      hierarchical list is as follows: isoniazid, rifampin, ethambutol, streptomycin,
+      levofloxacin, ethionamide, cycloserine, capreomycin, aminosalicylic acid, and clofazimine.
+      Treatment will be administered daily for at least 6 months, then on an intermittent schedule
+      at the clinician's discretion. Patients with confirmed MDRTB (defined as known resistance to
+      at least isoniazid and rifampin within 6 months prior to study entry) will receive a minimum
+      of 18 months of treatment following sputum culture conversion. Follow-up is performed every
+      4 weeks for 8 weeks, and then every 8 weeks.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">October 1998</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Primary Purpose: Treatment</study_design>
+  <enrollment>525</enrollment>
+  <condition>HIV Infections</condition>
+  <condition>Tuberculosis</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cycloserine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ethionamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Capreomycin sulfate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aminosalicylic acid</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Streptomycin sulfate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ethambutol hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amikacin sulfate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Isoniazid</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pyrazinamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pyridoxine hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Levofloxacin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rifampin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clofazimine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Patients must have:
+
+          -  Working diagnosis of HIV infection.
+
+          -  Working diagnosis of pulmonary TB.
+
+        Per 08/02/94 amendment, patients with confirmed MDRTB or known susceptibilities for the
+        current episode at baseline are not eligible for the epidemiologic study only.
+
+        FOR TREATMENT PILOT:
+
+          -  Positive sputum AFB smear (or a positive sputum culture for TB within 6 months prior
+             to study entry).
+
+          -  Assessment of suspect primary, suspect acquired, AND/OR confirmed MDRTB.
+
+          -  Life expectancy of at least 2 weeks.
+
+          -  Age &gt;= 18 years for suspect MDRTB. Age &gt;= 13 years for confirmed MDRTB.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Known hypersensitivity or resistance to quinolones.
+
+          -  Other disorders or conditions for which the study drugs are contraindicated.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  More than 6 weeks total therapy within 3 months prior to study entry using three or
+             more drugs effective against the isolates. (Per 08/02/94 amendment, patients from
+             protocol ACTG 222/CPCRA 019 who have MDRTB are eligible for rollover to this study
+             regardless of treatment duration on ACTG 222/CPCRA 019.)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Telzak E</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Benson C</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Chirgwin K</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Sepkowitz K</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cook County Hosp</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hosp</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Lebanon Hosp Ctr</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Municipal Hosp Ctr/Jacobi Med Ctr</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Health Care Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jack Weiler Hosp / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10465</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Drug Treatment Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Family Health Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Med Ctr / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Central Bronx Hosp / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samaritan Village Inc / Bronx Municipal Hosp</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Interfaith Med Ctr</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>112032098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY / Health Sciences Ctr at Brooklyn</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>112032098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bellevue Hosp / New York Univ Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Directors Network of Region II</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia Presbyterian Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>100323784</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cornell Univ Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harlem AIDS Treatment Group / Harlem Hosp Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Clare's Hosp and Health Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10019</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=109</url>
+    <description>Click here for more information about Rifampin</description>
+  </link>
+  <link>
+    <url>http://aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=123</url>
+    <description>Click here for more information about Isoniazid</description>
+  </link>
+  <reference>
+    <citation>Telzak EE, Chirgwin KD, Nelson ET, Matts JP, Sepkowitz KA, Benson CA, Perlman DC, El-Sadr WM. Predictors for multidrug-resistant tuberculosis among HIV-infected patients and response to specific drug regimens. Terry Beirn Community Programs for Clinical Research on AIDS (CPCRA) and the AIDS Clinical Trials Group (ACTG), National Institutes for Health. Int J Tuberc Lung Dis. 1999 Apr;3(4):337-43.</citation>
+    <PMID>10206505</PMID>
+  </reference>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 30, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Isoniazid</keyword>
+  <keyword>Tuberculosis, Pulmonary</keyword>
+  <keyword>Pyrazinamide</keyword>
+  <keyword>Pyridoxine</keyword>
+  <keyword>Ofloxacin</keyword>
+  <keyword>Rifampin</keyword>
+  <keyword>AIDS-Related Opportunistic Infections</keyword>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Ethambutol</keyword>
+  <keyword>Clofazimine</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Amikacin</keyword>
+  <keyword>Drug Resistance, Microbial</keyword>
+  <keyword>Cycloserine</keyword>
+  <keyword>Capreomycin Sulfate</keyword>
+  <keyword>Ethionamide</keyword>
+  <keyword>Aminosalicylic Acids</keyword>
+  <keyword>Streptomycin</keyword>
+  <keyword>p-Aminosalicylic Acid</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Tuberculosis</mesh_term>
+    <mesh_term>Tuberculosis, Pulmonary</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Amikacin</mesh_term>
+    <mesh_term>Aminosalicylic Acid</mesh_term>
+    <mesh_term>Anti-Bacterial Agents</mesh_term>
+    <mesh_term>Capreomycin</mesh_term>
+    <mesh_term>Clofazimine</mesh_term>
+    <mesh_term>Cycloserine</mesh_term>
+    <mesh_term>Ethambutol</mesh_term>
+    <mesh_term>Ethionamide</mesh_term>
+    <mesh_term>Isoniazid</mesh_term>
+    <mesh_term>Levofloxacin</mesh_term>
+    <mesh_term>Ofloxacin</mesh_term>
+    <mesh_term>Pyrazinamide</mesh_term>
+    <mesh_term>Pyridoxine</mesh_term>
+    <mesh_term>Rifampin</mesh_term>
+    <mesh_term>Streptomycin</mesh_term>
+    <mesh_term>Vitamin B 6</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

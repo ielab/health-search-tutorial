@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204410">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000567</url>
+  </required_header>
+  <id_info>
+    <org_study_id>205</org_study_id>
+    <nct_id>NCT00000567</nct_id>
+  </id_info>
+  <brief_title>High Frequency Ventilation in Premature Infants (HIFI)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare the efficacy and safety of high frequency ventilation (HFV) with that of
+      standard, mechanical ventilation in premature infants of less than 2000 grams.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      In the early 1980s, there was increasing concern that the dramatic improvement in the
+      survival of immature infants had been accompanied by an increase in incidence of pulmonary
+      complications, some seriously crippling and eventually fatal. Both barotrauma and oxygen
+      toxicity had been considered in the pathogenesis of these disorders; circulatory disorders
+      as a result of failure of closure of the ductus arteriosus or fluid overload had also been
+      proposed as contributory factors. Reports of successful application of the principles of
+      high frequency ventilation (HFV) in the treatment of infants with RDS and particularly those
+      with severe interstitial emphysema raised hopes that this technique might prevent barotrauma
+      to the lungs and stimulated physicians and engineers to develop new equipment useful in
+      ventilating small infants.
+
+      Although HFV had not been evaluated either with regard to efficacy or safety and although
+      results of fundamental studies had not provided a good understanding of how gas exchange
+      occurred during HFV, there was considerable interest in introducing this type of ventilatory
+      support in neonatal intensive care. HFV involves the use of small tidal volumes, delivered
+      at respiratory frequencies ranging from 1 to 40 Hz with the aid of, for example, a piston
+      pump or a high speed jet of gas. Compared to conventional mechanical ventilation, HFV offers
+      several potential advantages, including reduced intrapulmonary pressure swings and
+      fluctuation in alveolar pressures and the possibility of lowered levels of inspired oxygen.
+      At that time, theories suggested that HFV produced a pattern of flow that enhanced gas
+      mixing and 'homogenized' the distribution of ventilation. Experimental observations in adult
+      animals (cats, dogs and rabbits) or healthy newborn lambs had shown HFV to be effective in
+      promoting gas exchange without apparent adverse effects. Studies in prematurely delivered
+      subhuman primates, that develop RDS and subsequently bronchopulmonary dysplasia
+      indistinguishable from that of human infants, supported the notion the HFV could provide
+      better oxygenation and lower C02 levels than conventional mechanical ventilation at similar
+      mean airway pressure. The HIFI trial provided badly needed controlled data on the safety and
+      efficacy of HFV in premature infants.
+
+      Phase I, the Planning Phase, was initiated in August 1984. Recruitment and intervention
+      began in February 1986 and ended in March 1987. Follow-up studies continued thru September
+      1988.
+
+      DESIGN NARRATIVE:
+
+      Subjects were randomized to either standard mechanical ventilation or high frequency
+      ventilation. The principal endpoint was the incidence of bronchopulmonary dysplasia defined
+      as: the need for supplemental oxygen on the 28th postnatal day and for more than 21 of the
+      first 28 days after birth; and abnormal chest radiographic findings that persisted until the
+      28th day of age. Other endpoints included the need for ventilatory support, the incidence of
+      crossover from one form of ventilatory support to the other, and mortality rate before the
+      28th day of postnatal age. Adverse effects considered were pulmonary air leaks, severe
+      intracranial hemorrhage, and periventricular leukomalacia.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1984</start_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Bronchopulmonary Dysplasia</condition>
+  <condition>Lung Diseases</condition>
+  <condition>Respiratory Distress Syndrome</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>high-frequency ventilation</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Boy and girl infants weighing less than 2000 g. who required mechanical ventilation within
+        24 hours of birth and had been treated for less than 12 hours with conventional mechanical
+        ventilation before randomization.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>1 Year</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kenneth Poole</last_name>
+    <affiliation>RTI International</affiliation>
+  </overall_official>
+  <reference>
+    <citation>High-frequency oscillatory ventilation compared with conventional mechanical ventilation in the treatment of respiratory failure in preterm infants. The HIFI Study Group. N Engl J Med. 1989 Jan 12;320(2):88-93.</citation>
+    <PMID>2643039</PMID>
+  </reference>
+  <reference>
+    <citation>High-frequency oscillatory ventilation compared with conventional mechanical ventilation in the treatment of respiratory failure in preterm infants: assessment of pulmonary function at 9 months of corrected age. HiFi Study Group. J Pediatr. 1990 Jun;116(6):933-41.</citation>
+    <PMID>2112188</PMID>
+  </reference>
+  <verification_date>December 2005</verification_date>
+  <lastchanged_date>December 21, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bronchopulmonary Dysplasia</mesh_term>
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

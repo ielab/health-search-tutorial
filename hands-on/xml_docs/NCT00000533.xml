@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204444">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000533</url>
+  </required_header>
+  <id_info>
+    <org_study_id>76</org_study_id>
+    <nct_id>NCT00000533</nct_id>
+  </id_info>
+  <brief_title>Montreal Heart Attack Readjustment Trial (M-HART)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To examine the impact of a monitoring and social support intervention upon survival of
+      myocardial infarction patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Despite evidence that social support and various aspects of negative affect may influence
+      prognosis after a myocardial infarction, the impact of psychosocial supportive interventions
+      had not been demonstrated. Further, little was known about the impact of psychosocial and/or
+      interventions among women patients. Previous work by Nancy Frasure-Smith and colleagues
+      suggested that a one-year post-myocardial infarction program of monthly telephone monitoring
+      of psychological stress symptoms, coupled with home nursing visits for patients reporting
+      high stress levels, had an impact on one-year cardiac mortality and long-term myocardial
+      infarction recurrences among men. However, methodological difficulties prevented drawing
+      firm conclusions. A trial which corrected for these difficulties was conducted involving 948
+      post-myocardial infarction patients. However, the project was too small to study enough
+      patients to assess program impact separately for men and women. The trial was supported by
+      Canadian sources. The NHLBI supplemented the study in order to expand the sample size from
+      948 patients to 1,376 patients to allow gender analysis.
+
+      DESIGN NARRATIVE:
+
+      Randomized, with a multi-hospital design. At the time of discharge from the hospital
+      following a documented myocardial infarction, patients were randomized to treatment and
+      control groups. The control group received usual care from their physicians. In addition to
+      usual care, treatment patients were phoned monthly and responded to a standardized index of
+      psychological symptoms of stress. Those with high stress levels received home nursing visits
+      to reduce their stress. Patients in both groups took part in three interviews: in the
+      hospital, at three months, and at one year post-discharge. Interviews assessed depression,
+      anxiety, anger, self-perceived stress, social support, medication compliance, and cardiac
+      risk factors. Salivary cortisol, a physiological indicator of stress, was assessed on the
+      evening following each interview. Indicators of residual myocardial infarction, ischemia,
+      and arrhythmias were obtained from hospital charts. Outcome data were obtained from hospital
+      charts, death certificates, and Quebec Medicare data and were blindly classified by study
+      cardiologists.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 1992</start_date>
+  <completion_date>December 1996</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>N/A</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>social support</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women myocardial infarction patients.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nancy Frasure-Smith</last_name>
+    <affiliation>McGill University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Frasure-Smith N. The Montreal Heart Attack Readjustment Trial. J Cardiopulm Rehabil. 1995 Mar-Apr;15(2):103-6.</citation>
+    <PMID>8542512</PMID>
+  </reference>
+  <reference>
+    <citation>Frasure-Smith N, Lespérance F, Prince RH, Verrier P, Garber RA, Juneau M, Wolfson C, Bourassa MG. Randomised trial of home-based psychosocial nursing intervention for patients recovering from myocardial infarction. Lancet. 1997 Aug 16;350(9076):473-9.</citation>
+    <PMID>9274583</PMID>
+  </reference>
+  <verification_date>March 2005</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

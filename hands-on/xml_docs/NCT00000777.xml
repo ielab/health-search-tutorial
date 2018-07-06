@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204202">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000777</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 234</org_study_id>
+    <secondary_id>VEU 102</secondary_id>
+    <secondary_id>11211</secondary_id>
+    <nct_id>NCT00000777</nct_id>
+  </id_info>
+  <brief_title>Active Immunization of HIV-1 Infected, Pregnant Women With CD4 Lymphocyte Counts &gt;= 400/mm3: A Phase I Study of Safety and Immunogenicity of VaxSyn Recombinant gp160 (NOTE: Some Patients Receive Placebo)</brief_title>
+  <official_title>Active Immunization of HIV-1 Infected, Pregnant Women With CD4 Lymphocyte Counts &gt;= 400/mm3: A Phase I Study of Safety and Immunogenicity of VaxSyn Recombinant gp160 (NOTE: Some Patients Receive Placebo)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety of gp160 vaccine (VaxSyn) in HIV-1 infected pregnant women with CD4
+      counts &gt;= 400 cells/mm3. To evaluate the immunogenicity of this vaccine in pregnant women
+      and the passive acquisition of vaccine-specific antibody in their infants.
+
+      Evidence suggests that an advanced stage of disease with high plasma viremia is associated
+      with increased transmission of HIV-1 to the fetus. Slowing the progression of disease,
+      reducing the titer of virus in plasma, and increasing the titer of epitope-specific antibody
+      are potentially attainable goals through active immunization of the mother during pregnancy.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Evidence suggests that an advanced stage of disease with high plasma viremia is associated
+      with increased transmission of HIV-1 to the fetus. Slowing the progression of disease,
+      reducing the titer of virus in plasma, and increasing the titer of epitope-specific antibody
+      are potentially attainable goals through active immunization of the mother during pregnancy.
+
+      Pregnant women are randomized to receive an initial injection of VaxSyn or alum placebo
+      between week 16 and week 24 of gestation, followed by monthly booster injections concluding
+      at the end of pregnancy, for a total of five injections. Patients may have optional booster
+      immunizations (vaccine or placebo) at 3, 6, 9, and 12 months after delivery. Mothers and
+      infants are followed through 18 months after delivery.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">July 1998</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Parallel Assignment, Primary Purpose: Treatment</study_design>
+  <enrollment>24</enrollment>
+  <condition>HIV Infections</condition>
+  <condition>Pregnancy</condition>
+  <condition>HIV Seronegativity</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>gp160 Vaccine (MicroGeneSys)</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  AZT.
+
+          -  Acyclovir.
+
+        Patients must have:
+
+          -  HIV-1 infection.
+
+          -  CD4 count &gt;= 400 cells/mm3.
+
+          -  No AIDS-defining illness or other systemic manifestations related to HIV (other than
+             generalized lymphadenopathy).
+
+          -  HIV p24 &lt; 30 pg/ml.
+
+          -  Proven pregnancy in the 16th to 24th week of gestation at study entry, with no
+             special obstetrical risks.
+
+          -  Concurrent AZT therapy is permitted.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms and conditions are excluded:
+
+          -  Known hypersensitivity to a component of the vaccine.
+
+          -  Evidence of fetal abnormality on ultrasound.
+
+          -  Evidence of maternal risk factors including insulin-dependent diabetes, moderate to
+             severe hypertension, repeated fetal wastage (&gt; 3), Rh-sensitization or other blood
+             group alloimmunization, severe renal disease, previous infants with malformations or
+             other factors that obstetrically are judged to constitute a special risk of
+             spontaneous abortion or premature birth.
+
+          -  Active syphilis.
+
+          -  Hepatitis B surface antigen positive.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Antiretroviral or immunomodulating agent other than AZT during the pregnancy.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Antiretroviral or immunomodulating agent other than AZT within 90 days prior to study
+             entry.
+
+        Current use of illicit drugs or known chronic alcohol use.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sullivan JL</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Lambert JS</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Wright PF</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Yale Univ Med School</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt Univ Hosp</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2012</verification_date>
+  <lastchanged_date>May 22, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaccines, Synthetic</keyword>
+  <keyword>Pregnancy</keyword>
+  <keyword>Pregnancy Complications, Infectious</keyword>
+  <keyword>HIV Envelope Protein gp160</keyword>
+  <keyword>AIDS Vaccines</keyword>
+  <keyword>HIV Preventive Vaccine</keyword>
+  <keyword>HIV Therapeutic Vaccine</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

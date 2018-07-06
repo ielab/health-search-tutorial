@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204517">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000460</url>
+  </required_header>
+  <id_info>
+    <org_study_id>49</org_study_id>
+    <secondary_id>R01HL037597</secondary_id>
+    <nct_id>NCT00000460</nct_id>
+  </id_info>
+  <brief_title>Training Levels Comparison Trial</brief_title>
+  <official_title>Training Levels Comparison (TLC) Trial in Patients With Coronary Heart Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the effects of high or low intensity long-term exercise conditioning in
+      patients with coronary artery disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      A vast amount of literature exists on the improvements in work capacity, reduction of risk
+      factors, and an increased feeling of well-being among coronary heart disease patients after
+      physical training programs. Previous observations of short-term training programs which
+      resulted in an increase in physical working capacity have not usually shown a cardiac
+      change. The National Exercise and Heart Disease Project did not show such changes, but the
+      exercise level may have been inadequate. Several other studies suggested that more prolonged
+      and intense training could result in improved cardiac function.
+
+      DESIGN NARRATIVE:
+
+      Patients were randomized to high intensity or low intensity long-term exercise groups.
+      Compliance was strengthened by randomizing following a sequence of eligibility visits and
+      after a test period of subject reaction to an exercise program. The primary endpoint was
+      change in exercise ejection fraction at one year. Secondary endpoints included changes in
+      lipid levels, body composition, blood pressure and heart rate measurements, glucose
+      tolerance, quality of life measures, compliance, and progression of disease. Patients were
+      classified into one of four strata based on the documented history of myocardial infarction
+      and resting left ventricular ejection fraction. Within each stratum, patients were assigned
+      in equal numbers to the two intensity levels of exercise intervention. All exercise
+      prescriptions were based on exercise testing of patients maintained on their usual medical
+      regimen including drugs. Patients underwent standardized multistage treadmill exercise
+      testing monitored by Doppler echocardiogram at baseline, just prior to randomization and at
+      the three month, six month, one year and two year visits. Patients participated in the
+      structured group exercise sessions three days per week. Each exercise session was preceded
+      by and ended with a five to fifteen minute warm-up and cool-down session. Each patient was
+      given an exercise prescription that included a 30 minute period of walking or of walking and
+      jogging sequences and 15 minutes of arm-leg bicycle ergometer exercise. Recruitment started
+      in May 1987. The last patient was enrolled in March 1990.
+    </textblock>
+  </detailed_description>
+  <overall_status>Withdrawn</overall_status>
+  <why_stopped>
+    due to lack of enrollment
+  </why_stopped>
+  <start_date>December 1986</start_date>
+  <completion_date type="Actual">March 1991</completion_date>
+  <primary_completion_date type="Actual">March 1991</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">0</enrollment>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <arm_group>
+    <arm_group_label>Low intensity exercise</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High intensity exercise</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Low intensity exercise</intervention_name>
+    <arm_group_label>Low intensity exercise</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>High intensity exercise</intervention_name>
+    <arm_group_label>High intensity exercise</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Men between the ages of 30 and 67 who respond to an advertisement for research
+        participants.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Men, ages 30 to 67, with documented coronary heart disease.
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>67 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Albert Oberman</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Lee JY, Oberman A, Fletcher GF, Raczynski JM, Fletcher BJ, Nanda NC, Jensen BE. Design of the training levels comparison trial. Control Clin Trials. 1994 Feb;15(1):59-76.</citation>
+    <PMID>8149771</PMID>
+  </reference>
+  <reference>
+    <citation>Kim JR, Oberman A, Fletcher GF, Lee JY. Effect of exercise intensity and frequency on lipid levels in men with coronary heart disease: Training Level Comparison Trial. Am J Cardiol. 2001 Apr 15;87(8):942-6; A3.</citation>
+    <PMID>11305982</PMID>
+  </reference>
+  <reference>
+    <citation>Jensen BE, Fletcher BJ, Rupp JC, Fletcher GF, Lee JY, Oberman A. Training level comparison study. Effect of high and low intensity exercise on ventilatory threshold in men with coronary artery disease. J Cardiopulm Rehabil. 1996 Jul-Aug;16(4):227-32.</citation>
+    <PMID>8872288</PMID>
+  </reference>
+  <reference>
+    <citation>Lee JY, Jensen BE, Oberman A, Fletcher GF, Fletcher BJ, Raczynski JM. Adherence in the training levels comparison trial. Med Sci Sports Exerc. 1996 Jan;28(1):47-52.</citation>
+    <PMID>8775354</PMID>
+  </reference>
+  <verification_date>November 2013</verification_date>
+  <lastchanged_date>November 18, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

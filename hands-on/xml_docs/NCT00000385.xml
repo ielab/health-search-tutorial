@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204591">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000385</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R29MH057093</org_study_id>
+    <secondary_id>R29MH057093</secondary_id>
+    <secondary_id>DSIR CT-M</secondary_id>
+    <nct_id>NCT00000385</nct_id>
+  </id_info>
+  <brief_title>Long-Term Lithium Treatment for Aggressive Conduct Disorder</brief_title>
+  <official_title>Long-Term Lithium for Aggressive Conduct Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Drexel University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Drexel University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will examine the long-term effects of lithium used to treat children and
+      adolescents with aggressive conduct disorder (severe aggression).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Psychotherapeutic agents are often administered without sufficient testing to children and
+      adolescents, often on a long-term basis, to reduce aggression. Many pressures, including
+      managed care, will increase the utilization of pharmacotherapy in the outpatient setting to
+      treat serious problems. Lithium is the most promising agent for the treatment of aggression
+      in children and adolescents. However, it has not been shown that lithium is an effective
+      treatment for these patients in the outpatient (non-hospital) setting, or on a long-term
+      basis. The purpose of this study is to examine the long-term effects of lithium used to
+      treat children and adolescents with aggressive conduct disorder (severe aggression).
+
+      The proposed study is a two-phased clinical trial of lithium for the treatment of aggression
+      in conduct disorder. Both phases are double-blind and placebo-controlled with randomization
+      and employ a parallel groups design. Phase 1 contains a short-term 8-week controlled trial,
+      with twice as many subjects randomized to lithium as placebo, increasing the pool of
+      potential lithium responders to continue to Phase 2. In Phase 2, lithium responders from
+      Phase 1 enter a 6-month long-term controlled trial. Every attempt is made to define
+      responders to lithium.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1997</start_date>
+  <completion_date type="Actual">June 2005</completion_date>
+  <primary_completion_date type="Actual">December 2003</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Overt Aggression Scale-Modified</measure>
+    <time_frame>Weekly in short term phase, Monthly in long-term phase</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Global Impressions-Improvement Item</measure>
+    <time_frame>Weekly in short term phase, Monthly in long-term phase</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Children's Psychiatric Rating Scale-Selected Items</measure>
+    <time_frame>Weekly in short term phase, Monthly in long-term phase</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IOWA</measure>
+    <time_frame>Weekly in short term phase, Monthly in long-term phase</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>DOTES</measure>
+    <time_frame>Weekly in short term phase, Monthly in long-term phase</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TESS</measure>
+    <time_frame>Weekly in short term phase, Monthly in long-term phase</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">59</enrollment>
+  <condition>Conduct Disorder</condition>
+  <condition>Aggression</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lithium 600 mg to 2700 mg per day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lithium</intervention_name>
+    <description>Lithium 600 mg to 2700 mg per day</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching placebo</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Males and females
+
+          2. Ages between 9 and 17 years.
+
+          3. Conduct disorder according to DSM-IV (As rated on the DICA-IV).
+
+          4. The aggression criterion at screening
+
+        Exclusion Criteria:
+
+          1. Mental Retardation.
+
+          2. Pervasive Developmental Disorder(s).
+
+          3. Major Depressive Disorder or Dysthymic Disorder.
+
+          4. Bipolar Disorder.
+
+          5. Psychotic Disorder (including Schizophreniform Disorder and Schizophrenia).
+
+          6. Major medical problem such as cardiac, renal, and thyroid diseases, or seizure
+             disorder.
+
+          7. History of psychoactive medication in the previous 2 weeks.
+
+          8. Current Pregnancy in females.
+
+          9. History of Substance Dependence in the past month.
+
+         10. Prior to the proposed study, a history of lithium treatment with serum lithium levels
+             of 0.4 mEq/L or higher for a cumulative period of greater than 10 days.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>9 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard P. Malone, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Drexel University College of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Drexel University College of Medicine at Friends Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2013</verification_date>
+  <lastchanged_date>November 25, 2013</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <name_title>Richard P. Malone, MD</name_title>
+    <organization>Drexel University College of Medicine</organization>
+  </responsible_party>
+  <keyword>Aggressive conduct disorder</keyword>
+  <keyword>Adolescence</keyword>
+  <keyword>Child</keyword>
+  <keyword>Conduct Disorder</keyword>
+  <keyword>Female</keyword>
+  <keyword>Lithium</keyword>
+  <keyword>Male</keyword>
+  <keyword>Placebos</keyword>
+  <keyword>Conduct Disorder -- *drug therapy</keyword>
+  <keyword>Lithium -- *therapeutic use</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Aggression</mesh_term>
+    <mesh_term>Conduct Disorder</mesh_term>
+    <mesh_term>Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lithium</mesh_term>
+    <mesh_term>Lithium Carbonate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

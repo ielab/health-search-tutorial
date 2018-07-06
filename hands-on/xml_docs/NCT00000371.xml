@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204605">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000371</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01MH054245-01A2</org_study_id>
+    <nct_id>NCT00000371</nct_id>
+  </id_info>
+  <brief_title>Trial of D-Cycloserine in Schizophrenia</brief_title>
+  <official_title>A Six Month, Placebo-Controlled Trial of D-Cycloserine Co-Administered With Conventional Antipsychotics in Schizophrenia Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To characterize further the effects of D-cycloserine augmentation of antipsychotic treatment
+      on negative symptoms, performance on neurocognitive tasks, and on markers for glutamatergic,
+      dopaminergic and serotonergic function in serum and cerebrospinal fluid. To determine if
+      negative symptoms and cognitive function improve over time, if these improvements
+      meaningfully impact quality of life factors, if they correlate with markers of neuronal
+      function, and if subpopulations can be identified according to response.
+
+      Dysfunction of glutamatergic neuronal systems has recently been implicated in the
+      pathophysiology of schizophrenia based on the finding that non-competitive inhibitors of the
+      NMDA receptor can reproduce in normals the positive symptoms, negative symptoms, and
+      cognitive deficits of schizophrenia. Furthermore, glutamatergic dysfunction may alter
+      forebrain dopaminergic neuronal activity, a system central to the antipsychotic action of
+      typical neuroleptics. It is believed that enhancing NMDA receptor function by systemic
+      treatment with D-cycloserine, a partial agonist at the glycine modulatory site of the NMDA
+      receptor, will reduce symptoms in schizophrenia.
+
+      Sixty schizophrenic outpatients with prominent, primary negative symptoms are treated with
+      antipsychotic medication and are randomly assigned to D-cycloserine or placebo for a
+      6-month, fixed-dose trial. The primary outcome measure is the total score on the Scale for
+      Assessment of Negative Symptoms (SANS). A neuropsychological battery, which emphasizes tests
+      sensitive to prefrontal cortical function, is administered. Blood is obtained at several
+      time points and CSF is obtained at Week 8 for assay of concentrations of D-cycloserine,
+      glutamate, HVA, and 5HIAA.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To characterize further the effects of D-cycloserine augmentation of antipsychotic treatment
+      on negative symptoms, performance on neurocognitive tasks, and on markers for glutamatergic,
+      dopaminergic, and serotonergic function in serum and cerebrospinal fluid. To determine if
+      negative symptoms and cognitive function improve over time, if these improvements
+      meaningfully impact quality of life factors, if they correlate with markers of neuronal
+      function, and if subpopulations can be identified according to response.
+
+      Dysfunction of glutamatergic neuronal systems has recently been implicated in the
+      pathophysiology of schizophrenia based on the finding that non-competitive inhibitors of the
+      NMDA receptor can reproduce in normals the positive symptoms, negative symptoms and
+      cognitive deficits of schizophrenia. Furthermore, glutamatergic dysfunction may alter
+      forebrain dopaminergic neuronal activity, a system central to the antipsychotic action of
+      typical neuroleptics. It is believed that enhancing NMDA receptor function by systemic
+      treatment with D-cycloserine, a partial agonist at the glycine modulatory site of the NMDA
+      receptor, will reduce symptoms in schizophrenia.
+
+      Sixty schizophrenic outpatients with prominent, primary negative symptoms are treated with
+      antipsychotic medication and are randomly assigned to D-cycloserine or placebo for a
+      6-month, fixed-dose trial. The primary outcome measure is the total score on the Scale for
+      Assessment of Negative Symptoms (SANS). A neuropsychological battery, which emphasizes tests
+      sensitive to prefrontal cortical function, is administered. Blood is obtained at several
+      time points and CSF is obtained at Week 8 for assay of concentrations of D-cycloserine,
+      glutamate, HVA, and 5HIAA.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1996</start_date>
+  <completion_date type="Actual">April 2002</completion_date>
+  <primary_completion_date type="Actual">April 2002</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Scale for the Assessment of Negative Symptoms (SANS)</measure>
+    <time_frame>Baseline, Week 4, Week 8</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The slope of SANS total score from baseline to week 8 in the treatment and placebo groups on the scale for the assessment of negative symptoms (SANS) total score. Total SANS scores range from 0-100. The SANS is comprised of 5 subscores: Affective Flattening or Blunting (score range 0-35), Alogia (score range 0-20), Avolition-Apathy (score range 0-15), Anhedonia-Asociality (score range 0-20), and Attention (0-10). For each scale, the higher the score the more prominent the negative symptoms were. The slopes were obtained by plotting the group SANS total score mean for treatment vs. placebo on Baseline, Week 4, and Week 8 and performing a random slopes model.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">60</enrollment>
+  <condition>Schizophrenia</condition>
+  <arm_group>
+    <arm_group_label>D-Cycloserine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects were given 50 mg/day of D-Cycloserine for 24 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants were given 50 mg/day of Placebo for 24 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>D-cycloserine</intervention_name>
+    <description>50 mg/daily by mouth</description>
+    <arm_group_label>D-Cycloserine</arm_group_label>
+    <other_name>Cycloserine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>50 mg/day of placebo by mouth</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of Schizophrenia as per DSM IV criteria
+
+          -  Have been treated for at least 6 months with any conventional neuroleptic
+
+          -  Have prominent negative symptoms as defined by a total score of 40 or greater on the
+             scale for the assessment of negative symptoms (SANS)
+
+        Exclusion Criteria:
+
+          -  Active alcohol or drug abuse
+
+          -  Unstable Medical Illness, seizure disorder, or other serious neurological disorder
+
+          -  Pregnant or Nursing
+
+          -  Unable to complete a cognitive battery
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Donald Goff, MD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <results_reference>
+    <citation>Goff DC, Herz L, Posever T, Shih V, Tsai G, Henderson DC, Freudenreich O, Evins AE, Yovel I, Zhang H, Schoenfeld D. A six-month, placebo-controlled trial of D-cycloserine co-administered with conventional antipsychotics in schizophrenia patients. Psychopharmacology (Berl). 2005 Apr;179(1):144-50. Epub 2004 Oct 21.</citation>
+    <PMID>15502972</PMID>
+  </results_reference>
+  <verification_date>September 2014</verification_date>
+  <lastchanged_date>September 3, 2014</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <firstreceived_results_date>August 11, 2014</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Donald C. Goff, MD</investigator_full_name>
+    <investigator_title>Director of the Schizophrenia Clinical and Research Program</investigator_title>
+  </responsible_party>
+  <keyword>Adult</keyword>
+  <keyword>Cognition</keyword>
+  <keyword>Cycloserine</keyword>
+  <keyword>Dopamine</keyword>
+  <keyword>Female</keyword>
+  <keyword>Glutamic Acid</keyword>
+  <keyword>Human</keyword>
+  <keyword>Male</keyword>
+  <keyword>Receptors, N-Methyl-D-Aspartate</keyword>
+  <keyword>Schizophrenia</keyword>
+  <keyword>Serotonin</keyword>
+  <keyword>Quality of Life</keyword>
+  <keyword>Cycloserine -- *therapeutic use</keyword>
+  <keyword>Dopamine -- blood</keyword>
+  <keyword>Dopamine -- cerebrospinal fluid</keyword>
+  <keyword>Glutamic Acid -- blood</keyword>
+  <keyword>Glutamic Acid -- cerebrospinal fluid</keyword>
+  <keyword>Serotonin -- blood</keyword>
+  <keyword>Serotonin -- cerebrospinal fluid</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Schizophrenia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cycloserine</mesh_term>
+  </intervention_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

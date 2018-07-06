@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204584">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000392</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N01MH00013</org_study_id>
+    <secondary_id>N01MH20004</secondary_id>
+    <secondary_id>N01MH20007</secondary_id>
+    <nct_id>NCT00000392</nct_id>
+  </id_info>
+  <brief_title>Phase II Study of the Efficacy of Peptide T in HIV-Positive Individuals With Cognitive Impairment.</brief_title>
+  <official_title>Phase II Study of the Efficacy of Peptide T in HIV-Positive Individuals With Cognitive Impairment.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Mental Health (NIMH)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the chemical efficacy and safety of intranasally administered peptide T on
+      neurocognitive function in HIV seropositive individuals.
+
+      Previous studies have shown that treatment with peptide T can result in cognitive
+      improvement in HIV-infected patients.
+
+      Patients are randomized to receive either peptide T or placebo for the first 6 months. All
+      patients then receive open-label peptide T for approximately 6 additional months.
+      Neuropsychologic tests are used to determine drug effects.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1990</start_date>
+  <completion_date type="Actual">August 1996</completion_date>
+  <primary_completion_date type="Actual">August 1996</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Change in Global Neurocognitive Performance z Score From Baseline</measure>
+    <time_frame>Baseline and 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher values for change in z-score represent an improvement in Neurocognitive Performance (NP)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Neurocognitive Performance Domain z Scores From Baseline</measure>
+    <time_frame>Baseline and 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Higher values for change in z-score represent an improvement in Neurocognitive Performance (NP)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">215</enrollment>
+  <condition>HIV Infections</condition>
+  <condition>Cognition Disorders</condition>
+  <arm_group>
+    <arm_group_label>Peptide T</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Peptide T given intranasally at a dosage of 2mg 3 times a day for 6 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo given intranasally at a dosage of 2mg 3 times a day for 6 months</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Peptide T</intervention_name>
+    <arm_group_label>Peptide T</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have:
+
+               1. Cognitive dysfunction on neuropsychological testing.
+
+               2. HIV antibody positivity.
+
+               3. Expected survival of 6 months.
+
+               4. EITHER no use of an antiretroviral within the past 4 weeks OR use of approved
+                  regimens of AZT, ddI, or ddC.
+
+               5. Medically stable EKG and urinalysis.
+
+               6. Given informed, written consent to participate.
+
+          -  Allowed:
+
+               1. Inhaled aerosolized pentamidine for Pneumocystis carinii pneumonia prophylaxis,
+                  dapsone, cotrimoxazole, topical antifungal agents, nystatin or ketoconazole,
+                  acyclovir.
+
+               2. Amitriptyline (up to 50 mg/day) or an equivalent dose of another antidepressant
+                  for relief of peripheral neuropathy that is expected to remain unchanged
+                  throughout the first 6 months of the study.
+
+          -  Abstinence or agree to use barrier methods of birth control / contraception during
+             the study
+
+          -  Negative pregnancy test within 30 days of study entry
+
+          -  Bilirubin &lt;= 3
+
+          -  CD4 (Must be &lt;= 500 cells/mm3 if patient is without non-cognitive HIV-related
+             symptoms. CD4 count &gt; 500 cells/mm3 allowed if patient has other (non-cognitive)
+             HIV-related symptoms. ( 0 - 100 - 200 - 300 - 400 - 500 - 600 - 700 - 800 plus.)
+
+          -  Creatinine &lt;= 1.5 mg/dl
+
+          -  Granulocytes &gt;= 750
+
+          -  Hemoglobin &gt; 8 g/dl (No more than two transfusions per month permitted.)
+
+          -  Other Lab Values Prothrombin time &gt; 70 percent of control.
+
+          -  Platelet Count &gt;= 75000 /mm3
+
+          -  SGOT(AST) &lt; 5 x ULN (ULN = upper limit of normal).
+
+        Exclusion Criteria:
+
+          -  Patients with the following are excluded:
+
+               1. History of mental retardation or learning disability.
+
+               2. Evidence of current DSM-III-R Axis I disorder within 3 months prior to study
+                  entry or past history of psychotic disorder or bipolar mania.
+
+               3. History of neurologic disorder not secondary to HIV infection (e.g., head trauma
+                  requiring medical observation or hospitalization, seizure disorder).
+
+          -  Patients with the following symptoms or conditions are excluded:
+
+               1. Kaposi's sarcoma or other malignancy likely to require chemotherapy during the
+                  first 6 months of the study.
+
+               2. Serious underlying medical problems that may complicate interpretation of the
+                  treatment results, including unstable diabetes mellitus, severe arteriosclerotic
+                  heart disease, uncontrolled hypertension, or hepatic or renal failure.
+
+               3. Non-HIV related condition that is likely to interfere with interpretation of
+                  neuropsychologic test results.
+
+               4. Inability to participate in neuropsychologic testing or unable to comply with
+                  intranasal study medication administration.
+
+          -  Excluded within 4 weeks prior to study entry:
+
+               1. Antiretrovirals except as allowed in the Patient Inclusion Criteria.
+
+               2. Psychoactive agents (e.g., benzodiazepines, antidepressants, antipsychotics,
+                  amphetamines)
+
+        Excluded within 8 weeks prior to study entry:
+
+        Long-acting psychoactive agents (e.g., Prozac).
+
+          -  Active alcohol abuse in the past 3 months, or abuse judged by the investigators as
+             likely to interfere with the analyses of neuropsychologic function. Abuse of cocaine,
+             marijuana, heroin or other opiates (including methadone), barbiturates, amphetamines
+             or other substances within the past 3 months, judged by the investigators as likely
+             to interfere with the analyses of neuropsychologic tests.
+
+          -  Positive pregnancy test within 30 days of study entry
+
+          -  No abstinence or no agreement to use barrier methods of birth control / contraception
+             during the study
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Los Angeles County - USC Med Ctr</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSD</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Miami School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Heseltine PN, Goodkin K, Atkinson JH, Vitiello B, Rochon J, Heaton RK, Eaton EM, Wilkie FL, Sobel E, Brown SJ, Feaster D, Schneider L, Goldschmidts WL, Stover ES. Randomized double-blind placebo-controlled trial of peptide T for HIV-associated cognitive impairment. Arch Neurol. 1998 Jan;55(1):41-51.</citation>
+    <PMID>9443710</PMID>
+  </reference>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>July 29, 2015</lastchanged_date>
+  <firstreceived_date>January 17, 2000</firstreceived_date>
+  <firstreceived_results_date>July 17, 2015</firstreceived_results_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cognition Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results are available for this study                                           -->
+</clinical_study>

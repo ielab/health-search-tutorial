@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204549">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000427</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P50AR044855</org_study_id>
+    <secondary_id>P50AR044855</secondary_id>
+    <secondary_id>NIAMS-015</secondary_id>
+    <nct_id>NCT00000427</nct_id>
+  </id_info>
+  <brief_title>Effects of Parathyroid Hormone in Men With Osteoporosis</brief_title>
+  <official_title>Anabolic Actions of Parathyroid Hormone in Osteoporotic Men</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alendronate is a drug that blocks or reduces bone loss, while parathyroid hormone (PTH)
+      stimulates the formation of new bone. The purpose of this study is to compare the
+      bone-building effects of PTH alone, alendronate alone, and both PTH and alendronate in men
+      with osteoporosis over a two-and-a-half year period.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Osteoporosis causes bones to weaken and break more easily. Alendronate is used to treat or
+      prevent osteoporosis. PTH is a protein hormone that increases the calcium and phosphorus
+      release from bone, leading to formation of new bone. This study will examine the changes in
+      bone density measured at multiple places in the skeleton and changes in chemicals in the
+      body that indicate bone breakdown and bone formation. The study will indicate whether some
+      breakdown of bone is required for PTH to have an overall bone-building effect in men.
+
+      Participants will be randomly assigned to receive PTH alone by daily injection under the
+      skin, alendronate alone taken by mouth, or both PTH and alendronate. The study will last 2.5
+      years. All participants will receive some form of treatment for osteoporosis. Blood, urine,
+      and bone density tests will be performed at 6-month intervals. During the first 6 months,
+      participants will come in for additional study visits.
+
+      Participants who complete the initial 2.5 years of their assigned treatment will be eligible
+      for a 12 month extension to monitor bone density and bone turnover after PTH is stopped.
+      Participants who were receiving alendronate will continue taking alendronate. The goal of
+      this extension is to determine what happens to bone density and turnover after PTH is
+      stopped and whether alendronate is needed to prevent loss of PTH-induced bone gain.
+
+      Participants who complete the 12 month extension while on their assigned treatment will be
+      eligible for a second 12 month extension in which all participants receive PTH therapy.
+      Participants who have been receiving alendronate continue taking alendronate. The goal of
+      the second extension is to determine if responsiveness to PTH is enhanced by a 12 month
+      suspension of PTH treatment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1999</start_date>
+  <completion_date type="Actual">October 2005</completion_date>
+  <primary_completion_date type="Actual">October 2005</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <enrollment>81</enrollment>
+  <condition>Osteoporosis</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Parathyroid hormone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alendronate</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Bone density of the spine or femoral neck two standard deviations below the mean of
+             young adult men
+
+          -  Normal renal and liver function tests, normal serum testosterone level, normal
+             vitamin D and PTH levels
+
+        Exclusion Criteria:
+
+          -  Significant cardiac, renal, hepatic, or malignant disease.
+
+          -  Disorders (e.g., Paget's disease, hyperthyroidism, hyperparathyroidism) or drugs
+             (e.g., steroids, anticonvulsants, lithium, bisphosphonates, calcitonin, fluoride)
+             known to affect bone metabolism
+
+          -  Active peptic ulcer disease or severe reflux
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>46 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joel S. Finkelstein, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Finkelstein JS, Klibanski A, Schaefer EH, Hornstein MD, Schiff I, Neer RM. Parathyroid hormone for the prevention of bone loss induced by estrogen deficiency. N Engl J Med. 1994 Dec 15;331(24):1618-23.</citation>
+    <PMID>7969342</PMID>
+  </reference>
+  <reference>
+    <citation>Finkelstein JS, Hayes A, Hunzelman JL, Wyland JJ, Lee H, Neer RM. The effects of parathyroid hormone, alendronate, or both in men with osteoporosis. N Engl J Med. 2003 Sep 25;349(13):1216-26. Epub 2003 Sep 20.</citation>
+    <PMID>14500805</PMID>
+  </reference>
+  <results_reference>
+    <citation>Finkelstein JS, Leder BZ, Burnett SM, Wyland JJ, Lee H, de la Paz AV, Gibson K, Neer RM. Effects of teriparatide, alendronate, or both on bone turnover in osteoporotic men. J Clin Endocrinol Metab. 2006 Aug;91(8):2882-7. Epub 2006 May 9.</citation>
+    <PMID>16684825</PMID>
+  </results_reference>
+  <verification_date>December 2013</verification_date>
+  <lastchanged_date>December 6, 2013</lastchanged_date>
+  <firstreceived_date>January 18, 2000</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Joel S. Finkelstein, MD</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Parathyroid Hormone (PTH)</keyword>
+  <keyword>Alendronate</keyword>
+  <keyword>Bone metabolism</keyword>
+  <keyword>Bone mineral density (BMD)</keyword>
+  <keyword>Bone loss</keyword>
+  <keyword>Postmenopausal osteoporosis</keyword>
+  <keyword>Osteoporosis in men</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Osteoporosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Alendronate</mesh_term>
+    <mesh_term>Hormones</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

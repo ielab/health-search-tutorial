@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204661">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000311</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09413-1</org_study_id>
+    <secondary_id>R01-09413-1</secondary_id>
+    <nct_id>NCT00000311</nct_id>
+  </id_info>
+  <brief_title>Combining Behavioral Treatment With Agonist Maintenance - 1</brief_title>
+  <official_title>Combining Behavioral Treatment With Agonist Maintenance</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate whether the community reinforcement approach (CRA)
+      plus contingency management (CM) is more effective overall than CRA only in reducing illicit
+      opioid and cocaine use during agonist maintenance treatment and at 3 and 6 month follow-up
+      after completion of study protocol, and to compare the efficacy of maintenance on
+      buprenorphine to methadone when maintenance is combined with CRA only or CRA plus CM.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>September 1999</start_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Depression</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Withdrawal symptoms</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Opioid and cocaine use</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Social and psychological functioning</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AIDS risk behavior</measure>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment>168</enrollment>
+  <condition>Cocaine-Related Disorders</condition>
+  <condition>Opioid-Related Disorders</condition>
+  <condition>Substance-Related Disorders</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Therapeutic Contracting (TC)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cognitive Behavioral Coping Skills Therapy (CBT)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Buprenorphine</intervention_name>
+    <description>Experimental Therapeutic Contracting (TC)
+Experimental Cognitive Behavioral Coping Skills Therapy (CBT)</description>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Please contact site for information.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard Schottenfeld, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Yale University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>APT Residential Services Division</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06519</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2008</verification_date>
+  <lastchanged_date>October 27, 2008</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <responsible_party>
+    <name_title>Richard S. Schottenfeld, MD</name_title>
+    <organization>Yale University School of Medicine</organization>
+  </responsible_party>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cocaine-Related Disorders</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Opioid-Related Disorders</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Buprenorphine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

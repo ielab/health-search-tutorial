@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204542">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000434</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P60AR030692</org_study_id>
+    <secondary_id>NIAMS-050</secondary_id>
+    <nct_id>NCT00000434</nct_id>
+  </id_info>
+  <brief_title>Impact of Exercise on Older Persons With Osteoarthritis</brief_title>
+  <official_title>Impact of Exercise on Older Persons With Osteoarthritis (OA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Previous studies have found that exercise can reduce pain, improve endurance for physical
+      activities, and improve cardiovascular fitness over time. However, these studies have not
+      looked at the impact of exercise programs for older adults with osteoarthritis or at how
+      long older adults continue exercising after a program is finished. This study will look at
+      the long-term effects of a structured exercise program for people aged 60 or older who have
+      osteoarthritis of the hip or knee. One goal of the exercise program is to encourage older
+      people with osteoarthritis to continue exercising.
+
+      We will randomly assign study participants to either the exercise program or a control group
+      that does not do the exercise program. We will monitor participants at the start of the
+      study, at 8 weeks, and every 3 months for 2 years after the program is completed. The
+      exercise program lasts for 8 weeks and includes an exercise part and an educational part led
+      by trained physical therapists. We believe that participants in the treatment (exercise)
+      group will show higher rates of continued exercise and higher functional status over time
+      compared to the group of people who do not participate in the exercise program.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Recent exercise interventions have demonstrated statistically significant short-term
+      improvements in muscle strength, fitness, and physical activity in people under the age of
+      70. This study seeks to determine if those same benefits can be achieved in an older
+      population (mean age 84) with osteoarthritis of the hip or knee. The study will examine the
+      long-term effects of a structured exercise program that seeks to promote adherence to
+      continued exercise.
+
+      We will randomly assign people who meet the study criteria to the exercise intervention or
+      control group. We will conduct measures at baseline, at 8 weeks, and at 3-month intervals
+      for 2 years following the intervention. The exercise component of the intervention will
+      include lower extremity muscle strengthening, range-of-motion exercises, and fitness
+      walking. An educational component will focus on arthritis self-efficacy and perceived
+      self-reported exercise efficacy. We hypothesize that treatment group participants will
+      exhibit higher rates of adherence to exercise and higher functional status outcomes over
+      time compared to controls.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 1983</start_date>
+  <completion_date type="Actual">September 2003</completion_date>
+  <primary_completion_date type="Actual">September 2003</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>Adherence to exercise</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pain and stiffness</measure>
+    <time_frame>12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">217</enrollment>
+  <condition>Osteoarthritis</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Fit and Strong! is a multi-component exercise and health education program that incorporates flexibility, aerobic conditioning, strength training, and group discussion/problem solving for lifestyle change.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Fit and Strong!</intervention_name>
+    <description>Fit and Strong! is a multi-component exercise and health education program that includes flexibility, aerobic conditioning, strength training, and group discussion/problem solving for lifestyle change.</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  60 years of age or older
+
+          -  Presence of osteoarthritis of the lower extremities with an American College of
+             Rheumatology functional class rating of I, II, or III
+
+          -  No other contraindication from a personal physician for participation in the fitness
+             walking
+
+          -  Lack of moderate-to-severe cognitive impairment as assessed by the Short Portable
+             Mental Status Questionnaire
+
+        Exclusion Criteria:
+
+          -  Under 60 years of age
+
+          -  Lack of osteoarthritis of the lower extremities
+
+          -  Contraindication from a personal physician for participation in fitness walking
+
+          -  Presence of moderate-to-severe cognitive impairment as assessed by the Short Portable
+             Mental Status Questionnaire
+
+          -  Steroid injections in either hip or knee within the previous 6 months
+
+          -  Uncomplicated knee or hip surgery within previous year
+
+          -  Complicated knee or hip surgery within previous year
+
+          -  Plans for total knee or hip replacement within the next year
+
+          -  Rheumatoid arthritis or other systemic inflammatory arthritis
+
+          -  Diabetes that is not under control
+
+          -  Current participation in a structured aerobic exercise program
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Susan Hughes</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Center for Research on Health and Aging</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Bernard Horwich Jewish Community Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60659</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Park Village</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60646</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Hughes SL, Seymour RB, Campbell R, Pollak N, Huber G, Sharma L. Impact of the fit and strong intervention on older adults with osteoarthritis. Gerontologist. 2004 Apr;44(2):217-28.</citation>
+    <PMID>15075418</PMID>
+  </reference>
+  <reference>
+    <citation>Hughes SL, Seymour RB, Campbell RT, Huber G, Pollak N, Sharma L, Desai P. Long-term impact of Fit and Strong! on older adults with osteoarthritis. Gerontologist. 2006 Dec;46(6):801-14.</citation>
+    <PMID>17169935</PMID>
+  </reference>
+  <verification_date>December 2007</verification_date>
+  <lastchanged_date>December 20, 2007</lastchanged_date>
+  <firstreceived_date>January 21, 2000</firstreceived_date>
+  <responsible_party>
+    <name_title>Susan Hughes</name_title>
+    <organization>Center for Research on Health and Aging, UIC</organization>
+  </responsible_party>
+  <keyword>Osteoarthritis</keyword>
+  <keyword>Health education</keyword>
+  <keyword>Aerobic exercise</keyword>
+  <keyword>Self-efficacy</keyword>
+  <keyword>Muscle strength</keyword>
+  <keyword>Outcomes research</keyword>
+  <keyword>Longitudinal study</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Osteoarthritis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

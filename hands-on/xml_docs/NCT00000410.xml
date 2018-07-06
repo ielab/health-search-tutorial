@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204566">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000410</url>
+  </required_header>
+  <id_info>
+    <org_study_id>U01 AR45444 NIAMS-004C</org_study_id>
+    <secondary_id>U01AR045444</secondary_id>
+    <nct_id>NCT00000410</nct_id>
+  </id_info>
+  <brief_title>Spine Patient Outcomes Research Trial (SPORT) - Intervertebral Disc Herniation</brief_title>
+  <acronym>SPORT</acronym>
+  <official_title>Spine Patient Outcomes Research Trial (SPORT): A Multicenter Randomized Trial for Intervertebral Disc Herniation (IDH)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dartmouth-Hitchcock Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute for Occupational Safety and Health (NIOSH/CDC)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Office of Research on Women's Health (ORWH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dartmouth-Hitchcock Medical Center</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study tests the effectiveness of different treatments for the three most commonly
+      diagnosed lumbar (lower) spine conditions. The purpose of the study is to learn which of two
+      commonly prescribed treatments (surgery and non-surgical therapy) works better for specific
+      types of low back pain.
+
+      In this part of the study, people with lumbar intervertebral disc herniation (damage to the
+      tissue between the bones of the lower spine, or backbone) will receive either discectomy
+      (surgical removal of herniated disc material) or non-surgical treatment. This study does not
+      cover the cost of treatment.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Low back pain is considered one of the most widely experienced health problems in the United
+      States and the world. This condition is the second most frequent condition, after the common
+      cold, for which people see a physician or lose days from work. Estimated costs to those who
+      are severely disabled from low back pain range from $30-70 billion annually. Rates of spinal
+      surgery in the U.S. have increased sharply over time, and researchers have documented
+      15-fold geographic variation in rates of these surgeries. In many cases, where one lives and
+      who one sees for the problem appear to determine the rates of surgery. Despite these trends,
+      there is little evidence proving the effectiveness of these therapies over non-surgical
+      management.
+
+      Overall, the SPORT study is a multicenter, randomized, controlled trial for the three most
+      common diagnostic groups for which spine surgery is performed: lumbar intervertebral disc
+      herniation (IDH), spinal stenosis (SpS) and spinal stenosis secondary to degenerative
+      spondylolisthesis (DS). This arm of the trial will deal with patients from the first
+      diagnostic group. The study will compare the most commonly used standard surgical treatments
+      to the most commonly used standard non-surgical treatments. We will conduct the study at 12
+      sites throughout the United States.
+
+      The primary endpoint of the study will be changes in health-related quality of life as
+      measured by the SF-36 health status questionnaire. Secondary endpoints will include patient
+      satisfaction with treatment, utility for current health in order to estimate
+      quality-adjusted life years (QALYS) as the measure for cost-effectiveness, resource use, and
+      cost.
+
+      We will follow patients at 6 weeks and 3, 6, 12, and 24 months to determine their health
+      status, function, satisfaction, and use of health care. In this arm of the trial, we
+      anticipate enrolling and randomly allocating a total of 500 participants. We will track an
+      additional observational cohort to assess health and resource outcomes (1000 participants).
+      Enrollment in the Observational cohort has been completed as of February 2003.
+
+      We will integrate data from the trial and observational cohorts to formally estimate the
+      cost-effectiveness of surgical versus non-surgical interventions for IDH, SpS, and DS. On
+      the basis of the results of this trial we will, for the first time, have scientific evidence
+      as to the relative effectiveness of surgical versus non-surgical treatment for these three
+      most commonly diagnosed lumbar spine conditions.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2000</start_date>
+  <completion_date type="Actual">April 2015</completion_date>
+  <primary_completion_date type="Actual">April 2015</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Changes in health-related quality of life as measured by the SF-36 health status questionnaire</measure>
+    <time_frame>Baseline, 6 wks, 3 and 6 mos, Annually thereafter</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Patient satisfaction with treatment</measure>
+    <time_frame>Baseline, 6 wks, 3 mos, Annually thereafter</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>utility for current health in order to estimate quality-adjusted life years (QALYS) as the measure for cost effectiveness</measure>
+    <time_frame>Baseline, 1 yr, 4 yr</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>resource utilization</measure>
+    <time_frame>Baseline, 6 wks, 3 and 6 mos, Annually thereafter</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cost</measure>
+    <time_frame>Baseline, 6 wks, 3 and 6 mos, Annually thereafter</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">501</enrollment>
+  <condition>Herniated Disc</condition>
+  <condition>Low Back Pain</condition>
+  <arm_group>
+    <arm_group_label>Surgery</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Diskectomy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-surgical intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Non-surgical treatments</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Diskectomy</intervention_name>
+    <description>The surgeon will leave the nerve root freely mobile and undamaged following the procedure. During the procedure, the surgeon may consider using loop magnification or a microscope. The surgical incision will be midline and, after reflecting the paraspinous muscles, the interlaminar level will be identified and entered. The nerve root will be clearly identified and mobilized and then gently retracted to prepare for the discectomy. Removal of the medial border of the superior facet may, in some cases, be necessary in order to have a clear view of the lateral border of the involved nerve root. Following the clear view of the nerve root and mobilization, the IDH will be approached by making a small annular incision if necessary, the fragment of disc will then be removed (i.e., limited disc excision). A search of the canal will follow removal of the fragment, along with probing of the intervertebral-foramen for residual disc or bony pathology.</description>
+    <arm_group_label>Surgery</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Non-surgical treatments</intervention_name>
+    <description>Active physical therapy modality, Education/Counseling with home exercise instruction, and an NSAID if tolerated</description>
+    <arm_group_label>Surgery</arm_group_label>
+    <arm_group_label>Non-surgical intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Duration of symptoms: 6 or more weeks.
+
+          -  Treatments tried: Non-steroidal anti-inflammatory medical therapy and physical
+             therapy.
+
+          -  Surgical screening: Persistent radicular pain provoked by moderate exercise, sitting,
+             increased abdominal pressure, decreased mobility, list (scoliosis), straight leg
+             raising.
+
+          -  Tests: MRI to confirm diagnosis and level(s).
+
+        Exclusion Criteria:
+
+          -  Previous lumbar spine surgery.
+
+          -  Not a surgical candidate for any of these reasons: Overall health which makes spinal
+             surgery too life-threatening to be an appropriate alternative, dramatic improvement
+             with conservative care, or inability (for any reason) to undergo surgery within 6
+             months.
+
+          -  Possible pregnancy.
+
+          -  Active malignancy: A patient with a history of any invasive malignancy (except
+             non-melanoma skin cancer) is ineligible unless he or she has been treated with a
+             curative intent AND there has been no clinical signs or symptoms of the malignancy
+             for at least 5 years.
+
+          -  Current fracture, infection, and/or deformity (greater than 15 degrees of lumbar
+             scoliosis, using Cobb measure technique) of the spine.
+
+          -  Age less than 18 years.
+
+          -  Cauda Equina syndrome or progressive neurological deficit (usually requiring urgent
+             surgery).
+
+          -  Unavailability for follow-up (planning to move, no telephone, etc.) or inability to
+             complete data surveys.
+
+          -  Symptoms less than 6 weeks.
+
+          -  Patient currently enrolled in any experimental &quot;spine related&quot; study.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James N. Weinstein, DO, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dartmouth-Hitchcock Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Spine Care Program</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143-0728</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Emory Clinic, Emory University</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush-Presbyterian, St. Luke's Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612-3833</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Spine &amp; Rehabilitation</name>
+      <address>
+        <city>Scarborough</city>
+        <state>Maine</state>
+        <zip>04074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>William Beaumont Hospital</name>
+      <address>
+        <city>Royal Oak</city>
+        <state>Michigan</state>
+        <zip>48073-9952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nebraska Foundation for Spinal Research</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68154-4438</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth-Hitchcock Medical Center - Spine Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Special Surgery</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York University, The Hospital for Joint Diseases</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Case Western Reserve University</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rothman Institute at Thomas Jefferson Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107-4216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://sport.dartmouth.edu/nsn</url>
+    <description>Click here to view the Spine Patient Outcomes Research Trial (SPORT) Web site.</description>
+  </link>
+  <reference>
+    <citation>Birkmeyer NJ, Weinstein JN, Tosteson AN, Tosteson TD, Skinner JS, Lurie JD, Deyo R, Wennberg JE. Design of the Spine Patient outcomes Research Trial (SPORT). Spine (Phila Pa 1976). 2002 Jun 15;27(12):1361-72.</citation>
+    <PMID>12065987</PMID>
+  </reference>
+  <reference>
+    <citation>Weinstein JN, Brown PW, Hanscom B, Walsh T, Nelson EC. Designing an ambulatory clinical practice for outcomes improvement: from vision to reality--the Spine Center at Dartmouth-Hitchcock, year one. Qual Manag Health Care. 2000 Winter;8(2):1-20. Review.</citation>
+    <PMID>10787504</PMID>
+  </reference>
+  <reference>
+    <citation>Fanciullo GJ, Hanscom B, Weinstein JN, Chawarski MC, Jamison RN, Baird JC. Cluster analysis classification of SF-36 profiles for patients with spinal pain. Spine (Phila Pa 1976). 2003 Oct 1;28(19):2276-82.</citation>
+    <PMID>14520044</PMID>
+  </reference>
+  <reference>
+    <citation>Phillips FM, An H, Kang JD, Boden SD, Weinstein J. Biologic treatment for intervertebral disc degeneration: summary statement. Spine (Phila Pa 1976). 2003 Aug 1;28(15 Suppl):S99. Review.</citation>
+    <PMID>12897482</PMID>
+  </reference>
+  <reference>
+    <citation>Walsh TL, Hanscom B, Lurie JD, Weinstein JN. Is a condition-specific instrument for patients with low back pain/leg symptoms really necessary? The responsiveness of the Oswestry Disability Index, MODEMS, and the SF-36. Spine (Phila Pa 1976). 2003 Mar 15;28(6):607-15.</citation>
+    <PMID>12642770</PMID>
+  </reference>
+  <results_reference>
+    <citation>Weinstein JN, Lurie JD, Tosteson TD, Skinner JS, Hanscom B, Tosteson AN, Herkowitz H, Fischgrund J, Cammisa FP, Albert T, Deyo RA. Surgical vs nonoperative treatment for lumbar disk herniation: the Spine Patient Outcomes Research Trial (SPORT) observational cohort. JAMA. 2006 Nov 22;296(20):2451-9.</citation>
+    <PMID>17119141</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Weinstein JN, Tosteson TD, Lurie JD, Tosteson AN, Hanscom B, Skinner JS, Abdu WA, Hilibrand AS, Boden SD, Deyo RA. Surgical vs nonoperative treatment for lumbar disk herniation: the Spine Patient Outcomes Research Trial (SPORT): a randomized trial. JAMA. 2006 Nov 22;296(20):2441-50.</citation>
+    <PMID>17119140</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Weinstein JN, Lurie JD, Tosteson TD, Tosteson AN, Blood EA, Abdu WA, Herkowitz H, Hilibrand A, Albert T, Fischgrund J. Surgical versus nonoperative treatment for lumbar disc herniation: four-year results for the Spine Patient Outcomes Research Trial (SPORT). Spine (Phila Pa 1976). 2008 Dec 1;33(25):2789-800. doi: 10.1097/BRS.0b013e31818ed8f4.</citation>
+    <PMID>19018250</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tosteson AN, Skinner JS, Tosteson TD, Lurie JD, Andersson GB, Berven S, Grove MR, Hanscom B, Blood EA, Weinstein JN. The cost effectiveness of surgical versus nonoperative treatment for lumbar disc herniation over two years: evidence from the Spine Patient Outcomes Research Trial (SPORT). Spine (Phila Pa 1976). 2008 Sep 1;33(19):2108-15.</citation>
+    <PMID>18777603</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tosteson AN, Tosteson TD, Lurie JD, Abdu W, Herkowitz H, Andersson G, Albert T, Bridwell K, Zhao W, Grove MR, Weinstein MC, Weinstein JN. Comparative effectiveness evidence from the spine patient outcomes research trial: surgical versus nonoperative care for spinal stenosis, degenerative spondylolisthesis, and intervertebral disc herniation. Spine (Phila Pa 1976). 2011 Nov 15;36(24):2061-8. doi: 10.1097/BRS.0b013e318235457b.</citation>
+    <PMID>22048651</PMID>
+  </results_reference>
+  <verification_date>August 2015</verification_date>
+  <lastchanged_date>August 3, 2015</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Intervertebral disc herniation (IDH)</keyword>
+  <keyword>Stenosis with degenerative spondylolisthesis (DS)</keyword>
+  <keyword>Spinal stenosis (SpS)</keyword>
+  <keyword>Low back pain (LBP)</keyword>
+  <keyword>Leg pain</keyword>
+  <keyword>Surgical therapy</keyword>
+  <keyword>Non-surgical therapy</keyword>
+  <keyword>Randomized study</keyword>
+  <keyword>Multicenter</keyword>
+  <keyword>MRI</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hernia</mesh_term>
+    <mesh_term>Intervertebral Disc Displacement</mesh_term>
+    <mesh_term>Low Back Pain</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

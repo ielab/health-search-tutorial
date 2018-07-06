@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204185">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000795</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AVEG 017</org_study_id>
+    <nct_id>NCT00000795</nct_id>
+  </id_info>
+  <brief_title>A Phase I Safety and Immunogenicity Trial of UBI Multivalent HIV-1 Peptide Immunogen in HIV-1 Seronegative Human Subjects</brief_title>
+  <official_title>A Phase I Safety and Immunogenicity Trial of UBI Multivalent HIV-1 Peptide Immunogen in HIV-1 Seronegative Human Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate, in healthy adult volunteers, the safety and immunogenicity of multivalent HIV-1
+      peptide immunogen, a formulation of HIV-1 gp120 principal neutralizing domain (PND) branched
+      synthetic peptides from 15 viral strains representative of diverse worldwide isolates.
+
+      Because there is considerable variation among HIV-1 virus strains from differing
+      geographical locations worldwide, a multivalent peptide vaccine has been constructed to
+      include prevalent and divergent isolates, potentially providing for wide coverage of
+      geographically isolated epidemics.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Because there is considerable variation among HIV-1 virus strains from differing
+      geographical locations worldwide, a multivalent peptide vaccine has been constructed to
+      include prevalent and divergent isolates, potentially providing for wide coverage of
+      geographically isolated epidemics.
+
+      Fourteen volunteers are entered at one of two dose levels of multivalent candidate vaccine.
+      At each dose level, 12 volunteers receive vaccine and two receive placebo. At least eight
+      volunteers at the low dose level must be monitored for 2 weeks before subsequent volunteers
+      are entered at the high dose. Intramuscular injections are given on days 0, 28, and 168, and
+      patients are followed for a minimum of 48 weeks after the initial immunization.
+      Approximately 13 clinical visits are required.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <enrollment>28</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>HIV-1 Peptide Immunogen, Multivalent</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Subjects must have:
+
+          -  Normal history and physical exam.
+
+          -  HIV negativity by ELISA within 8 weeks of immunization.
+
+          -  CD4 count &gt;= 400 cells/mm3.
+
+          -  Normal urinalysis.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Subjects with the following symptoms or conditions are excluded:
+
+          -  Positive hepatitis B surface antigen.
+
+          -  Medical or psychiatric condition or occupational responsibilities that preclude study
+             compliance.
+
+          -  Active syphilis. NOTE: Subjects whose serology is documented to be a false positive
+             or due to a remote (&gt; 6 months) treated infection are eligible.
+
+          -  Active tuberculosis. NOTE: Subjects with a positive PPD and normal chest x-ray
+             showing no evidence of TB and not requiring isoniazid therapy are eligible.
+
+        Subjects with the following prior conditions are excluded:
+
+          -  History of immunodeficiency, chronic illness, or autoimmune disease.
+
+          -  History of anaphylaxis or other serious reactions to vaccines.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  History of immunosuppressive medications.
+
+          -  Live attenuated vaccines within 60 days prior to study entry (NOTE: Medically
+             indicated subunit or killed vaccines, e.g., influenza or pneumococcal, are not
+             exclusionary, but should not be given within 2 weeks of HIV immunization).
+
+          -  Experimental agents within 30 days prior to study entry.
+
+          -  Prior HIV vaccines.
+
+        Prior Treatment:
+
+        Excluded:
+
+          -  Blood products or immunoglobulin within the past 6 months.
+
+        Identifiable higher risk behavior for HIV infection, including the following:
+
+          -  History of injection drug use within the past 12 months.
+
+          -  Higher risk sexual behavior as defined by the AVEG.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Keefer M</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins Univ / Ctr for Immunological Research</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Kelleher AD, Emery S, Cunningham P, Duncombe C, Carr A, Golding H, Forde S, Hudson J, Roggensack M, Forrest BD, Cooper DA. Safety and immunogenicity of UBI HIV-1MN octameric V3 peptide vaccine administered by subcutaneous injection. AIDS Res Hum Retroviruses. 1997 Jan 1;13(1):29-32.</citation>
+    <PMID>8989424</PMID>
+  </reference>
+  <reference>
+    <citation>Evans TG, Fitzgerald T, Gibbons DC, Keefer MC, Soucier H. Th1/Th2 cytokine responses following HIV-1 immunization in seronegative volunteers. The AIDS Vaccine Evaluation Group. Clin Exp Immunol. 1998 Feb;111(2):243-50.</citation>
+    <PMID>9486388</PMID>
+  </reference>
+  <reference>
+    <citation>Kahn J, Murcar N, Elbeik T, Staprans S, Hanson C, Mayer Y, Doyle R, Gonzalez L, Koff W. UBI HIV-1MN octameric V3 peptide vaccine in HIV-1 negative humans. Conf Adv AIDS Vaccine Dev. 1996 Feb 11-15:167 [Poster 47]</citation>
+  </reference>
+  <verification_date>October 2002</verification_date>
+  <lastchanged_date>September 8, 2008</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Vaccines, Synthetic</keyword>
+  <keyword>HIV-1</keyword>
+  <keyword>AIDS Vaccines</keyword>
+  <keyword>HIV Seronegativity</keyword>
+  <keyword>HIV Preventive Vaccine</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

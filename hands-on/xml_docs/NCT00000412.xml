@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204564">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000412</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01AR046124</org_study_id>
+    <secondary_id>R01AR046124</secondary_id>
+    <secondary_id>NIAMS-008</secondary_id>
+    <nct_id>NCT00000412</nct_id>
+  </id_info>
+  <brief_title>Osteoporosis Prevention After Heart Transplant</brief_title>
+  <official_title>Prevention of Osteoporosis After Cardiac Transplantation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      During the first year after a heart transplant, people often rapidly lose bone from their
+      spine and hips. About 35 percent of people who receive heart transplants will suffer broken
+      bones during the first year after transplantation. This study will compare the safety and
+      effectiveness of the drug alendronate (Fosamax) and the active form of vitamin D
+      (calcitriol) in preventing bone loss at the spine and hip after a heart transplant.
+
+      In this study, people who have had a successful heart transplant will receive either active
+      alendronate and a &quot;dummy pill&quot; instead of calcitriol, or active calcitriol and a dummy pill
+      instead of alendronate for the first year after their transplant, starting within 1 month
+      after transplant surgery. We will measure bone density in the hip and spine at the start of
+      the study and after 6 and 12 months, and will also check for broken bones in the spine. This
+      research should lead to ways of preventing this crippling form of osteoporosis.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We will enroll patients who have undergone cardiac transplantation into a randomized,
+      double-blind, 12-month study of the efficacy and safety of calcitriol (Rocaltrol) and
+      alendronate sodium (Fosamax) in the prevention of bone loss after transplantation. We will
+      give all participants standard pre- and post-transplantation management and
+      immunosuppressive therapy, three tablets of calcium citrate (Citracal + D, each containing
+      315 mg of elemental calcium and 200 IU of vitamin D), and a multivitamin providing 400 units
+      of vitamin D daily. We will randomize participants to one of two active treatment groups
+      within 1 month of transplantation. We will give Group A active alendronate (10 mg/day) and
+      placebo calcitriol. We will give Group B placebo alendronate and active calcitriol (0.25
+      micrograms BID). The primary efficacy endpoint is the change in spine bone mineral density
+      (BMD) during the first 6 months after transplantation. The secondary efficacy endpoint is
+      the change in hip BMD during the first year after transplantation. We will also monitor the
+      incidence of vertebral fracture.
+
+      We will invite eligible subjects to participate in the study. We will offer patients who
+      elect not to participate in the therapeutic trial the opportunity to have serial BMD
+      measurements at the same intervals as treated subjects and to be followed as untreated
+      controls. We will continue recruitment until we have randomized a total of 146 cardiac
+      transplant recipients. We will perform bone densitometry at randomization (unless performed
+      within the previous month) and at 6 and 12 months. We will obtain radiographs (x-rays) at
+      randomization and will repeat them at 12 months to detect undiagnosed vertebral fractures.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1997</start_date>
+  <completion_date type="Actual">April 2002</completion_date>
+  <primary_completion_date type="Actual">April 2002</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Prevention</study_design>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">149</enrollment>
+  <condition>Osteoporosis</condition>
+  <condition>Cardiac Transplantation</condition>
+  <arm_group>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Group A active alendronate (10 mg/day) and placebo calcitriol.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>We will give Group B placebo alendronate and active calcitriol (0.25 micrograms BID).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alendronate</intervention_name>
+    <arm_group_label>Group A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Calcitriol</intervention_name>
+    <arm_group_label>Group B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo Alendronate</intervention_name>
+    <arm_group_label>Group B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo Calcitriol</intervention_name>
+    <arm_group_label>Group A</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Cardiac transplantation
+
+        Exclusion Criteria:
+
+          -  Active peptic ulcer disease, gastrectomy, inflammatory bowel disease, malignancy,
+             Paget's disease of bone, osteogenesis imperfecta, multiple myeloma, primary
+             hyperparathyroidism, rheumatoid arthritis, Cushing's syndrome, or thyrotoxicosis
+
+          -  Suppressive doses of thyroid hormone, anticonvulsant drugs, past bisphosphonate
+             therapy, current calcitonin therapy, or fluoride therapy
+
+          -  Cirrhosis, inflammatory liver disease, or nephrolithiasis
+
+          -  Serum creatinine &gt; 2.5 mg/dl
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elizabeth Shane, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University Department of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Columbai University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Shane E, Addesso V, Namerow PB, McMahon DJ, Lo SH, Staron RB, Zucker M, Pardi S, Maybaum S, Mancini D. Alendronate versus calcitriol for the prevention of bone loss after cardiac transplantation. N Engl J Med. 2004 Feb 19;350(8):767-76.</citation>
+    <PMID>14973216</PMID>
+  </reference>
+  <verification_date>July 2015</verification_date>
+  <lastchanged_date>July 2, 2015</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Osteoporosis</keyword>
+  <keyword>Osteopenia</keyword>
+  <keyword>Heart transplant</keyword>
+  <keyword>Bone fracture</keyword>
+  <keyword>Bone density</keyword>
+  <keyword>Dual energy x-ray absorptiometry</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Osteoporosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Alendronate</mesh_term>
+    <mesh_term>Calcitriol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

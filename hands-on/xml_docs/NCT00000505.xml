@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204472">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000505</url>
+  </required_header>
+  <id_info>
+    <org_study_id>24</org_study_id>
+    <nct_id>NCT00000505</nct_id>
+  </id_info>
+  <brief_title>Thrombolysis in Myocardial Infarction (TIMI)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In TIMI I, to assess the relative thrombolytic activity and side effects of intravenous
+      recombinant tissue-type plasminogen activator (rt-PA) versus intravenous streptokinase in
+      patients with acute myocardial infarction. In TIMI II, to assess whether intravenous rt-PA
+      given in the early hours of acute myocardial infarction should be followed by percutaneous
+      transluminal coronary angioplasty (PTCA).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Coronary artery disease is the leading cause of death in the United States, accounting for
+      almost 500,000 deaths each year. Studies have confirmed that myocardial infarction is
+      related to an occlusive coronary thrombus in up to 80 percent of patients. First and
+      second-generation thrombolytic agents (including streptokinase and rt-PA) have been
+      successfully used to restore myocardial blood flow where thrombus has occluded an
+      infarct-related coronary artery. However, further clinical investigation was necessary to
+      determine the most suitable thrombolytic agent dose and method of administration, the risk
+      of subsequent reocclusion, restenosis, and/or myocardial infarction, the need for additional
+      therapies, and the likelihood of benefit or hemorrhagic complications.
+
+      In 1983 the National Heart, Lung, and Blood Institute established the TIMI Study Group. The
+      group consisted of 13 clinical centers (later expanded to 24), a Radiographic Core
+      Laboratory, Radionuclide Core Laboratory, and a Data Coordinating Center.
+
+      DESIGN NARRATIVE:
+
+      The TIMI trial was conducted in two stages. In Phase I or TIMI I, eligible patients were
+      randomized to receive either 80 mg of recombinant tissue-type plasminogen activator (rt-PA)
+      or 1.5 million units of streptokinase intravenously to determine relative safety and
+      efficacy. Following randomization, patients found to have angiographically documented
+      stenosis greater than 50 percent in the infarct-related artery received thrombolytic therapy
+      in a double-blind fashion, full anticoagulation, and conventional care. Patients
+      subsequently underwent repeat catheterization, radionuclide ventriculogram, and
+      pre-discharge, six-week and six-month cardiovascular examination.
+
+      TIMI I was stopped in February 1985 because of statistically significant differences in
+      coronary reperfusion rates in the treatment groups; rt-PA was found to be the superior
+      thrombolytic agent. Following TIMI Phase I, the manufacturer of rt-PA changed to a
+      large-scale production method for rt-PA, and the new product was found to have thrombolytic
+      activity and specificity in vitro and in experimental animals comparable to the product
+      manufactured by the old method. However, the TIMI investigators concluded that clinical
+      evaluation would be necessary prior to initiation of TIMI Phase II.
+
+      Thus, TIMI Open Label Phase studies were initiated in 1985, with the aim of establishing the
+      safety and efficacy of the 'new' intravenous rt-PA. As in Phase I, the endpoint was lysis of
+      coronary thrombus within 90 minutes of the initiation of treatment in patients with
+      documented total occlusion of the infarct-related coronary artery. Additional goals of the
+      study were to determine reocclusion rates of infarct-related arteries at 18-48 hours, as
+      well as to determine the efficacy of PTCA to maintain perfusion in infarct-related arteries
+      and prevention of recurrent myocardial infarction. The TIMI Open Label Phase studies
+      determined that optimal coronary recanalization and maintenance of reperfusion occurred with
+      150 mg of 'new' rt-PA infused over six hours. However, subsequent hemorrhagic complications
+      observed with 150 mg rt-PA necessitated a change in the dose of rt-PA to 100 mg.
+
+      In TIMI II, patient entry began in April 1986 and ended in June 1988 with enrollment of
+      3,534 patients. Patients were treated with intravenous rt-PA within four hours of the onset
+      of chest pain thought to be caused by myocardial infarction and randomly assigned to an
+      invasive strategy or a conservative strategy. The primary endpoint was survival free of
+      recurrent myocardial infarction at six weeks and one year of follow-up. There were 1,681
+      patients assigned to the delayed invasive strategy in which catheterization was performed
+      between 18 and 48 hours after rt-PA therapy. If catheterization showed a greater than 60
+      percent subtotal stenosis of the infarct-related artery that was considered to be
+      technically approachable, angioplasty was attempted. Angioplasty was performed in 60.5
+      percent of the 1,500 patients who underwent catheterization in the invasive strategy group.
+      The remaining 39.5 percent or 593 patients did not have angioplasty performed. There were
+      1,658 patients assigned to a conservative strategy in which cardiac catheterization was
+      reserved for the 587 patients who had spontaneous or exercise-induced myocardial ischemia
+      within 21 days of infarction. A total of 13.5 percent of patients in this arm underwent
+      coronary angioplasty, 7.6 percent underwent bypass surgery, and 1.1 percent underwent both
+      procedures; 77 percent of the patients in the conservative strategy group had no
+      revascularization procedure within 21 days of infarction.
+
+      TIMI IIA, a subtrial of 586 patients, investigated whether immediate cardiac catheterization
+      with percutaneous transluminal coronary angioplasty, when appropriate, would confer an
+      advantage over the same procedure performed 18 to 48 hours later. All patients were treated
+      with intravenous rt-PA within four hours of the onset of acute myocardial infarction.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1983</start_date>
+  <completion_date>December 1990</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>tissue plasminogen activator</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>angioplasty, transluminal, percutaneous coronary</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women under age 76. Patients had acute myocardial infarction.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joseph Babb</last_name>
+    <affiliation>Bridgeport Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jeffery Borer</last_name>
+    <affiliation>Weill Medical College of Cornell University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Bernard Chaitman</last_name>
+    <affiliation>St. Louis University Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>James Chesebro</last_name>
+    <affiliation>Mayo Foundation</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Richard Davison</last_name>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Harold Dodge</last_name>
+    <affiliation>University of Washington</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Frederick Feit</last_name>
+    <affiliation>New York University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Charles Francis</last_name>
+    <affiliation>Yale University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Joel Gore</last_name>
+    <affiliation>University of Massachusetts, Worcester</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael Herman</last_name>
+    <affiliation>New York Medical College</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Morrison Hodges</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Harvey Kemp</last_name>
+    <affiliation>St. Luke's-Roosevelt Institute for Health Sciences</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Genell Knatterud</last_name>
+    <affiliation>Maryland Medical Research Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Costas Lambrew</last_name>
+    <affiliation>Maine Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Philip Ludbrook</last_name>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kenneth Mann</last_name>
+    <affiliation>University of Vermont</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Markis</last_name>
+    <affiliation>Beth Israel Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Morrison</last_name>
+    <affiliation>North Shore University Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Hiltrud Mueller</last_name>
+    <affiliation>Montefiore Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Eric Powers</last_name>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Roberts</last_name>
+    <affiliation>Baylor College of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Williams Rogers</last_name>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Allan Ross</last_name>
+    <affiliation>George Washington University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Thomas Ryan</last_name>
+    <affiliation>University Hospital Inc.</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marc Schweiger</last_name>
+    <affiliation>Baystate Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gerald Timmis</last_name>
+    <affiliation>William Beaumont Hospitals</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>James Willerson</last_name>
+    <affiliation>University of Texas</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David Williams</last_name>
+    <affiliation>Rhode Island Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Barry Zaret</last_name>
+    <affiliation>Yale University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>The Thrombolysis in Myocardial Infarction (TIMI) trial. Phase I findings. TIMI Study Group. N Engl J Med. 1985 Apr 4;312(14):932-6.</citation>
+    <PMID>4038784</PMID>
+  </reference>
+  <reference>
+    <citation>Hillis LD, Borer J, Braunwald E, Chesebro JH, Cohen LS, Dalen J, Dodge HT, Francis CK, Knatterud G, Ludbrook P, et al. High dose intravenous streptokinase for acute myocardial infarction: preliminary results of a multicenter trial. J Am Coll Cardiol. 1985 Nov;6(5):957-62.</citation>
+    <PMID>4045046</PMID>
+  </reference>
+  <reference>
+    <citation>Williams DO, Borer J, Braunwald E, Chesebro JH, Cohen LS, Dalen J, Dodge HT, Francis CK, Knatterud G, Ludbrook P, et al. Intravenous recombinant tissue-type plasminogen activator in patients with acute myocardial infarction: a report from the NHLBI thrombolysis in myocardial infarction trial. Circulation. 1986 Feb;73(2):338-46.</citation>
+    <PMID>3080261</PMID>
+  </reference>
+  <reference>
+    <citation>Braunwald E, Knatterud GL, Passamani ER, Robertson TL. Announcement of protocol change in thrombolysis in myocardial infarction trial. J Am Coll Cardiol. 1987 Feb;9(2):467.</citation>
+    <PMID>3100602</PMID>
+  </reference>
+  <reference>
+    <citation>Sheehan FH, Braunwald E, Canner P, Dodge HT, Gore J, Van Natta P, Passamani ER, Williams DO, Zaret B. The effect of intravenous thrombolytic therapy on left ventricular function: a report on tissue-type plasminogen activator and streptokinase from the Thrombolysis in Myocardial Infarction (TIMI Phase I) trial. Circulation. 1987 Apr;75(4):817-29.</citation>
+    <PMID>3103950</PMID>
+  </reference>
+  <reference>
+    <citation>Chesebro JH, Knatterud G, Roberts R, Borer J, Cohen LS, Dalen J, Dodge HT, Francis CK, Hillis D, Ludbrook P, et al. Thrombolysis in Myocardial Infarction (TIMI) Trial, Phase I: A comparison between intravenous tissue plasminogen activator and intravenous streptokinase. Clinical findings through hospital discharge. Circulation. 1987 Jul;76(1):142-54.</citation>
+    <PMID>3109764</PMID>
+  </reference>
+  <reference>
+    <citation>Mueller HS, Rao AK, Forman SA. Thrombolysis in myocardial infarction (TIMI): comparative studies of coronary reperfusion and systemic fibrinogenolysis with two forms of recombinant tissue-type plasminogen activator. J Am Coll Cardiol. 1987 Sep;10(3):479-90.</citation>
+    <PMID>3114349</PMID>
+  </reference>
+  <reference>
+    <citation>Knatterud GL, Forman SA. Patient recruitment experience in the Thrombolysis in Myocardial Infarction Trial. Control Clin Trials. 1987 Dec;8(4 Suppl):86S-93S.</citation>
+    <PMID>3126024</PMID>
+  </reference>
+  <reference>
+    <citation>Bovill E: Dose Response Relationship of rt-PA Infusion to Induction of Systemic Fibrin(ogen)olysis in the Thrombolysis in Myocardial Infarction (TIMI) Trial. Blood, 70(Suppl 1) 367a, 1987.</citation>
+  </reference>
+  <reference>
+    <citation>Williams DO, Ruocco NA, Forman S. Coronary angioplasty after recombinant tissue-type plasminogen activator in acute myocardial infarction: a report from the Thrombolysis in Myocardial Infarction (TIMI) Trial. J Am Coll Cardiol. 1987 Nov;10(5 Suppl B):45B-50B.</citation>
+    <PMID>2959715</PMID>
+  </reference>
+  <reference>
+    <citation>Passamani E, Hodges M, Herman M, Grose R, Chaitman B, Rogers W, Forman S, Terrin M, Knatterud G, Robertson T, et al. The Thrombolysis in Myocardial Infarction (TIMI) phase II pilot study: tissue plasminogen activator followed by percutaneous transluminal coronary angioplasty. J Am Coll Cardiol. 1987 Nov;10(5 Suppl B):51B-64B.</citation>
+    <PMID>2889758</PMID>
+  </reference>
+  <reference>
+    <citation>Rao AK, Pratt C, Berke A, Jaffe A, Ockene I, Schreiber TL, Bell WR, Knatterud G, Robertson TL, Terrin ML. Thrombolysis in Myocardial Infarction (TIMI) Trial--phase I: hemorrhagic manifestations and changes in plasma fibrinogen and the fibrinolytic system in patients treated with recombinant tissue plasminogen activator and streptokinase. J Am Coll Cardiol. 1988 Jan;11(1):1-11.</citation>
+    <PMID>3121710</PMID>
+  </reference>
+  <reference>
+    <citation>Immediate vs delayed catheterization and angioplasty following thrombolytic therapy for acute myocardial infarction. TIMI II A results. The TIMI Research Group. JAMA. 1988 Nov 18;260(19):2849-58.</citation>
+    <PMID>2972848</PMID>
+  </reference>
+  <reference>
+    <citation>Dalen JE, Gore JM, Braunwald E, Borer J, Goldberg RJ, Passamani ER, Forman S, Knatterud G. Six- and twelve-month follow-up of the phase I Thrombolysis in Myocardial Infarction (TIMI) trial. Am J Cardiol. 1988 Aug 1;62(4):179-85. Erratum in: Am J Cardiol 1988 Nov 15;62(16):1151.</citation>
+    <PMID>3135737</PMID>
+  </reference>
+  <reference>
+    <citation>Rogers WJ, Bourge RC, Papapietro SE, Wackers FJ, Zaret BL, Forman S, Dodge HT, Robertson TL, Passamani ER, Braunwald E, et al. Variables predictive of good functional outcome following thrombolytic therapy in the Thrombolysis in Myocardial Infarction phase II (TIMI II) pilot study. Am J Cardiol. 1989 Mar 1;63(9):503-12.</citation>
+    <PMID>2521976</PMID>
+  </reference>
+  <reference>
+    <citation>Wackers FJ, Terrin ML, Kayden DS, Knatterud G, Forman S, Braunwald E, Zaret BL. Quantitative radionuclide assessment of regional ventricular function after thrombolytic therapy for acute myocardial infarction: results of phase I Thrombolysis in Myocardial Infarction (TIMI) trial. J Am Coll Cardiol. 1989 Apr;13(5):998-1005.</citation>
+    <PMID>2494246</PMID>
+  </reference>
+  <reference>
+    <citation>Knatterud GL. Thrombolysis in myocardial infarction (TIMI) randomized studies versus TIMI open label studies. Control Clin Trials. 1989 Dec;10(4 Suppl):245S-256S.</citation>
+    <PMID>2691212</PMID>
+  </reference>
+  <reference>
+    <citation>Chaitman BR, Thompson B, Wittry MD, Stump D, Hamilton WP, Hillis LD, Dwyer JG, Solomon RE, Knatterud GL. The use of tissue-type plasminogen activator for acute myocardial infarction in the elderly: results from thrombolysis in myocardial infarction Phase I, open label studies and the Thrombolysis in Myocardial Infarction Phase II pilot study. The TIMI Investigators. J Am Coll Cardiol. 1989 Nov 1;14(5):1159-65.</citation>
+    <PMID>2509528</PMID>
+  </reference>
+  <reference>
+    <citation>Comparison of invasive and conservative strategies after treatment with intravenous tissue plasminogen activator in acute myocardial infarction. Results of the thrombolysis in myocardial infarction (TIMI) phase II trial. The TIMI Study Group. N Engl J Med. 1989 Mar 9;320(10):618-27.</citation>
+    <PMID>2563896</PMID>
+  </reference>
+  <reference>
+    <citation>Chaitman BR, Thompson BW, Kern MJ, Vandormael MG, Cohen MB, Ruocco NA, Solomon RE, Braunwald E. Tissue plasminogen activator followed by percutaneous transluminal coronary angioplasty: one-year TIMI phase II pilot results. TIMI Investigators. Am Heart J. 1990 Feb;119(2 Pt 1):213-23. Erratum in: Am Heart J 1990 Dec;120(6 Pt 1):1486.</citation>
+    <PMID>2105625</PMID>
+  </reference>
+  <reference>
+    <citation>Baim DS, Braunwald E, Feit F, Knatterud GL, Passamani ER, Robertson TL, Rogers WJ, Solomon RE, Williams DO. The Thrombolysis in Myocardial Infarction (TIMI) Trial phase II: additional information and perspectives. J Am Coll Cardiol. 1990 Apr;15(5):1188-92.</citation>
+    <PMID>2107236</PMID>
+  </reference>
+  <reference>
+    <citation>Gertz SD, Kalan JM, Kragel AH, Roberts WC, Braunwald E. Cardiac morphologic findings in patients with acute myocardial infarction treated with recombinant tissue plasminogen activator. Am J Cardiol. 1990 Apr 15;65(15):953-61.</citation>
+    <PMID>2109524</PMID>
+  </reference>
+  <reference>
+    <citation>Rogers WJ, Baim DS, Gore JM, Brown BG, Roberts R, Williams DO, Chesebro JH, Babb JD, Sheehan FH, Wackers FJ, et al. Comparison of immediate invasive, delayed invasive, and conservative strategies after tissue-type plasminogen activator. Results of the Thrombolysis in Myocardial Infarction (TIMI) Phase II-A trial. Circulation. 1990 May;81(5):1457-76.</citation>
+    <PMID>2110033</PMID>
+  </reference>
+  <reference>
+    <citation>Hillis LD, Forman S, Braunwald E. Risk stratification before thrombolytic therapy in patients with acute myocardial infarction. The Thrombolysis in Myocardial Infarction (TIMI) Phase II Co-Investigators. J Am Coll Cardiol. 1990 Aug;16(2):313-5.</citation>
+    <PMID>2373810</PMID>
+  </reference>
+  <reference>
+    <citation>Gertz SD, Kragel AH, Kalan JM, Braunwald E, Roberts WC. Comparison of coronary and myocardial morphologic findings in patients with and without thrombolytic therapy during fatal first acute myocardial infarction. The TIMI Investigators. Am J Cardiol. 1990 Oct 15;66(12):904-9.</citation>
+    <PMID>2121015</PMID>
+  </reference>
+  <reference>
+    <citation>Rogers WJ, Babb JD, Baim DS, Chesebro JH, Gore JM, Roberts R, Williams DO, Frederick M, Passamani ER, Braunwald E. Selective versus routine predischarge coronary arteriography after therapy with recombinant tissue-type plasminogen activator, heparin and aspirin for acute myocardial infarction. TIMI II Investigators. J Am Coll Cardiol. 1991 Apr;17(5):1007-16.</citation>
+    <PMID>1901071</PMID>
+  </reference>
+  <reference>
+    <citation>Habib GB, Heibig J, Forman SA, Brown BG, Roberts R, Terrin ML, Bolli R. Influence of coronary collateral vessels on myocardial infarct size in humans. Results of phase I thrombolysis in myocardial infarction (TIMI) trial. The TIMI Investigators. Circulation. 1991 Mar;83(3):739-46.</citation>
+    <PMID>1900223</PMID>
+  </reference>
+  <reference>
+    <citation>Roberts R, Rogers WJ, Mueller HS, Lambrew CT, Diver DJ, Smith HC, Willerson JT, Knatterud GL, Forman S, Passamani E, et al. Immediate versus deferred beta-blockade following thrombolytic therapy in patients with acute myocardial infarction. Results of the Thrombolysis in Myocardial Infarction (TIMI) II-B Study. Circulation. 1991 Feb;83(2):422-37.</citation>
+    <PMID>1671346</PMID>
+  </reference>
+  <reference>
+    <citation>Bovill EG, Terrin ML, Stump DC, Berke AD, Frederick M, Collen D, Feit F, Gore JM, Hillis LD, Lambrew CT, et al. Hemorrhagic events during therapy with recombinant tissue-type plasminogen activator, heparin, and aspirin for acute myocardial infarction. Results of the Thrombolysis in Myocardial Infarction (TIMI), Phase II Trial. Ann Intern Med. 1991 Aug 15;115(4):256-65.</citation>
+    <PMID>1906692</PMID>
+  </reference>
+  <reference>
+    <citation>Gore JM, Sloan M, Price TR, Randall AM, Bovill E, Collen D, Forman S, Knatterud GL, Sopko G, Terrin ML. Intracerebral hemorrhage, cerebral infarction, and subdural hematoma after acute myocardial infarction and thrombolytic therapy in the Thrombolysis in Myocardial Infarction Study. Thrombolysis in Myocardial Infarction, Phase II, pilot and clinical trial. Circulation. 1991 Feb;83(2):448-59.</citation>
+    <PMID>1899364</PMID>
+  </reference>
+  <reference>
+    <citation>Baim DS, Diver DJ, Feit F, Greenberg MA, Holmes DR, Weiner BH, Williams DO, Schweiger MJ, Brown BG, Frederick MM, et al. Coronary angioplasty performed within the thrombolysis in Myocardial Infarction II study. Circulation. 1992 Jan;85(1):93-105.</citation>
+    <PMID>1728490</PMID>
+  </reference>
+  <reference>
+    <citation>Tofler GH, Muller JE, Stone PH, Forman S, Solomon RE, Knatterud GL, Braunwald E. Modifiers of timing and possible triggers of acute myocardial infarction in the Thrombolysis in Myocardial Infarction Phase II (TIMI II) Study Group. J Am Coll Cardiol. 1992 Nov 1;20(5):1049-55.</citation>
+    <PMID>1401601</PMID>
+  </reference>
+  <reference>
+    <citation>Feit F, Mueller HS, Braunwald E, Ross R, Hodges M, Herman MV, Knatterud GL. Thrombolysis in Myocardial Infarction (TIMI) phase II trial: outcome comparison of a &quot;conservative strategy&quot; in community versus tertiary hospitals. The TIMI Research Group. J Am Coll Cardiol. 1990 Dec;16(7):1529-34.</citation>
+    <PMID>2123901</PMID>
+  </reference>
+  <reference>
+    <citation>Kleiman NS, Terrin M, Mueller H, Chaitman B, Roberts R, Knatterud GL, Solomon R, McMahon RP, Braunwald E. Mechanisms of early death despite thrombolytic therapy: experience from the Thrombolysis in Myocardial Infarction Phase II (TIMI II) study. J Am Coll Cardiol. 1992 May;19(6):1129-35.</citation>
+    <PMID>1348750</PMID>
+  </reference>
+  <reference>
+    <citation>Mueller HS, Cohen LS, Braunwald E, Forman S, Feit F, Ross A, Schweiger M, Cabin H, Davison R, Miller D, et al. Predictors of early morbidity and mortality after thrombolytic therapy of acute myocardial infarction. Analyses of patient subgroups in the Thrombolysis in Myocardial Infarction (TIMI) trial, phase II. Circulation. 1992 Apr;85(4):1254-64.</citation>
+    <PMID>1555269</PMID>
+  </reference>
+  <reference>
+    <citation>Williams DO, Braunwald E, Knatterud G, Babb J, Bresnahan J, Greenberg MA, Raizner A, Wasserman A, Robertson T, Ross R. One-year results of the Thrombolysis in Myocardial Infarction investigation (TIMI) Phase II Trial. Circulation. 1992 Feb;85(2):533-42.</citation>
+    <PMID>1735149</PMID>
+  </reference>
+  <reference>
+    <citation>Zaret BL, Wackers FJ, Terrin ML, Ross R, Weiss M, Slater J, Morrison J, Bourge RC, Passamani E, Knatterud G, et al. Assessment of global and regional left ventricular performance at rest and during exercise after thrombolytic therapy for acute myocardial infarction: results of the Thrombolysis in Myocardial Infarction (TIMI) II Study. Am J Cardiol. 1992 Jan 1;69(1):1-9.</citation>
+    <PMID>1729855</PMID>
+  </reference>
+  <reference>
+    <citation>Ruocco NA Jr, Bergelson BA, Jacobs AK, Frederick MM, Faxon DP, Ryan TJ. Invasive versus conservative strategy after thrombolytic therapy for acute myocardial infarction in patients with antecedent angina. A report from Thrombolysis in Myocardial Infarction Phase II (TIMI II). J Am Coll Cardiol. 1992 Dec;20(7):1445-51.</citation>
+    <PMID>1452916</PMID>
+  </reference>
+  <reference>
+    <citation>Berger PB, Ruocco NA Jr, Ryan TJ, Frederick MM, Jacobs AK, Faxon DP. Incidence and prognostic implications of heart block complicating inferior myocardial infarction treated with thrombolytic therapy: results from TIMI II. J Am Coll Cardiol. 1992 Sep;20(3):533-40.</citation>
+    <PMID>1512330</PMID>
+  </reference>
+  <reference>
+    <citation>Borzak S, Gheorghiade M. Early intravenous beta-blocker combined with thrombolytic therapy for acute myocardial infarction: the Thrombolysis in Myocardial Infarction (TIMI-2) Trial. Prog Cardiovasc Dis. 1993 Nov-Dec;36(3):261-6.</citation>
+    <PMID>8234778</PMID>
+  </reference>
+  <reference>
+    <citation>Terrin ML, Williams DO, Kleiman NS, Willerson J, Mueller HS, Desvigne-Nickens P, Forman SA, Knatterud GL, Braunwald E. Two- and three-year results of the Thrombolysis in Myocardial Infarction (TIMI) Phase II clinical trial. J Am Coll Cardiol. 1993 Dec;22(7):1763-72.</citation>
+    <PMID>8245326</PMID>
+  </reference>
+  <reference>
+    <citation>Chaitman BR, McMahon RP, Terrin M, Younis LT, Shaw LJ, Weiner DA, Frederick MM, Knatterud GL, Sopko G, Braunwald E. Impact of treatment strategy on predischarge exercise test in the Thrombolysis in Myocardial Infarction (TIMI) II Trial. Am J Cardiol. 1993 Jan 15;71(2):131-8.</citation>
+    <PMID>8421972</PMID>
+  </reference>
+  <reference>
+    <citation>Taylor HA, Chaitman BR, Rogers WJ, Kern MJ, Terrin ML, Aguirre FV, Sopko G, McMahon R, Ross RN, Bovill EC. Race and prognosis after myocardial infarction. Results of the thrombolysis in myocardial infarction (TIMI) phase II trial. Circulation. 1993 Oct;88(4 Pt 1):1484-94.</citation>
+    <PMID>8403296</PMID>
+  </reference>
+  <reference>
+    <citation>Berger PB, Ruocco NA, Ryan TJ, Frederick MM, Podrid PJ. Incidence and significance of ventricular tachycardia and fibrillation in the absence of hypotension or heart failure in acute myocardial infarction treated with recombinant tissue-type plasminogen activator: results from the Thrombolysis in Myocardial Infarction (TIMI) Phase II trial. J Am Coll Cardiol. 1993 Dec;22(7):1773-9.</citation>
+    <PMID>8245327</PMID>
+  </reference>
+  <reference>
+    <citation>Berger PB, Ruocco NA Jr, Ryan TJ, Jacobs AK, Zaret BL, Wackers FJ, Frederick MM, Faxon DP. Frequency and significance of right ventricular dysfunction during inferior wall left ventricular myocardial infarction treated with thrombolytic therapy (results from the thrombolysis in myocardial infarction [TIMI] II trial). The TIMI Research Group. Am J Cardiol. 1993 May 15;71(13):1148-52.</citation>
+    <PMID>8097614</PMID>
+  </reference>
+  <reference>
+    <citation>Lehmann KG, Francis CK, Sheehan FH, Dodge HT. Effect of thrombolysis on acute mitral regurgitation during evolving myocardial infarction. Experience from the Thrombolysis in Myocardial Infarction (TIMI) Trial. J Am Coll Cardiol. 1993 Sep;22(3):714-9.</citation>
+    <PMID>8354803</PMID>
+  </reference>
+  <reference>
+    <citation>Schweiger MJ, McMahon RP, Terrin ML, Ruocco NA, Porway MN, Wiseman AH, Knatterud GL, Braunwald E. Comparison of patients with &lt; 60% to &gt; or = 60% diameter narrowing of the myocardial infarct-related artery after thrombolysis. The TIMI Investigators. Am J Cardiol. 1994 Jul 15;74(2):105-10.</citation>
+    <PMID>8023772</PMID>
+  </reference>
+  <reference>
+    <citation>Becker RC, Terrin M, Ross R, Knatterud GL, Desvigne-Nickens P, Gore JM, Braunwald E. Comparison of clinical outcomes for women and men after acute myocardial infarction. The Thrombolysis in Myocardial Infarction Investigators. Ann Intern Med. 1994 Apr 15;120(8):638-45.</citation>
+    <PMID>8135447</PMID>
+  </reference>
+  <reference>
+    <citation>Aguirre FV, McMahon RP, Mueller H, Kleiman NS, Kern MJ, Desvigne-Nickens P, Hamilton WP, Chaitman BR. Impact of age on clinical outcome and postlytic management strategies in patients treated with intravenous thrombolytic therapy. Results from the TIMI II Study. TIMI II Investigators. Circulation. 1994 Jul;90(1):78-86.</citation>
+    <PMID>8026055</PMID>
+  </reference>
+  <reference>
+    <citation>Cox DA, Rogers WJ, Aguirre FV, Forman S, Solomon R, Zaret BL. Effect on outcome of the presence or absence of chest pain at initiation of recombinant tissue plasminogen activator therapy in acute myocardial infarction. The Thrombolysis in Myocardial Infarction Investigators. Am J Cardiol. 1994 Apr 15;73(11):729-36.</citation>
+    <PMID>8160607</PMID>
+  </reference>
+  <reference>
+    <citation>Gersh BJ, Chesebro JH, Braunwald E, Lambrew C, Passamani E, Solomon RE, Ross AM, Ross R, Terrin ML, Knatterud GL. Coronary artery bypass graft surgery after thrombolytic therapy in the Thrombolysis in Myocardial Infarction Trial, Phase II (TIMI II). J Am Coll Cardiol. 1995 Feb;25(2):395-402.</citation>
+    <PMID>7829793</PMID>
+  </reference>
+  <reference>
+    <citation>Zaret BL, Wackers FJ, Terrin ML, Forman SA, Williams DO, Knatterud GL, Braunwald E. Value of radionuclide rest and exercise left ventricular ejection fraction in assessing survival of patients after thrombolytic therapy for acute myocardial infarction: results of Thrombolysis in Myocardial Infarction (TIMI) phase II study. The TIMI Study Group. J Am Coll Cardiol. 1995 Jul;26(1):73-9.</citation>
+    <PMID>7797778</PMID>
+  </reference>
+  <reference>
+    <citation>Hall C, Cannon CP, Forman S, Braunwald E. Prognostic value of N-terminal proatrial natriuretic factor plasma levels measured within the first 12 hours after myocardial infarction. Thrombolysis in Myocardial Infarction (TIMI) II Investigators. J Am Coll Cardiol. 1995 Nov 15;26(6):1452-6.</citation>
+    <PMID>7594070</PMID>
+  </reference>
+  <reference>
+    <citation>Simon K, Szépvölgyi A. Early and 1-year clinical outcome of patients evolving non-Q-wave versus Q-wave myocardial infarction after thrombolysis: results from the TIMI II study. Circulation. 1995 Dec 15;92(12):3575-6.</citation>
+    <PMID>8521582</PMID>
+  </reference>
+  <reference>
+    <citation>Mueller HS, Forman SA, Menegus MA, Cohen LS, Knatterud GL, Braunwald E. Prognostic significance of nonfatal reinfarction during 3-year follow-up: results of the Thrombolysis in Myocardial Infarction (TIMI) phase II clinical trial. The TIMI Investigators. J Am Coll Cardiol. 1995 Oct;26(4):900-7.</citation>
+    <PMID>7560615</PMID>
+  </reference>
+  <reference>
+    <citation>Aguirre FV, Younis LT, Chaitman BR, Ross AM, McMahon RP, Kern MJ, Berger PB, Sopko G, Rogers WJ, Shaw L, et al. Early and 1-year clinical outcome of patients' evolving non-Q-wave versus Q-wave myocardial infarction after thrombolysis. Results from The TIMI II Study. Circulation. 1995 May 15;91(10):2541-8.</citation>
+    <PMID>7743615</PMID>
+  </reference>
+  <reference>
+    <citation>Sloan MA, Price TR, Petito CK, Randall AM, Solomon RE, Terrin ML, Gore J, Collen D, Kleiman N, Feit F, et al. Clinical features and pathogenesis of intracerebral hemorrhage after rt-PA and heparin therapy for acute myocardial infarction: the Thrombolysis in Myocardial Infarction (TIMI) II Pilot and Randomized Clinical Trial combined experience. Neurology. 1995 Apr;45(4):649-58.</citation>
+    <PMID>7723950</PMID>
+  </reference>
+  <reference>
+    <citation>Tracy RP, Kleiman NS, Thompson B, Cannon CP, Bovill EG, Brown RG, Collen D, Mahan E, Mann KG, Rogers WJ, Sopko G, Stump DC, Williams DO, Zaret BL. Relation of coagulation parameters to patency and recurrent ischemia in the Thrombolysis in Myocardial Infarction (TIMI) Phase II Trial. Am Heart J. 1998 Jan;135(1):29-37.</citation>
+    <PMID>9453518</PMID>
+  </reference>
+  <verification_date>July 2000</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Infarction</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Tissue Plasminogen Activator</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

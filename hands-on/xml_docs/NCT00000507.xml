@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204470">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000507</url>
+  </required_header>
+  <id_info>
+    <org_study_id>26</org_study_id>
+    <nct_id>NCT00000507</nct_id>
+  </id_info>
+  <brief_title>Intravenous Streptokinase in Acute Myocardial Infarction</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether the administration of intravenous streptokinase (SK) early in the
+      course of acute, transmural myocardial infarction would limit myocardial damage.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Determination of the potential value of thrombolytic therapy in patients with acute
+      myocardial infarction was an issue of major importance in 1983. An estimated 1.4 million
+      heart attacks occurred each year, of which over 500,000 were fatal. Reduction of mortality
+      required an effective means to reduce infarct size. Studies indicated that reperfusion
+      represented a potent means of achieving salvage of ischemic myocardium. Pilot clinical
+      studies indicated that reperfusion could be achieved in a substantial percentage of patients
+      by lysis of coronary thrombosis with both intracoronary and intravenous streptokinase
+      administration. Intracoronary thrombolysis was receiving widespread clinical applications
+      but had many limitations. The intracoronary route took 90-120 minutes longer to administer
+      than the intravenous route. Because intracoronary therapy required the availability of a
+      catheterization laboratories and highly skilled invasive cardiologists, this treatment was
+      not available to large numbers of patients who were hospitalized in smaller community
+      hospitals.
+
+      DESIGN NARRATIVE:
+
+      Randomized design with two groups and fixed sample size. Control patients received routine
+      coronary care. The treatment group received intravenous streptokinase plus conventional
+      care. This was followed with intravenous heparin and warfarin. The primary endpoint was 14
+      day mortality. Secondary endpoints included angiographic patency of the involved coronary
+      artery at 10 to 14 days, left ventricular function, segmental wall motion analysis, and
+      myocardial infarction size at 30-45 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1983</start_date>
+  <completion_date>October 1994</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>streptokinase</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, aged less than 75. Myocardial infarction onset within six hours.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>74 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Martin GV, Sheehan FH, Stadius M, Maynard C, Davis KB, Ritchie JL, Kennedy JW. Intravenous streptokinase for acute myocardial infarction. Effects on global and regional systolic function. Circulation. 1988 Aug;78(2):258-66.</citation>
+    <PMID>3396164</PMID>
+  </reference>
+  <reference>
+    <citation>Ritchie JL, Cerqueira M, Maynard C, Davis K, Kennedy JW. Ventricular function and infarct size: the Western Washington Intravenous Streptokinase in Myocardial Infarction Trial. J Am Coll Cardiol. 1988 Apr;11(4):689-97.</citation>
+    <PMID>3280640</PMID>
+  </reference>
+  <reference>
+    <citation>Kennedy JW, Martin GV, Davis KB, Maynard C, Stadius M, Sheehan FH, Ritchie JL. The Western Washington Intravenous Streptokinase in Acute Myocardial Infarction Randomized Trial. Circulation. 1988 Feb;77(2):345-52. Erratum in: Circulation 1988 May;77(5):1037.</citation>
+    <PMID>3276409</PMID>
+  </reference>
+  <verification_date>October 1994</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Infarction</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Streptokinase</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

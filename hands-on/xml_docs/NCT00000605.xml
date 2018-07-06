@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204372">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000605</url>
+  </required_header>
+  <id_info>
+    <org_study_id>109</org_study_id>
+    <nct_id>NCT00000605</nct_id>
+  </id_info>
+  <brief_title>Estrogen and Graft Atherosclerosis Research Trial (EAGER)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine if postmenopausal hormone replacement therapy in women following coronary
+      bypass surgery would reduce the occurrence of graft occlusion and delay the development of
+      graft atherosclerosis.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Coronary atherosclerosis is a major cause of death in women in the United States. Although
+      coronary artery bypass surgery decreases symptomatic and clinical evidence of ischemia, it
+      does not alter the underlying process. Patients may present several years later with
+      recurrent symptoms that may be a result of occlusion of saphenous vein grafts, development
+      of atherosclerotic disease in vein grafts, or progression of underlying disease. Any
+      intervention that can reduce the rate of progression of coronary atherosclerosis following
+      bypass surgery would provide significant benefit for women following bypass surgery and
+      possibly for other women with atherosclerotic disease. Observational studies suggest that
+      postmenopausal estrogen replacement therapy is associated with a reduction in cardiac
+      morbidity.
+
+      DESIGN NARRATIVE:
+
+      The study was a randomized, double-blind, controlled trial. Subjects were randomized to
+      conjugated estrogen with daily medroxyprogesterone or placebo within two weeks of bypass
+      surgery. Graft occlusion and development of vein graft atherosclerosis were measured by
+      comparing quantitative coronary angiographic and vascular ultrasonic assessment of disease
+      severity and extent performed at six months and three and a half years after randomization.
+      The primary outcome variables included the occurrence of graft occlusion at six months and
+      the change in severity and extent of atherosclerosis in the saphenous vein grafts over three
+      years. The trial determined the influence of hormone replacement therapy on the primary
+      outcome variables.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1996</start_date>
+  <completion_date>July 2002</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Arteriosclerosis</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <condition>Postmenopause</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>hormone replacement therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>estrogens</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>medroxyprogesterone</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Postmenopausal women who had undergone coronary artery bypass graft.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pamela Ouyang</last_name>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <verification_date>April 2005</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arteriosclerosis</mesh_term>
+    <mesh_term>Atherosclerosis</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Estrogens</mesh_term>
+    <mesh_term>Medroxyprogesterone</mesh_term>
+    <mesh_term>Medroxyprogesterone Acetate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

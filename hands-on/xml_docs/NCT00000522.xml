@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204455">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000522</url>
+  </required_header>
+  <id_info>
+    <org_study_id>41</org_study_id>
+    <nct_id>NCT00000522</nct_id>
+  </id_info>
+  <brief_title>Treatment of Mild Hypertension Study (TOMHS)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare the effects of nonpharmacologic therapy alone with those of one of five active
+      drug regimens combined with non-pharmacologic therapy, for long- term management of patients
+      with mild hypertension.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Dietary sodium reduction has a mild effect on the reduction of hypertension. Weight loss,
+      while achievable in the short-run with diet alone, may also have only mild effects on
+      hypertension and is very difficult to maintain with diet and/or behavior modification.
+      Alteration of patients' lifestyles to decrease excessive alcohol intake is somewhat
+      controversial. Medications, on the other hand, have clear benefits in terms of blood
+      pressure lowering, and in the case of diuretics and beta-blockers, reduction in
+      cardiovascular morbidity and mortality. However, there is concern about their justified use
+      in mild hypertension since each one has side effects, some of which may have long-term
+      implications, such as alteration in serum lipids. Newer classes of drugs--calcium
+      antagonists, angiotensin converting enzyme inhibitors, alpha blockers--had not previously
+      been compared long-term with diuretics and beta-blockers.
+
+      DESIGN NARRATIVE:
+
+      TOMHS I enrolled 902 men and women to determine the feasibility of a larger trial.
+      Participants were randomized in a double-blind manner to one of six treatment groups and
+      within two strata. Stratum I was for participants not on antihypertensive drugs and Stratum
+      II for those on antihypertensive drugs at initial screening. There were six treatment arms:
+      placebo, a diuretic (chlorthalidone), a beta-adrenergic blocking agent (acebutolol), an
+      alpha blocker (doxazosin mesylate), a calcium antagonist (amlodipine maleate), and an
+      angiotensin converting enzyme inhibitor (enalapril maleate). All participants received a
+      lifestyle intervention program that included reduction of sodium chloride and alcohol intake
+      as well as weight reduction and increase in physical activity. All participants were
+      followed for at least 48 months, with an average of 54 months. The primary endpoint was
+      lowering of blood pressure. The treatments were also compared for effects on blood
+      chemistries including lipoproteins, echocardiographic left ventricular mass, ventricular
+      ectopic activity and ST-T changes of ischemia as measured by ambulatory ECG monitoring, side
+      effects, and quality of life. Randomization took place between October 1986 and March 1988.
+      Active follow-up ended in March-April 1992. Data analysis ended in May 1994.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1985</start_date>
+  <completion_date>May 1994</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, sodium-restricted</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, reducing</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>exercise</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>alcohol restriction</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>chlorthalidone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>acebutolol</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>doxazosin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>amlodipine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>enalapril</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women, ages 45 to 69, with mild hypertension (diastolic blood pressure of 90-99 mm
+        Hg at two of three visits for untreated individuals. Patients who received drug therapy
+        must have had a DBP less than 95 mm Hg two to four weeks after drug.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>69 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard Grimm</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Mascioli SR, Grimm RH Jr, Neaton JD, Stamler J, Prineas RJ, Cutler JA, Elmer PJ, McDonald R, Schnaper H, Schoenberger J. Characteristics of participants at baseline in the Treatment of Mild Hypertension Study (TOMHS). Am J Cardiol. 1990 Sep 25;66(9):32C-35C.</citation>
+    <PMID>2220647</PMID>
+  </reference>
+  <reference>
+    <citation>The treatment of mild hypertension study. A randomized, placebo-controlled trial of a nutritional-hygienic regimen along with various drug monotherapies. The Treatment of Mild Hypertension Research Group. Arch Intern Med. 1991 Jul;151(7):1413-23.</citation>
+    <PMID>2064494</PMID>
+  </reference>
+  <reference>
+    <citation>Liebson PR, Grandits G, Prineas R, Dianzumba S, Flack JM, Cutler JA, Grimm R, Stamler J. Echocardiographic correlates of left ventricular structure among 844 mildly hypertensive men and women in the Treatment of Mild Hypertension Study (TOMHS). Circulation. 1993 Feb;87(2):476-86.</citation>
+    <PMID>8425295</PMID>
+  </reference>
+  <reference>
+    <citation>Neaton JD, Grimm RH Jr, Prineas RJ, Stamler J, Grandits GA, Elmer PJ, Cutler JA, Flack JM, Schoenberger JA, McDonald R, et al. Treatment of Mild Hypertension Study. Final results. Treatment of Mild Hypertension Study Research Group. JAMA. 1993 Aug 11;270(6):713-24.</citation>
+    <PMID>8336373</PMID>
+  </reference>
+  <reference>
+    <citation>Black HR. Treatment of mild hypertension. The more things change... JAMA. 1993 Aug 11;270(6):757-9. Review.</citation>
+    <PMID>8336380</PMID>
+  </reference>
+  <reference>
+    <citation>Flack JM, Neaton JD, Daniels B, Esunge P. Ethnicity and renal disease: lessons from the Multiple Risk Factor Intervention Trial and the Treatment of Mild Hypertension Study. Am J Kidney Dis. 1993 Apr;21(4 Suppl 1):31-40.</citation>
+    <PMID>8465834</PMID>
+  </reference>
+  <reference>
+    <citation>Elmer PJ, Grimm R Jr, Laing B, Grandits G, Svendsen K, Van Heel N, Betz E, Raines J, Link M, Stamler J, et al. Lifestyle intervention: results of the Treatment of Mild Hypertension Study (TOMHS). Prev Med. 1995 Jul;24(4):378-88.</citation>
+    <PMID>7479629</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler J, Prineas RJ, Neaton JD, Grimm RH, McDonald RH, Schnaper HW, Schoenberger JA, Elmer PJ, Cutler JA. Background and design of the new U.S. trial on diet and drug treatment of &quot;mild&quot; hypertension (TOMHS). Am J Cardiol. 1987 May 29;59(14):51G-60G.</citation>
+    <PMID>3296721</PMID>
+  </reference>
+  <reference>
+    <citation>Prineas RJ, Grimm R, Grandits G, et al: The Effect of Dietary Sodium and Body Weight on Echocardiographic Measures of Left Ventricular Mass Among Treated Hypertensive Men and Women: Four-Year Change in the TOMHS Study. Nieren-und Hochdruck-krankheiten, Jahrgang 23:S14-S21, 1994.</citation>
+  </reference>
+  <reference>
+    <citation>Grandits GA, Liebson PR, Dianzumba S, Prineas RJ. Echocardiography in multicenter clinical trials: experience from the Treatment of Mild Hypertension Study. Control Clin Trials. 1994 Oct;15(5):395-410.</citation>
+    <PMID>8001359</PMID>
+  </reference>
+  <reference>
+    <citation>Liebson PR, Grandits GA, Dianzumba S, Prineas RJ, Grimm RH Jr, Neaton JD, Stamler J. Comparison of five antihypertensive monotherapies and placebo for change in left ventricular mass in patients receiving nutritional-hygienic therapy in the Treatment of Mild Hypertension Study (TOMHS). Circulation. 1995 Feb 1;91(3):698-706.</citation>
+    <PMID>7828296</PMID>
+  </reference>
+  <reference>
+    <citation>Crow RS, Prineas RJ, Rautaharju P, Hannan P, Liebson PR. Relation between electrocardiography and echocardiography for left ventricular mass in mild systemic hypertension (results from Treatment of Mild Hypertension Study). Am J Cardiol. 1995 Jun 15;75(17):1233-8.</citation>
+    <PMID>7778546</PMID>
+  </reference>
+  <reference>
+    <citation>Grimm RH Jr, Flack JM, Grandits GA, Elmer PJ, Neaton JD, Cutler JA, Lewis C, McDonald R, Schoenberger J, Stamler J. Long-term effects on plasma lipids of diet and drugs to treat hypertension. Treatment of Mild Hypertension Study (TOMHS) Research Group. JAMA. 1996 May 22-29;275(20):1549-56.</citation>
+    <PMID>8622245</PMID>
+  </reference>
+  <reference>
+    <citation>Grimm RH Jr, Grandits GA, Prineas RJ, McDonald RH, Lewis CE, Flack JM, Yunis C, Svendsen K, Liebson PR, Elmer PJ. Long-term effects on sexual function of five antihypertensive drugs and nutritional hygienic treatment in hypertensive men and women. Treatment of Mild Hypertension Study (TOMHS). Hypertension. 1997 Jan;29(1 Pt 1):8-14.</citation>
+    <PMID>9039073</PMID>
+  </reference>
+  <reference>
+    <citation>Lewis CE, Grandits A, Flack J, McDonald R, Elmer PJ. Efficacy and tolerance of antihypertensive treatment in men and women with stage 1 diastolic hypertension. Results of the Treatment of Mild Hypertension Study. Arch Intern Med. 1996 Feb 26;156(4):377-85.</citation>
+    <PMID>8607723</PMID>
+  </reference>
+  <reference>
+    <citation>Grimm RH Jr, Grandits GA, Cutler JA, Stewart AL, McDonald RH, Svendsen K, Prineas RJ, Liebson PR. Relationships of quality-of-life measures to long-term lifestyle and drug treatment in the Treatment of Mild Hypertension Study. Arch Intern Med. 1997 Mar 24;157(6):638-48.</citation>
+    <PMID>9080918</PMID>
+  </reference>
+  <reference>
+    <citation>Ganguli MC, Grimm RH Jr, Svendsen KH, Flack JM, Grandits GA, Elmer PJ. Urinary sodium and potassium profile of blacks and whites in relation to education in two different geographic urban areas. TOMHS Research Group. Treatment of Mild Hypertension Study. Am J Hypertens. 1999 Jan;12(1 Pt 1):69-72.</citation>
+    <PMID>10075387</PMID>
+  </reference>
+  <reference>
+    <citation>Ganguli MC, Grimm RH Jr, Svendsen KH, Flack JM, Grandits GA, Elmer PJ. Higher education and income are related to a better Na:K ratio in blacks: baseline results of the Treatment of Mild Hypertension Study (TOMHS) data. Am J Hypertens. 1997 Sep;10(9 Pt 1):979-84.</citation>
+    <PMID>9324102</PMID>
+  </reference>
+  <reference>
+    <citation>Grandits GA, Grimm RH Jr, Prineas RJ, Grambsch P, Holland LA. Obtaining event status at the close of the Treatment of Mild Hypertension Study: methods and implication for other trials. Control Clin Trials. 2001 Feb;22(1):56-61.</citation>
+    <PMID>11165424</PMID>
+  </reference>
+  <verification_date>March 2001</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Chlorthalidone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

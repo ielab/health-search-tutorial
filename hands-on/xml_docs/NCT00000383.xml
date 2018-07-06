@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204593">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000383</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R10MH055963</org_study_id>
+    <secondary_id>1R10MH055963</secondary_id>
+    <secondary_id>1R10MH056224</secondary_id>
+    <nct_id>NCT00000383</nct_id>
+  </id_info>
+  <brief_title>Treatment of Post-Traumatic Stress Disorder (PTSD) in Sexually Abused Children</brief_title>
+  <official_title>Treatment of PTSD in Sexually Abused Children</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Allegheny Singer Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Medicine and Dentistry of New Jersey</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Allegheny Singer Research Institute</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the effectiveness of two psychological therapies
+      used to treat PTSD in children who have recently been sexually abused: Trauma-Focused
+      Cognitive Behavioral Therapy (TF-CBT) vs Child Centered Therapy (CCT).
+
+      Child sexual abuse is a common experience that has serious mental health consequences,
+      including the development of PTSD and other abuse-related problems.
+
+      All children will be assigned randomly (like tossing a coin) to receive either SAS-CBT or
+      NST at each of two sites. In addition, the parents and the child will receive individual
+      therapy for 12 weeks. The child will be monitored to evaluate his/her response to therapy.
+      Assessments will take place before and just following treatment, and then 6 and 12 months
+      post-treatment.
+
+      A child may be eligible for this study if he/she:
+
+      Has been sexually abused, is suffering from PTSD as a result of the abuse, and is 8 to 14
+      years old.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To evaluate the comparative efficacy of Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)
+      vs Child Centered Therapy (CCT) in decreasing symptoms of Post-Traumatic Stress Disorder
+      (PTSD) following recent sexual abuse.
+
+      Child sexual abuse is a common experience that has serious mental health consequences,
+      including the development of PTSD and other abuse-related and general psychopathological
+      symptoms.
+
+      Patients are randomly assigned to receive either TF-CBT or CCT at each of two sites, and
+      will be provided with 12 weeks of individual therapy for children and parents. Treatment is
+      monitored for compliance with the respective treatment models through intensive supervision,
+      audiotaping of sessions, rating of sessions with use of adherence checklists, and
+      independent blind rating of audiotapes. Treatment outcome is evaluated through the use of
+      several self-, parent-, and teacher-report standardized instruments, administered at pre-
+      and post-treatment, and follow-up evaluations at 6 and 12 months. The project also assesses
+      differential treatment impact by gender and ethnicity, and attempts to evaluate the impact
+      of specific components of the treatment process in mediating treatment outcome.
+      Specifically, the project evaluates the differential effectiveness of the two treatment
+      modalities in improving the subject's abuse-related attributions and perceptions, parenting
+      practices, familial adaptability and cohesiveness, parent support, and parental emotional
+      reaction to the abuse, and the impact of improving these variables on treatment outcome.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1997</start_date>
+  <completion_date type="Actual">September 2002</completion_date>
+  <primary_completion_date type="Actual">September 2001</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Investigator, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>PTSD</measure>
+    <time_frame>12 weeks; 6- and 12- month follow-up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in child PTSD total PTSD symptoms, PTSD cluster symptoms, PTSD diagnosis as measured by the K-SADS-PL</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Depression</measure>
+    <time_frame>12 weeks; 6- and 12-month follow up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in child depressive symptoms measured by the Child Depression Inventory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety</measure>
+    <time_frame>12 weeks; 6 and 12-month follow-up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in child anxiety symptoms measured by State Trait Anxiety Inventory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maldaptive Cognitions</measure>
+    <time_frame>12 weeks; 6 and 12 month follow-up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in maladaptive trauma-related cognitions measured by the Children'sAttributions and Perceptions Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Shame</measure>
+    <time_frame>12 weeks; 6 and 12 month follow up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in child shame measured by SHAME scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parent depression</measure>
+    <time_frame>12 weeks; 6 and 12 month follow up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in parental depression measured by Beck Depression Inventory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parent Emotional Distress</measure>
+    <time_frame>12 weeks; 6 and 12 month follow up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in parental distress related to child's abuse measured by Parental Emotional Reaction Questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental Support</measure>
+    <time_frame>12 weeks; 6 and 12 month follow up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in parental support of child measured by Parental Support Questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive Parenting Practices</measure>
+    <time_frame>12 weeks; 6 and 12 month follow up</time_frame>
+    <description>Change in positive parenting measured by Parenting Practices Questionnaire</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">229</enrollment>
+  <condition>Stress Disorders, Post-Traumatic</condition>
+  <arm_group>
+    <arm_group_label>Trauma-Focused CBT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Trauma -Focused CBT provides 12 sessions (45 minutes child, 45 minutes parent) of CBT treatment. This includes therapist-directed trauma-focused skills training, exposure, parenting, conjoint parent-child sessions, and safety component provided to child and parent.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Child Centered Therapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Child Centered Therapy provides 12 sessions (45 minutes child, 45 minutes parent) of supportive interventions. This includes client-directed activities focused on the needs and interests of the child or parent, respectively.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Trauma-Focused CBT</intervention_name>
+    <description>Structured skills, exposure, trauma-specific interventions</description>
+    <arm_group_label>Trauma-Focused CBT</arm_group_label>
+    <other_name>TF-CBT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Child-Centered Therapy</intervention_name>
+    <description>Client-directed supportive interventions</description>
+    <arm_group_label>Child Centered Therapy</arm_group_label>
+    <other_name>CCT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients must have:
+
+          1. Post-Traumatic Stress Disorder (PTSD) symptoms (at least 5 with at least one symptom
+             in each of 3 PTSD clusters) related to sexual abuse
+
+          2. Confirmed child sexual abuse history
+
+          3. Speak English
+
+          4. Parent willing to participate in treatment
+
+        Exclusion Criteria:
+
+          1. Active psychotic disorder resulting in inability to participate in CBT
+
+          2. Active substance abuse disorder that resulted in significant impairment 3 Serious
+             developmental disorder precluding participation in CBT
+
+        4) If on psychotropic medication, not on stable dose for at least 4 weeks 5) Receiving
+        ongoing psychotherapy outside of study
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>8 Years</minimum_age>
+    <maximum_age>14 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Judith A. Cohen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Allegheny Singer Research Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Esther Deblinger, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Medicine and Dentistry of New Jersey</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Center for Children's Support, University of Medicine and Dentistry - New Jersey</name>
+      <address>
+        <city>Stratford</city>
+        <state>New Jersey</state>
+        <zip>08084</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Allegheny General Hospital Center for Traumatic Stress in Children and Adolescents</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Traumatic Stress in Children &amp; Adolescents, Allegheny General Hospital</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Cohen JA, Deblinger E, Mannarino AP, Steer RA. A multisite, randomized controlled trial for children with sexual abuse-related PTSD symptoms. J Am Acad Child Adolesc Psychiatry. 2004 Apr;43(4):393-402.</citation>
+    <PMID>15187799</PMID>
+  </reference>
+  <verification_date>March 2015</verification_date>
+  <lastchanged_date>March 27, 2015</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Allegheny Singer Research Institute</investigator_affiliation>
+    <investigator_full_name>Judith Cohen</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Adolescence</keyword>
+  <keyword>Child</keyword>
+  <keyword>Cognitive Therapy</keyword>
+  <keyword>Comparative Study</keyword>
+  <keyword>Female</keyword>
+  <keyword>Human</keyword>
+  <keyword>Male</keyword>
+  <keyword>Stress Disorders, Post-Traumatic</keyword>
+  <keyword>Child Abuse, Sexual</keyword>
+  <keyword>Stress Disorders, Post-Traumatic -- *therapy</keyword>
+  <keyword>Child Abuse, Sexual -- *psychology</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

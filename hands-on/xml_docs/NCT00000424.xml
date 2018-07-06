@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204552">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000424</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01AR042165</org_study_id>
+    <secondary_id>NIAMS-001</secondary_id>
+    <nct_id>NCT00000424</nct_id>
+  </id_info>
+  <brief_title>Tidal Lavage in Knee Osteoarthritis</brief_title>
+  <official_title>Tidal Lavage vs. Sham Lavage in Knee Osteoarthritis (OA)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study compared the effects of tidal lavage (washing out) of the knee joint and an
+      imitation lavage procedure in people with knee osteoarthritis. In tidal lavage, the doctor
+      flushes out a knee joint with repeated injections of a mild salt solution, done under local
+      anesthesia. Study participants had to meet standard criteria for diagnosis of osteoarthritis
+      but could have low, medium, or high severity of x-ray changes indicating knee
+      osteoarthritis. We performed the lavage procedure once, and did quarterly followups for 1
+      year. We permitted patients to use some other osteoarthritis treatments during the study,
+      such as non-narcotic pain relievers, nonsteroidal anti-inflammatory drugs, and physical
+      therapy.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study was a randomized, double-blind, sham procedure-controlled evaluation of tidal
+      lavage as a treatment for knee osteoarthritis. We achieved blinding by raising a drape
+      during the study procedure and mimicking the sensory aspects of tidal lavage, but not
+      flushing the knee, in the sham lavage group. We gave all study participants subcutaneous
+      anesthesia with lidocaine and then bupivacaine and then attempted aspiration of the knee,
+      removing up to 5 ml of synovial fluid for examination and then injecting the knee with 20 ml
+      of bupivicaine.
+
+      In people who received the sham treatment, we placed a 16-gauge catheter in the lateral
+      suprapatellar position just to the knee joint capsule and infused small volumes (less than 5
+      ml per &quot;exchange&quot; x 20) of saline into the subcutaneous tissue while manipulating the
+      anterior knee to mimic efforts to shift fluid within the knee during the &quot;aspiration&quot; phase
+      of each exchange. Patients could see the supply bag of sterile saline but could not see the
+      waste bag of this closed drainage system.
+
+      For tidal lavage patients, we made the catheter puncture in the lateral suprapatellar pouch
+      and repeatedly distended the knee with 30-50 ml of sterile saline, then aspirated this
+      volume (about 20 exchanges for a total of 1 liter of flush solution).
+
+      At the end of the procedure, we told the patients that their knee might be swollen due to
+      retained saline, and to expect this additional swelling to resolve over 24-48 hours, during
+      which time they were to minimize activity. The person who did the procedure (the principal
+      investigator) then left the room. The study nurse, who was not present for the procedure and
+      was blinded to the procedure's identity, asked the patients which treatment they thought
+      they received (tidal lavage or sham lavage). We scheduled patient followups with this study
+      nurse for 3, 6, and 12 months, and patients completed questionnaires at each visit.
+      Questionnaires were both arthritis-specific (WOMAC) and global (Quality of Well-Being).
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1995</start_date>
+  <completion_date>June 2001</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>180</enrollment>
+  <condition>Osteoarthritis, Knee</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Tidal lavage vs. sham lavage of the knee</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Knee pain attributed to osteoarthritis for at least 1 year.
+
+          -  Meet American College of Rheumatology clinical or clinical plus x-ray criteria for
+             knee osteoarthritis
+
+          -  Have at least a moderate pain rating on at least one of the five Western
+             Ontario-McMaster University Osteoarthritis Index (WOMAC) scales
+
+        Exclusion Criteria:
+
+          -  Significant conditions of the spine, hips, or feet that affect the ability to walk
+
+          -  Significant medical conditions that affect the ability to walk and function
+
+          -  Inflammatory arthritis, such as rheumatoid arthritis or gout
+
+          -  Degenerative arthritis secondary to other conditions, such as hemochromatosis,
+             Wilson's disease, or ochronosis
+
+          -  Current significant soft tissue rheumatism such as fibromyalgia, anserine bursitis,
+             or trochanteric bursitis
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John D. Bradley, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indiana University School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Indiana University School of Medicine</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Bradley JD, Heilman DK, Wallick JE, Olin P. Effect of blinding on response to tidal lavage (TL) and sham lavage (SL) in knee osteoarthritis (KOA). Arthritis Rheum 42(Supplement):S292,1999.</citation>
+  </reference>
+  <reference>
+    <citation>Bradley JD, Heilman DK, G'Sell P: Do psychological factors &quot;predict&quot; response to tidal lavage (TL) and sham lavage (SL) in knee osteoarthritis (KOA)? Arthritis Rheum 43(Supplement):S337,2000</citation>
+  </reference>
+  <reference>
+    <citation>Bradley JD. Joint irrigation as treatment for osteoarthritis. Curr Rheumatol Rep. 2003 Feb;5(1):20-6. Review.</citation>
+    <PMID>12590881</PMID>
+  </reference>
+  <results_reference>
+    <citation>Bradley JD, Heilman DK, Katz BP, Gsell P, Wallick JE, Brandt KD. Tidal irrigation as treatment for knee osteoarthritis: a sham-controlled, randomized, double-blinded evaluation. Arthritis Rheum. 2002 Jan;46(1):100-8.</citation>
+    <PMID>11817581</PMID>
+  </results_reference>
+  <verification_date>March 2001</verification_date>
+  <lastchanged_date>December 28, 2006</lastchanged_date>
+  <firstreceived_date>November 3, 1999</firstreceived_date>
+  <keyword>Osteoarthritis (OA)</keyword>
+  <keyword>Knee</keyword>
+  <keyword>Sham lavage</keyword>
+  <keyword>Tidal lavage</keyword>
+  <keyword>Lavage therapy</keyword>
+  <keyword>Nonsteroidal anti-inflammatory drug (NSAID)</keyword>
+  <keyword>Placebo</keyword>
+  <keyword>Radiography</keyword>
+  <keyword>Human therapy evaluation</keyword>
+  <keyword>WOMAC</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Osteoarthritis</mesh_term>
+    <mesh_term>Osteoarthritis, Knee</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anti-Inflammatory Agents, Non-Steroidal</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204608">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000368</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01MH045964</org_study_id>
+    <secondary_id>R01MH045964</secondary_id>
+    <secondary_id>R01MH045965</secondary_id>
+    <secondary_id>R01MH045966</secondary_id>
+    <secondary_id>R01MH045963</secondary_id>
+    <secondary_id>DSIR AT-CT</secondary_id>
+    <nct_id>NCT00000368</nct_id>
+  </id_info>
+  <brief_title>Treatment of Panic Disorder: Long Term Strategies</brief_title>
+  <official_title>Treatment of Panic Disorder: Long Term Strategies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York State Psychiatric Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York State Psychiatric Institute</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cognitive behavior therapy (CBT) with or without medication has been used in the treatment
+      of panic disorder (PD). The purpose of this study is 1) to determine whether nine months of
+      maintenance cognitive-behavior therapy (CBT) significantly improves the likelihood of
+      sustained improvement; and 2) to determine the acute acceptability and efficacy of
+      medication therapy or continued CBT alone among patients who fail to respond sufficiently to
+      an initial course of CBT alone.
+
+      It has been found that patients with PD respond as well to CBT or medication alone as they
+      do to a combination of the two. Since the combined treatments are expensive and CBT is
+      associated with less risk of medical toxicity compared to medications, CBT alone will be
+      used first.
+
+      All patients will first receive CBT alone. If the patient responds to this therapy, the
+      patient will be assigned randomly (like tossing a coin) to 1 of 2 groups. One group will
+      continue to receive CBT (maintenance therapy) for 9 months. The other group of responders
+      will not receive any further therapy. If a patient does not respond to CBT alone, he/she
+      will be assigned randomly to 1 of 2 different groups. One group will receive paroxetine; the
+      other will continue to receive CBT for a longer period. The response to treatment will be
+      evaluated to see which regimen works best to treat PD. The study will last approximately 3
+      years.
+
+      An individual may be eligible for this study if he/she has panic disorder with no more than
+      mild agoraphobia (fear of being in public places) and is at least 18 years old.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To determine if maintenance CBT produces a more sustained improvement among patients with
+      panic disorder (PD) who respond to an initial course of cognitive behavior therapy (CBT)
+      alone. For those who do not respond sufficiently to CBT alone, to determine if the addition
+      of pharmacotherapy is acceptable and if this improves response among those inadequate
+      responders to CBT alone.
+
+      This multicenter study builds upon the findings of a prior study comparing imipramine,
+      placebo, CBT, and their combination in the treatment of PD patients with no more than mild
+      agoraphobia. That study found response rates were as high with CBT or imipramine alone as
+      with their combination. Given the added cost of combined treatments, it therefore seems
+      reasonable to begin with monotherapy. Further, following general principles of medical
+      practice, it would be reasonable to initiate treatment with the less invasive cognitive
+      behavioral intervention. It is then important to learn what should be done following initial
+      treatment.
+
+      All patients initially receive CBT alone. Patients are then randomized into 1 of 2
+      post-acute studies, depending on response status. Responders are randomized to a maintenance
+      study comparing no maintenance with 9 months of continued CBT. Nonresponders are randomized
+      to a study comparing paroxetine with continued CBT. The following outcomes will be examined:
+      the necessity of maintenance therapy in maintaining response; the ability of adjunct
+      pharmacotherapy to improve the response of patients who did not respond to CBT alone;
+      possible predictors of response and relapse; and possible mediators of response.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 1999</start_date>
+  <completion_date type="Actual">July 2004</completion_date>
+  <primary_completion_date type="Actual">July 2004</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Panic Disorder Severity Scale</measure>
+    <time_frame>At baseline and major assessment points plus monthly.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>This is a 7-item scale providing ratings of core features of panic disorder and the degree of work and social impairment/interference due to the disorder.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Global Impressions</measure>
+    <time_frame>Monthly, including all nonpretreatment major assessments.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Commonly used global rating of improvement.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Albany Panic and Phobia Questionnaire</measure>
+    <time_frame>All major assessment points.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>This is a 27-item scale consisting of three subscales that assess fear of agoraphobic situations, social situations, and situations and activities that produce bodily sensations commonly feared by individuals with panic disorder.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety Sensitivity Index</measure>
+    <time_frame>All major assessments and treatment visits.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>This is a 16-item scale that assesses person's tendency to regard physiologic arousal as harmful.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective Symptoms Scale</measure>
+    <time_frame>All major assessment points</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>This is an individual's rating of the extent to which anxiety symptoms interfere with five areas of daily functioning: work, home management, private leisure, social leisure, and family relationships.</description>
+  </secondary_outcome>
+  <enrollment type="Actual">379</enrollment>
+  <condition>Panic Disorder</condition>
+  <condition>Agoraphobia</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive behavior therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paroxetine or other medication - algorithm used</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        - primary diagnosis of Panic disorder with or without Agoraphobia (all levels of
+        agoraphobia are included).
+
+        Exclusion Criteria:
+
+          -  current substance abuse or dependence,
+
+          -  current active suicidal potential;
+
+          -  any history of psychosis, bipolar disorder (I or II) or cyclothymia;
+
+          -  pending application or existing medical disability claim;
+
+          -  significant cognitive impairment,
+
+          -  current uncontrolled general medical illness requiring intervention,
+
+          -  psychotherapy directed at anxiety or panic which will not be discontinued by the
+             first treatment visit, and daily use of 2mg of Xanax or equivalent.
+
+        Exclusion criteria for paroxetine study:
+
+          -  hypersensitivity to Selective Serotonin Reuptake Inhibitors (SSRI),
+
+          -  pregnancy, lactation, or planned pregnancy during the course of the study,
+
+          -  contemporaneous medication that may interfere or interact with paroxetine,
+
+          -  prior treatment with therapeutic doses of paroxetine (40mg/d for 1 mo),
+
+          -  concurrent treatment with antidepressants.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Katherine H. Shear, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David H Barlow, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Boston University Department of Psychology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jack Gorman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Scott Woods, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Yale University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Yale University, Department of Psychiatry, Anxiety Disorders Research Clinic</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston University, Department of Psychology, Center for Anxiety and Related Disorders</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hillside Hospital Phobia Clinic</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh, Department of Psychiatry, Panic, Anxiety and Traumatic Grief Program</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.bu.edu/anxiety/</url>
+    <description>Center for Anxiety and Related Disorders [Boston Study Site]</description>
+  </link>
+  <link>
+    <url>http://info.med.yale.edu/yfp/new/anxiety.html</url>
+    <description>Yale Anxiety Disorders Research Clinic [New Haven Study site]</description>
+  </link>
+  <reference>
+    <citation>Barlow DH, Gorman JM, Shear MK, Woods SW. Cognitive-behavioral therapy, imipramine, or their combination for panic disorder: A randomized controlled trial. JAMA. 2000 May 17;283(19):2529-36. Erratum in: JAMA 2000 Nov 15;284(19):2450. JAMA 2001 Nov 22-29;284(20):2597.</citation>
+    <PMID>10815116</PMID>
+  </reference>
+  <reference>
+    <citation>Shear MK, Brown TA, Barlow DH, Money R, Sholomskas DE, Woods SW, Gorman JM, Papp LA. Multicenter collaborative panic disorder severity scale. Am J Psychiatry. 1997 Nov;154(11):1571-5.</citation>
+    <PMID>9356566</PMID>
+  </reference>
+  <reference>
+    <citation>Gorman JM. A 28-year-old woman with panic disorder. JAMA. 2001 Jul 25;286(4):450-7.</citation>
+    <PMID>11466124</PMID>
+  </reference>
+  <reference>
+    <citation>Grilo CM, Money R, Barlow DH, Goddard AW, Gorman JM, Hofmann SG, Papp LA, Shear MK, Woods SW. Pretreatment patient factors predicting attrition from a multicenter randomized controlled treatment study for panic disorder. Compr Psychiatry. 1998 Nov-Dec;39(6):323-32.</citation>
+    <PMID>9829138</PMID>
+  </reference>
+  <reference>
+    <citation>Huppert JD, Bufka LF, Barlow DH, Gorman JM, Shear MK, Woods SW. Therapists, therapist variables, and cognitive-behavioral therapy outcome in a multicenter trial for panic disorder. J Consult Clin Psychol. 2001 Oct;69(5):747-55.</citation>
+    <PMID>11680551</PMID>
+  </reference>
+  <reference>
+    <citation>Hofmann SG, Barlow DH, Papp LA, Detweiler MF, Ray SE, Shear MK, Woods SW, Gorman JM. Pretreatment attrition in a comparative treatment outcome study on panic disorder. Am J Psychiatry. 1998 Jan;155(1):43-7.</citation>
+    <PMID>9433337</PMID>
+  </reference>
+  <verification_date>March 2014</verification_date>
+  <lastchanged_date>March 17, 2014</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>New York State Psychiatric Institute</investigator_affiliation>
+    <investigator_full_name>Natalia A. Skritskaya, PhD</investigator_full_name>
+    <investigator_title>Co-investigator</investigator_title>
+  </responsible_party>
+  <keyword>Adult</keyword>
+  <keyword>Cognitive Behavioral Therapy</keyword>
+  <keyword>Pharmacotherapy</keyword>
+  <keyword>Long term treatment</keyword>
+  <keyword>Remission and relapse</keyword>
+  <keyword>Male</keyword>
+  <keyword>Panic Disorder</keyword>
+  <keyword>Paroxetine</keyword>
+  <keyword>Serotonin Uptake Inhibitors</keyword>
+  <keyword>Panic Disorder -- *therapy</keyword>
+  <keyword>Panic Disorder -- drug therapy</keyword>
+  <keyword>Paroxetine -- *therapeutic use</keyword>
+  <keyword>Serotonin Uptake Inhibitors -- *therapeutic use</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Agoraphobia</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Panic Disorder</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Paroxetine</mesh_term>
+    <mesh_term>Serotonin Uptake Inhibitors</mesh_term>
+    <mesh_term>Therapeutic Uses</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

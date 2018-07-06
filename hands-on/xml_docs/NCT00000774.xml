@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204205">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000774</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 230</org_study_id>
+    <secondary_id>11207</secondary_id>
+    <nct_id>NCT00000774</nct_id>
+  </id_info>
+  <brief_title>A Phase I Study to Evaluate the Safety and Immunogenicity of Recombinant HIV-1 Envelope Antigen in Children Born to HIV-Infected Mothers</brief_title>
+  <official_title>A Phase I Study to Evaluate the Safety and Immunogenicity of Recombinant HIV-1 Envelope Antigen in Children Born to HIV-Infected Mothers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Biocine</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      PRIMARY: To determine the safety of envelope recombinant proteins rgp120/HIV-1MN (Genentech)
+      and rgp120/HIV-1SF2 (Chiron/Biocine) in infants who are of indeterminate HIV status born to
+      HIV-infected women. To evaluate changes in viral load in infants proven to be infected and
+      absolute CD4 counts in all immunized infants.
+
+      SECONDARY: To evaluate the immunogenicity of these envelope recombinant proteins in infants
+      of indeterminate HIV status born to HIV-infected women.
+
+      Only 30-50 percent of HIV-infected infants have detectable virus at birth. Successful early
+      sensitization to HIV envelope epitopes may help prevent infection or, alternatively, may
+      enhance HIV-specific immune function to alter HIV replication and disease progression.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Only 30-50 percent of HIV-infected infants have detectable virus at birth. Successful early
+      sensitization to HIV envelope epitopes may help prevent infection or, alternatively, may
+      enhance HIV-specific immune function to alter HIV replication and disease progression.
+
+      Newborns are randomized to one of three different doses of either rgp120/HIV-1MN or
+      rgp120/HIV-1SF2 or their matching placebos. At each dose level, 12 patients receive vaccine
+      and three patients receive placebo. Immunizations are performed at 0, 4, 12, and 20 weeks,
+      and patients are followed until 2 years of age. Three of four patients treated at a given
+      dose level must have received two immunizations without evidence of grade 3 or 4 clinical or
+      laboratory toxicity before dose escalation occurs. Twelve additional patients are treated
+      with the optimal dose of each vaccine at weeks 0, 2, 8, and 20 (An accelerated schedule PER
+      AMENDMENT 3/20/96. Changed from - 0, 4, 8, and 20) accompanied by three additional placebo
+      patients per vaccine. PER AMENDMENT 3/20/96: The optimal dose of rgp120/HIV-1MN is 100 mcg
+      and will be given to the 12 patients and the placebo will be given to 3. The optimal dose of
+      rgp120/HIV-1SF2 is 5 mcg and will be given to the 12 patients and the placebo will be given
+      to 3.
+
+      PER 2/3/95 AMENDMENT: After the initial patients are enrolled, 18 additional newborns will
+      be randomized to one of the three dose levels of rgp120/HIV-1MN (with no placebos). PER
+      AMENDMENT 6/5/95: Another group of 18 newborns will be randomized to one of three treatments
+      representing 3 different doses of the Chiron/Biocine vaccine (with no placebos).
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">January 1999</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Development of adverse clinical, laboratory, or immunological responses to any of the recombinant vaccines</measure>
+    <time_frame>Throughout study</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in viral load in infants found to be HIV infected</measure>
+    <time_frame>Throughout study</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the slope of absolute CD4 counts in all immunized children</measure>
+    <time_frame>Throughout study</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in immune response to the vaccine candidates</measure>
+    <time_frame>Throughout study</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">156</enrollment>
+  <condition>HIV Infections</condition>
+  <condition>HIV Seronegativity</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients who will receive rgp120/HIV-1MN</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients who will receive rgp120/HIV-1SF2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients who will receive the placebo counterpart of 120/HIV-1MN</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients who will receive the placebo counterpart of rgp120/HIV-1SF2</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rgp120/HIV-1MN</intervention_name>
+    <description>Administered at weeks 0, 4, 8, 12, and 20. Individual group assignment will determine specific dosage and schedule.</description>
+    <arm_group_label>1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rgp120/HIV-1 SF-2</intervention_name>
+    <description>Administered at weeks 0, 4, 8, 12, and 20. Individual group assignment will determine specific dosage and schedule.</description>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo version of rgp120/HIV-1MN</intervention_name>
+    <description>Administered at weeks 0, 4, 8, 12, and 20. Individual group assignment will determine specific dosage and schedule.</description>
+    <arm_group_label>3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo version of rgp120/HIV-1SF2</intervention_name>
+    <description>Administered at weeks 0, 4, 8, 12, and 20. Individual group assignment will determine specific dosage and schedule.</description>
+    <arm_group_label>4</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  Antiretroviral therapy.
+
+          -  Coenrollment in a therapeutic protocol if begun at least 30 days following the week
+             20 immunization.
+
+          -  Routine immunizations if given more than 1 week before or after study vaccine.
+
+        Patients must be:
+
+          -  &gt; 37 weeks gestation and &lt; 72 hours of age born to HIV-infected women.
+
+          -  NOT born to women who received either passive or active immunotherapy during
+             pregnancy.
+
+          -  NOT breast-fed.
+
+          -  NOT born to women who are hepatitis B surface antigen positive.
+
+          -  Receiving AZT at study entry (except infants enrolled in ACTG 076).
+
+        NOTE:
+
+          -  Parent or guardian must provide informed consent and be willing to comply with study
+             requirements.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Documented or suspected serious bacterial infection, metabolic illness, or other
+             immediate life-threatening conditions.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Passive or active HIV-specific immunotherapy other than the study candidate vaccines.
+
+          -  Investigational medications.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>3 Days</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Borkowsky W</last_name>
+    <role>Study Chair</role>
+    <affiliation>NYU MEDICAL CENTER</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Wara DW</last_name>
+    <role>Study Chair</role>
+    <affiliation>UCSF Moffit Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Long Beach Memorial Med. Ctr., Miller Children's Hosp.</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA-Los Angeles/Brazil AIDS Consortium (LABAC) CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>900951752</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSD Maternal, Child, and Adolescent HIV CRS</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>920930672</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Francisco Gen. Hosp.</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Pediatric AIDS CRS</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>941430105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harbor - UCLA Med. Ctr. - Dept. of Peds., Div. of Infectious Diseases</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>905022004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Colorado Denver NICHD CRS</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>802181088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale Univ. School of Medicine - Dept. of Peds., Div. of Infectious Disease</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Florida Jacksonville NICHD CRS</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Miami Ped. Perinatal HIV/AIDS CRS</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33161</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chicago Children's CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>606143394</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook County Hosp.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Chicago - Dept. of Peds., Div. of Infectious Disease</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>606371470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane Univ. Health Science Ctr., Tulane Univ. Hosp. &amp; Clinic</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>701122699</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane/LSU Maternal/Child CRS</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Hosp. &amp; Health System - Dept. of Peds., Div. of Infectious Diseases</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>212874933</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BMC, Div. of Ped Infectious Diseases</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hosp., Div. of Infectious Disease</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HMS - Children's Hosp. Boston, Div. of Infectious Diseases</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baystate Health, Baystate Med. Ctr.</name>
+      <address>
+        <city>Springfield</city>
+        <state>Massachusetts</state>
+        <zip>01199</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NJ Med. School CRS</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's Hosp. &amp; Med. Ctr. of New Jersey</name>
+      <address>
+        <city>Paterson</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx-Lebanon Hosp. IMPAACT CRS</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10457</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia IMPAACT CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Incarnation Children's Ctr.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Med. Ctr., Dept. of Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Strong Memorial Hospital Rochester NY NICHD CRS</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Rochester ACTG CRS</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Stony Brook NICHD CRS</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>117948111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Med. Univ., Dept. of Peds.</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>WNE Maternal Pediatric Adolescent AIDS CRS</name>
+      <address>
+        <city>Worchester</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DUMC Ped. CRS</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>277103499</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Hosp. of Philadelphia IMPAACT CRS</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>191044318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Pennsylvania Health System, Hosp. of the Univ. of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Children's Hosp. CRS</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UW School of Medicine - CHRMC</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>981050371</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>San Juan City Hosp. PR NICHD CRS</name>
+      <address>
+        <city>San Juan</city>
+        <zip>009367344</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Rogers MF, Mofenson LM, Moseley RR. Reducing the risk of perinatal HIV transmission through zidovudine therapy: treatment recommendations and implications. J Am Med Womens Assoc. 1995 May-Aug;50(3-4):78-82, 93. Review.</citation>
+    <PMID>7657952</PMID>
+  </reference>
+  <reference>
+    <citation>Cunningham CK, Wara DW, Kang M, Fenton T, Hawkins E, McNamara J, Mofenson L, Duliege AM, Francis D, McFarland EJ, Borkowsky W; Pediatric AIDS Clinical Trials Group 230 Collaborators. Safety of 2 recombinant human immunodeficiency virus type 1 (HIV-1) envelope vaccines in neonates born to HIV-1-infected women. Clin Infect Dis. 2001 Mar 1;32(5):801-7. Epub 2001 Feb 28.</citation>
+    <PMID>11229849</PMID>
+  </reference>
+  <reference>
+    <citation>Borkowsky W, Wara D, Fenton T, McNamara J, Kang M, Mofenson L, McFarland E, Cunningham C, Duliege AM, Francis D, Bryson Y, Burchett S, Spector SA, Frenkel LM, Starr S, Van Dyke R, Jimenez E. Lymphoproliferative responses to recombinant HIV-1 envelope antigens in neonates and infants receiving gp120 vaccines. AIDS Clinical Trial Group 230 Collaborators. J Infect Dis. 2000 Mar;181(3):890-6.</citation>
+    <PMID>10720509</PMID>
+  </reference>
+  <verification_date>May 2012</verification_date>
+  <lastchanged_date>May 22, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaccines, Synthetic</keyword>
+  <keyword>Virus Replication</keyword>
+  <keyword>HIV Envelope Protein gp120</keyword>
+  <keyword>AIDS Vaccines</keyword>
+  <keyword>HIV Preventive Vaccine</keyword>
+  <keyword>HIV Therapeutic Vaccine</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

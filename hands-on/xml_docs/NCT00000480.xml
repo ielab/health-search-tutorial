@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204497">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000480</url>
+  </required_header>
+  <id_info>
+    <org_study_id>70</org_study_id>
+    <nct_id>NCT00000480</nct_id>
+  </id_info>
+  <brief_title>Multicenter Unsustained Tachycardia Trial (MUSTT)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the value of electrophysiologic (EP)-guided antiarrhythmic therapy in coronary
+      heart disease patients at increased risk for sudden death. The study included a controlled
+      clinical trial and a registry.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Cardiac arrest (sudden cardiac death) occurs relatively frequently in asymptomatic patients
+      who have had myocardial infarctions, have ejection fractions less than 40 percent, and
+      non-sustained ventricular tachycardia. However, it is not possible to predict who will die
+      suddenly or when cardiac arrest will occur. Current efforts to reduce sudden death in such
+      long-term survivors of myocardial infarction or in patients with coronary disease have
+      produced results that are not very encouraging.
+
+      Such patients may feel quite well. They survived their myocardial infarction and may have
+      slight or even moderate reduction of exercise ability, but by 'pacing' themselves, such
+      patients can lead relatively normal lives. They may be aware of their arrhythmia because of
+      short periods of palpitations which may only trouble them transiently. Consequently, this
+      group of patients, many still in the prime of their lives, are at relatively high risk of
+      dying suddenly.
+
+      The multicenter trial may reveal the most effective treatment for such patients, the value
+      of electrophysiologic studies in predicting who is most at risk of sudden cardiac death, and
+      whether electrophysiologic studies can help select the best mode of treatment. The protocol
+      for performing programmed stimulation and serial drug testing is designed to mirror those
+      currently in use by many practicing electrophysiologists.
+
+      DESIGN NARRATIVE:
+
+      Randomized, non-blind. Patients were assigned to standard therapy or to an aggressive arm
+      consisting of electrophysiologic-guided antiarrhythmic therapy. Patients in the aggressive
+      arm whose ventricular tachycardia was suppressible or who were still inducible, but who were
+      hemodynamically stable in ventricular tachycardia, were followed on drug therapy. Otherwise,
+      patients in the aggressive arm received an implantable defibrillator. The primary endpoint
+      was sudden cardiac death or cardiac arrest. Patients without inducible sustained ventricular
+      tachycardia were followed in a registry. Recruitment ceased on October 31, 1996 after a
+      recommendation from the DSMB.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1991</start_date>
+  <completion_date>September 1997</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Arrhythmia</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Death, Sudden, Cardiac</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <condition>Tachycardia, Ventricular</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>electrophysiology</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>anti-arrhythmia agents</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>defibrillators, implantable</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women patients with documented coronary artery disease, ejection fraction less
+        than or equal to 40 percent, and nonsustained asymptomatic ventricular tachycardia.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kerry Lee</last_name>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Buxton AE, Fisher JD, Josephson ME, Lee KL, Pryor DB, Prystowsky EN, Simson MB, DiCarlo L, Echt DS, Packer D, et al. Prevention of sudden death in patients with coronary artery disease: the Multicenter Unsustained Tachycardia Trial (MUSTT). Prog Cardiovasc Dis. 1993 Nov-Dec;36(3):215-26.</citation>
+    <PMID>8234775</PMID>
+  </reference>
+  <reference>
+    <citation>Buxton AE, Lee KL, DiCarlo L, Echt DS, Fisher JD, Greer GS, Josephson ME, Packer D, Prystowsky EN, Talajíc M. Nonsustained ventricular tachycardia in coronary artery disease: relation to inducible sustained ventricular tachycardia. MUSTT Investigators. Ann Intern Med. 1996 Jul 1;125(1):35-9.</citation>
+    <PMID>8644986</PMID>
+  </reference>
+  <reference>
+    <citation>Buxton AE, Hafley GE, Lehmann MH, Gold M, O'Toole M, Tang A, Coromilas J, Hook B, Stamato NJ, Lee KL. Prediction of sustained ventricular tachycardia inducible by programmed stimulation in patients with coronary artery disease. Utility of clinical variables. Circulation. 1999 Apr 13;99(14):1843-50.</citation>
+    <PMID>10199881</PMID>
+  </reference>
+  <reference>
+    <citation>Klein HU, Reek S. The MUSTT study: evaluating testing and treatment. J Interv Card Electrophysiol. 2000 Jan;4 Suppl 1:45-50.</citation>
+    <PMID>10590488</PMID>
+  </reference>
+  <reference>
+    <citation>Buxton AE, Lee KL, DiCarlo L, Gold MR, Greer GS, Prystowsky EN, O'Toole MF, Tang A, Fisher JD, Coromilas J, Talajic M, Hafley G. Electrophysiologic testing to identify patients with coronary artery disease who are at risk for sudden death. Multicenter Unsustained Tachycardia Trial Investigators. N Engl J Med. 2000 Jun 29;342(26):1937-45.</citation>
+    <PMID>10874061</PMID>
+  </reference>
+  <reference>
+    <citation>Buxton AE, Lee KL, Fisher JD, Josephson ME, Prystowsky EN, Hafley G. A randomized study of the prevention of sudden death in patients with coronary artery disease. Multicenter Unsustained Tachycardia Trial Investigators. N Engl J Med. 1999 Dec 16;341(25):1882-90. Erratum in: N Engl J Med 2000 Apr 27;342(17):1300.</citation>
+    <PMID>10601507</PMID>
+  </reference>
+  <reference>
+    <citation>Gibson JT, Alexander VL, Newton DS. Influence on medication therapy of increased patient services by pharmacists in a pediatric hospital. Am J Hosp Pharm. 1975 May;32(5):495-500.</citation>
+    <PMID>1146820</PMID>
+  </reference>
+  <reference>
+    <citation>Morgera T, Scardi S, Sponza A, Camerini F. [Self-measurement of blood pressure in hypertensive patients. A psychological study (author's transl)]. G Ital Cardiol. 1975;5(3):450-5. Italian.</citation>
+    <PMID>1149972</PMID>
+  </reference>
+  <reference>
+    <citation>Mason JW. Mindfully mining MUSTT. Multicenter Unsustained Tachycardia Trial. J Am Coll Cardiol. 2001 Aug;38(2):352-4.</citation>
+    <PMID>11499723</PMID>
+  </reference>
+  <reference>
+    <citation>Pires LA, Lehmann MH, Buxton AE, Hafley GE, Lee KL; Multicenter Unsustained Tachycardia Trial Investigators. Differences in inducibility and prognosis of in-hospital versus out-of-hospital identified nonsustained ventricular tachycardia in patients with coronary artery disease: clinical and trial design implications. J Am Coll Cardiol. 2001 Oct;38(4):1156-62.</citation>
+    <PMID>11583897</PMID>
+  </reference>
+  <reference>
+    <citation>Singh SN, Karasik P, Hafley GE, Pieper KS, Lee KL, Wyse DG, Buxton AE; MUSTT Investigators. Multicenter UnSustained Tachycardia Trial. Electrophysiologic and clinical effects of angiotensin-converting enzyme inhibitors in patients with prior myocardial infarction, nonsustained ventricular tachycardia, and depressed left ventricular function. MUSTT Investigators. Multicenter UnSustained Tachycardia Trial. Am J Cardiol. 2001 Mar 15;87(6):716-20.</citation>
+    <PMID>11249889</PMID>
+  </reference>
+  <reference>
+    <citation>Buxton A, Lee K, Fisher J, Josphson M, Prystowsky E, DiCarlo L, Echit D, Greer S, Paker D, Talajic , Pryor D, Hafley G, for the Multicenter UnSustained Tachycardia Trial Investigators . Characteristics of spontaneous nonsustained ventricular tachycardia in patients with coronary disease do not predict inducible sustained ventricular tachycardia. Pacing Clin Electrophysiol 1995;18:349.</citation>
+  </reference>
+  <reference>
+    <citation>Lee KL, Hafley G, Fisher JD, Gold MR, Prystowsky EN, Talajic M, Josephson ME, Packer DL, Buxton AE; Multicenter Unsustained Tachycardia Trial Investigators. Effect of implantable defibrillators on arrhythmic events and mortality in the multicenter unsustained tachycardia trial. Circulation. 2002 Jul 9;106(2):233-8.</citation>
+    <PMID>12105164</PMID>
+  </reference>
+  <reference>
+    <citation>Russo AM, Hafley GE, Lee KL, Stamato NJ, Lehmann MH, Page RL, Kus T, Buxton AE; Multicenter UnSustained Tachycardia Trial Investigators. Racial differences in outcome in the Multicenter UnSustained Tachycardia Trial (MUSTT): a comparison of whites versus blacks. Circulation. 2003 Jul 8;108(1):67-72. Epub 2003 Jun 23.</citation>
+    <PMID>12821551</PMID>
+  </reference>
+  <reference>
+    <citation>Zimetbaum PJ, Buxton AE, Batsford W, Fisher JD, Hafley GE, Lee KL, O'Toole MF, Page RL, Reynolds M, Josephson ME. Electrocardiographic predictors of arrhythmic death and total mortality in the multicenter unsustained tachycardia trial. Circulation. 2004 Aug 17;110(7):766-9. Epub 2004 Aug 2.</citation>
+    <PMID>15289365</PMID>
+  </reference>
+  <verification_date>August 2004</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Death, Sudden</mesh_term>
+    <mesh_term>Death, Sudden, Cardiac</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Tachycardia</mesh_term>
+    <mesh_term>Tachycardia, Ventricular</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anti-Arrhythmia Agents</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

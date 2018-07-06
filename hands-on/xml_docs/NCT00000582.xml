@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204395">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000582</url>
+  </required_header>
+  <id_info>
+    <org_study_id>302</org_study_id>
+    <nct_id>NCT00000582</nct_id>
+  </id_info>
+  <brief_title>Cooperative Study of Factor VIII Inhibitors</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To test the efficacy of prothrombin complex concentrates (Factor IX) in the treatment of
+      hemophiliac patients who had inhibitors to Factor VIII.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Despite major advances in the treatment of patients with hemophilia, a serious remaining
+      challenge was presented by the occurrence of circulating inhibitors to Factor VIII. Because
+      of lack of information on the natural course of patients with Factor VIII inhibitors, the
+      relative efficacy of various modes of therapy was not established. The Division of Blood
+      Diseases and Resources decided to sponsor a clinical investigation which would evaluate
+      populations of hemophilia patients for Factor VIII inhibitors, follow up these patients to
+      provide information on the natural history of the inhibitor in the hemophilia patients, and
+      make available a reference center to monitor results and attain uniformity.
+
+      Treatment of a patient with a severe inhibitor and consequent bleeding remained a problem.
+      Management included protracted treatment with Factor VIII, use of immunosuppressive agents
+      and prothrombin complex (or Factor IX) concentrates. The rationale for Factor IX was that it
+      bypassed the defect in Factor VIII caused by the inhibitor. This method of therapy attracted
+      wide popularity, but the success was greatly debated. It was intended at the very outset of
+      the Factor VIII study that therapeutic trials involving patients with inhibitors would not
+      be a prime function, but that such studies would be monitored if necessary. A controlled
+      trial of Factor IX concentrates therapy was strongly advised by the DBDR Advisory Committee.
+      Accordingly, during fiscal year 1978, a protocol for a double-blind control study was
+      developed by the Factor VIII inhibitor group. The trial began in the spring of 1978, and the
+      intervention terminated about one year later.
+
+      DESIGN NARRATIVE:
+
+      Double-blind study; patients served as their own controls. A total of 51 patients each
+      received a single large dose of Konyne, Proplex, or diluted albumin (as a control). Joint
+      bleeding of the elbow, knee, and ankle was evaluated six hours after each dose.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1978</start_date>
+  <completion_date type="Actual">July 1979</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <condition>Blood Coagulation Disorders</condition>
+  <condition>Hematologic Diseases</condition>
+  <condition>Hemophilia A</condition>
+  <condition>Hemorrhagic Disorders</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>factor ix</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Males with hemophilia, not stratified as to ethnic group.
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Louis Aledort</last_name>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>J. Edson</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>M. Eyster</last_name>
+    <affiliation>Milton S. Hershey Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Scott Goodnight</last_name>
+    <affiliation>University of Oregon Health Sciences Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>William Hathaway</last_name>
+    <affiliation>University of Colorado Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jack Lazerson</last_name>
+    <affiliation>Milwaukee Children's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Peter Levine</last_name>
+    <affiliation>Memorial hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jeanne Lusher</last_name>
+    <affiliation>Wayne State University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Campbell McMillan</last_name>
+    <affiliation>University of North Carolina</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sandor Shapiro</last_name>
+    <affiliation>Thomas Jefferson University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Eyster ME, Gill FM, Blatt PM, Hilgartner MW, Ballard JO, Kinney TR. Central nervous system bleeding in hemophiliacs. Blood. 1978 Jun;51(6):1179-88.</citation>
+    <PMID>647123</PMID>
+  </reference>
+  <reference>
+    <citation>Lusher JM, McMillan CW. Severe factor VIII and factor IX deficiency in females. Am J Med. 1978 Oct;65(4):637-48.</citation>
+    <PMID>309282</PMID>
+  </reference>
+  <reference>
+    <citation>Kasper CK. Effect of prothrombin complex concentrates on factor VIII inhibitor levels. Blood. 1979 Dec;54(6):1358-68.</citation>
+    <PMID>508942</PMID>
+  </reference>
+  <reference>
+    <citation>Lusher JM, Shapiro SS, Palascak JE, Rao AV, Levine PH, Blatt PM. Efficacy of prothrombin-complex concentrates in hemophiliacs with antibodies to factor VIII: a multicenter therapeutic trial. N Engl J Med. 1980 Aug 21;303(8):421-5.</citation>
+    <PMID>6771653</PMID>
+  </reference>
+  <reference>
+    <citation>Gerety RJ, Eyster ME, Tabor E, Drucker JA, Lusch CJ, Prager D, Rice SA, Bowman HS. Hepatitis B virus, hepatitis A virus and persistently elevated aminotransferases in hemophiliacs. J Med Virol. 1980;6(2):111-8.</citation>
+    <PMID>6264019</PMID>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>April 26, 2012</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Blood Coagulation Disorders</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Hematologic Diseases</mesh_term>
+    <mesh_term>Hemophilia A</mesh_term>
+    <mesh_term>Hemorrhagic Disorders</mesh_term>
+    <mesh_term>Hemostatic Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

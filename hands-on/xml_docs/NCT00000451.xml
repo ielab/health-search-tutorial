@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204525">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000451</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAAOMA12028</org_study_id>
+    <secondary_id>R01AA012028</secondary_id>
+    <nct_id>NCT00000451</nct_id>
+  </id_info>
+  <brief_title>Drug Therapy for Alcohol Dependence in Alaska Natives (Naltrexone/Sertraline)</brief_title>
+  <official_title>Naltrexone and SSRI Therapy for Alcohol Dependence in Alaska Natives</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Yale University</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will assess the ability of naltrexone (Revia) to reduce the risk of relapse in
+      Alaska natives with alcohol dependence. The study will also examine whether a combination of
+      naltrexone and sertraline (Zoloft) yields better abstinence rates than naltrexone used
+      alone. Alaska Native individuals will be recruited into a 16 week outpatient study.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2003</start_date>
+  <completion_date type="Actual">November 2005</completion_date>
+  <primary_completion_date type="Actual">August 2005</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Days abstinent</measure>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">198</enrollment>
+  <condition>Alcoholism</condition>
+  <condition>Alcohol Dependence</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Naltrexone plus Sertraline</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Naltrexone alone</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>sertraline</intervention_name>
+    <description>16 week outpatient study</description>
+    <arm_group_label>2</arm_group_label>
+    <other_name>Zoloft</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>naltrexone</intervention_name>
+    <description>16 week outpatient study</description>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_label>2</arm_group_label>
+    <other_name>Revia</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Alaska Native having biological Alaska Native ancestry.
+
+          -  Meets criteria for alcohol dependence.
+
+          -  Prior to entering the study must be abstinent between 3 and 14 days and have a
+             withdrawal assessment.
+
+          -  Stable residence to ensure that subjects can be located during the study.
+
+        Exclusion Criteria:
+
+          -  Currently meets criteria for abuse or dependence on substances other than alcohol or
+             nicotine.
+
+          -  Current use of disulfiram.
+
+          -  Psychotic or otherwise severely psychiatrically disabled.
+
+          -  Use of other psychotropic medications including antidepressants and anxiolytics.
+
+          -  Medical conditions that would not permit the use of sertraline or naltrexone, such as
+             a history of unstable or severe hepatic, cardiovascular, metabolic, endocrine,
+             gastrointestinal or kidney disease.
+
+          -  Hepatocellular disease or elevated bilirubin levels.
+
+          -  Females who are pregnant, nursing, or not using a reliable method of birth control.
+
+          -  Probation or parole requirements that might interfere with participation in the
+             study.
+
+          -  Involvement in alcohol treatment other than provided by the study or AA.
+
+          -  Use of monoamine oxidase inhibitors in the past month.
+
+          -  Current use of Type 1C antiarrhythmics propafenone and flecainide.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr. Stephanie O'Malley</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Yale University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2013</verification_date>
+  <lastchanged_date>January 28, 2013</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <keyword>Alcoholism</keyword>
+  <keyword>Alcohol Dependence</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Alcoholism</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Naltrexone</mesh_term>
+    <mesh_term>Sertraline</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204504">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000473</url>
+  </required_header>
+  <id_info>
+    <org_study_id>62</org_study_id>
+    <secondary_id>U01HL040548-04</secondary_id>
+    <nct_id>NCT00000473</nct_id>
+  </id_info>
+  <brief_title>Do Fish Oils Prevent Restenosis Post-Coronary Angioplasty?</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether a dietary supplement of n-3 polyunsaturated fatty acids (PUFAs) derived
+      from fish oil would decrease the restenosis rate in patients undergoing percutaneous
+      transluminal coronary angioplasty (PTCA).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Coronary angioplasty is a non-surgical means of mechanical coronary artery revascularization
+      with the potential of reducing or eliminating severe coronary arterial narrowing which
+      results in myocardial ischemia. Since its innovation, the technique of coronary angioplasty
+      has undergone continuous refinement, so that a greater proportion of patients are now
+      eligible for this increasingly successful procedure. All clinical syndromes associated with
+      coronary artery disease, including chronic stable angina, silent myocardial ischemia,
+      unstable angina, and acute myocardial infarction, have been successfully treated with this
+      therapy, and often dramatic, favorable results are achieved. A persistent limitation of the
+      procedure has been the development of restenosis or the recurrence of coronary arterial
+      narrowing which usually occurs within six months of successful balloon dilatation, in spite
+      of current treatments such as anti-platelet agents. Several clinical trials have attempted
+      to identify pharmacologic regimens aimed at reducing the incidence of restenosis. With rare
+      exception, these trials have failed to detect a positive effect of any drug intervention.
+      Considering that restenosis reflects multiple factors, such as thrombosis, spasm, an
+      exaggerated response to injury, smooth muscle cells, platelets, and components of
+      arachidonic acid metabolism, multiple pharmacologic therapies have been employed, including
+      aspirin, warfarin, heparin, calcium antagonists, and steroids.
+
+      Investigators have directed attention to the potential role of marine polyunsaturated fatty
+      acids as potential inhibitors of restenosis. Dietary fish oil has been shown to inhibit
+      platelet aggregation and stimulate thromboxane synthesis, to reduce platelet vascular
+      interactions in atherosclerotic and injured blood vessels, and to inhibit diet-induced
+      atherogenesis in swine and in two species of monkeys. One study has shown that dietary fish
+      oil administered to pigs reduced platelet deposition and vasoconstriction in balloon
+      catheter induced carotid artery lesions. In addition, fish oil reduces blood and red cell
+      viscosity and also inhibits the function of monocytes which may be important in the
+      pathogenesis of atherosclerosis or in the vascular response to injury.
+
+      Early reports from human studies have been mixed, with most investigations failing to
+      demonstrate a positive effect. However, these trials have been limited to small numbers of
+      patients and typically lacked the rigor of a randomized, controlled clinical trial with a
+      hard endpoint and aggressive administration of fatty acids. N-3 PUFAs have been reported in
+      humans to increase prostacyclin formation and plasma fibrinolytic activity and to reduce
+      serum lipids, vascular reactivity, and the inflammatory potential of white blood cells at
+      the site of vascular injury, factors potentially involved in restenosis post-PTCA.
+      Therefore, there was some reason to believe that the addition of n-3 PUFAs to aspirin might
+      have a greater effect upon restenosis of treated vessels than aspirin alone. The basis of
+      this study rested with epidemiologic data from the Eskimos and Japanese that the ingestion
+      of n-3 PUFAs derived from cold water marine sources has a favorable effect in preventing the
+      development of coronary artery disease.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind. Patients at eight centers were assigned to receiving for six
+      months a daily dietary supplement of fish oil (ten 1.0-g capsules containing 80.6 percent
+      ethyl esters of omega-3 fatty acids providing 4.1 g eicosapentaenoic acid [EPA] and 2.8 g
+      docosahexaenoic acid [DHA]) or to a control group receiving corn oil. The high dose of fish
+      oil approached the intake of the Greenland Inuits and was chosen with the hope of overcoming
+      any antagonistic effects of other fatty acids competing with those of EPA or DHA, such as
+      arachidonic acid or saturated fats. Two weeks prior to PTCA, patients began to take the
+      capsules. Aspirin was initiated 12 hours prior to PTCA and continued for six months. Dietary
+      counseling was provided prior to the two week intervention. Upon admission for PTCA and one
+      week following PTCA, expanded dietary counseling and instruction were given. Patients were
+      telephoned monthly to reinforce dietary information which included the American Heart
+      Association Phase I diet to reduce total fat to 30 percent of total energy. Diet was not
+      rigidly controlled. Recruitment began in August 1989 and ended in September 1992. Patients
+      exited from the trial upon completion of the protocol, including a final set of evaluations
+      at six months. The primary endpoint was presence or absence of restenosis as defined by
+      angiography six months after PTCA. The trial was extended without additional funds through
+      June 1994 to allow data analysis.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1989</start_date>
+  <completion_date type="Actual">June 1994</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>dietary supplements</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>fatty acids, omega-3</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, fat-restricted</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with coronary heart disease in the native coronary arteries. Patients were
+        symptomatic or had 50 percent or greater stenosis as defined by coronary angiography.
+
+        Patients had not undergone prior angioplasty.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alexander Leaf</last_name>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Leaf A, Jorgensen MB, Jacobs AK, Cote G, Schoenfeld DA, Scheer J, Weiner BH, Slack JD, Kellett MA, Raizner AE, et al. Do fish oils prevent restenosis after coronary angioplasty? Circulation. 1994 Nov;90(5):2248-57.</citation>
+    <PMID>7955181</PMID>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>December 12, 2013</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

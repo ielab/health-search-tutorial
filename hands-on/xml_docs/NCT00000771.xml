@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204208">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000771</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 192</org_study_id>
+    <secondary_id>11167</secondary_id>
+    <nct_id>NCT00000771</nct_id>
+  </id_info>
+  <brief_title>A Double-Blind, Placebo-Controlled Trial of Paromomycin for Treatment of Cryptosporidiosis in Patients With Advanced HIV Disease and CD4 Counts Under 150 Cells/mm3</brief_title>
+  <official_title>A Double-Blind, Placebo-Controlled Trial of Paromomycin for Treatment of Cryptosporidiosis in Patients With Advanced HIV Disease and CD4 Counts Under 150 Cells/mm3</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the effectiveness of oral paromomycin sulfate for 21 days compared to placebo
+      in the treatment of cryptosporidiosis in patients with HIV infection. To evaluate the safety
+      of oral paromomycin at two different doses. To explore whether paromomycin administered over
+      a longer period provides additional benefit.
+
+      In previous studies, patients with cryptosporidiosis demonstrated dramatic improvement with
+      paromomycin therapy.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In previous studies, patients with cryptosporidiosis demonstrated dramatic improvement with
+      paromomycin therapy.
+
+      Patients are randomized to receive either placebo or paromomycin for 3 weeks. After the
+      initial double-blind phase, all patients receive open-label paromomycin for 3 weeks.
+      Following 6 weeks of therapy, patients who do not achieve a complete response receive a
+      higher dose of paromomycin for an additional 3 weeks, while complete responders continue
+      receiving the original dose for an additional 3 weeks. Complete or partial responders after
+      9 weeks may receive 16 additional weeks of optional maintenance therapy at the dose at which
+      their response was achieved. Treatment continues for up to 25 weeks total. Patients are
+      followed at weeks 1, 3, 4, 6, 7, and 9, and then at 2-4 week intervals.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">September 1996</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Primary Purpose: Treatment</study_design>
+  <enrollment>68</enrollment>
+  <condition>Cryptosporidiosis</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Paromomycin sulfate</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Allowed:
+
+          -  Antiretroviral therapy.
+
+          -  Macrolides for disseminated Mycobacterium avium.
+
+          -  Atovaquone for toxoplasmosis.
+
+          -  Other antimicrobials for concurrent infections.
+
+          -  Lomotil, Imodium, or deodorized opium tincture in a standardized regimen for
+             diarrhea.
+
+        Patients must have:
+
+          -  Advanced HIV disease.
+
+          -  Diarrhea presumptively caused by Cryptosporidia.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following symptoms or conditions are excluded:
+
+          -  Hypersensitivity to aminoglycosides.
+
+          -  Inability to swallow capsules.
+
+          -  Active infection due to other enteric pathogens. Previous diagnosis of CMV or MAC
+             infection permitted if patient is currently stabilized on a therapeutic regimen
+             (clarithromycin up to 500 mg bid or azithromycin up to 600 mg daily).
+
+          -  Other known causes for diarrhea (e.g., malabsorption syndrome, gastrointestinal
+             Kaposi's sarcoma).
+
+        Concurrent Medication:
+
+        Excluded during the first 9 weeks of study:
+
+          -  Agents with putative anticryptosporidial activity (such as spiramycin, diclazuril,
+             letrazuril, or bovine colostrum).
+
+          -  Octreotide acetate (Sandostatin).
+
+          -  Antidiarrheals other than those specifically allowed.
+
+          -  Clarithromycin if initiated at 500 mg or higher or azithromycin if initiated at 600
+             mg or higher.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  Paromomycin at &gt; 1 g/day for &gt;= 14 days prior to study entry.
+
+        Excluded within 14 days prior to study entry:
+
+          -  Agents with putative anticryptosporidial activity (such as spiramycin, diclazuril,
+             letrazuril, or bovine colostrum), with the exception of macrolides that are permitted
+             for other indications.
+
+          -  Octreotide acetate (Sandostatin).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carey J</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>USC CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Miami AIDS CRS</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush Univ. Med. Ctr. ACTG CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Weiss Memorial Hosp.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana Univ. School of Medicine, Infectious Disease Research Clinic</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Hosp. of Indiana</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington U CRS</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY - Buffalo, Erie County Medical Ctr.</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cornell University A2201</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NY Univ. HIV/AIDS CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Cincinnati CRS</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Case CRS</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State Univ. AIDS CRS</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Puerto Rico-AIDS CRS</name>
+      <address>
+        <city>San Juan</city>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Hewitt RG, Yiannoutsos CT, Carey J, Geiseler PJ, Soave R, Rosenberg R, Vazquez GJ, Wheat J, Fass RJ, Higgs ES, Antoninjevic Z, Walawander AL, Flanigan T, Bender J. A double-blind, placebo-controlled trial of paromomycin (par) for the treatment of cryptosporidiosis (cs) in patients with advanced HIV disease and CD4 counts under 150 (ACTG 192). Conf Retroviruses Opportunistic Infect. 1997 Jan 22-26;4th:65 (abstract no 4)</citation>
+  </reference>
+  <reference>
+    <citation>Hewitt RG, Yiannoutsos CT, Higgs ES, Carey JT, Geiseler PJ, Soave R, Rosenberg R, Vazquez GJ, Wheat LJ, Fass RJ, Antoninievic Z, Walawander AL, Flanigan TP, Bender JF. Paromomycin: no more effective than placebo for treatment of cryptosporidiosis in patients with advanced human immunodeficiency virus infection. AIDS Clinical Trial Group. Clin Infect Dis. 2000 Oct;31(4):1084-92. Epub 2000 Oct 25.</citation>
+    <PMID>11049793</PMID>
+  </reference>
+  <verification_date>March 2012</verification_date>
+  <lastchanged_date>March 30, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cryptosporidiosis</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Paromomycin</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cryptosporidiosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Paromomycin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

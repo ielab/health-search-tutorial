@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204680">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000292</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIDA-09259-9</org_study_id>
+    <secondary_id>P50-09259-9</secondary_id>
+    <nct_id>NCT00000292</nct_id>
+  </id_info>
+  <brief_title>Acute Withdrawal From Smoked Cocaine - 9</brief_title>
+  <official_title>Acute Withdrawal From Smoked Cocaine</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Drug Abuse (NIDA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Minnesota - Clinical and Translational Science Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute on Drug Abuse (NIDA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to develop an experimental paradigm to examine acute withdrawal
+      symptoms from cocaine.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Although there are clearly identifiable withdrawal syndromes following cessation of a number
+      of abused drugs such as alcohol and heroin, it is unclear whether a withdrawal syndrome
+      follows the cessation of crack cocaine. A laboratory model of withdrawal from smoked (crack)
+      cocaine would provide a safe and systematic method of testing the efficacy of behavioral or
+      pharmacological treatments for withdrawal symptoms following cocaine smoking cessation.
+      Therefore, this study investigated acute behavioral, subjective, and physiological
+      withdrawal symptomatology for 6 hrs following 7 deliveries of 2 dose sized (0.07 vs. 0.4
+      mg/kg) of smoked cocaine. The behavioral measure was performance on a computerized reaction
+      time task, subjective measures included participant and observer ratings of mood and
+      withdrawal symptomatology, and physiological measures comprised heart rate and blood
+      pressure. It was hypothesized that signs and symptoms of withdrawal from smoked cocaine
+      would be greater following the 0.4 mg/kg dose size, compared to the 0.07 mg/kg dose size.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1996</start_date>
+  <completion_date>December 2001</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Behavioral</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Subjective</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physiological measures</measure>
+  </primary_outcome>
+  <enrollment>0</enrollment>
+  <condition>Cocaine-Related Disorders</condition>
+  <condition>Substance Withdrawal Syndrome</condition>
+  <condition>Substance-Related Disorders</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Cocaine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        M/F ages 21-45 with a history of smoked cocaine use at least twice a week for the past six
+        months, including 0.5 g of cocaine in a 24hr period on at least one occasion. In good
+        health as evidenced by physical exam and complete blood count, chest X-ray and electrolyte
+        and liver function tests, with a normal resting 12-lead electrocardiograph (ECG) and blood
+        pressure of less than 140/90 mmHg. Using an acceptable method of birth control. Having a
+        urine toxicology screen positive for cocaine metabolites.
+
+        Exclusion Criteria:
+
+        Any DSM-IV Axis I disorder other than cocaine abuse or dependence, or dependence or daily
+        use of psychoactive drugs other than nicotine or caffeine. A history of violence and/or
+        currently on probation, parole or awaiting trial. Pregnant as determined by serum
+        pregnancy screen, lactating or having delivered a child in the past 12 months.
+        Seropositive tests for the human immunodeficiency virus (HIV) or hepatitis B. History of
+        seizure disorder.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dorothy Hatsukami, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 1996</verification_date>
+  <lastchanged_date>June 2, 2015</lastchanged_date>
+  <firstreceived_date>September 20, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cocaine-Related Disorders</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Substance Withdrawal Syndrome</mesh_term>
+    <mesh_term>Substance-Related Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cocaine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

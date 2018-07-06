@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204189">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000791</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 259</org_study_id>
+    <secondary_id>11236</secondary_id>
+    <nct_id>NCT00000791</nct_id>
+  </id_info>
+  <brief_title>A Phase II Double-Blind Study of Two Doses of SC-49483 in Combination With Zidovudine (ZDV) Versus ZDV</brief_title>
+  <official_title>A Phase II Double-Blind Study of Two Doses of SC-49483 in Combination With Zidovudine (ZDV) Versus ZDV</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>G D Searle</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Glaxo Wellcome</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine the safety and anti-HIV activity of two doses of SC-49483 in combination with
+      zidovudine (AZT) versus AZT alone. To determine the influences of viral phenotype on the
+      anti-HIV activity of these treatment regimens.
+
+      SC-49483 has no inherent activity against HIV-1 but is converted in the intestinal wall to
+      SC-48334, which has demonstrated anti-HIV activity. Since SC-49483 causes significantly less
+      gastrointestinal toxicity than SC-48334, the combination of SC-49483 with AZT may improve
+      the benefits of both drugs in patients with HIV infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SC-49483 has no inherent activity against HIV-1 but is converted in the intestinal wall to
+      SC-48334, which has demonstrated anti-HIV activity. Since SC-49483 causes significantly less
+      gastrointestinal toxicity than SC-48334, the combination of SC-49483 with AZT may improve
+      the benefits of both drugs in patients with HIV infection.
+
+      Patients are randomized to receive AZT alone or in combination with one of two doses of
+      SC-49483, administered three times daily. Treatment continues for 16 to 24 weeks. Per
+      07/19/94 amendment: At the end of 24 weeks, blinded treatment continues for an additional 4
+      weeks, at which time patients may receive open-label drug on an optional basis for 90 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">July 1995</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>210</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Glycovir</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zidovudine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Concurrent Medication:
+
+        Required:
+
+          -  PCP prophylaxis (trimethoprim/sulfamethoxazole, dapsone, or aerosolized pentamidine)
+             in patients with CD4 count &lt;= 200 cells/mm3.
+
+        Allowed:
+
+          -  Topical antifungal agents, ketoconazole, fluconazole, and itraconazole for
+             candidiasis or disseminated fungal infections, as medically indicated.
+
+          -  Maintenance therapy for Mycobacteria disease with isoniazid, ethambutol, rifampin,
+             pyrazinamide, clofazimine, ciprofloxacin, clarithromycin, or rifabutin.
+
+          -  Maintenance therapy for toxoplasmosis with pyrimethamine, sulfadiazine, or
+             clindamycin.
+
+          -  Maintenance therapy for herpes simplex virus with acyclovir at &lt;= 1000 mg/day.
+
+          -  Recombinant erythropoietin and G-CSF, if indicated.
+
+          -  Antibiotics for bacterial infections.
+
+          -  Symptomatic treatment such as antipyretics, analgesics, nonsteroidal
+             anti-inflammatory agents, and antiemetics.
+
+        Concurrent Treatment:
+
+        Allowed:
+
+          -  Localized radiation therapy and limited intralesional therapy for cutaneous Kaposi's
+             sarcoma.
+
+        Patients must have:
+
+          -  Documented HIV infection.
+
+          -  Per 07/19/94 amendment, one of the following:
+
+          -  CD4 count 150 - 350 cells/mm3 within 60 days prior to study entry AND prior AZT for
+             no more than 12 months cumulative (given with or without ddI or ddC).
+
+          -  CD4 count 50 - 350 cells/mm3 within 60 days prior to study entry AND no prior
+             antiretroviral therapy.
+
+          -  MT-2 cell assay within 60 days prior to study entry.
+
+        NOTE:
+
+          -  Minimal Kaposi's sarcoma is permitted.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Patients with the following condition are excluded:
+
+          -  Malignancy other than minimal Kaposi's sarcoma.
+
+        Concurrent Medication:
+
+        Excluded:
+
+          -  Antiretroviral therapies (other than study drug).
+
+          -  Biologic response modifiers.
+
+          -  Systemic corticosteroids for &gt; 21 consecutive days.
+
+          -  Foscarnet.
+
+          -  Systemic cytotoxic chemotherapy for a malignancy.
+
+        Patients with the following prior conditions are excluded:
+
+          -  History of cataracts.
+
+          -  History of intolerance to AZT at &lt;= 600 mg/day.
+
+          -  Unexplained temperature &gt;= 38.5 degrees C that persists for any 7 days within the 30
+             days prior to study entry.
+
+          -  Chronic diarrhea (defined as &gt;= 3 stools per day) that persists for any 15 days
+             within the 30 days prior to study entry.
+
+        Prior Medication:
+
+        Excluded:
+
+          -  More than 6 months (more than 12 months per 07/19/94 amendment) cumulative prior
+             therapy with AZT.
+
+          -  Prior induction or maintenance therapy with foscarnet.
+
+          -  Any investigational drug within 30 days prior to study entry.
+
+          -  Prior SC-49483 or SC-48334.
+
+          -  Prior ddC, ddI, or stavudine (d4T) as monotherapy.
+
+          -  Interferon or interleukin within 30 days prior to study entry.
+
+          -  Prior non-nucleoside reverse transcriptase inhibitors (e.g., NVP, ATV).
+
+          -  Systemic corticosteroids for &gt; 21 consecutive days.
+
+          -  Acute treatment for a serious infection or any opportunistic infection within 14 days
+             prior to study entry.
+
+          -  Prior combination therapy with AZT, ddI, and/or ddC within 30 days prior to study
+             entry.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fischl MA</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Saag M</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Alabama Therapeutics CRS</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>USC CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford CRS</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ucsf Aids Crs</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital CRS</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Miami AIDS CRS</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook County Hosp. CORE Ctr.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush Univ. Med. Ctr. ACTG CRS</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Weiss Memorial Hosp.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana Univ. School of Medicine, Infectious Disease Research Clinic</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Hosp. of Indiana</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis ConnectCare, Infectious Diseases Clinic</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington U CRS</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY - Buffalo, Erie County Medical Ctr.</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Med. Ctr. (Mt. Sinai)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Rochester ACTG CRS</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unc Aids Crs</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake County Health and Human Services CRS</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Cincinnati CRS</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. of the Univ. of Pennsylvania CRS</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington AIDS CRS</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.aidsinfo.nih.gov/DrugsNew/DrugDetailNT.aspx?MenuItem=Drugs&amp;Search=On&amp;int_id=4</url>
+    <description>Click here for more information about Zidovudine</description>
+  </link>
+  <reference>
+    <citation>Johnson VA, Bassett RL, Stanley KE, Saag MS, Fischl MA. Predictors of syncytium-inducing viral phenotype in a phase II double-blind trial of SC-49483 plus ZDV vs. ZDV. Conf Retroviruses Opportunistic Infect. 1997 Jan 22-26;4th:102 (abstract no 205)</citation>
+  </reference>
+  <verification_date>April 2012</verification_date>
+  <lastchanged_date>April 2, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Antiviral Agents</keyword>
+  <keyword>Zidovudine</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Zidovudine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

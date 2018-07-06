@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204222">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000757</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AVEG 003A</org_study_id>
+    <secondary_id>10541</secondary_id>
+    <nct_id>NCT00000757</nct_id>
+  </id_info>
+  <brief_title>A Phase I Multicenter Trial to Evaluate the Safety and Immunogenicity of HIV-1 Recombinant Envelope Glycoprotein gp160</brief_title>
+  <official_title>A Phase I Multicenter Trial to Evaluate the Safety and Immunogenicity of HIV-1 Recombinant Envelope Glycoprotein gp160</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Protein Sciences Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety and immune response to 160 mcg HIV-1 recombinant envelope
+      glycoprotein gp160. To evaluate the duration of antibody response and its relationship to
+      dose and frequency of inoculation.
+
+      Evaluation of previous patients who received doses of 40 or 80 mcg gp160 vaccine indicate
+      that, although serum anti-gp160 antibody responses were detected, the level and duration of
+      those responses were limited. A preliminary observation suggests that weak functional
+      antibody responses may develop following the 18 month booster of 40 or 80 mcg; therefore, a
+      dose of gp160 vaccine having potentially greater immunogenicity is of particular interest.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Evaluation of previous patients who received doses of 40 or 80 mcg gp160 vaccine indicate
+      that, although serum anti-gp160 antibody responses were detected, the level and duration of
+      those responses were limited. A preliminary observation suggests that weak functional
+      antibody responses may develop following the 18 month booster of 40 or 80 mcg; therefore, a
+      dose of gp160 vaccine having potentially greater immunogenicity is of particular interest.
+
+      Healthy volunteers are injected on days 0, 30, 180, and 365 with either 160 mcg gp160
+      vaccine (20 volunteers) or an alum placebo preparation (10 volunteers).
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">October 1992</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <enrollment>30</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>gp160 Vaccine (MicroGeneSys)</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+        Subjects must have:
+
+          -  Normal history and physical exam.
+
+          -  Negative for HIV infection by ELISA and Western blot (i.e., no reactivity at gp160,
+             gp120, gp41, or p24).
+
+          -  T4 count &gt;= 800 cells/mm3.
+
+          -  Normal chest x-ray and urinalysis.
+
+          -  Negative hepatitis B surface antigen.
+
+          -  Negative HIV p24 antigen test.
+
+          -  Normal skin reactivity by Merieux test.
+
+        Exclusion Criteria
+
+        Co-existing Condition:
+
+        Subjects with the following symptoms or conditions are excluded:
+
+          -  Positive PPD.
+
+          -  Syphilis, gonorrhea, or any other sexually transmitted diseases (including chlamydia
+             or pelvic inflammatory disease).
+
+        Subjects with the following prior conditions are excluded:
+
+          -  History of immunodeficiency, chronic illness, or use of immunosuppressive
+             medications.
+
+          -  Syphilis, gonorrhea, or any other sexually transmitted diseases (including chlamydia
+             or pelvic inflammatory disease) in the past 6 months.
+
+        Prior Treatment:
+
+        Excluded:
+
+          -  Prior blood transfusions or cryoprecipitates within the past 6 months.
+
+        Identifiable high-risk behavior for HIV infection (as determined by prescreening questions
+        designed to identify risk factors for HIV infection), including:
+
+          -  Any history of IV drug use.
+
+          -  Syphilis, gonorrhea, or any other sexually transmitted diseases (including chlamydia
+             or pelvic inflammatory disease) in the past 6 months.
+
+          -  More than two sexual partners, or sexual contact with a high-risk partner, in the
+             past 6 months.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Belshe R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Clements ML</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Couch R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Dolin R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Levine M</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Wright P</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>St. Louis Univ. School of Medicine AVEG</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Keefer MC, Wolff M, Gorse GJ, Graham BS, Corey L, Clements-Mann ML, Verani-Ketter N, Erb S, Smith CM, Belshe RB, Wagner LJ, McElrath MJ, Schwartz DH, Fast P. Safety profile of phase I and II preventive HIV type 1 envelope vaccination: experience of the NIAID AIDS Vaccine Evaluation Group. AIDS Res Hum Retroviruses. 1997 Sep 20;13(14):1163-77.</citation>
+    <PMID>9310283</PMID>
+  </reference>
+  <reference>
+    <citation>Keefer MC, Graham BS, Belshe RB, Schwartz D, Corey L, Bolognesi DP, Stablein DM, Montefiori DC, McElrath MJ, Clements ML, et al. Studies of high doses of a human immunodeficiency virus type 1 recombinant glycoprotein 160 candidate vaccine in HIV type 1-seronegative humans. The AIDS Vaccine Clinical Trials Network. AIDS Res Hum Retroviruses. 1994 Dec;10(12):1713-23.</citation>
+    <PMID>7888231</PMID>
+  </reference>
+  <verification_date>May 2012</verification_date>
+  <lastchanged_date>May 21, 2012</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaccines, Synthetic</keyword>
+  <keyword>Vaccinia Virus</keyword>
+  <keyword>HIV-1</keyword>
+  <keyword>HIV Envelope Protein gp160</keyword>
+  <keyword>AIDS Vaccines</keyword>
+  <keyword>HIV Seronegativity</keyword>
+  <keyword>HIV Preventive Vaccine</keyword>
+  <has_expanded_access>No</has_expanded_access>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204451">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000526</url>
+  </required_header>
+  <id_info>
+    <org_study_id>45</org_study_id>
+    <nct_id>NCT00000526</nct_id>
+  </id_info>
+  <brief_title>Cardiac Arrhythmia Suppression Trial (CAST)</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether drug treatment of asymptomatic ventricular arrhythmias in
+      post-myocardial infarction patients reduced the incidence of sudden cardiac death and total
+      mortality.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Each year over 400,000 people in the United States die suddenly of coronary heart disease.
+      The majority have known coronary heart disease. Of these, the post-myocardial infarction
+      population constitutes a large proportion. About 8 to 15 percent of patients who recover
+      from an acute myocardial infarction die in the subsequent year. Half of these deaths are
+      usually sudden, presumably due to arrhythmia. Advanced age, poor ventricular function, and
+      presence of ventricular arrhythmias can identify post-MI patients at high risk of sudden
+      cardiac death and all-cause mortality.
+
+      A number of clinical trials have evaluated whether acute or chronic anti-arrhythmic drug
+      therapy can reduce mortality in post-MI patients. Of these, only the use of acute
+      intravenous and long-term beta-blockers, independently and in combination, had been shown to
+      reduce mortality. However, beta-blockers have many actions in addition to being
+      anti-arrhythmic agents and it is possible that these other effects may have been
+      particularly important in prolonging life.
+
+      None of the clinical trials of other antiarrhythmic drugs had shown significant benefits
+      from treatment, and a number had even failed to show a positive trend. It was certainly
+      possible that treatment of ventricular premature depolarizations, in itself, did not lead to
+      a reduction in mortality, or even sudden death. The studies that had been done, however, had
+      not adequately addressed the issue. Most of the studies were small and did not select
+      patients on the basis of frequent ectopic beats. Moreover, appropriate drugs in optimal
+      doses may not have been used, and adverse effects may well have outweighed any potential
+      benefit. Poor compliance, perhaps due to adverse effects, may also have limited the
+      opportunity for a beneficial outcome.
+
+      In an effort to address some of these points, the National Heart, Lung, and Blood Institute
+      initiated the Cardiac Arrhythmia Pilot Study in 1982. The objectives were to assess: whether
+      post-MI patients with documented ventricular arrhythmia could be identified and enrolled
+      into a double-blind clinical trial; whether one or more drugs could be found to effectively
+      and safely reduce ventricular premature depolarizations over a one-year period; whether
+      dose-adjustment could be carried out, using ambulatory ECG's; and whether good patient
+      compliance could be maintained. The Cardiac Arrhythmia Pilot Study, which enrolled 500
+      patients, evaluated four active drugs (encainide, ethmozine, flecainide, imipramine) against
+      placebo. The study was too small to determine whether any of these drugs had an effect on
+      mortality or major morbidity. The study was completed in July 1986.
+
+      The pilot study demonstrated that patient recruitment was feasible, that dose-adjustment
+      could be accomplished, and that good compliance to the protocol could be achieved. Because
+      of the encouraging results of the pilot study, the NHLBI conducted a full-scale trial.
+
+      DESIGN NARRATIVE:
+
+      Randomized, double-blind. Enrollment began in June 1987 when twenty-seven clinical centers
+      began to randomize 4,400 post-myocardial infarction patients to placebo or treatment with
+      encainide, flecainide, or moricizine. Prior to actual randomization, there was an open-label
+      titration period to identify patients who responded to treatment. A total of 1,727 patients
+      who responded were randomized: 1,455 to encainide, flecainide, or placebo, and 272 to
+      moricizine or placebo. In April 1989, encainide and flecainide were discontinued because of
+      increased total mortality and sudden arrhythmic death. CAST continued to compare moricizine
+      to placebo in 1,300 patients for 18 months until August 1991 when the moricizine portion of
+      the trial was stopped early because of excess deaths. The primary outcome variable in the
+      full-scale trial was sudden cardiac death, with total mortality a secondary endpoint. Data
+      analysis continued through March 1998.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1986</start_date>
+  <completion_date>March 1998</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Death, Sudden, Cardiac</condition>
+  <condition>Heart Arrest</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Myocardial Ischemia</condition>
+  <condition>Ventricular Arrhythmia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>encainide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>flecainide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>moricizine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with ventricular premature depolarization six days to two years after the
+        start of myocardial infarction.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alfred Hallstrom</last_name>
+    <affiliation>University of Washington</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Pratt CM, Moyé LA. The cardiac arrhythmia suppression trial. Casting suppression in a different light. Circulation. 1995 Jan 1;91(1):245-7.</citation>
+    <PMID>7805210</PMID>
+  </reference>
+  <reference>
+    <citation>el-Sherif N, Denes P, Katz R, Capone R, Mitchell LB, Carlson M, Reynolds-Haertle R. Definition of the best prediction criteria of the time domain signal-averaged electrocardiogram for serious arrhythmic events in the postinfarction period. The Cardiac Arrhythmia Suppression Trial/Signal-Averaged Electrocardiogram (CAST/SAECG) Substudy Investigators. J Am Coll Cardiol. 1995 Mar 15;25(4):908-14.</citation>
+    <PMID>7884096</PMID>
+  </reference>
+  <reference>
+    <citation>Preliminary report: effect of encainide and flecainide on mortality in a randomized trial of arrhythmia suppression after myocardial infarction. The Cardiac Arrhythmia Suppression Trial (CAST) Investigators. N Engl J Med. 1989 Aug 10;321(6):406-12.</citation>
+    <PMID>2473403</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr. The events surrounding the removal of encainide and flecainide from the Cardiac Arrhythmia Suppression Trial (CAST) and why CAST is continuing with moricizine. J Am Coll Cardiol. 1990 Jan;15(1):243-5.</citation>
+    <PMID>2104884</PMID>
+  </reference>
+  <reference>
+    <citation>Morganroth J, Bigger JT Jr, Anderson JL. Treatment of ventricular arrhythmias by United States cardiologists: a survey before the Cardiac Arrhythmia Suppression Trial results were available. Am J Cardiol. 1990 Jan 1;65(1):40-8.</citation>
+    <PMID>1688481</PMID>
+  </reference>
+  <reference>
+    <citation>Pratt CM, Moye LA. The Cardiac Arrhythmia Suppression Trial: background, interim results and implications. Am J Cardiol. 1990 Jan 16;65(4):20B-29B. Review.</citation>
+    <PMID>2105049</PMID>
+  </reference>
+  <reference>
+    <citation>Pratt CM. The Cardiac Arrhythmia Suppression Trial. Introduction: The aftermath of the CAST--a reconsideration of traditional concepts. Am J Cardiol. 1990 Jan 16;65(4):1B-2B.</citation>
+    <PMID>2404392</PMID>
+  </reference>
+  <reference>
+    <citation>Pratt CM, Brater DC, Harrell FE Jr, Kowey PR, Leier CV, Lowenthal DT, Messerli F, Packer M, Pritchett EL, Ruskin JN. Clinical and regulatory implications of the Cardiac Arrhythmia Suppression Trial. Am J Cardiol. 1990 Jan 1;65(1):103-5.</citation>
+    <PMID>1688479</PMID>
+  </reference>
+  <reference>
+    <citation>Pratt CM, Moye L. The cardiac arrhythmia suppression trial: implications for antiarrhythmic drug development. J Clin Pharmacol. 1990 Nov;30(11):967-74.</citation>
+    <PMID>2122983</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr. Implications of the Cardiac Arrhythmia Suppression Trial for antiarrhythmic drug treatment. Am J Cardiol. 1990 Feb 20;65(8):3D-10D; discussion 68D-71D.</citation>
+    <PMID>2106253</PMID>
+  </reference>
+  <reference>
+    <citation>Morganroth J, Bigger JT Jr. Pharmacologic management of ventricular arrhythmias after the cardiac arrhythmia suppression trial. Am J Cardiol. 1990 Jun 15;65(22):1497-503.</citation>
+    <PMID>2091621</PMID>
+  </reference>
+  <reference>
+    <citation>Echt DS, Liebson PR, Mitchell LB, Peters RW, Obias-Manno D, Barker AH, Arensberg D, Baker A, Friedman L, Greene HL, et al. Mortality and morbidity in patients receiving encainide, flecainide, or placebo. The Cardiac Arrhythmia Suppression Trial. N Engl J Med. 1991 Mar 21;324(12):781-8.</citation>
+    <PMID>1900101</PMID>
+  </reference>
+  <reference>
+    <citation>Epstein AE, Bigger JT Jr, Wyse DG, Romhilt DW, Reynolds-Haertle RA, Hallstrom AP. Events in the Cardiac Arrhythmia Suppression Trial (CAST): mortality in the entire population enrolled. J Am Coll Cardiol. 1991 Jul;18(1):14-9. Erratum in: J Am Coll Cardiol 1991 Sep;18(3):888.</citation>
+    <PMID>1904891</PMID>
+  </reference>
+  <reference>
+    <citation>Wyse DG, Hallstrom A, McBride R, Cohen JD, Steinberg JS, Mahmarian J. Events in the Cardiac Arrhythmia Suppression Trial (CAST): mortality in patients surviving open label titration but not randomized to double-blind therapy. J Am Coll Cardiol. 1991 Jul;18(1):20-8.</citation>
+    <PMID>1904892</PMID>
+  </reference>
+  <reference>
+    <citation>Hallstrom AP, Verter J, Friedman L. Randomizing responders. Cardiac Arrhythmia Suppression Trial (CAST) investigators. Control Clin Trials. 1991 Aug;12(4):486-503.</citation>
+    <PMID>1657526</PMID>
+  </reference>
+  <reference>
+    <citation>Denes P, Gillis AM, Pawitan Y, Kammerling JM, Wilhelmsen L, Salerno DM. Prevalence, characteristics and significance of ventricular premature complexes and ventricular tachycardia detected by 24-hour continuous electrocardiographic recording in the Cardiac Arrhythmia Suppression Trial. CAST Investigators. Am J Cardiol. 1991 Oct 1;68(9):887-96.</citation>
+    <PMID>1718158</PMID>
+  </reference>
+  <reference>
+    <citation>Capone RJ, Pawitan Y, el-Sherif N, Geraci TS, Handshaw K, Morganroth J, Schlant RC, Waldo AL. Events in the cardiac arrhythmia suppression trial: baseline predictors of mortality in placebo-treated patients. J Am Coll Cardiol. 1991 Nov 15;18(6):1434-8.</citation>
+    <PMID>1939943</PMID>
+  </reference>
+  <reference>
+    <citation>Hallstrom AP, Greene HL, Huther ML. The healthy responder phenomenon in non-randomized clinical trials. CAST Investigators. Stat Med. 1991 Oct;10(10):1621-31.</citation>
+    <PMID>1947517</PMID>
+  </reference>
+  <reference>
+    <citation>Greene HL, Roden DM, Katz RJ, Woosley RL, Salerno DM, Henthorn RW. The Cardiac Arrhythmia Suppression Trial: first CAST ... then CAST-II. J Am Coll Cardiol. 1992 Apr;19(5):894-8.</citation>
+    <PMID>1552108</PMID>
+  </reference>
+  <reference>
+    <citation>Effect of the antiarrhythmic agent moricizine on survival after myocardial infarction. The Cardiac Arrhythmia Suppression Trial II Investigators. N Engl J Med. 1992 Jul 23;327(4):227-33.</citation>
+    <PMID>1377359</PMID>
+  </reference>
+  <reference>
+    <citation>Akiyama T, Pawitan Y, Campbell WB, Papa L, Barker AH, Rubbert P, Friedman L, Keller M, Josephson RA. Effects of advancing age on the efficacy and side effects of antiarrhythmic drugs in post-myocardial infarction patients with ventricular arrhythmias. The CAST Investigators. J Am Geriatr Soc. 1992 Jul;40(7):666-72.</citation>
+    <PMID>1607582</PMID>
+  </reference>
+  <reference>
+    <citation>Shea S, Bigger JT Jr, Campion J, Fleiss JL, Rolnitzky LM, Schron E, Gorkin L, Handshaw K, Kinney MR, Branyon M. Enrollment in clinical trials: institutional factors affecting enrollment in the cardiac arrhythmia suppression trial (CAST). Control Clin Trials. 1992 Dec;13(6):466-86.</citation>
+    <PMID>1334819</PMID>
+  </reference>
+  <reference>
+    <citation>Willund I, Gorkin L, Pawitan Y, Schron E, Schoenberger J, Jared LL, Shumaker S. Methods for assessing quality of life in the cardiac arrhythmia suppression trial (CAST). Qual Life Res. 1992 Jun;1(3):187-201.</citation>
+    <PMID>1301128</PMID>
+  </reference>
+  <reference>
+    <citation>Reynolds-Haertle RA, McBride R. Single vs. double data entry in CAST. Control Clin Trials. 1992 Dec;13(6):487-94.</citation>
+    <PMID>1334820</PMID>
+  </reference>
+  <reference>
+    <citation>Gorkin L, Schron EB, Brooks MM, Wiklund I, Kellen J, Verter J, Schoenberger JA, Pawitan Y, Morris M, Shumaker S. Psychosocial predictors of mortality in the Cardiac Arrhythmia Suppression Trial-1 (CAST-1). Am J Cardiol. 1993 Feb 1;71(4):263-7.</citation>
+    <PMID>8427165</PMID>
+  </reference>
+  <reference>
+    <citation>Peters RW, Zoble RG, Liebson PR, Pawitan Y, Brooks MM, Proschan M. Identification of a secondary peak in myocardial infarction onset 11 to 12 hours after awakening: the Cardiac Arrhythmia Suppression Trial (CAST) experience. J Am Coll Cardiol. 1993 Oct;22(4):998-1003.</citation>
+    <PMID>8409074</PMID>
+  </reference>
+  <reference>
+    <citation>Epstein AE, Hallstrom AP, Rogers WJ, Liebson PR, Seals AA, Anderson JL, Cohen JD, Capone RJ, Wyse DG. Mortality following ventricular arrhythmia suppression by encainide, flecainide, and moricizine after myocardial infarction. The original design concept of the Cardiac Arrhythmia Suppression Trial (CAST). JAMA. 1993 Nov 24;270(20):2451-5.</citation>
+    <PMID>8230622</PMID>
+  </reference>
+  <reference>
+    <citation>Friedman LM, Bristow JD, Hallstrom A, Schron E, Proschan M, Verter J, DeMets D, Fisch C, Nies AS, Ruskin J, et al. Data monitoring in the cardiac arrhythmia suppression trial. Online J Curr Clin Trials. 1993 Jul 31;Doc No 79:[5870 words; 53 paragraphs].</citation>
+    <PMID>8306012</PMID>
+  </reference>
+  <reference>
+    <citation>Peters RW, Mitchell LB, Brooks MM, Echt DS, Barker AH, Capone R, Liebson PR, Greene HL. Circadian pattern of arrhythmic death in patients receiving encainide, flecainide or moricizine in the Cardiac Arrhythmia Suppression Trial (CAST). J Am Coll Cardiol. 1994 Feb;23(2):283-9.</citation>
+    <PMID>8294678</PMID>
+  </reference>
+  <reference>
+    <citation>Wyse DG, Morganroth J, Ledingham R, Denes P, Hallstrom A, Mitchell LB, Epstein AE, Woosley RL, Capone R. New insights into the definition and meaning of proarrhythmia during initiation of antiarrhythmic drug therapy from the Cardiac Arrhythmia Suppression Trial and its pilot study. The CAST and CAPS Investigators. J Am Coll Cardiol. 1994 Apr;23(5):1130-40.</citation>
+    <PMID>8144779</PMID>
+  </reference>
+  <reference>
+    <citation>Hochman JS, Brooks MM, Morris M, Ahmad T. Prognostic significance of left ventricular aneurysm in the Cardiac Arrhythmia Suppression Trial (CAST) population. Am Heart J. 1994 Apr;127(4 Pt 1):824-32.</citation>
+    <PMID>8154420</PMID>
+  </reference>
+  <reference>
+    <citation>Denes P, el-Sherif N, Katz R, Capone R, Carlson M, Mitchell LB, Ledingham R. Prognostic significance of signal-averaged electrocardiogram after thrombolytic therapy and/or angioplasty during acute myocardial infarction (CAST substudy). Cardiac Arrhythmia Suppression Trial (CAST) SAECG Substudy Investigators. Am J Cardiol. 1994 Aug 1;74(3):216-20.</citation>
+    <PMID>8037124</PMID>
+  </reference>
+  <reference>
+    <citation>Anderson JL, Platia EV, Hallstrom A, Henthorn RW, Buckingham TA, Carlson MD, Carson PE. Interaction of baseline characteristics with the hazard of encainide, flecainide, and moricizine therapy in patients with myocardial infarction. A possible explanation for increased mortality in the Cardiac Arrhythmia Suppression Trial (CAST). Circulation. 1994 Dec;90(6):2843-52.</citation>
+    <PMID>7994829</PMID>
+  </reference>
+  <reference>
+    <citation>Brooks MM, Gorkin L, Schron EB, Wiklund I, Campion J, Ledingham RB. Moricizine and quality of life in the Cardiac Arrhythmia Suppression Trial II (CAST II). Control Clin Trials. 1994 Dec;15(6):437-49.</citation>
+    <PMID>7851106</PMID>
+  </reference>
+  <reference>
+    <citation>Kennedy HL, Brooks MM, Barker AH, Bergstrand R, Huther ML, Beanlands DS, Bigger JT, Goldstein S. Beta-blocker therapy in the Cardiac Arrhythmia Suppression Trial. CAST Investigators. Am J Cardiol. 1994 Oct 1;74(7):674-80.</citation>
+    <PMID>7942525</PMID>
+  </reference>
+  <reference>
+    <citation>Hallstrom A, Pratt CM, Greene HL, Huther M, Gottlieb S, DeMaria A, Young JB. Relations between heart failure, ejection fraction, arrhythmia suppression and mortality: analysis of the Cardiac Arrhythmia Suppression Trial. J Am Coll Cardiol. 1995 May;25(6):1250-7.</citation>
+    <PMID>7722117</PMID>
+  </reference>
+  <reference>
+    <citation>A symposium: the cardiac arrhythmia suppression trial--does it alter our concepts of and approaches to ventricular arrhythmias? Woodland, Texas, August 9, 1989. Am J Cardiol. 1990 Jan 16;65(4):1B-42B.</citation>
+    <PMID>2404393</PMID>
+  </reference>
+  <reference>
+    <citation>Akiyama T, Pawitan Y, Greenberg H, Kuo CS, Reynolds-Haertle RA. Increased risk of death and cardiac arrest from encainide and flecainide in patients after non-Q-wave acute myocardial infarction in the Cardiac Arrhythmia Suppression Trial. CAST Investigators. Am J Cardiol. 1991 Dec 15;68(17):1551-5.</citation>
+    <PMID>1720917</PMID>
+  </reference>
+  <reference>
+    <citation>Hallstrom AP, Anderson JL, Carlson M, Davies R, Greene HL, Kammerling JM, Romhilt DW, Duff HJ, Huther M. Time to arrhythmic, ischemic, and heart failure events: exploratory analyses to elucidate mechanisms of adverse drug effects in the Cardiac Arrhythmia Suppression Trial. Am Heart J. 1995 Jul;130(1):71-9.</citation>
+    <PMID>7611126</PMID>
+  </reference>
+  <reference>
+    <citation>Friedmann E, Thomas SA. Pet ownership, social support, and one-year survival after acute myocardial infarction in the Cardiac Arrhythmia Suppression Trial (CAST). Am J Cardiol. 1995 Dec 15;76(17):1213-7.</citation>
+    <PMID>7502998</PMID>
+  </reference>
+  <reference>
+    <citation>Roose SP, Glassman AH. Antidepressant choice in the patient with cardiac disease: lessons from the Cardiac Arrhythmia Suppression Trial (CAST) studies. J Clin Psychiatry. 1994 Sep;55 Suppl A:83-7; discussion 88-9, 98-100. Review.</citation>
+    <PMID>7961547</PMID>
+  </reference>
+  <reference>
+    <citation>Josephson RA, Chahine RA, Morganroth J, Anderson J, Waldo A, Hallstrom A. Prediction of cardiac death in patients with a very low ejection fraction after myocardial infarction: a Cardiac Arrhythmia Suppression Trial (CAST) study. Am Heart J. 1995 Oct;130(4):685-91.</citation>
+    <PMID>7572573</PMID>
+  </reference>
+  <reference>
+    <citation>Peters RW, Brooks MM, Todd L, Liebson PR, Wilhelmsen L. Smoking cessation and arrhythmic death: the CAST experience. The Cardiac Arrhythmia Suppression Trial (CAST) Investigators. J Am Coll Cardiol. 1995 Nov 1;26(5):1287-92.</citation>
+    <PMID>7594045</PMID>
+  </reference>
+  <reference>
+    <citation>Kellen JC, Ettinger A, Todd L, Brezsnyak ML, Campion J, McBride R, Thomas S, Corum J, Schron E. The Cardiac Arrhythmia Suppression Trial: Implications for nursing practice. Am J Crit Care. 1996 Jan;5(1):19-25.</citation>
+    <PMID>8680488</PMID>
+  </reference>
+  <reference>
+    <citation>Schron EB, Brooks MM, Gorkin L, Kellen JC, Morris M, Campion J, Shumaker SA, Corum J. Relation of sociodemographic, clinical, and quality-of-life variables to adherence in the cardiac arrhythmia suppression trial. Cardiovasc Nurs. 1996 Mar-Apr;32(2):1-6.</citation>
+    <PMID>8697488</PMID>
+  </reference>
+  <reference>
+    <citation>Peters RW, Brooks MM, Zoble RG, Liebson PR, Seals AA. Chronobiology of acute myocardial infarction: cardiac arrhythmia suppression trial (CAST) experience. Am J Cardiol. 1996 Dec 1;78(11):1198-201.</citation>
+    <PMID>8960574</PMID>
+  </reference>
+  <reference>
+    <citation>Goldstein S, Zoble RG, Akiyama T, Cohen JD, Lancaster S, Liebson PR, Rapaport E, Goldberg AD, Peters RW, Gillis AM. Relation of circadian ventricular ectopic activity to cardiac mortality. CAST Investigators. Am J Cardiol. 1996 Oct 15;78(8):881-5.</citation>
+    <PMID>8888659</PMID>
+  </reference>
+  <reference>
+    <citation>Obias-Manno D, Friedmann E, Brooks MM, Thomas SA, Haakenson C, Morris M, Wimbush F, Somelofski C, Goldner F. Adherence and arrhythmic mortality in the cardiac arrhythmia suppression trial (CAST). Ann Epidemiol. 1996 Mar;6(2):93-101.</citation>
+    <PMID>8775589</PMID>
+  </reference>
+  <reference>
+    <citation>Gorkin L, Schron EB, Handshaw K, Shea S, Kinney MR, Branyon M, Campion J, Bigger JT Jr, Sylvia SC, Duggan J, Stylianou M, Lancaster S, Ahern DK, Follick MJ. Clinical trial enrollers vs. nonenrollers: the Cardiac Arrhythmia Suppression Trial (CAST) Recruitment and Enrollment Assessment in Clinical Trials (REACT) project. Control Clin Trials. 1996 Feb;17(1):46-59.</citation>
+    <PMID>8721801</PMID>
+  </reference>
+  <reference>
+    <citation>Anderson JL, Karagounis LA, Stein KM, Moreno FL, Ledingham R, Hallstrom A. Predictive value for future arrhythmic events of fractal dimension, a measure of time clustering of ventricular premature complexes, after myocardial infarction. CAST Investigators. Cardia Arrhythmia Suppression Trial. J Am Coll Cardiol. 1997 Jul;30(1):226-32.</citation>
+    <PMID>9207646</PMID>
+  </reference>
+  <reference>
+    <citation>Thomas SA, Friedmann E, Wimbush F, Schron E. Psychological factors and survival in the cardiac arrhythmia suppression trial (CAST): a reexamination. Am J Crit Care. 1997 Mar;6(2):116-26.</citation>
+    <PMID>9172848</PMID>
+  </reference>
+  <reference>
+    <citation>Shumaker SA, Brooks MM, Schron EB, Hale C, Kellen JC, Inkster M, Wimbush FB, Wiklund I, Morris M. Gender differences in health-related quality of life among postmyocardial infarction patients: brief report. CAST Investigators. Cardiac Arrhythmia Suppression Trials. Womens Health. 1997 Spring;3(1):53-60.</citation>
+    <PMID>9106370</PMID>
+  </reference>
+  <reference>
+    <citation>Every NR, Hlatky MA, McDonald KM, Weaver WD, Hallstrom AP. Estimating the proportion of post-myocardial infarction patients who may benefit from prophylactic implantable defibrillator placement from analysis of the CAST registry. Cardiac Arrhythmia Suppression Trial. Am J Cardiol. 1998 Sep 1;82(5):683-5, A8.</citation>
+    <PMID>9732904</PMID>
+  </reference>
+  <reference>
+    <citation>Hallstrom A, Friedman L, Denes P, Rizo-Patron C, Morris M; CAST Investigators; AVID Investigators. Do arrhythmia patients improve survival by participating in randomized clinical trials? Observations from the Cardiac Arrhythmia Suppression Trial (CAST)and the Antiarrhythmics Versus Implantable Defibrillators Trial (AVID). Control Clin Trials. 2003 Jun;24(3):341-52.</citation>
+    <PMID>12757998</PMID>
+  </reference>
+  <verification_date>August 2004</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Death, Sudden</mesh_term>
+    <mesh_term>Death, Sudden, Cardiac</mesh_term>
+    <mesh_term>Heart Arrest</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

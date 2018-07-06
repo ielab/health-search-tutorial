@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204454">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000523</url>
+  </required_header>
+  <id_info>
+    <org_study_id>42</org_study_id>
+    <nct_id>NCT00000523</nct_id>
+  </id_info>
+  <brief_title>Optimal Exercise Regimens for Persons at Increased Risk</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess exercise training adherence and compliance over two years in subjects who were at
+      relatively high risk for coronary artery disease. Also, to test strategies for improving
+      adherence and compliance and to assess the effect of exercise training.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      Regular physical exercise is associated with lower coronary heart disease mortality,
+      favorably affects coronary risk factors, and increases cardiovascular functional capacity.
+      Fewer than one-third of Americans engage in regular physical exercise and only 20 percent of
+      men and 10 percent of women over age 45 do so. This is largely because effective strategies
+      for increasing the exercise habit in a broadly-based segment of Americans have not been
+      developed. This study applied physiological and behavioral knowledge derived in numerous
+      laboratories over the past 10-15 years to a clinical setting.
+
+      DESIGN NARRATIVE:
+
+      Following stratification by gender and cigarette smoking status, subjects were randomized to
+      one of four groups: home exercise of moderate intensity which was individually monitored;
+      home exercise of high intensity which was individually monitored; exercise of high intensity
+      which was group supervised; and a no program control group. The intervention program was
+      conducted for one year followed by a one-year maintenance program. Main outcome measures
+      included treadmill exercise test performance, exercise participation rates, and heart
+      disease risk factors. Variables measured over two years included plasma lipids,
+      lipoproteins, apoproteins, lipase activity, glucose and insulin, sex hormones,
+      cardiovascular reactivity to psychological stress, cigarette smoking, nutrient intake,
+      psychological status, and cardiovascular functional capacity.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1986</start_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>exercise</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Sedentary men and women, ages 50 to 65. Women were postmenopausal and not taking hormone
+        replacement therapy. All subjects were free from, but at increased risk for, coronary
+        heart disease.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>King AC, Haskell WL, Taylor CB, Kraemer HC, DeBusk RF. Group- vs home-based exercise training in healthy older men and women. A community-based clinical trial. JAMA. 1991 Sep 18;266(11):1535-42.</citation>
+    <PMID>1880885</PMID>
+  </reference>
+  <verification_date>January 2000</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

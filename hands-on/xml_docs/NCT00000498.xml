@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204479">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000498</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17</org_study_id>
+    <nct_id>NCT00000498</nct_id>
+  </id_info>
+  <brief_title>Control of Hypertension by Non-Pharmacologic Means</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine whether blood pressure could be controlled by nutritional-hygienic,
+      non-pharmacologic means in hypertensives treated with drugs in the Hypertension Detection
+      and Follow-up Trial (HDFP).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      In the 1970s, many studies had been conducted to control blood pressure in individuals
+      maintained at normotensive levels by the use of weight control and sodium restriction
+      without the concomitant use of anti-hypertensives. The associations between weight, sodium
+      and blood pressure had been well established, but data on the relationship of intervention
+      to blood pressure control had been less so.
+
+      DESIGN NARRATIVE:
+
+      Patients were randomly assigned to one of three groups. The 95 patients in Group I were
+      advised to control weight, reduce sodium intake, modify dietary and alcohol intake and were
+      removed from pharmacologic treatment. The 44 patients in Group II were removed from
+      pharmacologic treatment, with no other intervention. The 48 patients in Group III were
+      continued on pharmacologic treatment, with no other intervention. The primary endpoint was
+      the proportion in Groups I and II with diastolic blood pressure less than or equal to 90 mm
+      Hg in the absence of antihypertensive drugs. Secondary endpoints were average diastolic and
+      systolic pressures.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 1980</start_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, sodium-restricted</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>diet, reducing</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>alcohol restriction</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>antihypertensive agents</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Men and women with controlled hypertension.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard Grimm</last_name>
+    <affiliation>Mount Sinai Hospital, New York</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jeremiah Stamler</last_name>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Stamler R, Stamler J, Grimm R, Dyer A, Gosch FC, Berman R, Elmer P, Fishman J, Van Heel N, Civinelli J, et al. Nonpharmacological control of hypertension. Prev Med. 1985 May;14(3):336-45.</citation>
+    <PMID>3903735</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler R, Stamler J, Grimm R, Gosch FC, Elmer P, Dyer A, Berman R, Fishman J, Van Heel N, Civinelli J, et al. Nutritional therapy for high blood pressure. Final report of a four-year randomized controlled trial--the Hypertension Control Program. JAMA. 1987 Mar 20;257(11):1484-91.</citation>
+    <PMID>3546747</PMID>
+  </reference>
+  <reference>
+    <citation>Dyer AR, Stamler R, Grimm R, Stamler J, Berman R, Gosch FC, Emidy LA, Elmer P, Fishman J, Van Heel N, et al. Do hypertensive patients have a different diurnal pattern of electrolyte excretion? Hypertension. 1987 Oct;10(4):417-24.</citation>
+    <PMID>3653970</PMID>
+  </reference>
+  <reference>
+    <citation>Stamler R, Grimm RH Jr, Dyer AR, Talano JV, Prineas R, Crow R, Berman R, Gosch FC, Elmer P, Stamler J. Cardiac status after four years in a trial on nutritional therapy for high blood pressure. Arch Intern Med. 1989 Mar;149(3):661-5.</citation>
+    <PMID>2645845</PMID>
+  </reference>
+  <reference>
+    <citation>McDonald AM, Dyer AR, Liu K, Stamler R, Gosch FC, Grimm R, Berman R, Stamler J. Sodium, lithium-countertransport and blood pressure control by nutritional intervention in 'mild' hypertension. J Hypertens. 1988 Apr;6(4):283-91.</citation>
+    <PMID>2454254</PMID>
+  </reference>
+  <verification_date>January 2000</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antihypertensive Agents</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

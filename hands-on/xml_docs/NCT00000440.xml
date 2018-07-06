@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204536">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000440</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAAFAR11222</org_study_id>
+    <nct_id>NCT00000440</nct_id>
+  </id_info>
+  <brief_title>Sertraline and Naltrexone for Alcohol Dependence</brief_title>
+  <official_title>Sertraline and Naltrexone for Alcohol Dependents</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a double-blind, placebo-controlled outpatient trial to improve, through the
+      addition of sertraline (Zoloft), the abstinence and relapse rates in alcohol- dependent
+      individuals currently taking naltrexone (Revia).
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <completion_date>September 2002</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>124</enrollment>
+  <condition>Alcoholism</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>naltrexone (Revia)</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>sertraline (Zoloft)</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets the criteria for alcohol dependence.
+
+          -  Abstinent from alcohol for a period of at least 5 days and not greater than 30 days.
+
+          -  Able to read English and complete study evaluations.
+
+          -  A stable residence and a telephone to ensure that subjects can be located during the
+             study.
+
+        Exclusion Criteria:
+
+          -  Currently meets criteria for substance abuse or dependence with the exception of
+             nicotine dependence.
+
+          -  Current use of disulfiram (Antabuse) or a MAO Inhibitor.
+
+          -  Psychotic or otherwise severely psychiatrically disabled (i.e., depressed, suicidal,
+             current mania).
+
+          -  Major depression at the time of assessment.
+
+          -  Previous treatment with naltrexone (Revia) for alcohol dependence.
+
+          -  Significant underlying medical conditions such as cerebral, renal, thyroid, or
+             cardiac disease.
+
+          -  Abstinent longer than 30 days prior to admission to program.
+
+          -  Hepatocellular disease or elevated bilirubin levels.
+
+          -  Females who are pregnant, nursing, or not using a reliable method of birth control.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Department of Psychiatry, Mount Sinai School of Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2004</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Naltrexone</mesh_term>
+    <mesh_term>Sertraline</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

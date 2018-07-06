@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204441">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000536</url>
+  </required_header>
+  <id_info>
+    <org_study_id>79</org_study_id>
+    <nct_id>NCT00000536</nct_id>
+  </id_info>
+  <brief_title>Sodium Sensitivity in African Americans</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare the effects of two levels of dietary sodium on blood pressure in Black men and
+      women, and to determine what factors predict the degree of response.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+      The study permitted a more precise estimate of the effects of sodium chloride on blood
+      pressure in Blacks and a systematic examination of sodium sensitivity defined by various
+      methods. The results had significance in answering questions about risk factors for blood
+      pressure in Blacks and for defining sodium sensitivity.
+
+      DESIGN NARRATIVE:
+
+      Double-blind, two-period cross-over. All participants were given six weeks of intensive
+      nutritional counseling to lower 24-hour urine sodium output from an estimated 165 mEq/24
+      hours at baseline to less than 140 mEq/24 hours. Only those participants who excreted less
+      than 140 mEq /24 hours after six weeks of intensive dietary sodium intervention and had
+      greater than 70 percent adherence to study capsules were eligible for randomization.
+      Eligible subjects were assigned to one of two treatment sequences: 100 mEq of sodium
+      chloride capsules per day during period one followed by placebo capsules during period two;
+      placebo capsules during period one followed by 100 mEq of sodium chloride capsules per day
+      during period two. The major endpoint was change in diastolic and systolic blood pressure. A
+      number of other measures were carried out, including blood chemistries, glucose tolerance
+      (glucose and insulin), insulin resistance, urinary kallikrein, serum renin, and plasma
+      norepinephrine. Other major aims of the trial included testing general new diagnostic
+      criteria for sodium sensitivity, examining predictors of sodium sensitivity, and examining
+      how changes in sodium intake influenced change in specific metabolic parameters. The trial
+      design incorporated careful control of the dietary changes and strict standardization of
+      blood pressure measurement with a random-zero device. The study was extended through June
+      1997 on FY 1995 funds.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1992</start_date>
+  <completion_date>June 1997</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Crossover Assignment, Masking: Double-Blind, Primary Purpose: Prevention</study_design>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <condition>Vascular Diseases</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>sodium, dietary</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        No eligibility criteria
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>25 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard Grimm, Jr.</last_name>
+    <affiliation>University of Minnesota - Clinical and Translational Science Institute</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Flack JM, Grimm RH Jr, Staffileno BA, Dnsc, Elmer P, Yunis C, Hedquist L, Dudley A. New salt-sensitivity metrics: variability-adjusted blood pressure change and the urinary sodium-to-creatinine ratio. Ethn Dis. 2002 Winter;12(1):10-9.</citation>
+    <PMID>11913598</PMID>
+  </reference>
+  <verification_date>December 2005</verification_date>
+  <lastchanged_date>January 3, 2006</lastchanged_date>
+  <firstreceived_date>October 27, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

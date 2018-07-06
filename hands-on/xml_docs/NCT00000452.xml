@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204524">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on December 16, 2015</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000452</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIAAAVOL07517</org_study_id>
+    <nct_id>NCT00000452</nct_id>
+  </id_info>
+  <brief_title>Naltrexone Treatment of Alcohol Dependence</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute on Alcohol Abuse and Alcoholism (NIAAA)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The long-range goal of this ongoing research program is to find more effective treatments
+      for alcohol dependence by combining medication with the appropriate psychosocial support.
+      This proposal has three specific aims: (1) to compare the effectiveness of naltrexone
+      (Revia) in three types of treatment settings; (2) to assess the effects of psychosocial
+      support on medication compliance and treatment retention; and (3) to investigate the
+      individual characteristics that may predict who is likely to benefit from additional
+      psychosocial support versus simple medication management.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <completion_date>January 2003</completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Masking: Double-Blind, Primary Purpose: Treatment</study_design>
+  <enrollment>240</enrollment>
+  <condition>Alcoholism</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>naltrexone (Revia)</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Compliance Enhancement Tech.</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive Behavior Therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Meets criteria for current diagnosis of alcohol dependence.
+
+          -  Subjects used more than 15 standard alcohol drinks (average)/week with at least 1 day
+             of 5 or more drinks in the past 30 days.
+
+          -  Successful completion of medical detoxification.
+
+          -  Lives within a commutable distance to the Treatment Research Center and agrees to
+             follow-up visits.
+
+          -  Understands and signs the informed consent.
+
+        Exclusion Criteria:
+
+          -  Current diagnosis of any substance dependence other than alcohol, nicotine, or
+             marijuana.
+
+          -  Evidence of opiate use in the past 30 days.
+
+          -  Current treatment with psychotropic medications, including disulfiram (Antabuse)
+             (excluding short-term use of benzodiazepines for detoxification).
+
+          -  History of unstable or serious medical illness, including need for opioid analgesics.
+
+          -  Severe physical or medical illnesses such as AIDS, active hepatitis, significant
+             hepatocellular injury as evidenced by elevated bilirubin levels, and current severe
+             psychiatric symptoms.
+
+          -  Use of an investigation medication in the past 30 days.
+
+          -  Female subjects who are pregnant, nursing, or not using reliable method of
+             contraception.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Treatment Research Center, University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2004</verification_date>
+  <lastchanged_date>June 23, 2005</lastchanged_date>
+  <firstreceived_date>November 2, 1999</firstreceived_date>
+  <has_expanded_access>No</has_expanded_access>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Naltrexone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>
