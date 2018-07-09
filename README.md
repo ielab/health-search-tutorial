@@ -2,6 +2,10 @@
 
 Welcome to the homepage for The Health Search Tutorial - a full day on all things Information Retrieval for the Health domain.
 
+Quick links:
+* SIGIR 2018 [tutorial slides](https://github.com/ielab/health-search-tutorial/tree/master/slides)
+* SIGIR 2018 [hands-on worksheet]()
+
 ## Intended Audience
 
 Researchers of all levels seeking to understand the challenges, tasks and recent developments in information retrieval related to health, be it consumer-oriented search, clinician search, or biomedical search.
