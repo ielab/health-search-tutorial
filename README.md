@@ -4,7 +4,7 @@ Welcome to the homepage for The Health Search Tutorial - a full day on all thing
 
 Quick links:
 * SIGIR 2018 [tutorial slides](https://github.com/ielab/health-search-tutorial/tree/master/slides)
-* SIGIR 2018 [hands-on worksheet]()
+* SIGIR 2018 [hands-on worksheet](https://github.com/ielab/health-search-tutorial/tree/master/hands-on)
 
 ## Intended Audience
 
