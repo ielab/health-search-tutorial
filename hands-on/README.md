@@ -4,7 +4,7 @@
 
 This file is versioned at:
 
-[https://github.com/ielab/health-search-tutorial/tree/master/hands-on](https://github.com/ielab/health-search-tutorial/tree/master/hands-on)
+[https://github.com/ielab/health-search-tutorial/tree/sigir2018/hands-on](https://github.com/ielab/health-search-tutorial/tree/sigir2018/hands-on)
 
 ---
 
