@@ -9,8 +9,8 @@ Welcome to the homepage for The Health Search Tutorial - a full day on all thing
 	* [hands-on worksheet](https://github.com/ielab/health-search-tutorial/tree/sigir2018/hands-on)
 
 * WSDM 2019
-	* [tutorial slides](https://github.com/ielab/health-search-tutorial/tree/wsdm2018/slides) 
-	* [hands-on worksheet](https://github.com/ielab/health-search-tutorial/tree/wsdm2018/hands-on)
+	* [tutorial slides](https://github.com/ielab/health-search-tutorial/tree/wsdm2019/slides) 
+	* [hands-on worksheet](https://github.com/ielab/health-search-tutorial/tree/wsdm2019/hands-on)
 
 ## Intended Audience
 
