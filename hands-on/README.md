@@ -2,10 +2,8 @@
 
 **Author**: Bevan Koopman, Guido Zuccon
 
-Note that there are multiple versions of the hands on session:
-
-* SIGIR 2018 [https://github.com/ielab/health-search-tutorial/tree/sigir2018/hands-on](https://github.com/ielab/health-search-tutorial/tree/sigir2018/hands-on)
-* WSDM 2019 [https://github.com/ielab/health-search-tutorial/tree/wsdm2019/hands-on](https://github.com/ielab/health-search-tutorial/tree/wsdm2019/hands-on)
+This is the WSDM specific versions of the handson resource for this tutorial, versioned at:
+[https://github.com/ielab/health-search-tutorial/tree/wsdm2019/hands-on](https://github.com/ielab/health-search-tutorial/tree/wsdm2019/hands-on)
 
 ---
 
