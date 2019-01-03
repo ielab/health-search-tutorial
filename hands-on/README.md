@@ -1,17 +1,18 @@
-# SIGIR Health Search Tutorial - Hands on session instructions
+# Health Search Tutorial - Hands on session instructions
 
 **Author**: Bevan Koopman, Guido Zuccon
 
-This file is versioned at:
+Note that there are multiple versions of the hands on session:
 
-[https://github.com/ielab/health-search-tutorial/tree/master/hands-on](https://github.com/ielab/health-search-tutorial/tree/master/hands-on)
+* SIGIR 2018 [https://github.com/ielab/health-search-tutorial/tree/sigir2018/hands-on](https://github.com/ielab/health-search-tutorial/tree/sigir2018/hands-on)
+* WSDM 2019 [https://github.com/ielab/health-search-tutorial/tree/wsdm2019/hands-on](https://github.com/ielab/health-search-tutorial/tree/wsdm2019/hands-on)
 
 ---
 
 
-The following are instructions on the SIGIR Health Search Tutorial hands-on session.
+The following are instructions on the Health Search Tutorial hands-on session.
 
-This tutorial demostrates using a number of different tools to implement a search system in the health domain. These tools require some setup and configuration. To use the burden in this we have distributed them pre-build via a docker image. 
+This tutorial demontrates using a number of different tools to implement a search system in the health domain. These tools require some setup and configuration. To use the burden in this we have distributed them pre-build via a docker image. 
 
 ## Setup
 
@@ -41,8 +42,8 @@ If the docker image was saved to file (not obtained via docker hub) then it can 
 In the task you will:
 
 1. Take a collection of clinical trials, annotate them with medical concepts, producing documents with both term and concept representation.
-2. Index these documenmts in Elastic with multi term/concepts fields.
-3. Search Elatic with either term or concept, demonstrating semantic search capabilities.
+2. Index these documents in Elastic with multi term/concepts fields.
+3. Search Elastic with either term or concept, demonstrating semantic search capabilities.
 
 
 
