@@ -89,7 +89,7 @@ This part of the tutorial presents an overview of such techniques, providing a h
 
 **All details for the hands on session are at:**
 
-[https://github.com/ielab/health-search-tutorial/tree/master/hands-on](https://github.com/ielab/health-search-tutorial/tree/wsdm2018/hands-on).
+[https://github.com/ielab/health-search-tutorial/tree/wsdm2018/hands-on](https://github.com/ielab/health-search-tutorial/tree/wsdm2018/hands-on).
 
 
 *Duration: 90m*
