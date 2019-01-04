@@ -5,23 +5,26 @@
 import argparse
 import logging
 import json
+import requests
+import os
+import multiprocessing
 
 from tqdm import tqdm
 from glob import glob
-from client import get_quickumls_client
-import os
+
 
 logger = logging.getLogger(__file__)
 
-matcher = get_quickumls_client()
 
-
-def annotate_doc(filename):
+def annotate_doc(filename, annotation_service='http://localhost:5000/match'):
+    print(filename)
     with open(filename) as fd:
         doc = {'text': '', 'cuis': '', 'concepts':''}
         for line in fd:
+            if len(line.strip()) == 0:
+                continue
             doc['text'] = doc['text'] + line
-            concepts = annotate_text(line.strip())
+            concepts = annotate_text(line.strip(), annotation_service)
             if len(concepts) > 0:
                 doc['cuis'] = doc['cuis'] + ' '.join(concepts.keys()) + ' '
                 doc['concepts'] = doc['concepts'] + ', '.join(concepts.values()) + ' '
@@ -30,13 +33,14 @@ def annotate_doc(filename):
         #add trailing newline for POSIX compatibility
         outfile.write('\n')
 
-def annotate_text(text):
-    cuis = {}
-    for phrase in matcher.match(text, best_match=True, ignore_syntax=False):
-        for annotation in phrase:
-            cuis[annotation['cui']] = annotation['term']
-    return cuis
-
+def annotate_text(text, annotation_service):
+    #print({'text': text})
+    resp = requests.post(annotation_service, json={'text': text})
+    if resp.status_code != 200:
+         raise Exception('POST / {}: {}'.format(resp.status_code, resp.text))
+    #for concept in resp.json():
+    #    print('\t', {concept['cui']: concept['term']})
+    return {concept['cui']: concept['term'] for concept in resp.json()}
 
 if __name__ == '__main__':
     '''
@@ -48,19 +52,20 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Annotate free-text documents with UMLS and format in JSON.")
     parser.add_argument('-d', '--doc_dir', help='Directory to process.')
     parser.add_argument('-f', '--file', help='File to process.')
+    parser.add_argument('--annotation_service', default='http://localhost:5000/match')
     parser.add_argument('text', help='Text to annotation.', nargs='?')
     args = parser.parse_args()
 
     if args.doc_dir:
         if not os.path.exists('annotated_'+args.doc_dir):
             os.makedirs('annotated_'+args.doc_dir)
-        for filename in tqdm(glob('{}/*'.format(args.doc_dir))):
-            if filename.endswith('.json'):
-                continue
-            annotate_doc(filename)
+
+        pool = multiprocessing.Pool(multiprocessing.cpu_count())
+        result = pool.map(annotate_doc, [filename for filename in glob('{}/*'.format(args.doc_dir)) if not filename.endswith('.json')])
+
     elif args.file:
-        annotate_doc(args.file)
+        annotate_doc(args.file, args.annotation_service)
     elif args.text:
-        print(annotate_text(args.text))
+        print(annotate_text(args.text, args.annotation_service))
     else:
         parser.print_usage()
