@@ -12,6 +12,8 @@ from elasticsearch import Elasticsearch, helpers
 es = Elasticsearch()
 
 
+INDEX_NAME = 'wsdm-health-search'
+
 def index_doc(filename):
     with open(filename) as fd:
         print("Indexing {}.".format(filename))
@@ -19,7 +21,7 @@ def index_doc(filename):
 
         doc_id = filename[filename.rfind('/')+1:].replace('.json', '')
 
-        res = es.index(index='sigir-health-search', doc_type='clinical_trial', id=doc_id, body=json_content)
+        res = es.index(index=INDEX_NAME, doc_type='clinical_trial', id=doc_id, body=json_content)
         if res['result'] != 'created':
             print(res)
 
@@ -35,11 +37,11 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     if args.remove_index:
-        if es.indices.exists(index='sigir-health-search'):
-            resp = es.indices.delete(index='sigir-health-search')
-            print("Deleting index 'sigir-health-search'. Response is {}.".format(resp))
+        if es.indices.exists(index=INDEX_NAME):
+            resp = es.indices.delete(index=INDEX_NAME)
+            print("Deleting index '{}'. Response is {}.".format(INDEX_NAME, resp))
 
-    if not es.indices.exists(index='sigir-health-search'):
+    if not es.indices.exists(index=INDEX_NAME):
 
         mapping = '''{
             "mapping": {
@@ -76,12 +78,14 @@ if __name__ == '__main__':
           }
         }
         # create index
-        es.indices.create(body=settings, index='sigir-health-search')
+        es.indices.create(body=settings, index=INDEX_NAME)
 
     if args.doc_dir:
         print("Indexing all docs in {}.".format(args.doc_dir))
-        for filename in glob('{}/*.json'.format(args.doc_dir)):
+        docs = glob('{}/*.json'.format(args.doc_dir))
+        for filename in docs:
             index_doc(filename)
+        print("Completed indexing {} documents to {}.".format(len(docs), INDEX_NAME))
     elif args.file:
         index_doc(args.file)
 

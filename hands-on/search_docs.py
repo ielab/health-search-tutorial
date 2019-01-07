@@ -11,6 +11,7 @@ from elasticsearch import Elasticsearch, helpers
 
 es = Elasticsearch()
 
+INDEX_NAME = 'wsdm-health-search'
 
 def search_file(query_file):
     with open(query_file) as fh:
@@ -23,7 +24,7 @@ def search_file(query_file):
 
 def search(query, qid=''):
     query_payload = '{"query": {"match": {"all": "{'+query+'}"}}}'
-    results = helpers.scan(es, query=query_payload, index='sigir-health-search', doc_type='clinical_trial', preserve_order=True)
+    results = helpers.scan(es, query=query_payload, index=INDEX_NAME, doc_type='clinical_trial', preserve_order=True)
 
     if qid=='':
         print('{}\t{}\t\t{}\t{}\n--'.format("query", "doc", "score", "rank"), file=sys.stderr)
