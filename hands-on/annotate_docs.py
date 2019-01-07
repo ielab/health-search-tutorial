@@ -8,6 +8,7 @@ import json
 import requests
 import os
 import multiprocessing
+import threading
 
 from tqdm import tqdm
 from glob import glob
@@ -17,7 +18,6 @@ logger = logging.getLogger(__file__)
 
 
 def annotate_doc(filename, annotation_service='http://localhost:5000/match'):
-    print(filename)
     with open(filename) as fd:
         doc = {'text': '', 'cuis': '', 'concepts':''}
         for line in fd:
@@ -60,8 +60,8 @@ if __name__ == '__main__':
         if not os.path.exists('annotated_'+args.doc_dir):
             os.makedirs('annotated_'+args.doc_dir)
 
-        pool = multiprocessing.Pool(multiprocessing.cpu_count())
-        result = pool.map(annotate_doc, [filename for filename in glob('{}/*'.format(args.doc_dir)) if not filename.endswith('.json')])
+        for filename in tqdm([filename for filename in glob('{}/*'.format(args.doc_dir)) if not filename.endswith('.json')], desc="Annotating files in '{}'".format(args.doc_dir) ):
+            annotate_doc(filename)
 
     elif args.file:
         annotate_doc(args.file, args.annotation_service)

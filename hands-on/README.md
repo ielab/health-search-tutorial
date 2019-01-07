@@ -22,16 +22,13 @@ Now we need two docker images: one for elastic and the other for this tutorial.
 
 `docker pull docker.elastic.co/elasticsearch/elasticsearch:6.3.1`
 
-3) For this tutorial:
+3) For QuickUMLS:
 
-`docker pull ielabgroup/health-search-tutorial`
+`docker pull aehrc/quickumls-rest:1.2.3-2018AA`
 
-**Alternative**: 
+4) The resource for this tutorial:
 
-If the docker image was saved to file (not obtained via docker hub) then it can be loaded via: 
-
-1. `gunzip health-search-tutorial-docker.tar.gz`
-2. `docker load -i health-search-tutorial-docker.tar`.)
+`git clone https://github.com/ielab/health-search-tutorial.git wsdm2019`
 
 ---
 
@@ -47,11 +44,6 @@ In the task you will:
 
 ## Tutorial tasks
 
-### Step 0 - Fire up the tutorial docker image
-
-`docker run --net="host" -it ielabgroup/health-search-tutorial`
-
-This will run the start the docker image and you will be presented with a bash shell on a Ubuntu virtual machine. By default you will start off in the `/health-search-tutorial` directory. This contains all the scripts and documents for this tutorial.
 
 ### Files provided
 
@@ -78,9 +70,10 @@ Have a look at the clinical trials documents in the `docs` directory:
 
 We will now identify medical concepts from free-text. 
 
-First start the QuickUMLS service in the background:
+First start the QuickUMLS service in the background as a docker container:
 
-`python /QuickUMLS-master/server.py /quickumls-data &`
+`docker run --name wsdm-quickumls aehrc/quickumls-rest:1.2.3-2018AA`
+
 
 Then lets do a test to identify some medical concepts from the phases "Family history of lung cancer". Run:
 
@@ -96,7 +89,7 @@ Now we will use the same script to annotated all the documents in `docs`:
 
 This will annotated each document and write the output to `annotated_docs` as individual JSON file. 
 
-**Note**: this process can be very slow on docker. You can Ctrl C to cancel it if its taking too long. We have already run this and the output is all in `annotated_docs`.
+**Note**: this process can be very slow on docker. You can Ctrl C to cancel it if it is taking too long. We have already run this and the output is all in `annotated_docs`.
 
 Now, take a look in some files (e.g., `less annotated_docs/NCT02631304.json`) and you will see the document now has three fields:
 
