@@ -85,7 +85,7 @@ if __name__ == '__main__':
         docs = glob('{}/*.json'.format(args.doc_dir))
         for filename in docs:
             index_doc(filename)
-        print("Completed indexing {} documents to {}.".format(len(docs), INDEX_NAME))
+        print("Completed indexing {} documents in {} to {}.".format(len(docs), args.doc_dir, INDEX_NAME))
     elif args.file:
         index_doc(args.file)
 
