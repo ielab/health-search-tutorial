@@ -1,3 +1,4 @@
 .idea
+.vscode/
 annotated_docs/
 trec_results.txt
