@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-
-
 import argparse
 import logging
 import json
@@ -13,14 +11,15 @@ import threading
 from tqdm import tqdm
 from glob import glob
 
-
 logger = logging.getLogger(__file__)
-
+logging.basicConfig(level=logging.ERROR)
+logger.setLevel(logging.INFO)
 
 def annotate_doc(filename, annotation_service='http://localhost:5000/match'):
     with open(filename) as fd:
+        lines = fd.readlines()
         doc = {'text': '', 'cuis': '', 'concepts':''}
-        for line in fd:
+        for line in tqdm(lines, desc=filename):
             if len(line.strip()) == 0:
                 continue
             doc['text'] = doc['text'] + line
@@ -60,7 +59,9 @@ if __name__ == '__main__':
         if not os.path.exists('annotated_'+args.doc_dir):
             os.makedirs('annotated_'+args.doc_dir)
 
-        for filename in tqdm([filename for filename in glob('{}/*'.format(args.doc_dir)) if not filename.endswith('.json')], desc="Annotating files in '{}'".format(args.doc_dir) ):
+        docs = [filename for filename in glob('{}/*'.format(args.doc_dir)) if not filename.endswith('.json')]
+
+        for filename in tqdm(docs, desc="Annotating files in '{}'".format(args.doc_dir) ):
             annotate_doc(filename)
 
     elif args.file:

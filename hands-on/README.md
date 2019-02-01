@@ -24,11 +24,15 @@ Now we need two docker images: one for elastic and the other for this tutorial.
 
 3) For QuickUMLS:
 
-`docker pull aehrc/quickumls-rest:1.2.3-2018AA`
+`docker pull aehrc/quickumls-rest:1.2-2016AA`
 
 4) The resource for this tutorial:
 
 `git clone https://github.com/ielab/health-search-tutorial.git wsdm2019`
+
+5) Install the required python libraries
+
+`pip3 install -r requirements.txt`
 
 ---
 
@@ -72,8 +76,9 @@ We will now identify medical concepts from free-text.
 
 First start the QuickUMLS service in the background as a docker container:
 
-`docker run --name wsdm-quickumls aehrc/quickumls-rest:1.2.3-2018AA`
+`docker run -d -p 5000:5000 --name wsdm-quickumls aehrc/quickumls-rest:1.2-2016AA`
 
+This will start a REST service on [http://localhost:5000](http://localhost:5000). 
 
 Then lets do a test to identify some medical concepts from the phases "Family history of lung cancer". Run:
 
