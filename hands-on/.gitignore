@@ -2,3 +2,4 @@
 .vscode/
 annotated_docs/
 trec_results.txt
+__pycache__/

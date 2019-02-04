@@ -13,6 +13,9 @@ es = Elasticsearch()
 
 INDEX_NAME = 'wsdm-health-search'
 
+def my_round(num, decimals):
+    return int(num*1000)/1000
+
 def search_file(query_file):
     with open(query_file) as fh:
         query_json = json.load(fh)
@@ -33,7 +36,7 @@ def search(query, qid=''):
 
     count = 0
     for count, hit in enumerate(results):
-        print('{}\t0\t{}\t{}\t{}\tRunId'.format(qid, hit['_id'], count+1, round(hit['_score'],4)))
+        print('{}\t0\t{}\t{}\t{}\tRunId'.format(qid, hit['_id'], count+1, my_round(hit['_score'],4)))
     print("{}: {} results".format(qid, count), file=sys.stderr)
 
 if __name__ == '__main__':
@@ -43,7 +46,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description="Annotate free-text documents with UMLS and format in JSON.")
     parser.add_argument('-f', '--query_file', help='Search using a query file contain a number of queries.')
-    parser.add_argument('-q', '--query', help='Search given the input text.')
+    parser.add_argument('query', help='Search given the input text.', nargs='?')
     args = parser.parse_args()
 
     if args.query_file:

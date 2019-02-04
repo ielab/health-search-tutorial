@@ -57,7 +57,7 @@ File | Description
 --- | ---
 `README.md` | This file
 `adhoc-queries.json` | Test query topics
-`annotate_docs.py` | Script to take plain text docs and annotated with UMLS concepts; see `annotate_docs.py -h` for info.
+`concept_annotator.py` | Script to take plain text docs and annotated with UMLS concepts; see `concept_annotator.py -h` for info.
 `docs` | 500 sample clinical trial documents in plain text
 `index_docs.py` | Script to take annotated documents and index in Elastic; see `index_docs.py -h` for details
 `qrels-clinical_trials.txt` | Qrels for the test query topics and docs.
@@ -82,7 +82,7 @@ This will start a REST service on [http://localhost:5000](http://localhost:5000)
 
 Then lets do a test to identify some medical concepts from the phases "Family history of lung cancer". Run:
 
-`python annotate_docs.py "Family history of lung cancer"`
+`python concept_annotator.py "Family history of lung cancer"`
 
 You should see some JSON returns with concepts identified; e.g.:
 
@@ -90,7 +90,7 @@ You should see some JSON returns with concepts identified; e.g.:
 
 Now we will use the same script to annotated all the documents in `docs`:
 
-`python annotate_docs.py -d docs`
+`python concept_annotator.py -d docs`
 
 This will annotated each document and write the output to `annotated_docs` as individual JSON file. 
 
@@ -133,23 +133,46 @@ You'll see the documents have been indexed with the three fields.
 
 ### Step 4 - Searching
 
+#### Term searching
+
 Have a play with various searching by setting `q=queryterm`; e.g., to search for "cancer"
 
 [http://localhost:9200/sigir-health-search/_search?q=cancer&pretty](http://localhost:9200/sigir-health-search/_search?q=lung&pretty)
 
+
 To run a search and get a results in TREC format run:
 
-`python search_docs.py -q "lung cancer"` (remember the quotes for query term)
+`python search_docs.py "lung cancer"` (remember the quotes for query term)
 
 This will produce a ranked list in trec_eval format.
+
+
+#### Concept searching
+
+We can also search using concepts. First, let's get the concepts covering the above "lung cancer" example:
+
+`python concept_annotator.py "lung cancer"`. This gives a list of mapped concepts: e.g., 
+
+```
+C0242379:	"Lung cancer" (Malignant neoplasm of lung)
+C0684249:	"Lung cancer" (Carcinoma of lung)
+C1306460:	"Lung cancer" (Primary malignant neoplasm of lung)
+```
+
+Now we can use those concepts to search via concepts:
+
+`python search_docs.py "C0242379 C0242379 C1306460"`
+
+
+
+
+### Step 5 - Evaluation
 
 We have also provided a set of query topics to use in `adhoc-queries.json`. Note that this is a special test collection we developed of clinical trials; it has multiple query variations, provided by different doctors, for a single query topic. To do a search using these topics run:
 
 `python search_docs.py -f adhoc-queries.json`
 
 Note, because there are multiple query variations for a topic, the script will choose a variation from a random person and run that - this highlights some of issues in query variation in health search.
-
-### Step 5 - Evaluation
 
 Run the script again but this time pipe the output to a results file:
 
@@ -163,13 +186,13 @@ We can now use the qrels to evaluate our system using trec_eval:
 
 Now we want to understand a bit about how different search can be done. Let us look at some concept-based searches. First, lets run some annotation to understand different medical concepts:
 
-**Case 1**: `python annotate_docs.py "metastatic breast cancer"` gives us:
+**Case 1**: `python concept_annotator.py "metastatic breast cancer"` gives us:
 
 `{'C0278488': 'metastatic breast cancer'}`
 
 But
 
-**Case 2**: `python annotate_docs.py "breast cancer"` gives us
+**Case 2**: `python concept_annotator.py "breast cancer"` gives us
 
 `{'C0006142': 'Breast cancer', 'C0678222': 'Breast cancer'}`
 

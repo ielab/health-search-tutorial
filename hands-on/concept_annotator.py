@@ -11,6 +11,8 @@ import threading
 from tqdm import tqdm
 from glob import glob
 
+from umls_lookup import UMLSLookup
+
 logger = logging.getLogger(__file__)
 logging.basicConfig(level=logging.ERROR)
 logger.setLevel(logging.INFO)
@@ -67,6 +69,8 @@ if __name__ == '__main__':
     elif args.file:
         annotate_doc(args.file, args.annotation_service)
     elif args.text:
-        print(annotate_text(args.text, args.annotation_service))
+        mapper = UMLSLookup()
+        for cui, term in annotate_text(args.text, args.annotation_service).items():
+            print('{}:\t"{}" ({})'.format(cui, term, mapper.umls_lookup(cui)))
     else:
         parser.print_usage()
