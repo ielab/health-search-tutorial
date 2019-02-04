@@ -13,9 +13,6 @@ es = Elasticsearch()
 
 INDEX_NAME = 'wsdm-health-search'
 
-def my_round(num, decimals):
-    return int(num*1000)/1000
-
 def search_file(query_file):
     with open(query_file) as fh:
         query_json = json.load(fh)
@@ -36,7 +33,7 @@ def search(query, qid=''):
 
     count = 0
     for count, hit in enumerate(results):
-        print('{}\t0\t{}\t{}\t{}\tRunId'.format(qid, hit['_id'], count+1, my_round(hit['_score'],4)))
+        print('{}\t0\t{}\t{}\t{}\tRunId'.format(qid, hit['_id'], count+1, round(hit['_score'],4)))
     print("{}: {} results".format(qid, count), file=sys.stderr)
 
 if __name__ == '__main__':
