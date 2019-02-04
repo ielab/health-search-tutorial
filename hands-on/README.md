@@ -137,6 +137,7 @@ Have a play with various searching by setting `q=queryterm`; e.g., to search for
 
 [http://localhost:9200/sigir-health-search/_search?q=cancer&pretty](http://localhost:9200/sigir-health-search/_search?q=lung&pretty)
 
+#### Term searching
 
 To run a search and get a results in TREC format run:
 
@@ -171,8 +172,6 @@ We have also provided a set of query topics to use in `adhoc-queries.json`. Note
 `python search_docs.py -f adhoc-queries.json`
 
 Note, because there are multiple query variations for a topic, the script will choose a variation from a random person and run that - this highlights some of issues in query variation in health search.
-
-### Step 5 - Evaluation
 
 Run the script again but this time pipe the output to a results file:
 
