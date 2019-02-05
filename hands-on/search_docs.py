@@ -13,12 +13,13 @@ es = Elasticsearch()
 
 INDEX_NAME = 'wsdm-health-search'
 
-def search_file(query_file):
+def search_file(query_file, variation=0):
     with open(query_file) as fh:
         query_json = json.load(fh)
         for topic in query_json:
             qid = topic['qId'].replace('trec', '').replace('-', '')
-            keyword = topic['keywords'][0]['keywords'] # choose the first keyword
+            variation = min(variation, len(topic['keywords'])-1)
+            keyword = topic['keywords'][variation]['keywords'] # choose the first keyword
             search(keyword, qid)
 
 
@@ -43,12 +44,13 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description="Annotate free-text documents with UMLS and format in JSON.")
     parser.add_argument('-f', '--query_file', help='Search using a query file contain a number of queries.')
+    parser.add_argument('-v', '--variation', help='Which query variation to select.', default=0, type=int)
     parser.add_argument('query', help='Search given the input text.', nargs='?')
     args = parser.parse_args()
 
     if args.query_file:
         print("Searching using {}.".format(args.query_file), file=sys.stderr)
-        search_file(args.query_file)
+        search_file(args.query_file, args.variation)
     elif args.query:
         search(args.query.strip())
     else:

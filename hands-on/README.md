@@ -171,7 +171,7 @@ We have also provided a set of query topics to use in `adhoc-queries.json`. Note
 
 `python search_docs.py -f adhoc-queries.json`
 
-Note, because there are multiple query variations for a topic, the script will choose a variation from a random person and run that - this highlights some of issues in query variation in health search.
+Note, because there are multiple query variations for a topic, the script currently just selects the first variation runs that. The the `-v` flag and specify a particular variation (e.g., `-v 1` for the second variation; `0` being the first). Differing results highlights some of issues in query variation in health search.
 
 Run the script again but this time pipe the output to a results file:
 
