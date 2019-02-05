@@ -111,7 +111,7 @@ First, start Elastic. We will use the standard docker images provided by elastic
 
 Open a new terminal window and make sure you run this not in the tutorial docker but on your host machine:
 
-`docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:6.3.1`
+`docker run --name wdsm-elasticsearch -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:6.3.1`
 
 Ensure that the docker service is up and running by visiting: [http://localhost:9200/](http://localhost:9200/)
 
