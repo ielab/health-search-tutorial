@@ -28,7 +28,7 @@ Now we need two docker images: one for elastic and the other for this tutorial.
 
 4) The resource for this tutorial:
 
-`git clone https://github.com/ielab/health-search-tutorial.git wsdm2019`
+`git clone -b wsdm2019 https://github.com/ielab/health-search-tutorial.git wsdm2019-health-search-tutorial`
 
 5) Install the required python libraries
 
