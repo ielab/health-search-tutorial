@@ -18,7 +18,7 @@ def search_file(query_file):
         query_json = json.load(fh)
         for topic in query_json:
             qid = topic['qId'].replace('trec', '').replace('-', '')
-            keyword = random.choice(topic['keywords'])['keywords']
+            keyword = topic['keywords'][0]['keywords'] # choose the first keyword
             search(keyword, qid)
 
 
