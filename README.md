@@ -1,8 +1,8 @@
-# WSDM 2018 Health Search Tutorial
+# WSDM 2019 Health Search Tutorial
 
 Welcome to the homepage for The Health Search Tutorial - a full day on all things Information Retrieval for the Health domain.
 
-This is the WSDM2018 version of this tutorial. Others versions exist for SIGIR and RussIR. The WSDM specific resource are:
+This is the WSDM2019 version of this tutorial. Others versions exist for SIGIR and RussIR. The WSDM specific resource are:
 
 * [tutorial slides](https://github.com/ielab/health-search-tutorial/tree/wsdm2019/slides) 
 * [hands-on worksheet](https://github.com/ielab/health-search-tutorial/tree/wsdm2019/hands-on)
@@ -34,7 +34,7 @@ Key challenges include:
 
 ## Objectives of the Tutorial
 
-The main aims of HS2018 will be to:
+The main aims of HS2019 will be to:
 
 * Summarise the basics of search in the health domain;
 * Present the different end user requirements for multiple user groups interested in health search, including tasks;
@@ -89,7 +89,7 @@ This part of the tutorial presents an overview of such techniques, providing a h
 
 **All details for the hands on session are at:**
 
-[https://github.com/ielab/health-search-tutorial/tree/wsdm2018/hands-on](https://github.com/ielab/health-search-tutorial/tree/wsdm2018/hands-on).
+[https://github.com/ielab/health-search-tutorial/tree/wsdm2019/hands-on](https://github.com/ielab/health-search-tutorial/tree/wsdm2019/hands-on).
 
 
 *Duration: 90m*
