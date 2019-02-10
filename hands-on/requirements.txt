@@ -1,3 +1,4 @@
 xmltodict
 elasticsearch
 requests
+tqdm
