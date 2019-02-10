@@ -147,47 +147,28 @@ Have a play with various searching by setting `q=queryterm`; e.g., to search for
 
 To run a search and get a results in TREC format run:
 
-`python search_docs.py "lung cancer"` (remember the quotes for query term)
+`python search_docs.py "heart attack"` (remember the quotes for query term)
 
 This will produce a ranked list in trec_eval format.
 
 
 #### Concept searching
 
-We can also search using concepts. First, let's get the concepts covering the above "lung cancer" example:
+We can also search using concepts. First, let's get the concepts covering the above "heart attack" example:
 
-`python concept_annotator.py "lung cancer"`. This gives a list of mapped concepts: e.g., 
+`python concept_annotator.py "heart attack"`. This gives a list of mapped concepts: e.g., 
 
 ```
-C0242379:	"Lung cancer" (Malignant neoplasm of lung)
-C0684249:	"Lung cancer" (Carcinoma of lung)
-C1306460:	"Lung cancer" (Primary malignant neoplasm of lung)
+C0027051:	heart attack
 ```
 
 Now we can use those concepts to search via concepts:
 
-`python search_docs.py "C0242379 C0684249 C1306460"`
+`python search_docs.py "C0027051"`
 
+Heart attack is more technical referred to as "myocardial infarction"; if we map this to concepts (`python search_docs.py "myocardial infarction"`) we get the same concept (C0027051) as "heart attack". Thus we also get the same search results for the two.
 
-
-
-### Step 5 - Evaluation
-
-We have also provided a set of query topics to use in `adhoc-queries.json`. Note that this is a special test collection we developed of clinical trials; it has multiple query variations, provided by different doctors, for a single query topic. To do a search using these topics run:
-
-`python search_docs.py -f adhoc-queries.json`
-
-Note, because there are multiple query variations for a topic, the script currently just selects the first variation runs that. The the `-v` flag and specify a particular variation (e.g., `-v 1` for the second variation; `0` being the first). Differing results highlights some of issues in query variation in health search.
-
-Run the script again but this time pipe the output to a results file:
-
-`python search_docs.py -f adhoc-queries.json > trec_results.txt`
-
-We can now use the qrels to evaluate our system using trec_eval:
-
-`trec_eval qrels-clinical_trials.txt trec_results.txt`
-
-### Step 6 - Time to play
+### Step 5 - Comparing Term and Concept searching
 
 Now we want to understand a bit about how different search can be done. Let us look at some concept-based searches. First, lets run some annotation to understand different medical concepts:
 
@@ -211,3 +192,30 @@ Now let's look at how this affects search:
 * Searching for the original text of case 2 `python search_docs.py "breast cancer"` yields 104 different results.
 
 We leave you now to experiment and discuss different search options and what impact they may have.
+
+### Step 6 - Evaluation
+
+We have also provided a set of query topics to use in `adhoc-queries.json`. Note that this is a special test collection we developed of clinical trials; it has multiple query variations, provided by different doctors, for a single query topic. To do a search using these topics run:
+
+`python search_docs.py -f adhoc-queries.json`
+
+Note, because there are multiple query variations for a topic, the script currently just selects the first variation runs that. The the `-v` flag and specify a particular variation (e.g., `-v 1` for the second variation; `0` being the first). Differing results highlights some of issues in query variation in health search.
+
+Run the script again but this time pipe the output to a results file:
+
+`python search_docs.py -f adhoc-queries.json > trec_results.txt`
+
+We can now use the qrels to evaluate our system using trec_eval:
+
+`trec_eval qrels-clinical_trials.txt trec_results.txt`
+
+
+Now have a look at the concept version of the queries:
+
+`python search_docs.py -f adhoc-queries-concepts.json > trec_results-concepts.txt`
+
+and evaluate
+
+`trec_eval qrels-clinical_trials.txt trec_results-concepts.txt`
+
+
