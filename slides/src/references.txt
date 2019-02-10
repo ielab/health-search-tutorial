@@ -1,0 +1,111 @@
+[Allen&Olkin, 1999]: Estimating time to conduct a meta-analysis from number of citations retrieved. Jama 282.7 (1999): 634-635.
+[Aronson&Lang, 2010]: An overview of MetaMap: historical perspective and recent advances. Journal of the American Medical Informatics Association 17.3 (2010): 229-236.
+[Balaneshin-kordan&Kotov, 2016]: Optimization method for weighting explicit and latent concepts in clinical decision support queries. Proceedings of the 2016 ACM International Conference on the Theory of Information Retrieval. ACM, 2016.
+[Beam et al., 2018]: Clinical Concept Embeddings Learned from Massive Sources of Medical Data. arXiv preprint arXiv:1804.01486 (2018).
+[Benetoli et al., 2017]
+[Boudin et al., 2010]: Clinical information retrieval using document and PICO structure. Human Language Technologies: The 2010 Annual Conference of the North American Chapter of the Association for Computational Linguistics. Association for Computational Linguistics, 2010.
+[Boudin et al., 2012]: Using a medical thesaurus to predict query difficulty. European Conference on Information Retrieval. Springer, Berlin, Heidelberg, 2012.
+[Cartright et al., 2011]: Intentions and attention in exploratory health search. Proceedings of the 34th international ACM SIGIR conference on Research and development in Information Retrieval. ACM, 2011.
+[Chiu et al., 2016]: How to train good word embeddings for biomedical NLP. Proceedings of the 15th Workshop on Biomedical Natural Language Processing. 2016.
+[Choi et al., 2016]: Learning low-dimensional representations of medical concepts. AMIA Summits on Translational Science Proceedings 2016 (2016): 41.
+[Dalton et al., 2014]: Entity query feature expansion using knowledge base links. Proceedings of the 37th international ACM SIGIR conference on Research & development in information retrieval. ACM, 2014.
+[De Vine et al., 2014]: Medical semantic similarity with a neural language model. Proceedings of the 23rd ACM international conference on conference on information and knowledge management. ACM, 2014.
+[Del Fiol et al., 2014]: Clinical questions raised by clinicians at the point of care: a systematic review. JAMA internal medicine 174.5 (2014): 710-718.
+[Edinger et al., 2012]: Barriers to retrieving patient information from electronic health record data: failure analysis from the TREC medical records track. AMIA annual symposium proceedings. Vol. 2012. American Medical Informatics Association, 2012.
+[Ellsworth et al., 2015]: Point-of-care knowledge-based resource needs of clinicians: a survey from a large academic medical center. Applied clinical informatics 6.2 (2015): 305.
+[Ely et al., 2000]: A taxonomy of generic clinical questions: classification study. Bmj 321.7258 (2000): 429-432.
+[Eysenbach&Köhler, 2002]: How do consumers search for and appraise health information on the world wide web? Qualitative study using focus groups, usability tests, and in-depth interviews." Bmj 324.7337 (2002): 573-577.
+[Fox&Duggan, 2013]: Health online 2013. Pew Internet & American Life Project 1 (2013).
+[Glicksberg et al., 2018]: Automated disease cohort selection using word embeddings from Electronic Health Records. Pac Symp Biocomput. Vol. 23. 2018.
+[Harkema et al., 2009]: ConText: an algorithm for determining negation, experiencer, and temporal status from clinical reports. Journal of biomedical informatics 42.5 (2009): 839-851.
+[Haynes, 2007]: Of studies, syntheses, synopses, summaries, and systems: the “5S” evolution of information services for evidence-based health care decisions.  Evidence-based nursing 10.1 (2007): 6-7.
+[Hersh, 2005]: Report on the TREC 2004 genomics track. ACM SIGIR Forum. Vol. 39. No. 1. ACM, 2005.
+[Hersh&Bhupatiraju, 2003]: TREC genomics track overview. TREC. Vol. 2003. 2003.
+[Hersh et al., 2006]: Enhancing access to the Bibliome: the TREC 2004 Genomics Track. Journal of Biomedical Discovery and Collaboration 1.1 (2006): 3.
+[Hersh&Hickam, 1995]: Information retrieval in medicine: the SAPHIRE experience. Journal of the American Society for Information Science 46.10 (1995): 743-747.
+[Hoogendam et al., 2008]: Answers to questions posed during daily patient care are more likely to be answered by UpToDate than PubMed. Journal of medical Internet research 10.4 (2008).
+[Hutchinson et al., 2016]: Examining the reading level of internet medical information for common internal medicine diagnoses. The American journal of medicine 129.6 (2016): 637-639.
+[Jimmy et al., 2018]: Choices in knowledge-base retrieval for consumer health search. European Conference on Information Retrieval. Springer, 2018.
+[Kanoulas et al., 2017]: CLEF 2017 technologically assisted reviews in empirical medicine overview. CEUR Workshop Proceedings. Vol. 1866. 2017.
+[Karimi et al., 2018]: A2A: Benchmark Your Clinical Decision Support Search. (2018).
+[Koopman et al., 2012]: Graph-based concept weighting for medical information retrieval. Proceedings of the Seventeenth Australasian Document Computing Symposium. ACM, 2012.
+[Koopman 2014]: Semantic search as inference: applications in health informatics. Queensland University of Technology, 2014.
+[Koopman et al., 2016] Information retrieval as semantic inference: A graph inference model applied to medical search. Information Retrieval Journal 19.1-2 (2016): 6-37.
+[Koopman&Zuccon, 2016]: A test collection for matching patients to clinical trials. Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval. ACM, 2016.
+[Koopman et al., 2017]: What makes an effective clinical query and querier?. Journal of the Association for Information Science and Technology 68.11 (2017): 2557-2571.
+[Koopman et al., 2017 b]: Task-oriented search for evidence-based medicine. International Journal on Digital Libraries (2017): 1-13.
+[Koopman et al., 2017 c]: Generating clinical queries from patient narratives: A comparison between machines and humans. Proceedings of the 40th international ACM SIGIR conference on Research and development in information retrieval. ACM, 2017.
+[Lau&Coiera, 2006]: A Bayesian model that predicts the impact of Web searching on decision making. Journal of the American Society for Information Science and Technology 57.7 (2006): 873-880.
+[Lau&Coiera, 2007]: Do people experience cognitive biases while searching for information?. Journal of the American Medical Informatics Association 14.5 (2007): 599-608.
+[Lau&Coiera, 2009]: Can cognitive biases during consumer health information searches be reduced to improve decision making?. Journal of the American Medical Informatics Association 16.1 (2009): 54-65.
+[Limsopatham et al., 2013]: Inferring conceptual relationships to improve medical records search. Proceedings of the 10th conference on open research areas in information retrieval. 2013.
+[Limsopatham et al., 2013b]: Learning to selectively rank patients' medical history. Proceedings of the 22nd ACM international conference on Conference on information & knowledge management. ACM, 2013.
+[Limsopatham et al., 2013c]: Learning to combine representations for medical records search. Proceedings of the 36th international ACM SIGIR conference on Research and development in information retrieval. ACM, 2013.
+[Limsopatham et al., 2015]: Modelling the usefulness of document collections for query expansion in patient search. Proceedings of the 24th ACM International on Conference on Information and Knowledge Management. ACM, 2015.
+[Lioma et al., 2017]: Evaluation Measures for Relevance and Credibility in Ranked Lists. Proceedings of the ACM SIGIR International Conference on Theory of Information Retrieval. ACM, 2017.
+[Liu et al., 2016]: Constraining word embeddings by prior knowledge–application to medical information retrieval. Asia information retrieval symposium. Springer, 2016.
+[Magrabi et al., 2005]: General practitioners’ use of online evidence during consultations. International journal of medical informatics 74.1 (2005): 1-12.
+[Marshall et al., 2015]: RobotReviewer: evaluation of a system for automatically assessing bias in clinical trials. Journal of the American Medical Informatics Association 23.1 (2015): 193-201.
+[Martinez et al., 2014]: Improving search over Electronic Health Records using UMLS-based query expansion through random walks. Journal of biomedical informatics 51 (2014): 100-106.
+[McBride et al., 2012]: Using Australian medicines terminology (AMT) and SNOMED CT-AU to better support clinical research. Health Informatics Conference. 2012.
+[McDaid&Park, 2010]: Online health: untangling the web. BUPA (2010).
+[McGowan&Sampson, 2005]: Systematic reviews need systematic searchers. Journal of the Medical Library Association 93.1 (2005): 74.
+[McKibbon et al, 2006]: Effectiveness of clinician-selected electronic information resources for answering primary care physicians' information needs. Journal of the American Medical Informatics Association 13.6 (2006): 653-659.
+[Meats et al., 2007]: Using the Turning Research Into Practice (TRIP) database: how do clinicians really search?. Journal of the Medical Library Association 95.2 (2007): 156.
+[Meij et al., 2010]: Conceptual language models for domain-specific retrieval. Information Processing & Management 46.4 (2010): 448-469.
+[Metzler&Croft, 2005]: A Markov random field model for term dependencies. Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval. ACM, 2005.
+[Mirhosseini et al., 2014]: Medical free-text to concept mapping as an information retrieval problem. Proceedings of the 2014 Australasian Document Computing Symposium. ACM, 2014.
+[Muller et al., 2010]: Image-CLEF: Experimental evaluation in visual information retrieval series. The information retrieval series, Springer (2010).
+[Natarajan et al., 2010]: An analysis of clinical queries in an electronic health record search utility. International journal of medical informatics 79.7 (2010): 515-522.
+[Nguyen et al., 2017]: Learning Concept-Driven Document Embeddings for Medical Information Search. Conference on Artificial Intelligence in Medicine in Europe. Springer, 2017.
+[Nguyen et al., 2018]: Benchmarking Clinical Decision Support Search. arXiv preprint arXiv:1801.09322 (2018).
+[Palotti et al., 2015]: CLEF eHealth Evaluation Lab 2015, Task 2: Retrieving Information About Medical Symptoms. CLEF (Working Notes). 2015.
+[Palotti et al., 2016]: How users search and what they search for in the medical domain. Information Retrieval Journal 19.1-2 (2016): 189-224.
+[Palotti et al., 2016 b]: Ranking health web pages with relevance and understandability. Proceedings of the 39th international ACM SIGIR conference on Research and development in information retrieval. ACM, 2016.
+[Palotti et al., 2016 c]: Assessors agreement: A case study across assessor type, payment levels, query variations and relevance dimensions. International conference of the cross-language evaluation forum for European languages. Springer, 2016.
+[Patel et al., 2007]: Matching patient records to clinical trials using ontologies. The Semantic Web. Springer, Berlin, Heidelberg, 2007. 816-829.
+[Pogacar et al., 2017]: The Positive and Negative Influence of Search Results on People's Decisions about the Efficacy of Medical Treatments. Proceedings of the ACM SIGIR International Conference on Theory of Information Retrieval. ACM, 2017.
+[Pyysalo et al., 2013]: Distributional semantics resources for biomedical text processing." Proceedings of the 5th International Symposium on Languages in Biology and Medicine, Tokyo, Japan. 2013.
+[Rains et al., 2009]: Health information-seeking and perceptions of website credibility: Examining Web-use orientation, message characteristics, and structural features of websites. Computers in Human Behavior 25.2 (2009): 544-553.
+[Ravindran&Gauch, 2004]: Exploiting hierarchical relationships in conceptual search. Proceedings of the thirteenth ACM international conference on Information and knowledge management. ACM, 2004.
+[Rindflesch&Fiszman, 2003]: The interaction of domain knowledge and linguistic structure in natural language processing: interpreting hypernymic propositions in biomedical text. Journal of biomedical informatics 36.6 (2003): 462-477.
+[Roberts et al., 2015]: Overview of the TREC 2015 Clinical Decision Support Track. TREC. 2015.
+[Roberts et al., 2016]: State-of-the-art in biomedical literature retrieval for clinical cases: a survey of the TREC 2014 CDS track. Information Retrieval Journal 19.1-2 (2016): 113-148.
+[Roberts et al., 2017]: Overview of the TREC 2017 precision medicine track. TREC (2017).
+[Savova et al., 2010]: Mayo clinical Text Analysis and Knowledge Extraction System (cTAKES): architecture, component evaluation and applications. Journal of the American Medical Informatics Association 17.5 (2010): 507-513.
+[Sbaffi&Rowley, 2017]: Trust and credibility in web-based health information: a review and agenda for future research. Journal of medical Internet research 19.6 (2017).
+[Scells et al., 2017]: A test collection for evaluating retrieval of studies for inclusion in systematic reviews. Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval. ACM, 2017.
+[Scells et al., 2017b]: Integrating the framing of clinical questions via PICO into the retrieval of medical literature for systematic reviews. Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.
+[Scells&Zuccon, 2018]: Generating Better Queries for Systematic Reviews. Proceedings of the 41st International ACM SIGIR Conference on Research and Development in Information Retrieval. ACM, 2018.
+[Scells et al., 2018]: Query Variation Performance Prediction for Systematic Reviews. Proceedings of the 41st International ACM SIGIR Conference on Research and Development in Information Retrieval. ACM, 2018.
+[Scullard et al., 2010]: Googling children's health: reliability of medical advice on the internet. Archives of disease in childhood 95.8 (2010): 580-582.
+[Schwartz et al., 2006]: Family medicine patients’ use of the Internet for health information: a MetroNet study. The Journal of the American Board of Family Medicine 19.1 (2006): 39-45.
+[Simpson et al, 2014]: Overview of the TREC 2014 Clinical Decision Support Track. TREC, 2014.
+[Soldaini et al., 2015]: Retrieving medical literature for clinical decision support. European conference on information retrieval. Springer, 2015.
+[Soldaini et al., 2016]: Enhancing web search in the medical domain via query clarification. Information Retrieval Journal 19.1-2 (2016): 149-173.
+[Soldaini&Goharian, 2016]: Quickumls: a fast, unsupervised approach for medical concept extraction. MedIR workshop, SIGIR. 2016.
+[Soldaini et al., 2017]: Learning to reformulate long queries for clinical decision support. Journal of the Association for Information Science and Technology 68.11 (2017): 2602-2619.
+[Soldaini et al., 2017 b]: Denoising Clinical Notes for Medical Literature Retrieval with Convolutional Neural Model. Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. ACM, 2017.
+[Soldaini&Goharian, 2017]: Learning to rank for consumer health search: a semantic approach. European Conference on Information Retrieval. Springer, 2017.
+[Stanton et al., 2014]: Circumlocution in diagnostic medical queries. Proceedings of the 37th international ACM SIGIR conference on Research & development in information retrieval. ACM, 2014.
+[Tamine et al., 2015]: Analysis of biomedical and health queries: Lessons learned from TREC and CLEF evaluation benchmarks. Journal of the Association for Information Science and Technology 66.12 (2015): 2626-2642.
+[Tamine&Chouquet, 2017]: On the impact of domain expertise on query formulation, relevance assessment and retrieval performance in clinical settings. Information Processing & Management 53.2 (2017): 332-350.
+[Toms&Latter, 2007]: How consumers search for health information. Health informatics journal 13.3 (2007): 223-235.
+[Voorhees&Hersh, 2012]: Overview of the TREC 2012 Medical Records Track. TREC. 2012.
+[Voorhees, 2013]: The TREC medical records track. Proceedings of the International Conference on Bioinformatics, Computational Biology and Biomedical Informatics. ACM, 2013.
+[Wang&Akella, 2015]: Concept-based relevance models for medical and semantic information retrieval. Proceedings of the 24th ACM International on Conference on Information and Knowledge Management. ACM, 2015.
+[Westbrook et al., 2005]: The impact of an online evidence system on confidence in decision making in a controlled setting." Medical Decision Making 25.2 (2005): 178-185.
+[White&Horvitz, 2009]: Cyberchondria: studies of the escalation of medical concerns in web search. ACM Transactions on Information Systems (TOIS) 27.4 (2009): 23.
+[White, 2013]: Beliefs and biases in web search. Proceedings of the 36th international ACM SIGIR conference on Research and development in information retrieval. ACM, 2013.
+[Zeng et al., 2004]: Positive attitudes and failed queries: an exploration of the conundrums of consumer health information retrieval." International journal of medical informatics 73.1 (2004): 45-55.
+[Zeng et al, 2006]: Assisting consumer health information retrieval with query recommendations." Journal of the American Medical Informatics Association 13.1 (2006): 80-90.
+[Zhang et al., 2015]: Quality of health information for consumers on the web: a systematic review of indicators, criteria, tools, and evaluation results. Journal of the Association for Information Science and Technology 66.10 (2015): 2071-2084.
+[Zhang et al., 2014]: Multidimensional relevance modeling via psychometrics and crowdsourcing. Proceedings of the 37th international ACM SIGIR conference on Research & development in information retrieval. ACM, 2014.
+[Zhu&Carterette, 2012]: Combining multi-level evidence for medical record retrieval. Proceedings of the 2012 international workshop on Smart health and wellbeing. ACM, 2012.
+[Zhu&Carterette, 2012 b]: Improving health records search using multiple query expansion collections. 2012 IEEE International Conference on Bioinformatics and Biomedicine. IEEE, 2012.
+[Zhu et al., 2014]: Using large clinical corpora for query expansion in text-based cohort identification. Journal of biomedical informatics 49 (2014): 275-281.
+[Zuccon et al., 2012]: Exploiting medical hierarchies for concept-based information retrieval. Proceedings of the Seventeenth Australasian Document Computing Symposium. ACM, 2012.
+[Zuccon et al., 2015]: Diagnose this if you can. European Conference on Information Retrieval. Springer, 2015.
+[Zuccon et al., 2015, b]: Integrating and evaluating neural word embeddings in information retrieval. Proceedings of the 20th Australasian document computing symposium. ACM, 2015.
+[Zuccon, 2016]: Understandability biased evaluation for information retrieval. European Conference on Information Retrieval. Springer, 2016.
+[Zuccon et al., 2016]: The IR Task at the CLEF eHealth evaluation lab 2016: user-centred health information retrieval. CLEF 2016-Conference and Labs of the Evaluation Forum. Vol. 1609. 2016.
