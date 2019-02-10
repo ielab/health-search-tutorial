@@ -30,7 +30,7 @@ Now we need two docker images: one for elastic and the other for this tutorial.
 
 `git clone -b wsdm2019 https://github.com/ielab/health-search-tutorial.git wsdm2019-health-search-tutorial`
 
-5) Install the required python libraries
+5) Install the required python3 libraries (please use python3 v3.x)
 
 `pip3 install -r requirements.txt`
 
@@ -62,7 +62,7 @@ File | Description
 `docs` | 500 sample clinical trial documents in plain text
 `index_docs.py` | Script to take annotated documents and index in Elastic; see `index_docs.py -h` for details
 `qrels-clinical_trials.txt` | Qrels for the test query topics and docs.
-`requirements.txt` | List of python dependecies.
+`requirements.txt` | List of python3 dependecies.
 `search_docs.py` | Script for searching with Elastic; see `search_docs.py -h` for details.
 
 ### Step 1 - View some documents
@@ -83,7 +83,7 @@ This will start a REST service on [http://localhost:5000](http://localhost:5000)
 
 Then lets do a test to identify some medical concepts from the phases "Family history of lung cancer". Run:
 
-`python concept_annotator.py "Heart attack"`
+`python3 concept_annotator.py "Heart attack"`
 
 You should see some JSON returns with concepts identified; e.g.:
 
@@ -91,7 +91,7 @@ You should see some JSON returns with concepts identified; e.g.:
 
 Now we will use the same script to annotated all the documents in `docs`:
 
-`python concept_annotator.py -d docs`
+`python3 concept_annotator.py -d docs`
 
 This will annotated each document and write the output to `annotated_docs` as individual JSON file. 
 
@@ -127,7 +127,7 @@ Return to your tutorial docker shell.
 
 Now we want to index all the annotated documents to Elastic:
 
-`python index_docs.py -d annotated_docs`
+`python3 index_docs.py -d annotated_docs`
 
 This process will take each JSON document in `annoted_docs` and submit to Elatic search.
 
@@ -147,7 +147,7 @@ Have a play with various searching by setting `q=queryterm`; e.g., to search for
 
 To run a search and get a results in TREC format run:
 
-`python search_docs.py "heart attack"` (remember the quotes for query term)
+`python3 search_docs.py "heart attack"` (remember the quotes for query term)
 
 This will produce a ranked list in trec_eval format.
 
@@ -156,7 +156,7 @@ This will produce a ranked list in trec_eval format.
 
 We can also search using concepts. First, let's get the concepts covering the above "heart attack" example:
 
-`python concept_annotator.py "heart attack"`. This gives a list of mapped concepts: e.g., 
+`python3 concept_annotator.py "heart attack"`. This gives a list of mapped concepts: e.g., 
 
 ```
 C0027051:	heart attack
@@ -164,21 +164,21 @@ C0027051:	heart attack
 
 Now we can use those concepts to search via concepts:
 
-`python search_docs.py "C0027051"`
+`python3 search_docs.py "C0027051"`
 
-Heart attack is more technical referred to as "myocardial infarction"; if we map this to concepts (`python search_docs.py "myocardial infarction"`) we get the same concept (C0027051) as "heart attack". Thus we also get the same search results for the two.
+Heart attack is more technical referred to as "myocardial infarction"; if we map this to concepts (`python3 search_docs.py "myocardial infarction"`) we get the same concept (C0027051) as "heart attack". Thus we also get the same search results for the two.
 
 ### Step 5 - Comparing Term and Concept searching
 
 Now we want to understand a bit about how different search can be done. Let us look at some concept-based searches. First, lets run some annotation to understand different medical concepts:
 
-**Case 1**: `python concept_annotator.py "metastatic breast cancer"` gives us:
+**Case 1**: `python3 concept_annotator.py "metastatic breast cancer"` gives us:
 
 `{'C0278488': 'metastatic breast cancer'}`
 
 But
 
-**Case 2**: `python concept_annotator.py "breast cancer"` gives us
+**Case 2**: `python3 concept_annotator.py "breast cancer"` gives us
 
 `{'C0006142': 'Breast cancer', 'C0678222': 'Breast cancer'}`
 
@@ -186,10 +186,10 @@ Notice the different medical concepts.
 
 Now let's look at how this affects search:
 
-* Searching for case 1 `python search_docs.py  "C0278488"` yields 6 results.
-* Searching for case 2 `python search_docs.py "C0006142 C0678222"` yields 9 different results.
-* Searching for the original text of case 1 `python search_docs.py "metastatic breast cancer"` yields 108 different results.
-* Searching for the original text of case 2 `python search_docs.py "breast cancer"` yields 104 different results.
+* Searching for case 1 `python3 search_docs.py  "C0278488"` yields 6 results.
+* Searching for case 2 `python3 search_docs.py "C0006142 C0678222"` yields 9 different results.
+* Searching for the original text of case 1 `python3 search_docs.py "metastatic breast cancer"` yields 108 different results.
+* Searching for the original text of case 2 `python3 search_docs.py "breast cancer"` yields 104 different results.
 
 We leave you now to experiment and discuss different search options and what impact they may have.
 
@@ -197,13 +197,13 @@ We leave you now to experiment and discuss different search options and what imp
 
 We have also provided a set of query topics to use in `adhoc-queries.json`. Note that this is a special test collection we developed of clinical trials; it has multiple query variations, provided by different doctors, for a single query topic. To do a search using these topics run:
 
-`python search_docs.py -f adhoc-queries.json`
+`python3 search_docs.py -f adhoc-queries.json`
 
 Note, because there are multiple query variations for a topic, the script currently just selects the first variation runs that. The the `-v` flag and specify a particular variation (e.g., `-v 1` for the second variation; `0` being the first). Differing results highlights some of issues in query variation in health search.
 
 Run the script again but this time pipe the output to a results file:
 
-`python search_docs.py -f adhoc-queries.json > trec_results.txt`
+`python3 search_docs.py -f adhoc-queries.json > trec_results.txt`
 
 We can now use the qrels to evaluate our system using trec_eval:
 
@@ -212,7 +212,7 @@ We can now use the qrels to evaluate our system using trec_eval:
 
 Now have a look at the concept version of the queries:
 
-`python search_docs.py -f adhoc-queries-concepts.json > trec_results-concepts.txt`
+`python3 search_docs.py -f adhoc-queries-concepts.json > trec_results-concepts.txt`
 
 and evaluate
 
