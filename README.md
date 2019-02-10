@@ -51,7 +51,7 @@ The main aims of HS2018 will be to:
 This knowledge will allow IR researchers to identify promising ways of applying their work to the health domain, allowing them to contribute to a domain of rapidly growing importance.
 
 
-## Format and Schedule
+## Format and Schedule (SIGIR 2018)
 
 ### Session 1: Background & Theory
 
@@ -117,6 +117,65 @@ There are many open problems in health search which are fertile ground for infor
 * searching within a patient record to obtain an overview of someones medical history. This part of the tutorial briefly presents some of the areas of medicine and consumer-health experience that have a potential to be improved through the use of IR techniques, leading to a discussion with the participants on meeting these challenges.
 
 *Duration: 40m*
+
+
+
+
+## Format and Schedule (WSDM 2019)
+
+### Session 1: Background & Theory
+
+#### Introduction to the health domain and to the tutorial
+
+The tutorial begins with an introduction to IR in health, giving an overview of the topics that will be covered in the tutorial and why they are important.
+
+#### Types of health information
+
+Health information comes in a myriad of forms.  is section covers the characteristics of di erent types of health information sources important for health search.  ese range from patient-based information (e.g., electronic health records), knowledge-based information (e.g., scienti c papers), through to consumer-based information (e.g., patient forums on the web). Also included are sources of domain knowledge such as medical ontologies, terminologies and classi cation systems, all of which are playing an increasingly important role in state-of-the-art IR systems.
+
+
+#### End users and tasks
+An analysis of the end user (from consumer to clinician) characteristics and tasks in health search is presented. Some groups of end users are addressed, and the information needs and search tasks they undertake are described. For example, the group of ``physicians'' can be divided into groups ranging from general practitioners operating from individual practices who require practice-oriented secondary literature, through specialists in a medical domain who wish to access more specialised works in this domain, to research physicians who have an interest in the primary literature. 
+
+
+
+### Session 2+3: Techniques and methods (part 1 & 2)
+
+#### Methods in health search
+
+This section covers the state-of-the-art in health search, summarising the most important research methods and results in this area with respect to the different tasks discussed in the previous session and highlighting common trends across tasks. 
+ 
+This session will cover methods across different health search tasks, including: query expansion and reformulation, use of domain knowledge and inference mechanisms, learning to rank and other learning methods, task-based information, and specifically handling clinical text. We provide examples of health search systems already in use and lessons that can be drawn from their use.
+
+#### Use of clinical NLP tools for medical IR: Hands-on session on tools for medical IR
+
+The clinical informatics and clinical natural language processing community have developed a number of tools for extracting clinical information free text. For example, statistical and dictionary-based named entity recognition systems have been developed to identify medical entities; algorithms have been developed to extract associations, relationships and contexts and to enhance textual content with semantic information.
+
+This part of the tutorial presents an overview of such techniques, providing a hands-on demonstration of how these tools work. In addition, the tutorial provides an outlook at how these tools have been used in the literature or can be integrated to enhance information representation and the whole information retrieval process.
+
+**All details for the hands on session are at:**
+
+[https://github.com/ielab/health-search-tutorial/tree/master/hands-on](https://github.com/ielab/health-search-tutorial/tree/master/hands-on).
+
+
+### Session 4: Evaluation and future directions
+
+#### Evaluation
+
+The tasks and challenges in evaluating health search are covered in this section. Evaluation that considers multiple dimensions of relevance (topicality, reliability, understandability, bias) is presented.  We touch on new frameworks to evaluate systems based on task completion rather than relevance. Evaluation campaigns and resources in this domain are presented, including TREC Medical Records Track, TREC Clinical Decision Support Track, CLEF eHealth (consumer health search and as of 2018 search systems for the compilation of systematic reviews), i2b2 Shared Task Challenges, ALTA Shared Task (Query-based summarisation for evidence-based medicine), clinical trial retrieval, and the use of ICD coded data as an automated relevance judgement mechanism.
+
+
+#### Open challenges for health search and conclusions (including discussion)
+
+There are many open problems in health search which are fertile ground for information retrieval (IR) research. Examples include: 
+
+* searching for "similar" anonymised patient records or "similar" medical images within a hospital to assist in diagnosis or treatment; 
+* linking treatment guidelines to patient records based on their content; 
+* searching within a patient record to obtain an overview of someones medical history. This part of the tutorial briefly presents some of the areas of medicine and consumer-health experience that have a potential to be improved through the use of IR techniques, leading to a discussion with the participants on meeting these challenges.
+
+
+
+
 
 ## Presenters Bios
 
