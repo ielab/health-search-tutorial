@@ -44,9 +44,9 @@ In the task you will:
 2. Index these documents in Elastic with multi term/concepts fields.
 3. Search Elastic with either term or concept, demonstrating semantic search capabilities.
 
+******************
 
-
-## Tutorial tasks
+## Tutorial Activity 1
 
 
 ### Files provided
@@ -102,6 +102,11 @@ Now, take a look in some files (e.g., `less annotated_docs/NCT02631304.json`) an
 * `cuis` contained the UMLS concept ids for concepts found in the text; and 
 * `concepts` containing the umls concepts names.
 
+
+******************
+
+
+## Tutorial Activity 2
 
 ### Step 3 - Indexing with Elastic Search
 
