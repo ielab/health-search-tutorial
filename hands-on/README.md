@@ -83,11 +83,11 @@ This will start a REST service on [http://localhost:5000](http://localhost:5000)
 
 Then lets do a test to identify some medical concepts from the phases "Family history of lung cancer". Run:
 
-`python concept_annotator.py "Family history of lung cancer"`
+`python concept_annotator.py "Heart attack"`
 
 You should see some JSON returns with concepts identified; e.g.:
 
-```{'C0260515': 'Family history of cancer', 'C0728711': 'Family history of lung cancer'}```
+```C0027051:	Heart attack```
 
 Now we will use the same script to annotated all the documents in `docs`:
 
@@ -133,7 +133,7 @@ This process will take each JSON document in `annoted_docs` and submit to Elatic
 
 You can check the indexed docs by searching for all docs in your browser as:
 
-[http://localhost:9200/sigir-health-search/_search?pretty](http://localhost:9200/sigir-health-search/_search?pretty)
+[http://localhost:9200/wsdm-health-search/_search?pretty](http://localhost:9200/wsdm-health-search/_search?pretty)
 
 You'll see the documents have been indexed with the three fields.
 
@@ -141,7 +141,7 @@ You'll see the documents have been indexed with the three fields.
 
 Have a play with various searching by setting `q=queryterm`; e.g., to search for "cancer"
 
-[http://localhost:9200/sigir-health-search/_search?q=cancer&pretty](http://localhost:9200/sigir-health-search/_search?q=lung&pretty)
+[http://localhost:9200/wsdm-health-search/_search?q=cancer&pretty](http://localhost:9200/wsdm-health-search/_search?q=lung&pretty)
 
 #### Term searching
 
@@ -166,7 +166,7 @@ C1306460:	"Lung cancer" (Primary malignant neoplasm of lung)
 
 Now we can use those concepts to search via concepts:
 
-`python search_docs.py "C0242379 C0242379 C1306460"`
+`python search_docs.py "C0242379 C0684249 C1306460"`
 
 
 
@@ -205,9 +205,9 @@ Notice the different medical concepts.
 
 Now let's look at how this affects search:
 
-* Searching for case 1 `python search_docs.py -q "C0278488"` yields 5 results.
-* Searching for case 2 `python search_docs.py -q "C0006142 C0006142"` yields 8 different results.
-* Searching for the original text of case 1 `python search_docs.py -q "metastatic breast cancer"` yields 107 different results.
-* Searching for the original text of case 2 `python search_docs.py -q "breast cancer"` yields 103 different results.
+* Searching for case 1 `python search_docs.py  "C0278488"` yields 6 results.
+* Searching for case 2 `python search_docs.py "C0006142 C0678222"` yields 9 different results.
+* Searching for the original text of case 1 `python search_docs.py "metastatic breast cancer"` yields 108 different results.
+* Searching for the original text of case 2 `python search_docs.py "breast cancer"` yields 104 different results.
 
 We leave you now to experiment and discuss different search options and what impact they may have.

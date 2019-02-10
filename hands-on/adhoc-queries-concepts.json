@@ -1,0 +1,3891 @@
+[
+    {
+        "description": "A 58-year-old African-American woman presents to the ER with episodic pressing/burning anterior chest pain that began two days earlier for the first time in her life. The pain started while she was walking, radiates to the back, and is accompanied by nausea, diaphoresis and mild dyspnea, but is not increased on inspiration. The latest episode of pain ended half an hour prior to her arrival. She is known to have hypertension and obesity. She denies smoking, diabetes, hypercholesterolemia, or a family history of heart disease. She currently takes no medications. Physical examination is normal. The EKG shows nonspecific changes.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician C"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0376636 C0746890",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0376636 C0746890",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0376636 C0746890",
+                "order": 3,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0376636 C0746890 C0028754",
+                "order": 4,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0028754 C1963185",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0028754 C1963185 C0151744",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0008031 C2926613 C0018792",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0020538 C1963138 C1696708 C2748577 C0947663 C1696708",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0020538 C1963138 C0020538 C3248638 C0947663 C0020538 C0085580 C0455405 C1696708 C3829824 C0151744",
+                "order": 6,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0020538 C1963138 C0020538 C3248638 C0947663 C0020538 C0085580 C0455405 C1696708 C3829824 C0008031 C0028754 C1963185",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C0008031 C0004604 C1963071 C0004604 C0038990 C0085624 C0027497",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0001645 C0002962 C2024883 C0002962 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0006684 C0872271 C0358701 C0573229 C0002962 C2024883 C0002962 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0002962 C2024883 C0002962 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0340288 C0002965 C0001645 C0018792",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0006684 C0872271 C0358701 C0573229 C0340288 C0002965 C0018792",
+                "order": 6,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0340288 C0002965 C0018792",
+                "order": 7,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-1",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "An 8-year-old male presents in March to the ER with fever up to 39 C, dyspnea and cough for 2 days. He has just returned from a 5 day vacation in Colorado. Parents report that prior to the onset of fever and cough, he had loose stools. He denies upper respiratory tract symptoms. On examination he is in respiratory distress and has bronchial respiratory sounds on the left. A chest x-ray shows bilateral lung infiltrates.",
+        "expected": [
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C1708063 C0009400",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0280004 C0009400 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788 C0683525",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0009450 C2735089 C0455459 C0042769 C0275518 C0275524 C0497442 C1264609 C0009450 C2362625",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0015967 C0424755 C0015967 C0018792",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0011991 C0018792",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0017160 C0948037",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0003232 C0003232 C0377919 C0003237 C3540704 C3540705 C3540706 C3540707 C3540708 C3540709 C3540710 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0015967 C0424755 C0015967 C0010200 C1961131 C3815497 C0010200 C0225386",
+                "order": 1,
+                "person": "Clinician C"
+            }
+        ],
+        "qId": "trec2014-2",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 58-year-old nonsmoker white female with mild exertional dyspnea and occasional cough is found to have a left lung mass on chest x-ray. She is otherwise asymptomatic. A neurologic examination is unremarkable, but a CT scan of the head shows a solitary mass in the right frontal lobe.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 25,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician C"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0006118 C0339510 C1328685",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0006118 C0392920 C3665472 C0013216 C0392920 C3665472 C0580690 C0013218 C2717829 C0543467 C1457907 C2081627 C1947944 C1522449 C1522449 C1524020 C1963223 C1328685",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0027853 C0006118 C0700325",
+                "order": 3,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0016733 C0016733 C0153635 C1268977 C0162783 C0018792",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0242379 C0684249 C0242379 C0242379 C0684249 C1306460",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0149726 C1561593",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0577559 C2136992 C0039985",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0149726 C0039985",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0034079 C0748164 C0229749 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C2350019 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0149726 C1561593 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0149726",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C0149726 C0010200 C0687152 C0013404 C1830531",
+                "order": 2,
+                "person": "Clinician C"
+            }
+        ],
+        "qId": "trec2014-3",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 2-year-old boy is brought to the emergency department by his parents for 5 days of high fever and irritability. The physical exam reveals conjunctivitis, strawberry tongue, inflammation of the hands and feet, desquamation of the skin of the fingers and toes, and cervical lymphadenopathy with the smallest node at 1.5 cm. The abdominal exam demonstrates tenderness and enlarged liver. Laboratory tests report elevated alanine aminotransferase, white blood cell count of 17,580/mm, albumin 2.1 g/dL, C-reactive protein 4.5 mg, erythrocyte sedimentation rate 60 mm/h, mild normochromic, normocytic anemia, and leukocytes in urine of 20/mL with no bacteria identified. The echocardiogram shows moderate dilation of the coronary arteries with possible coronary artery aneurysm.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0036285 C1966209",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0036285 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0026691 C1096775",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0026691",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0026691 C1096775",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0026691",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0241262 C1096775 C0009763 C1096627 C1444633 C0861155 C1444602 C0019209 C0015967 C0424755 C0015967 C0018563 C0016504",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0241262 C1096775 C0009763 C1096627 C1444633 C0861155 C1444602 C0019209 C0003842 C0015967 C0424755 C0015967 C0018563 C0016504",
+                "order": 2,
+                "person": "Clinician C"
+            }
+        ],
+        "qId": "trec2014-4",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 56-year-old female on 20th day post-left mastectomy presents to the emergency department complaining of shortness of breath and malaise. The patient says that she has remained in bed for the last two weeks. The physical examination reveals tenderness on the left upper thoracic wall and right calf. The surgical incision shows no bleeding or signs of infection. Pulmonary auscultation is significant for bilateral decreased breath sounds, especially at the right base. Laboratory tests reveal an elevated D-dimer.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0018792",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0034065 C1966209",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0018792 C0030201",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0543467 C1457907 C2081627",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1096775 C0024109 C2707265",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0241311 C1096775 C0024109 C2707265",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0034065 C0455537 C1096775 C0019134 C0770546 C0019134",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0019139",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0238844 C0238845 C0013404 C2707305 C0013404 C4054349 C0013404 C1096775 C0024881 C0024886 C0191849 C1546422",
+                "order": 1,
+                "person": "Clinician C"
+            }
+        ],
+        "qId": "trec2014-5",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "64-year-old obese female with diagnosis of diabetes mellitus and persistently elevated HbA1c. She is reluctant to see a nutritionist and is not compliant with her diabetes medication or exercise. She complains of a painful skin lesion on the left lower leg. She has tried using topical lotions and creams but the lesion has increased in size and is now oozing.",
+        "expected": [
+            {
+                "expected": 100,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0011849 C0011860 C0011847 C0011849 C0018792",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0011849 C0011860 C0011847 C0011849 C0018792",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0011849 C0011860 C0011847 C0011849 C0032646 C0018792",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0743150 C0018792",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0743150 C1096775",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0023216 C0023216 C0153665 C1269079 C0041582",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0041582 C0442874",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0411724 C1096775",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0730126 C1096775",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0003232 C0003232 C0003237 C3540704 C3540705 C3540706 C3540707 C3540708 C3540709 C3540710 C0377919 C0041582",
+                "order": 6,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0175726 C1096775",
+                "order": 7,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0406834 C0011847 C0011849 C0011860 C0043240",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0041582 C0041582 C3887532 C0041582 C1963256 C3887532 C0011849 C0011860 C0011847 C0011849",
+                "order": 1,
+                "person": "Clinician A"
+            }
+        ],
+        "qId": "trec2014-6",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 26-year-old obese woman with a history of bipolar disorder complains that her recent struggles with her weight and eating have caused her to feel depressed. She states that she has recently had difficulty sleeping and feels excessively anxious and agitated. She also states that she has had thoughts of suicide. She often finds herself fidgety and unable to sit still for extended periods of time. Her family tells her that she is increasingly irritable. Her current medications include lithium carbonate and zolpidem.",
+        "expected": [
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 6,
+                "person": "Clinician A"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0043094 C2911647 C0043094 C0231246",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0043094 C2911647 C0043094 C0231246 C0026516 C2237119",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0917801 C1950154 C1963237",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0003467 C0860603",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0038661 C0812393 C0038661",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0085217 C0043094 C2911647 C0043094 C0231246",
+                "order": 6,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0043094 C2911647 C0043094 C0231246 C0078839",
+                "order": 7,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0085217 C0879626 C0559546 C0853204",
+                "order": 8,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0879626 C0559546 C0853204 C0078839",
+                "order": 9,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0085217 C0003467 C0860603",
+                "order": 10,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0078839 C0003467 C0860603",
+                "order": 11,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0005586 C0236788 C0005586 C0853193 C0270419 C0024713 C1456308 C2937260 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0085217 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0078839 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0005586 C0005586 C0236788 C1096775 C0085631 C1963060 C0944911 C1305866 C3812400",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C0011570 C0011581 C1999266 C4049644 C0011570 C0011570 C0011581 C0344315 C0812393 C1579931 C0035143 C0011581 C0520887 C2121458 C0085631 C1963060 C0085631 C0078839 C0023870 C0337452 C3540800 C0038661",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0078839 C0023870 C0013227 C1254351 C0037420",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788 C1578513 C0033213 C1706387",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0238242",
+                "order": 3,
+                "person": "Clinician A"
+            }
+        ],
+        "qId": "trec2014-7",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 62-year-old man sees a neurologist for progressive memory loss and jerking movements of the lower extremities. Neurologic examination confirms severe cognitive deficits and memory dysfunction. An electroencephalogram shows generalized periodic sharp waves. Neuroimaging studies show moderately advanced cerebral atrophy. A cortical biopsy shows diffuse vacuolar changes of the gray matter with reactive astrocytosis but no inflammatory infiltration.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician C"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0022336 C2900450 C0376329 C0751254 C1852467 C2062922",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0011265 C0497327 C1457887 C0025260 C0700327 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0333641 C0011265 C0497327 C1457887 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1271100 C1273957 C0011265 C0497327",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0235946 C1096775 C0002622 C0751295 C0026649 C1704276 C1548802 C0015385 C0561942",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C3842923 C0220901",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788 C0683887",
+                "order": 2,
+                "person": "Clinician A"
+            }
+        ],
+        "qId": "trec2014-8",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 43-year-old woman visits her dermatologist for lesions on her neck. On examination, multiple lesions are seen. Each lesion is small soft, and pedunculated. The largest lesion is about 4 mm in diameter. The color of different lesions varies from flesh colored to slightly hyperpigmented.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0221198 C0772294",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0221198 C0772294",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0037293",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0010408 C0010412 C0037293",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0221198 C0221198 C1546698 C0221198 C0027530 C0684335 C1281592",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0037284 C2047128",
+                "order": 1,
+                "person": "Clinician A"
+            }
+        ],
+        "qId": "trec2014-9",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A physician is called to see a 67-year-old woman who underwent cardiac catheterization via the right femoral artery earlier in the morning. She is now complaining of a cool right foot. Upon examination she has a pulsatile mass in her right groin with loss of distal pulses, and auscultation reveals a bruit over the point at which the right femoral artery was entered.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0007430 C0191117 C2025500 C2025504 C0398266 C0770826 C0015811",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0007430 C0191117 C0015811 C0022116",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0015801 C1280173 C0015801 C0226448 C0018787 C0007144 C0153417 C1262603 C0016504 C0007430",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0018787 C0007144 C0153417 C1262603 C0015811 C0018246 C0577559 C2136992 C1096775 C0034107 C0391850 C0007430",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0007430 C0191117 C0015801 C1280173 C0015801 C0226448 C1281581 C0226455 C0023216 C0023216 C0153665 C1269079 C0022116",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0009566 C1171258 C0009566 C0802632 C0161768 C0236167 C1148100 C0543467 C0587668 C0543467 C0003842",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0151942 C1096775",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-10",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 40-year-old woman with no past medical history presents to the ER with excruciating pain in her right arm that had started 1 hour prior to her admission. She denies trauma. On examination she is pale and in moderate discomfort, as well as tachypneic and tachycardic. Her body temperature is normal and her blood pressure is 80/60. Her right arm has no discoloration or movement limitation.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C1096775 C0239377",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0027051 C0027051 C2926063 C0155668 C0428953 C0428953 C0264708 C0155626 C0155668 C1273976 C0746727 C2348362 C0746727 C1168331 C0027051 C0155668 C0455406 C0155668 C0340324 C1998297 C0340312 C0027051 C0340325 C0428950 C2825159 C3816734",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1546844 C2745965 C1546399 C1553500 C0726021 C0038435",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1096775 C0239377 C0036974",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-11",
+        "queryType": "test"
+    },
+    {
+        "description": "A 25-year-old woman presents to the clinic complaining of prolonged fatigue. She denies difficulty sleeping and sleeps an average of 8 hours a night. She also notes hair loss, a change in her voice and weight gain during the previous 6 months. She complains of cold intolerance. On examination she has a prominent, soft, uniform anterior cervical mass at the midline.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0677607",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0005911 C0003564 C1299586 C0015672 C4050243 C0037313 C0723362 C0013144 C0018494",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1708063",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0677607 C0017382 C0599986 C0017382 C0599986 C0017382 C0599986 C3839791",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0020676 C0455486 C1096775",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0677607 C1096775",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0040165 C0040165 C0079691 C0202231 C1281902",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-12",
+        "queryType": "test"
+    },
+    {
+        "description": "A 30-year-old generally healthy woman presents with shortness of breath that had started 2 hours before admission. She has had no health problems in the past besides 2 natural abortions. She had given birth to a healthy child 3 weeks before. On examination, she is apprehensive, tachypneic and tachycardic, her blood pressure is 110/70 and her oxygen saturation 92%. Otherwise, physical examination is unremarkable. Her chest x-ray and CBC are normal.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 15,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0013404 C2707305 C4054349 C0748649 C0013404 C0013404",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0746961 C0523807 C2237091 C0523807 C0013404 C2707305 C0013404 C4054349 C0013404 C1096775",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0032961 C1391387 C3484365 C0036974 C1578513 C3539125",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C2046122",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0034065 C0455537",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-13",
+        "queryType": "test"
+    },
+    {
+        "description": "An 85-year-old man is brought to the ER because of gradual decrease in his level of consciousness. In the last 3 days he stopped walking and eating by himself. He has had no fever, cough, rash or diarrhea. His daughter recalls that he had been involved in a car accident 3 weeks prior to his admission and had a normal head CT at that time.",
+        "expected": [
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 15,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0018946 C0018946 C0238154",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C3263723 C3714660",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1821772 C1096775 C2130179",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0079595",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0018944 C1719822 C3263723 C3714660 C0518505 C0522772 C1548746",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1096775 C0011206",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0011206",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0011206 C0086439",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-14",
+        "queryType": "test"
+    },
+    {
+        "description": "A 36-year-old woman presents to the emergency department with 12 weeks of amenorrhea, vaginal spotting that has increased since yesterday, lower abdominal tenderness, nausea and vomiting. The physical exam reveals overall tender abdomen, 18-week sized uterus, and cervical dilation of 2 cm. The complete blood count and biochemical profile are normal. Point of care pregnancy test with cut-off sensitivity of 25 mIU/ml Beta-HCG is negative. The ultrasound reports enlarged uterus (12 cm x 9 cm x 7 cms) with multiple cystic areas in the interior. The differential diagnosis includes vesicular mole vs fibroid degeneration.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0020217 C0678213 C0020217 C0678213",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0042133",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0020217 C0678213 C0020217 C0678213 C0002453 C2219717 C0025344 C0002453 C2219717 C0042963 C1963281 C0027497 C1963179 C0010709 C0025874 C0312414",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C0002453 C2219717 C0025344 C0002453 C2219717 C0042963 C1963281 C0023267 C0042133 C0027497 C1963179 C0010709 C0025874 C0312414",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0027962 C1456781",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0677962 C0372590 C0372591 C0677962 C1270947 C0879626 C0023267 C0042133 C0023267 C0042133 C0018270 C0220844 C0018270 C0027960 C0027962 C1456781 C3665593 C0011164",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0020217 C1096775",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0020217 C0678213 C0020217 C0678213 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0020217 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0042133 C0011164 C0011164 C0349676 C0333549 C1265857 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0011164 C0011164 C0349676 C0333549 C1265857 C0023267 C0042133 C0018792",
+                "order": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-15",
+        "queryType": "test"
+    },
+    {
+        "description": "A 28-year-old female with neck and shoulder pain and left hand and arm paresthesias three weeks after returning from a trip to California where she attended a stray animal recovery campaign. Her physical exam was unremarkable except for slight tremors and almost imperceptible spasticity. She was prescribed NSAIDS and a topical muscle relaxant. She was brought in to the ER three days later with spastic arm movements, sweating, increasing agitation and anxiety, malaise, difficultly swallowing and marked hydrophobia, and was immediately hospitalized.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 15,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0034494",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0040822 C0446516 C1140618 C3540698",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C0011167 C0740170 C3665547 C0011167 C0740170 C2598159 C0011167 C0522224 C0231218 C0443306 C0446516 C1140618 C0026649 C0221106",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0042205 C0728859 C0042205 C0419723 C0419724 C0419725",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1708063 C0034494 C0042769",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0220901 C0034494 C0042769",
+                "order": 3,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0034494 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-16",
+        "queryType": "test"
+    },
+    {
+        "description": "A 48-year-old white male with history of common variable immunodeficiency (CVID) with acute abdominal pain, fever, dehydration, HR of 132 bpm, BP 80/40. The physical examination is remarkable for tenderness and positive Murphy sign. Abdominal ultrasound shows hepatomegaly and abundant free intraperitoneal fluid. Exploratory laparotomy reveals a ruptured liver abscess, which is then surgically drained. After surgery, the patient is taken to the ICU.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0341444 C0000833",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0009447",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0019209 C0234233 C0684239 C0015967 C0424755 C0015967 C0009447 C0030193",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0220901 C0013687 C0031153 C0496874 C0496954 C3686936",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0013502 C0023884",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0023884 C0009447 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-17",
+        "queryType": "test"
+    },
+    {
+        "description": "A 6-month-old male infant has a urine output of less than 0.2 mL/kg/hr shortly after undergoing major surgery. On examination, he has generalized edema. His blood pressure is 115/80 mm Hg, his pulse is 141/min, and his respirations are 18/min. His blood urea nitrogen is 33 mg/dL, and his serum creatinine is 1.3 mg/dL. Initial urinalysis shows specific gravity of 1.017. Microscopic examination of the urine sample reveals 1 WBC per high-power field (HPF), 18 RBCs per HPF, and 5 granular casts per HPF. His fractional excretion of sodium is 3.3%.",
+        "expected": [
+            {
+                "expected": 1,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0039082 C0206064 C0796095 C0796110 C2936859 C2936904 C0027697",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0018965 C2024161",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0232856 C1287298 C2094175 C2188753 C1287298 C0028961 C2024161",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0028961 C0232856 C1287298 C2094175 C2188753 C1096775",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0035078 C0001623 C1963154 C3267129 C3810103 C1167727 C0543467 C1457907 C2081627 C0028961",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0160420",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0160420 C0543467 C1457907 C2081627 C0876889 C0220644 C0220645",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0160420",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-18",
+        "queryType": "test"
+    },
+    {
+        "description": "A 52-year-old African American man with a history of heavy smoking and drinking, describes progressive dysphagia that began several months ago. He first noticed difficulty swallowing meat. His trouble swallowing then progressed to include other solid foods, soft foods, and then liquids. He is able to locate the point where food is obstructed at the lower end of his sternum. He has lost a total of 25 pounds.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0006826 C1306459 C3842363",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0740339",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0740339 C0001973",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0011168 C3839460",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C1262477 C0424641 C1262477 C2911645 C0041667 C3665346 C1299586 C3842554 C0011168 C0337664",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C1262477 C0424641 C1262477 C2911645 C0041667 C3665346 C1299586 C3842554 C0011168 C0337664 C0006826 C0260515 C0006826",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0001418 C0010631 C0280096 C0334344 C1266063 C0010631 C0152013 C0280096 C0334276 C1176475 C1332257 C0031354 C3665375 C0031354",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0001418 C0010631 C0152013 C0010631 C0280096 C0334344 C1266063 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0014859 C0152018 C0546837 C1112160 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0014859 C0152018 C0546837 C1112160 C0034619 C1384668 C1522449 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0392920 C3665472 C0392920 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-19",
+        "queryType": "test"
+    },
+    {
+        "description": "A 32-year-old woman is admitted to the ER following a car accident. She has sustained multiple injuries including upper and lower extremity fractures. She is fully awake and alert, and she reports that she was not wearing a seat belt. Her blood pressure is 134/74 mm Hg, and her pulse is 87/min. Physical examination reveals a tender abdomen with guarding and rebound in all four quadrants. She has no bowel sounds.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 15,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C1579887",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0000932 C2063147 C1290896",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0016658 C0026771",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0573980 C1579887",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0232696 C0573980",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0573980 C1579887",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1390214 C0265034 C0337196",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1303116 C1303051",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0000727 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0000726 C0230168 C3263723 C3714660 C0018792 C0022116",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-20",
+        "queryType": "test"
+    },
+    {
+        "description": "A 21-year-old female is evaluated for progressive arthralgias and malaise. On examination she is found to have alopecia, a rash mainly distributed on the bridge of her nose and her cheeks, a delicate non-palpable purpura on her calves, and swelling and tenderness of her wrists and ankles. Her lab shows normocytic anemia, thrombocytopenia, a 4/4 positive ANA and anti-dsDNA. Her urine is positive for protein and RBC casts.",
+        "expected": [
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 15,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0024131 C0024138 C0024141 C0409974",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0002170 C0003864 C0003873 C1328469 C1405877 C0003873 C0158026 C0263776 C0541786 C0239521 C0038999 C0015672 C2024893 C0015672",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C0002170 C0003864 C0003873 C1328469 C1405877 C0003873 C0158026 C0263776 C0541786 C0239521 C0038999 C0015672 C2024893 C0015672",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1708063",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0879626 C0087111 C3887704 C0087111 C0376495",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1096775",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0024141 C0024141 C1274832 C0521471 C0409977 C2039683 C0024141 C0521471 C0393968 C0024143 C0393585 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0020336 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0001617 C0001617 C3653466 C3539185 C3540725 C3540726 C3540727 C3536709 C0161508 C0239126 C0239126 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0003211 C0003211 C3536840 C0018792",
+                "order": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-21",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 15-year-old girl presents to the ER with abdominal pain. The pain appeared gradually and was periumbilical at first, localizing to the right lower quadrant over hours. She has had no appetite since yesterday but denies diarrhea. She has had no sexual partners and her menses are regular. On examination, she has localized rebound tenderness over the right lower quadrant. On an abdominal ultrasound, a markedly edematous appendix is seen.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0003615 C0031034",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0003615 C0031034",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0025086 C0872020 C0003615",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0003615 C0001416 C0024205 C0001416 C0024205",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0003615 C0031034 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0003611 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-22",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 63-year-old man presents with cough and shortness of breath. His past medical history is notable for heavy smoking, spinal stenosis, diabetes, hypothyroidism and mild psoriasis. He also has a family history of early onset dementia. His symptoms began about a week prior to his admission, with productive cough, purulent sputum and difficulty breathing, requiring him to use his home oxygen for the past 24 hours. He denies fever. On examination he is cyanotic, tachypneic, with a barrel shaped chest and diffuse rales over his lungs. A chest x-ray is notable for hyperinflation with no consolidation.",
+        "expected": [
+            {
+                "expected": 40,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0743630 C0340044",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0011847 C0011849 C0011860 C0337664 C0010200 C1961131 C3815497 C0010200 C1306645 C1962945 C3891450 C0885876 C1306645 C1167782",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0856696",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0012634 C3887804",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0740304 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0003232 C0003232 C0003237 C3540704 C3540705 C3540706 C3540707 C3540708 C3540709 C3540710 C0377919 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0001617 C0001617 C3653466 C3539185 C3540725 C3540726 C3540727 C3536709 C0161508 C0239126 C0239126 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-23",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 33-year-old male athlete presented to the ER with acute abdominal pain. Family member says the patient fell off his bike a week earlier and suffered blunt trauma to the left hemi-abdomen, and he has had mild abdominal pain since that day. The patient's history is negative for smoking, drugs, and alcohol. BP: 60/30 mmHg, HR: 140/min. The patient is pale, the physical examination of the abdomen revealed muscle contraction and resistance. Emergency ultrasound and CT scan of the abdomen reveal extended intraperitoneal hemorrhage due to spleen rupture.",
+        "expected": [
+            {
+                "expected": 15,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0000727 C0011900 C0945731 C0551521 C0552426 C0560182 C0686906 C0679838 C0686906",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0043253 C0011900 C0945731 C0551521 C0552426 C0560182 C0686906 C0679838 C0686906",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0019080 C0017181",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0337672 C0030193 C1882272 C2598155",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C3203359 C3263723 C0037993 C0153470 C0869677 C1278932 C0030193 C1882272 C2598155 C1561538",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0019080 C0017181 C0220901 C0274281 C0332157 C2220266 C0274281 C0274281 C0332157 C3244072 C0151872 C0151878",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0037995 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788 C3245501 C3245502 C1619636",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0160405 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0038000 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0038000 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0038000 C0543467 C1457907 C2081627 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-24",
+        "queryType": "treatment"
+    },
+    {
+        "description": "An 8-year-old boy fell from his bike striking his left temple on the pavement. There was no immediate loss of consciousness, and a brief examination at the scene noted his pupils were symmetrical, reactive to the light, and he was moving all four limbs. Half an hour after the fall the child became drowsy, pale, and vomited. He was transferred to the emergency department. Upon arrival the heart rate was 52/min, blood pressure of 155/98. The Glasgow Coma Scale (GCS) was 6/15, the pupils were asymmetrical and movement of the right upper and lower extremities was impaired. The neurosurgical team advised deferring the CT scan in favor of initiating immediate treatment.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0018674",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0018674",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1096775 C3263722 C3263723 C0013144 C0034121 C0018670 C0152336",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0018946 C0749098 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018946 C0749098 C0543467 C1457907 C2081627 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018946 C0018946 C0749098 C1390302 C0238154 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-25",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A group of 14 humanitarian service workers is preparing a trip to the Amazon Rainforest region in Brazil. All the members of the group have traveled on multiple occasions and have up-to-date vaccine certificates. Malaria Chemoprophylaxis is indicated but three of the women are in different stages of pregnancy.",
+        "expected": [
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0282515 C2939437 C0282515 C0362063 C0282515 C0032961 C1391387 C3484365 C0024530 C3541306",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0282515 C0362063 C0282515 C2939437 C0362063 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788 C0032961 C1391387 C3484365",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1096775 C0199176 C0033107 C0199176 C3853787 C0032961 C3484365 C0425965 C3843687 C3843688 C3843689 C3843690 C3843691 C3843692 C0032961 C0024530 C3541306",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C0199176 C0033107 C0199176 C3853787 C0032961 C3484365 C0425965 C3843687 C3843688 C3843689 C3843690 C3843691 C3843692 C0032961 C0024530 C3541306",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0008269 C0055461 C0020336 C1601614 C0032961 C1391387 C3484365 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-26",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 21-year-old college student undergoes colonoscopy due to family history of multiple polyps in his older siblings. His brother underwent total proctocolectomy at age 22, and his sister underwent a total proctocolectomy at age 28, after both were found to have hundreds of colonic adenomas on colonoscopy. Both siblings are currently well without any findings of neoplasms. The patient undergoes sigmoidoscopy and is found to have dozens of small colonic polyps within rectosigmoid. Several of these are biopsied and are all benign adenomas.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0032580",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1096775 C0001430 C0009368 C3244301",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0032580 C2674616 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0039082 C0206064 C0796095 C0796110 C2936859 C2936904 C0032580 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0032580 C2674616 C0400076 C0842176 C0400076 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-27",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 31-year-old woman is seen in clinic with amenorrhea. She had menarche at age 14 and has had normal periods since then. However, her last menstrual period was 7 months ago. She also complains of an occasional milky nipple discharge. She is currently taking no mediations and would like to become pregnant soon. Examination shows a whitish nipple discharge bilaterally, but the rest of the examination is normal. Urine human chorionic gonadotropin (hCG) is negative, thyroid stimulating hormone (TSH) is normal, but prolactin is elevated.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0002453 C2219717 C0025344 C0002453 C2219717 C1552826",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0020514",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0033371 C0373706 C0033371 C0033375 C0027651 C0036534",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0033375",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0032000 C0015252 C0728940 C0015252 C0728940",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0149741 C3669208 C0149741 C0849787 C0149741 C0425813 C0567522 C1096775 C0002453 C2219717 C0025344 C0002453 C2219717 C0443260",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0020514 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0232940 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-28",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 51-year-old woman is seen in clinic for advice on osteoporosis. She has a past medical history of significant hypertension and diet-controlled diabetes mellitus. She currently smokes 1 pack of cigarettes per day. She was documented by previous LH and FSH levels to be in menopause within the last year. She is concerned about breaking her hip as she gets older and is seeking advice on osteoporosis prevention.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0029456 C1962963 C2911643 C0011849 C0011860 C0011847 C0011849",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0029456 C1962963 C2911643 C0020538 C1963138 C1696708 C2748577 C0947663 C1696708",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0029456 C1962963 C2911643 C0025320 C0567312 C0206158 C0993589",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0029456 C1962963 C2911643",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0029456 C1962963 C2911643",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0029456 C1962963 C2911643 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788 C0262950 C1266908 C1546560 C1550616",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0029456 C1962963 C2911643 C0029456 C0029694 C1563292",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0029456 C1962963 C2911643 C0029456 C0029694 C1563292 C0020538 C1963138 C0020538 C3248638 C0947663 C0020538 C0085580 C0455405 C1696708 C3829824 C0011847 C0011849 C0011860 C0337664",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0029456 C1962963 C2911643 C0025320 C1096235",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0029456 C1962963 C2911643 C0199176 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-29",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 72-year-old man complains of increasing calf pain when walking uphill. The symptoms have gradually increased over the past 3 months. The patient had an uncomplicated myocardial infarction 2 years earlier and a transient ischemic attack 6 months ago. Over the past month, his blood pressure has worsened despite previous control with diltiazem, hydrochlorothiazide, and propranolol. His is currently taking isosorbide dinitrate, hydrochlorothiazide, and aspirin. On physical examination, his blood pressure is 151/91 mm Hg, and his pulse is 67/min. There is a right carotid bruit. His lower extremities are slightly cool to the touch and have diminished pulses at the dorsalis pedis.",
+        "expected": [
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0085096 C1704436 C0085096",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0007222 C0455539 C0007222 C0348668 C1290379 C0455404 C0558373 C0849932 C0264656 C0348668 C0042373",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0085096 C0199686 C0553983 C0085096 C0085096 C0162819 C0087111 C0005527 C2717877 C0015385 C0022116",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0027051 C2926063 C0027051 C3169387 C0155668 C0020538 C1963138 C0020538 C3248638 C0947663 C0020538 C0085580 C0455405 C1696708 C3829824 C2922974 C0262926 C2004062 C0230445 C1305418 C0030193 C1882272 C2598155",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0085096 C0553983 C0553983 C0162819 C0085096 C0199686 C0011871 C3698278 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0311395 C1456822 C0311395 C2024884 C0239064 C0522034 C0023216 C0023216 C0153665 C1269079 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0085096 C1704436 C0085096 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2014-30",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 44 yo male is brought to the emergency room after multiple bouts of vomiting that has a \"coffee ground\" appearance. His heart rate is 135 bpm and blood pressure is 70/40 mmHg. Physical exam findings include decreased mental status and cool extremities. He receives a rapid infusion of crystalloid solution followed by packed red blood cell transfusion and is admitted to the ICU for further care.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0018926 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0030920 C0455415 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0030920 C0455415 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0030922",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1708063 C0030920 C0455415 C0019080 C0017181",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0042963 C1963281 C0042963",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0042963 C1963281 C0042963 C0229664 C0851353",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0030920 C0455415 C0019080 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0030925 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-1",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 62 yo male presents with four days of non-productive cough and one day of fever. He is on immunosuppressive medications, including prednisone. He is admitted to the hospital, and his work-up includes bronchoscopy with bronchoalveolar lavage (BAL). BAL fluid examination reveals owl's eye inclusion bodies in the nuclei of infection cells.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0087111 C1363945 C1510538 C0010200 C1961131 C3815497 C0010200 C0015967 C0424755 C0015967 C0021080 C0021079 C0021080 C1373218 C4048329 C0021079 C0021079 C0021080",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0087111 C1363945 C1510538 C0010200 C1961131 C3815497 C0010200 C0015967 C0424755 C0015967 C1704653 C0021080 C0021079 C0021080 C1373218 C4048329 C0021079 C0021079 C0021080",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0032285 C3714636 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0085393 C1276416 C0010823",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0085393 C0010823",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0280274 C1563738 C0032285 C3714636 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0276253 C0018792",
+                "order": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-2",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 65 yo male with no significant history of cardiovascular disease presents to the emergency room with acute onset of shortness of breath, tachypnea, and left-sided chest pain that worsens with inspiration. Of note, he underwent a right total hip replacement two weeks prior to presentation and  was unable to begin physical therapy and rehabilitation for several days following the surgery due to poor pain management. Relevant physical exam findings include a respiratory rate of 35 and right calf pain.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0008031 C2926613 C0543467 C1457907 C2081627",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0008031 C2926613 C2024161",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0392806 C2316676 C0008031 C2926613 C2024161",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0013969 C0034065 C0585968 C0856722 C0034065",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0004048 C0220787 C0349707 C0700198 C1963221 C2712334 C2827071 C0349707 C0008031 C2926613 C1547229 C1547295 C0013404 C2707305 C0013404 C4054349 C0013404",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0004048 C0220787 C0349707 C0700198 C1963221 C2712334 C2827071 C0349707 C0008031 C2926613 C0236040 C1547229 C1547295 C0013404 C2707305 C0013404 C4054349 C0013404",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0024109 C2707265 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0040038 C0024109 C2707265 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0003281 C2917212 C3537050 C0087111 C0033972 C0018792",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0019139 C0522864 C2185960 C2733531 C0018792",
+                "order": 6,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0019139 C0018792",
+                "order": 7,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-3",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "An 82-year-old woman comes to the emergency department because of chest pain and shortness of breath after being awakened in the morning by stabbing substernal chest pain radiating to the left shoulder and jaw. The patient had hypertension, renal-artery stenosis with chronic renal insufficiency, hypercholesterolemia, osteoporosis and dementia. Blood pressure was 199/108 mm Hg, respiratory rate 18 bpm, oxygen saturation 98% on ambient air. The heart sounds were rapid and with no murmurs. CK-MB was 10.9 ng/ml, CK was 89 U/l, CK index was 12.2% and Troponin T was 0.40 ng/ml. An EKG showed sinus regular tachycardia of 119 bpm, with ST-segment elevations up to 3 mm in V1, V2, and V3. A chest radiograph showed low lung volumes and right basilar subsegmental atelectasis. Coronary angiography showed no stenosis or clinically significant disease. Left ventriculography revealed akinesis of the anterior wall, hypokinesis of the apical and distal inferior walls, and compensatory hyperkinesis of the basal anterior and basal inferior walls. A transthoracic echocardiogram showed severe segmental left ventricular dysfunction involving the septum, anteroseptal territory, and apex. The overall left ventricular systolic function was mildly impaired and there was mild mitral regurgitation.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0035067 C2170194 C2170197 C0035067",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0038449 C0022646",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0020443 C1522133 C0020443 C0678189 C0475700 C1392499 C0020443",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0029456 C1962963 C2911643",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0011265 C0497327",
+                "order": 5,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0035067 C2170194 C2170197 C0035067",
+                "order": 6,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1552651",
+                "order": 7,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0151744 C1306232",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0020544 C0008031",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0340293 C3536746 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-4",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 31-year-old woman with no previous medical problems comes to the emergency room with a history of 2 weeks of joint pain and fatigue. Initially she had right ankle swelling and difficulty standing up and walking, all of which resolved after a few days. For the past several days she has had pain, swelling and stiffness in her knees, hips and right elbow. She also reports intermittent fevers ranging from 38.2 to 39.4 degrees Celsius and chest pain.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0162323",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0042769 C1695690 C0555971 C0015407 C0042769 C0729535 C1963805 C0015407 C0035369 C0162628 C0851887 C0851902 C0919556 C2721652 C0521516 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788 C3887804",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0003862 C0427008 C0015672 C4050243 C0015967 C0424755 C0015967",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0694577 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0240344 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0162323 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0035436 C1548484 C0035436 C2926607 C0455526 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-5",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 46-year-old woman presents  with a 9 month history of weight loss (20 lb), sweating, insomnia and diarrhea. She reports to have been eating more than normal and that her heart sometimes races for no reason. On physical examination her hands are warm and sweaty, her pulse is irregular at 110bpm and there is hyperreflexia and mild exophthalmia.",
+        "expected": [
+            {
+                "expected": 15,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0020550",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0020550 C0455485 C1552826",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1708063 C0040156 C0342134 C0455485",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0015300",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0232461 C0232462 C1262477 C2911645 C0424641 C1262477 C3665346 C0038990 C0917801 C1950154 C1963237 C0011991",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0020550 C0455485 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018213 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0087111 C0033972 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0203610 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018213 C0040145 C0079989 C0405532 C0018792",
+                "order": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-6",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 20 yo female college student with no significant past medical history presents with a chief complaint of fatigue. She reports increased sleep and appetite over the past few months as well as difficulty concentrating on her schoolwork. She no longer enjoys spending time with her friends and feels guilty for not spending more time with her family. Her physical exam and laboratory tests, including hemoglobin, hematocrit and thyroid stimulating hormone, are within normal limits.",
+        "expected": [
+            {
+                "expected": 25,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 6,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C1269683",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1269683",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1269683",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0154437 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0917799 C0003618 C0015672 C4050243",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0011570 C0011581 C1999266 C4049644 C0011570 C0011570 C0011581 C0344315 C0812393 C1579931 C0035143 C0011581 C0520887 C2121458",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0011581 C0005586 C0520675 C1269683 C0012706 C0868892 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C2362914 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096649 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0011570 C0011581 C0344315 C0812393 C1579931 C0011570 C0011581 C1999266 C4049644 C0035143 C0429068 C0429108 C0520887 C0011570",
+                "order": 6,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-7",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 10 yo boy with nighttime snoring, pauses in breathing, and restlessness with nighttime awakenings. No history of headache or night terrors. The boy's teacher recently contacted his parents because she was concerned about his declining grades, lack of attention, and excessive sleepiness during class.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0012634 C0037313 C0723362 C0013144 C0056685",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0037315",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0037384",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C0037315",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-8",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 10 year old child is brought to the emergency room complaining of myalgia, cough, and shortness of breath.  Two weeks ago the patient was seen by his pediatrician for low-grade fever, abdominal pain, and diarrhea, diagnosed with a viral illness, and prescribed OTC medications. Three weeks ago the family returned home after a stay with relatives on a farm that raises domestic pigs for consumption. Vital signs: T: 39.5 C, BP: 90/60 HR: 120/min RR: 40/min. Physical exam findings include cyanosis,  slight stiffness of the neck,  and  marked periorbital edema. Lab results include WBC 25,000, with 25% Eosinophils, and an unremarkable urinalysis.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 0,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0040896",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0040896",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1708063 C0023364",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0199176",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1277295 C0274281 C0332157 C2220266 C0274281 C0274281 C0332157 C0231528 C2097381",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0040896 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0040896 C0003404 C0003404 C3536845 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-9",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 38 year old woman complains of severe premenstrual and menstrual pelvic pain, heavy, irregular periods and occasional spotting between periods. Past medical history remarkable for  two years of infertility treatment and an ectopic pregnancy at age 26.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 8,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0014175 C0014178 C1552826",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0025320 C0567312 C0206158 C0993589",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0848656 C0025344",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0278140 C1408597",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0023267 C0042133 C0023267 C0042133 C1550470 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-10",
+        "queryType": "diagnosis"
+    },
+    {
+        "description": "A 56-year old Caucasian female complains of being markedly more sensitive to the cold than most people. She also gets tired easily, has decreased appetite, and has recently tried home remedies for her constipation. Physical examination reveals hyporeflexia with delayed relaxation of knee and ankle reflexes, and very dry skin. She moves and talks slowly.",
+        "expected": [
+            {
+                "expected": 15,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0020676 C0577643 C0020676",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0020676 C0577643 C0020676",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0020676 C0577643 C0020676",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788 C0039082 C0206064 C1863767",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0009450 C3714514 C3714514 C0275524 C0009450 C0012683 C0035637 C0275524 C0276041 C0729555 C0747002",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0232462 C0232461 C0009806 C1963087 C0015672 C2024893 C0015672 C0578671 C0009443 C0234192",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0020676 C0455486 C1096775",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0040165 C0040165 C0079691 C0202231 C1281902 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-11",
+        "queryType": "test"
+    },
+    {
+        "description": "A 44-year-old man was recently in an automobile accident where he sustained a skull fracture. In the emergency room, he noted clear fluid dripping from his nose. The following day he started complaining of severe headache and fever. Nuchal rigidity was found on physical examination.",
+        "expected": [
+            {
+                "expected": 3,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0007815",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0007815 C3263723 C3714660",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0007815 C3263723 C3714660",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C3263723 C3714660",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0596773 C3805076 C0393459 C0748830 C0013969",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0018681 C0018681 C2096315 C3263722 C3263723 C0037303 C0015967 C0424755 C0015967",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0025289 C0041318 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0085437 C0025297 C1403842 C0085437 C0477333 C0085437 C0025297 C2887060 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018674 C0025289 C0041318 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0003232 C0003232 C0003237 C3540704 C3540705 C3540706 C3540707 C3540708 C3540709 C3540710 C0377919 C0025289 C0041318 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-12",
+        "queryType": "test"
+    },
+    {
+        "description": "A 5-year-old boy presents to the emergency department with complaints of progressively worsening dysphagia, drooling, fever and vocal changes. He is toxic-appearing, and leans forward while sitting on his mother's lap. He is drooling and speaks with a muffled \"hot potato\" voice. The parents deny the possibility of foreign body ingestion or trauma, and they report that they are delaying some of his vaccines.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0348321 C0021400 C0276353 C0276354 C2062441",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0348321 C0014540 C0014541 C1280360 C0021400 C0276353 C0276354 C2062441",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1708063 C0000833 C1550298",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0011168 C0013132",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0011168 C0013132 C2702372 C0939910 C0042939",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C0014541 C0014540",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0014541 C0014540 C0003232 C0003232 C0377919 C0003237 C3540704 C3540705 C3540706 C3540707 C3540708 C3540709 C3540710 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0014541 C0014540 C1116171 C1519885",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-13",
+        "queryType": "test"
+    },
+    {
+        "description": "A 27-year-old woman at 11 weeks gestation in her second pregnancy is found to have a hemoglobin (Hb) of 9.0 g/dL, white blood cell count 6.3 x 109/L, platelet count 119 x 109/L, mean corpuscular volume 109 fL. Further investigations reveal mild iron deficiency. She already receives iron supplementation. The obstetrician repeats the complete blood cell count 2 weeks later. The Hb is 8.9 g/dL, WBC count 7.1 x 109/L, and platelets 108 x 109/L. She describes difficulty swallowing. A reticulocyte count is performed and found elevated at 180 x 109/L. The obstetrician requests a hematology consult. The following additional results were found: Negative DAT, normal clotting screen, elevated LDH (2000 IU/L), normal urea and electrolytes, normal alanine aminotransferase (ALT), anisocytosis, poikilocytosis, no fragments, no agglutination, polychromasia and presence of hemosiderin in the urine.",
+        "expected": [
+            {
+                "expected": 0,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0002880 C0028283 C0002880 C0175816 C0272118 C0852336 C0477308 C0028283 C0002880 C0272112 C0272115 C0272117 C0472757 C0032961 C1391387 C3484365",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0032961 C3484365 C0425965 C3843687 C3843688 C3843689 C3843690 C3843691 C3843692 C0032961 C0302583 C0337439",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0242297 C0556088 C2935799 C2350507 C3537005 C0032961 C3484365 C0425965 C3843687 C3843688 C3843689 C3843690 C3843691 C3843692 C0032961 C0302583 C0337439 C0302583 C1166521 C1514892 C2827757",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0271930 C0032914 C0271930 C0032914 C2945560 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-14",
+        "queryType": "test"
+    },
+    {
+        "description": "Karen is a 72-year-old woman with hypertension and type 2 diabetes, who was hospitalized for cryptogenic stroke two weeks ago. At the time, computed tomography was negative for brain hemorrhage and she was given thrombolytic therapy with resolution of her symptoms. Transesophageal echocardiogram and magnetic resonance angiogram of brain and great vessels found no evidence of abnormalities. She presents currently with a blood pressure of 120/70 mm Hg, normal glucose, and normal sinus rhythm on a 12-lead electrocardiogram. She reports history of occasional palpitations, shortness of breath and chest pain lasting for a few minutes and then stopping on their own.",
+        "expected": [
+            {
+                "expected": 4,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0038454",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0020538 C1963138 C1696708 C2748577 C0947663 C1696708 C0038454",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0011849 C0011860 C0011847 C0011849",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0040044 C0038454",
+                "order": 4,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0262926 C2004062 C0002962 C2926611",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0020538 C1963138 C0020538 C3248638 C0947663 C0020538 C0085580 C0455405 C1696708 C3829824 C0016018 C0520997 C0016018 C0011847 C0011849 C0011860 C0038454",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0020538 C1963138 C0020538 C3248638 C0947663 C0020538 C0085580 C0455405 C1696708 C3829824 C0011847 C0011849 C0011860 C0038454",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0004238 C0004238 C0344434 C1963067 C2926591 C0344434 C0004238 C0340489 C0344434 C0729790 C1281999 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0038454 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0038454 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-15",
+        "queryType": "test"
+    },
+    {
+        "description": "A 4 year old boy presents to the emergency room with wheezing. He has had a history of allergic rhinitis, but no history of wheezing. His mother reports that 5 hours ago patient was playing in the backyard sandbox when she heard him suddenly start coughing. The coughing lasted only moments, but he has been audibly wheezing since. Mother was concerned, because his breathing has not returned to normal, so she brought him to the ED. On exam, the child is playful and well appearing. Wheezing is heard in the mid-right chest area. O2 sats are 100% on room air.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0004096",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C2607914 C3472698 C0348689 C2607914 C2712343 C0004096",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0016542 C2136996 C0016542 C0015401 C0161007 C0004048 C0354922 C0199168 C1561579 C0079595",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C2607914 C3472698 C0348689 C2607914 C2712343 C0043144",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C1096775 C0004096",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C1096775 C0004096",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0001927 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-16",
+        "queryType": "test"
+    },
+    {
+        "description": "A 32 year old female with no previous medical history presents to clinic to discuss lab results from her most recent pap smear. She reports no complaints and is in general good health. The results of her PAP were cytology negative, HPV positive.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0375016 C0390856 C0850009 C0850011",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0007847 C0302592 C4048328 C0007847 C4048328 C0007848 C0493327 C0302592 C0007848 C1514241",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1514241",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0009450 C3714514 C3714514 C0275524 C0009450 C0012683 C0035637 C0275524 C0276041 C0729555 C0747002 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0079104 C0018792 C1514241",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-17",
+        "queryType": "test"
+    },
+    {
+        "description": "A 65 yo African-American male with shortness of breath related to exertion that has been worsening over the past three weeks. He also has difficulty breathing when lying flat and has started using two to three extra pillows at night. Significant physical exam findings include bibasilar lung crackles, pitting ankle edema and jugular venous distension.",
+        "expected": [
+            {
+                "expected": 20,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0018802 C0264719 C0264722 C0742758 C0018802 C2039715",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0018802 C0264719 C0264722 C0742758 C0018802 C2039715",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0018802 C0264719 C0264722 C0742758 C0018802 C2039715 C0011900 C0945731 C0551521 C0552426 C0560182 C0686906 C0679838 C0686906 C1578513",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1708063 C0018801 C0018801 C0018802 C0015726 C0423899 C1261259 C1510508 C1261259",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0013404 C2707305 C0013404 C4054349 C0013404 C0333243 C1720001 C1720243 C1720371 C1720667 C1265804 C2919556 C2919705 C0034642 C0037315 C0015264 C0239313",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0018802 C0264716",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018802 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018801 C0018801 C0018802 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018801 C0018801 C0018802 C0012798 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018801 C0018801 C0018802 C0018792",
+                "order": 5,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018801 C0018801 C0018802 C0018792",
+                "order": 6,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0001645 C0018801 C0018801 C0018802 C0018792",
+                "order": 7,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-18",
+        "queryType": "test"
+    },
+    {
+        "description": "A 66yo female with significant smoking history and chronic cough for the past two years presents with recent, progressive shortness of breath. She is in moderate respiratory distress after walking from the waiting room to the examination room. Physical exam reveals mildly distended neck veins, a barrel-shaped chest, and moderate inspiratory and expiratory wheezes. She has smoked 1 to 2 packs per days for the past 47 years.",
+        "expected": [
+            {
+                "expected": 15,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 6,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1547229 C1547295",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1548578",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0087111 C1533734 C0087111 C0087111 C3887704 C0746919 C1306232 C1547226 C4049705 C4049706",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0013404 C2707305 C0013404 C4054349 C0013404 C1547296 C1555457 C0337664 C0043144 C0010200 C1961131 C3815497 C0010200",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0034072 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-19",
+        "queryType": "test"
+    },
+    {
+        "description": "An 89-year-old man was brought to the emergency department by his wife and son after six months of progressive changes in cognition and personality. He began to have poor memory, difficulty expressing himself, and exhibited unusual behaviors, such as pouring milk onto the table and undressing immediately after getting dressed. He is unable to dress, bathe, use the toilet, or walk independently. On examination the patient's temperature was 36.5\u00b0C (97.7\u00b0F), the heart rate 61 bpm in an irregular rhythm, the blood pressure 144/78 mm Hg, and the respiratory rate 18 bpm. The patient was alert and oriented to self and city but not year. He frequently interrupted the examiner. He repeatedly reached out to grab things in front of him, including the examiner's tie and face. He could not spell the word \"world\" backward, could not follow commands involving multiple steps and was unable to perform simple calculations. His speech was fluent, but he often used similar-sounding word substitutions. He could immediately recall three out of three words but recalled none of them after 5 minutes. Examination of the cranial nerves revealed clinically significant paratonic rigidity. Myoclonic jerks were seen in the arms, with symmetrically brisk reflexes. The reflexes in the legs were normal.",
+        "expected": [
+            {
+                "expected": 50,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 5,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 30,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0011265 C0497327 C0018792",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0700049 C0497327 C0497327 C0011265 C1300072",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788 C0002395",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0031208 C0003944 C0031208 C0233794 C0009240 C0524637 C0679015",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0011265 C0497327 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-20",
+        "queryType": "test"
+    },
+    {
+        "description": "A 32-year-old male presents to your office complaining of diarrhea, abdominal cramping and flatulence. Stools are greasy and foul-smelling. He also has loss of appetite and malaise. He recently returned home from a hiking trip in the mountains where he drank water from natural sources.  An iodine-stained stool smear revealed ellipsoidal cysts with smooth, well-defined walls and 2+ nuclei.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0013502",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0013502 C1555670",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0033107 C0199176 C3853787 C0199176 C0740413",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0015821 C0057913 C0053096",
+                "order": 3,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0003123 C0426579 C1971624 C0003123 C1971624 C0038238 C0016204 C1962956 C0016204 C0000726 C0000737 C0011991 C1963091 C0011991",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C2707256 C0809794 C2987127 C2987128 C0017173 C0184122 C0687713 C0948566 C0017173 C0017181 C0017185 C0184122 C0226884 C0237938 C0744333 C1141929 C1261141 C2697368 C2987129 C0332155 C0043047",
+                "order": 2,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0017536 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0017536 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0025872 C0064010 C0282239 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-21",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 65-year-old male with a history of tuberculosis has started to complain of productive cough with tinges of blood. Chest X-ray reveals a round opaque mass within a cavity in his left upper lobe. The spherical mass moved in the cavity during supine and prone CT imaging. Culture of the sputum revealed an organism with septated, low-angle branching hyphae that had straight, parallel walls.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 80,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0018792",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0004030 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788 C0718566",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0041296 C0206526 C0455351 C1306645 C1962945 C3891450 C0885876 C1306645 C0577559 C2136992",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0004030 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0876973",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0004030 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-22",
+        "queryType": "treatment"
+    },
+    {
+        "description": "An 18-year-old male returning from a recent vacation in Asia presents to the ER with a sudden onset of high fever, chills, facial flushing, epistaxis and severe headache and joint pain. His complete blood count reveals leukopenia, increased hematocrit concentration and thrombocytopenia.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0011311 C1548477 C0011311 C0087111 C1533734 C0087111 C0087111 C3887704 C0746919",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0085594 C0003862 C1963066 C0003862 C0014591 C2228238 C0014591",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0011311 C1548477 C0011311 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-23",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 31 yo male with no significant past medical history presents with productive cough and chest pain. He reports developing cold symptoms one week ago that were improving until two days ago, when he developed a new fever, chills, and worsening cough. He has right-sided chest pain that is aggravated by coughing. His wife also had cold symptoms a week ago but is now feeling well. Vitals signs include temperature 103.4, pulse 105, blood pressure 120/80, and respiratory rate 15. Lung exam reveals expiratory wheezing, decreased breath sounds, and egophany in the left lower lung field.",
+        "expected": [
+            {
+                "expected": 10,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0011900 C0945731 C0011900 C0024109 C1278908",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0032300 C1966209",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C1136254 C3714636 C0032285 C0032285 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0008031 C2926613 C0008031 C0010200 C0010200 C1961131 C3815497 C0010200 C1512793",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0032285 C3714636 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0004626 C0339967 C0155858 C0004626 C0027627 C0018792",
+                "order": 2,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0694549 C0018792",
+                "order": 3,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0003232 C0003232 C0003237 C3540704 C3540705 C3540706 C3540707 C3540708 C3540709 C3540710 C0377919 C0032285 C3714636 C0018792",
+                "order": 4,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-24",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 10-year-old boy comes to the emergency department for evaluation of right knee pain. The child's guardians stated that he had been complaining of knee pain for the past 4 days and it had been getting progressively worse. There was no history of trauma. The day before the visit the boy developed a fever, and over the past day he has become increasingly lethargic. On physical examination blood pressure was 117/75 mm Hg,  HR 138 bpm, temperature 38.1 C (100.5 F), respiration 28 bpm, oxygen saturation 97%. There was edema and tenderness of the right thigh and knee, as well as effusion and extremely limited range of motion. Sensation and motor tone were normal. Plain radiography and CT showed an osteolytic lesion.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 60,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0022742",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0029463 C3541899 C0029463 C0029463 C0585442 C1882806 C3899716 C0087111 C3887704 C0087111 C0376495 C0087111 C1533734 C0746919 C0814472 C3647788",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0029463 C3541899 C0029463 C0029463 C0585442 C1882806 C3899716 C0042196 C2713304 C0058773 C0419749 C2713304",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0023380 C0015967 C0424755 C0015967 C0022742 C1283838 C1963703 C0030193 C1882272 C2598155",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0003869 C1692886 C0003869 C1692886 C1692886 C0003869 C3665916 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-25",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 28 yo female G1P0A0 is admitted to the Ob/Gyn service for non-ruptured ectopic pregnancy. Past medical history is remarkable for obesity, a non-complicated appendectomy at age 8, infertility treatment for the past 3 years, and pelvic laparoscopy during which minor right Fallopian tube adhesions were cauterized. Her LMP was 8 weeks prior to admission. Beta HCG is 100 mIU. The attending physician usually treats unruptured ecoptic pregnancies laparoscopically but is concerned about the patient's obesity and history of adhesions.",
+        "expected": [
+            {
+                "expected": 5,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 80,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0392534 C0886296 C1948041 C0886296 C2183254 C1273869 C1948041 C1273869 C2979881",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0392534 C0001511",
+                "order": 2,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0392534 C0021359 C0015895",
+                "order": 3,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0025664 C0184661 C0184661 C0543467 C0587668 C0543467 C0028754 C1552578 C1261322 C3245491 C0220825 C0947984 C0851379 C0031150 C0023036 C0031150 C1883297 C0843540",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0032987 C0376636 C0001511 C0028754 C1963185",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0032987 C0438096 C0029604 C0032994 C0195632 C0195633 C0195634 C0195635 C0195662 C0372634 C0372635 C0372637 C1315536 C0376636",
+                "order": 1,
+                "person": "Clinician D"
+            },
+            {
+                "keywords": "C0032987 C0438096 C0029604 C0032994 C0195632 C0195633 C0195634 C0195635 C0195662 C0372634 C0372635 C0372637 C1315536 C0376636",
+                "order": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-26",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 15 yo girl accompanied by her mother is referred for evaluation by the school. The girl has more than expected absences in the last three month, appears to be constantly tired and sleepy in class. Her mother assures the girl is well fed, and getting the proper sleep at night but admits the girls tires easily when they go out on weekend hikes. Physical examination: BP: 90/60. HR 130/min the only remarkable findings are extremely pale skin and mucosae. Grade 3/6 systolic murmur. Lab tests report Hb: 4.2 g/dL, MCV 61.8 fL, serum iron < 1.8 umol/L and ferritin of 2 ng/mL. Fecal occult blood is negative.",
+        "expected": [
+            {
+                "expected": 3,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 3,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0002871",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0018808 C1550472 C1550472",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C1708063 C0002871 C1547227 C1547231 C1561581 C4050465 C4050466 C0264097",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0241137 C0030232 C0241137 C0015672 C4050243",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0002878 C0475689 C0272094 C0002880 C0852336 C1387528 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-27",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A previously healthy 8-year-old boy presents with a complaint of right lower extremity pain and fever. He reports limping for the past two days. The parents report no previous trauma, but do remember a tick bite during a summer visit to Maryland several months ago. They do not remember observing erythema migrans. On examination, the right knee is tender and swollen. Peripheral WBC count and SRP are slightly elevated.",
+        "expected": [
+            {
+                "expected": 4,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 40,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0024198 C0717360 C0445434",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0241407 C0015385 C1280090 C0030193 C1882272 C2598155",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0024198 C0717360 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-28",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 4-year-old girl presents with persistent fever for the past week. The parents report a spike at 104\u00b0F. The parents brought the child to the emergency room when they noticed erythematous rash on the girl's trunk. Physical examination reveals strawberry red tongue, red and cracked lips, and swollen red hands. The whites of both eyes are red with no discharge.",
+        "expected": [
+            {
+                "expected": 2,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 10,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 20,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0857864 C1294239",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C0150234 C0074127",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0036285 C0042196 C2713304 C0058773 C0419749 C2713304",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0241262 C0015967 C0424755 C0015967 C0023759 C0546816",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C0036285 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-29",
+        "queryType": "treatment"
+    },
+    {
+        "description": "A 47 year old male who fell on his outstretched left arm presents with pain and bruising on the inside and outside of the elbow, swelling, and inability to bend the arm. On the x-ray, the ulna has dislocated posteriorly from the trochlea of the humerus. The radius has dislocated from the capitulum of the humerus.",
+        "expected": [
+            {
+                "expected": 3,
+                "person": "Clinician B"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician A"
+            },
+            {
+                "expected": 50,
+                "person": "Clinician C"
+            },
+            {
+                "expected": 2,
+                "person": "Clinician D"
+            }
+        ],
+        "keywords": [
+            {
+                "keywords": "C0588201 C0012691",
+                "order": 1,
+                "person": "Clinician B"
+            },
+            {
+                "keywords": "C2720437 C0186973 C0187024 C0187026 C0370937 C2096899 C1555588",
+                "order": 1,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0012691 C0019554 C0159914 C0741221",
+                "order": 2,
+                "person": "Clinician A"
+            },
+            {
+                "keywords": "C0012691 C0153664 C1140618 C1269078 C1140618 C0043251 C3263723 C3714660 C0043251 C0034627 C1279083 C0159710 C0041600 C1279087",
+                "order": 1,
+                "person": "Clinician C"
+            },
+            {
+                "keywords": "C2720437 C0186973 C0187024 C0187026 C0370937 C2096899 C0018792",
+                "order": 1,
+                "person": "Clinician D"
+            }
+        ],
+        "qId": "trec2015-30",
+        "queryType": "treatment"
+    }
+]

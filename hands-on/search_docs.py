@@ -35,7 +35,7 @@ def search(query, qid=''):
     count = 0
     for count, hit in enumerate(results):
         print('{}\t0\t{}\t{}\t{}\tRunId'.format(qid, hit['_id'], count+1, round(hit['_score'],4)))
-    print("{}: {} results".format(qid, count), file=sys.stderr)
+    print("{}: {} results".format(qid, count+1), file=sys.stderr)
 
 if __name__ == '__main__':
     '''
